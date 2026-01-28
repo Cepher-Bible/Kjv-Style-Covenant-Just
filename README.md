@@ -40,7 +40,7 @@ This is **Cepher Hakam Bible** — a modern rendering of the full 66-book canon 
    Like the Berean Standard Bible (BSB), this translation is fully dedicated to the public domain (as of [your date, e.g., 2025]).  
    You may copy, quote, print, publish, adapt, record, create apps, study guides, or use any part of it — for free, commercially, or non-commercially — without permission or royalties.  
    Credit is appreciated but not required:  
-   “Cepher Hakam Bible by [Your Name]”
+   “Cepher Hakam Bible by Mark”
 
 5. **Theological goal**  
    The aim is simple: let the original text speak without English tradition getting in the way.  
