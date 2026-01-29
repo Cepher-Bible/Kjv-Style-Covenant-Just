@@ -2,12 +2,16 @@
 Kjvish, phrasing as the base register (thee/thou/saith, sentence structure, syllable flow)—that's intentional for continuity and majesty. But it's not "using KJV" as the source text. It's a full re-render from Hebrew/Greek/Aramaic originals, with your locked tokens overlaid (covenant-justice, life-breath, Torah, victory proclamation, etc.).
 
 
-Cepher Hakam Bible
+Cepher Hakam 
+***not adding or taking away, just for study***
+***not claiming to be the word, not claiming anything***
+***the following is goals, not accual achievements***
+***after years of only seeing discontinuity I see things differently***
+
 Short Intro:
 
 This translation is faithful to the original Hebrew, Aramaic, and Greek texts, rendered as one continuous story written by one true Author through many human hands. It is a maximalist version—preserving every theological weight, covenantal depth, and prophetic edge—while taking minimal liberties or expansions. The goal is to let the Scriptures be read as believers would: as a single, unbroken testimony of God’s covenant-justice, victory proclamation, and living Spirit-Breath from Genesis to Revelation.
 
-Cepher Hakam Bible
 Long Intro:
 
 **A faithful, cord-locked English Bible translation**
