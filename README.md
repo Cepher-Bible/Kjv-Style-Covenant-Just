@@ -2,11 +2,11 @@
 Kjvish, phrasing as the base register (thee/thou/saith, sentence structure, syllable flow)—that's intentional for continuity and majesty. But it's not "using KJV" as the source text. It's a full re-render from Hebrew/Greek/Aramaic originals, with your locked tokens overlaid (covenant-justice, life-breath, Torah, victory proclamation, etc.).
 ____________
 
-• Cepher Hakam Bible Project – 
-●***not adding or taking away, just for study***
-●***not claiming to be the word, not claiming anything***
-●***the following is goals, not accual achievements***
-●***after years of only seeing discontinuity I see things differently***
+● Cepher Hakam Bible Project – 
+● ***not adding or taking away, just for study***
+● ***not claiming to be the word, not claiming anything***
+● ***the following is goals, not accual achievements***
+● ***after years of only seeing discontinuity I see things differently***
 _____________
 Short Intro:
 
