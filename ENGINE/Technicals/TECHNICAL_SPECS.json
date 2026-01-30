@@ -1,0 +1,42 @@
+{
+  "engine_version": "1.0.0-TRUNK",
+  "philosophy": "Seed-to-Tree / Heat-Restored",
+  "immutable_locks": {
+    "firmament": "Hammered Sky [raqia]",
+    "righteousness": "Covenant-Justice",
+    "justice": "Covenant-Justice",
+    "spirit": "Spirit-Breath",
+    "soul": "Life-Breath [nephesh]",
+    "repentance": "Turning [teshuvah]",
+    "subdue": "Ordered Authority",
+    "grace": "Covenant-Faithfulness",
+    "mercy": "Covering-Mercy"
+  },
+  "cadence_flexible": {
+    "glory": ["Glory Weight", "Substance of Presence"],
+    "hell": {
+      "context_grave": "Sheol/Hades",
+      "context_judgment": "Gehenna",
+      "context_fallen_angels": "Tartarus",
+      "context_void": "The Abyss"
+    },
+    "servant": "Slave [doulos/ebed]",
+    "fear_of_the_lord": "Holy Dread",
+    "love": {
+      "covenantal": "Covenant-Love [agape]",
+      "affectional": "Friend-Affection [philia]"
+    }
+  },
+  "wisdom_stack_enforcement": {
+    "sequence": [
+      "Knowing",
+      "Holy Dread",
+      "Wisdom",
+      "Understanding",
+      "Counsel",
+      "Knowledge",
+      "Covenant-Justice Action"
+    ],
+    "validation_rule": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD"
+  }
+}
