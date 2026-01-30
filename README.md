@@ -21,7 +21,7 @@ The translation draws directly from the Hebrew, Aramaic, and Greek originals, se
   The rhythmic majesty and structure of the King James Version are maintained (thee/thou/saith, etc.), paired with these consistent terms for clarity and continuity.
 
 - **Textual Ambiguities Honored**:  
-  In passages where the original consonantal text allows multiple valid readings (supported by ancient versions like the Septuagint or Dead Sea Scrolls), both layers are allowed to resonate.  
+  In passages where the original, Polysemy consonantal text allows multiple valid readings (supported by ancient versions like the Septuagint or Dead Sea Scrolls), both layers are allowed to resonate.  
 
   Examples:  
   - Psalm 22:16   "like a lion, they pierced my hands and my feet" (holding "lion" imagery and "pierced" wounding together).  
