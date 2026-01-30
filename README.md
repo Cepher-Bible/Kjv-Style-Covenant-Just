@@ -74,4 +74,4 @@ May the covenant-justice of God be known, and the victory proclamation ring.
 year of our Lord Jesus 2026
 
 P.S. - This is the work of one person and multiple Ai/LLMs trying not to hallucinations too much together and maybe the first of its kind rendering or translation. Started off on a true translation from original languages and custom 32 cord/ring semantic compression engine, but by the end of the project and 100's of 1,000's of words it may have ended with the engine and the kjv spine, I can't be sure, but I am sure it resolves most theological English version debates easily and is easily defensable. One story... One God  Amen
-
+● Several lanes and Engines later it may have drifted into KJV Spine and the 32 Cord engine hitting the <1~3% wording changes. 
