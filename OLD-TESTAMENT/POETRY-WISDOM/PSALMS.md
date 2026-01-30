@@ -646,7 +646,7 @@
 
 \v 15 My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 
-\v 16 For dogs have compassed me: the assembly of the wicked have inclosed me: like a lion — they pierced my hands and my feet.
+\v 16 For dogs have compassed me: the assembly of the wicked have inclosed me: like a lion, they pierced my hands and my feet.
 
 \v 17 I may tell all my bones: they look and stare upon me.
 
