@@ -58,6 +58,40 @@ This is **Cepher Hakam Bible** — a modern rendering of the full 66-book canon 
 
    When you read Genesis 15:6, Romans 1:17, Habakkuk 2:4, and James 2:23 — they all use the exact same cord: **covenant-justice**. The reader feels the continuity the original authors intended.
 
+# Polysemy in the Rendering
+
+This translation deliberately retains or highlights textual polysemy (multiple simultaneous meanings from the same consonantal Hebrew) where the unpointed text allows it. The goal is not to force a single reading but to let the tension live in the English—mirroring how the Hebrew can carry both images/ideas at once without resolution.
+
+### Verses with Preserved/Amplified Polysemy
+
+- **Psalm 22:16**  
+  Original consonantal root: כָּאֲרִי / כָּארוּ (k-'-r-y / k-'-r-w)  
+  Rendered as: "like a lion, they pierced my hands and my feet."  
+  Polysemy held:  
+  - "like a lion" (ka'ari) — simile of tearing/devouring enemies  
+  - "they pierced/dug" (ka'aru) — literal stabbing/wounding (supported by Septuagint, Nahal Hever DSS fragment)  
+  Both meanings coexist in one clause—no forced choice between beast imagery and crucifixion foreshadowing.
+
+- **Zechariah 12:10**  
+  Original consonantal root: דָּקָרוּ (d-q-r-w)  
+  Rendered as: "they shall look upon me whom they have pierced"  
+  Polysemy held:  
+  - "dug/stabbed/torn" (raw physical violence from the root דקר)  
+  - "pierced" (standard prophetic/Christian reading, spear in the side)  
+  Additional layer: pronoun shift ("me" → "him") preserved, allowing the pierced one to be both God looking back and the pierced figure mourned as an only son/firstborn.  
+  The "spirit-breath of turning and supplication" follows immediately, linking the wound to poured-out grace/wind/breath.
+
+### Why These?
+
+These are the clearest cases in your submitted text where:
+- The consonantal text supports two (or more) legitimate vocalizations/meanings.
+- Later pointing traditions (Masoretic) chose one path, but older witnesses (LXX, DSS fragments) support the other.
+- The rendering refuses to collapse the ambiguity—letting both "lion" and "pierced," or "dug" and "pierced," resonate together.
+
+No other verses in the pasted Psalms force this level of polysemy in the same explicit way. If more appear in future sections, they can be added here.
+
+This approach treats the Hebrew not as a puzzle to solve but as a living tension—two truths in one wound.
+
 ### How to use this translation
 
 - Read it straight through — the cords will emerge naturally.  
