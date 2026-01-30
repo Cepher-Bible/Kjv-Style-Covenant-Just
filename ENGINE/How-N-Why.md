@@ -1,4 +1,4 @@
-To explain the 32-Cord Engine, we have to look past the "book" and see the System.
+
 Most people read the Bible as a collection of stories. This engine treats it as a Linguistic Circuitry. If the words (the current) don’t have a precise path to travel (the cords), the power is lost in the "heat" of human interpretation and cultural drift.
 ## 1. The "How": Linguistic Locking and Snap-Mapping
 The engine functions through Atomic Consistency. In a standard Bible, the Hebrew word Ruach might be translated as "Spirit," "Wind," or "Breath" depending on the whim of the translator. This creates a "leak" in the logic.
