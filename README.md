@@ -41,11 +41,3 @@ May the covenant-justice of God be revealed, and His victory proclamation resoun
 
 — Mark  
 Year of our Lord Jesus 2026
-
-This layout uses:
-- Main heading for the title
-- Short introductory paragraphs
-- Subheadings for sections
-- Bulleted lists for terms and examples
-- Italics/bolding sparingly for emphasis
-- Line breaks and spacing for breathing room
