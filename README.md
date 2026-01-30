@@ -31,7 +31,7 @@ The translation draws directly from the Hebrew, Aramaic, and Greek originals, se
 
 The aim is modest: to let the original texts speak more directly, without certain longstanding English conventions softening their edges. It seeks to highlight God's covenant-justice, victory proclamation, and living Spirit-Breath as one coherent story.
 
-This is offered freely in the public domain (dedicated as of 2026). Feel free to read, share, print, quote, adapt, or use it in any way for study, preaching, memorization, or apps. Credit is welcome but not required: “Cepher Hakam Bible by Mark.”
+This is offered freely in the public domain (dedicated as of 2026). Feel free to read, share, print, quote, adapt, or use it in any way for study, preaching, memorization, or apps. Credit is welcome but not required: “Cepher Hakam Bible Project”
 
 It is not meant to replace other translations, but to serve as a companion that may illuminate familiar passages in fresh ways.
 
