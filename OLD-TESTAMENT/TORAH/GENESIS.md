@@ -18,7 +18,7 @@ and darkness was upon the face of the roaring deep;
 
 and the Spirit-Breath of God brooded upon the face of the waters.
 
-\v 3 And God said, Let there be light — and there was light.
+\v 3 And God said, Let there be light, and there was light.
 
 \v 4 And God saw the light, that it was good;
 
@@ -26,7 +26,7 @@ and God divided the light from the darkness.
 
 \v 5 And God called the light Day, and the darkness He called Night.
 
-And there was evening and there was morning — one day.
+And there was evening and there was morning, one day.
 
 \p
 
@@ -38,17 +38,17 @@ and let it divide waters from waters.
 
 and divided the waters which were under the hammered sky
 
-from the waters which were above the hammered sky — and it was so.
+from the waters which were above the hammered sky, and it was so.
 
 \v 8 And God called the hammered sky Heaven.
 
-And there was evening and there was morning — a second day.
+And there was evening and there was morning, a second day.
 
 \p
 
 \v 9 And God said, Let the waters under the heaven be gathered together unto one place,
 
-and let the dry land appear — and it was so.
+and let the dry land appear, and it was so.
 
 \v 10 And God called the dry land Earth;
 
@@ -58,7 +58,7 @@ and God saw that it was good.
 
 \v 11 And God said, Let the earth bring forth grass, herb yielding seed,
 
-and fruit tree bearing fruit after its kind, whose seed is in itself, upon the earth — and it was so.
+and fruit tree bearing fruit after its kind, whose seed is in itself, upon the earth, and it was so.
 
 \v 12 And the earth brought forth grass, herb yielding seed after its kind,
 
@@ -66,7 +66,7 @@ and tree bearing fruit, whose seed was in itself, after its kind:
 
 and God saw that it was good.
 
-\v 13 And there was evening and there was morning — a third day.
+\v 13 And there was evening and there was morning, a third day.
 
 \p
 
@@ -76,7 +76,7 @@ to divide the day from the night;
 
 and let them be for signs, and for seasons, and for days and years:
 
-\v 15 And let them be for lights in the hammered sky of the heaven to give light upon the earth — and it was so.
+\v 15 And let them be for lights in the hammered sky of the heaven to give light upon the earth, and it was so.
 
 \v 16 And God made the two great lights; the greater light to rule the day,
 
@@ -88,7 +88,7 @@ and the lesser light to rule the night; He made the stars also.
 
 and God saw that it was good.
 
-\v 19 And there was evening and there was morning — a fourth day.
+\v 19 And there was evening and there was morning, a fourth day.
 
 \p
 
@@ -106,13 +106,13 @@ and every winged fowl after its kind: and God saw that it was good.
 
 and fill the waters in the seas, and let fowl multiply in the earth.
 
-\v 23 And there was evening and there was morning — a fifth day.
+\v 23 And there was evening and there was morning, a fifth day.
 
 \p
 
 \v 24 And God said, Let the earth bring forth life-breath after its kind,
 
-cattle, and creeping thing, and beast of the earth after its kind — and it was so.
+cattle, and creeping thing, and beast of the earth after its kind, and it was so.
 
 \v 25 And God made the beast of the earth after its kind,
 
@@ -168,13 +168,13 @@ and to every fowl of the air,
 
 and to every thing that creepeth upon the earth, wherein there is life-breath,
 
-I have given every green herb for food — and it was so.
+I have given every green herb for food, and it was so.
 
 \v 31 And God saw every thing that He had made,
 
 and, behold, it was very good.
 
-And there was evening and there was morning — the sixth day.
+And there was evening and there was morning, the sixth day.
 
 \c 2
 
