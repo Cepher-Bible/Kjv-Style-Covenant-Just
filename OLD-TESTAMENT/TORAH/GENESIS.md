@@ -376,9 +376,9 @@ and Adam and his wife hid themselves from the presence of the LORD God amongst t
 
 and if thou doest not well, sin croucheth at the door;
 
-and unto thee is his turning —
+and unto thee is her turning —
 
-but thou must rule over him.
+but thou must rule over her.
 
 \p
 
