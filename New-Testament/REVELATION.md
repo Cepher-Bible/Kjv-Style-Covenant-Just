@@ -70,7 +70,7 @@ Revelation
 
 \v 4 Nevertheless I have somewhat against thee, because thou hast left thy first love.
 
-\v 5 Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+\v 5 Remember therefore from whence thou art fallen, and turn, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou turn.
 
 \v 6 But this thou hast, that thou hatest the deeds of the Nicolaitans, which I also hate.
 
@@ -96,7 +96,7 @@ Revelation
 
 \v 15 So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.
 
-\v 16 Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
+\v 16 turn; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
 
 \v 17 He that hath an ear, let him hear what the Spirit-Breath saith unto the assemblies; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.
 
@@ -108,9 +108,9 @@ Revelation
 
 \v 20 Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
 
-\v 21 And I gave her space to repent of her fornication; and she repented not.
+\v 21 And I gave her space to turn from her fornication; and she turned not.
 
-\v 22 Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.
+\v 22 Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they turn from their deeds.
 
 \v 23 And I will kill her children with death; and all the assemblies shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.
 
@@ -134,7 +134,7 @@ Revelation
 
 \v 2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 
-\v 3 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+\v 3 Remember therefore how thou hast received and heard, and hold fast, and turn. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
 
 \v 4 Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
 
@@ -170,7 +170,7 @@ Revelation
 
 \v 18 I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
 
-\v 19 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+\v 19 As many as I love, I rebuke and chasten: be zealous therefore, and turn.
 
 \v 20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 
@@ -442,9 +442,9 @@ Of the tribe of Benjamin were sealed twelve thousand.
 
 \p
 
-\v 20 And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+\v 20 And the rest of the men which were not killed by these plagues yet turned not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 
-\v 21 Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
+\v 21 Neither turned they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 
 \c 10
 
@@ -726,13 +726,13 @@ Of the tribe of Benjamin were sealed twelve thousand.
 
 \v 8 And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.
 
-\v 9 And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
+\v 9 And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they turned not to give him glory.
 
 \p
 
 \v 10 And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
 
-\v 11 And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
+\v 11 And blasphemed the God of heaven because of their pains and their sores, and turned not of their deeds.
 
 \p
 
