@@ -324,11 +324,11 @@
 
 \v 7 And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
-\v 8 For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.
+\v 8 For though I made you sorry with a letter, I do not regret, though I did remorse: for I perceive that the same epistle hath made you sorry, though it were but for a season.
 
-\v 9 Now I rejoice, not that ye were made sorry, but that ye sorrowed to turning: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
+\v 9 Now I rejoice, not that ye were made sorrowful, but that ye sorrowful to turning: for ye were made sorrowful after a godly manner, that ye might receive damage by us in nothing.
 
-\v 10 For godly sorrow worketh turning to salvation not to be repented of: but the sorrow of the world worketh death.
+\v 10 For godly sorrow worketh turning to salvation not to be turned of: but the sorrow of the world worketh death.
 
 \v 11 For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
 
