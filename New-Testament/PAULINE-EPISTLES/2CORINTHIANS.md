@@ -326,7 +326,7 @@
 
 \v 8 For though I made you sorry with a letter, I do not regret, though I did remorse: for I perceive that the same epistle hath made you sorry, though it were but for a season.
 
-\v 9 Now I rejoice, not that ye were made sorrowful, but that ye sorrowful to turning: for ye were made sorrowful after a godly manner, that ye might receive damage by us in nothing.
+\v 9 Now I rejoice, not that ye were made sorrowful, but that ye be sorrowful to turning: for ye were made sorrowful after a godly manner, that ye might receive damage by us in nothing.
 
 \v 10 For godly sorrow worketh turning to salvation not to be turned of: but the sorrow of the world worketh death.
 
