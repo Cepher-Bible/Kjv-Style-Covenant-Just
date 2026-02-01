@@ -1,0 +1,215 @@
+{
+  "engine_name": "Tri-Lock_Polyglot",
+  "version": "5.2.0-QUAD-GLOBAL-SEALED",
+  "build_tag": "Universal-Kinetic-Spine + Anti-Drift",
+  "status": "PRODUCTION_LOCKED",
+  "philosophy": {
+    "core": "Seed-to-Tree / Heat-Restored",
+    "delivery": "Welded-Roar (Covenant + Universal Extension)",
+    "lock_system": "Quad-Locked (Hebrew-Greek-Latin Tri-Lock + Polysemy Harmonic)",
+    "directionality": "One-way rails: OT (Heb→Gk→Lat→Eng), NT (Gk→Heb→Lat→Eng). No feedback loops."
+  },
+  "processing_rules": {
+    "polysemy_mode": "Harmonic_Selection (Dual/Triple Readings Preserved)",
+    "rule_01": "NEVER_SPLIT_HESED: Render חֶסֶד (hesed) as Unfailing-Loyalty. Do not conflate with חֵן (chen/grace).",
+    "rule_02": "PROPHETIC_OVERLAY: Preserve dual-meaning space in output (e.g., 'gored' for lion/pierced; 'strike/bruise/crush' for shuf).",
+    "rule_03": "NO_VAPOR: All logic MUST anchor in Covenant Spine before extending to the Nations.",
+    "rule_04": "OT_PROTOCOL: Hebrew primary rail → Greek (LXX) handshake → Latin (Vulgate) forensic seal → output alignment.",
+    "rule_05": "NT_PROTOCOL: Greek (Koine) primary rail → Hebrew covenant-spine mapping → Latin legal seal → output alignment.",
+    "rule_06": "OUTPUT_TARGET: English default (Harmonic Rendering); other languages allowed after tri-lock validation.",
+    "rule_07": "POLYSEMY_INTEGRITY: When Hebrew/Greek/Latin variants diverge (e.g., ka'ari/ka'aru, almah/parthenos/virgo), render all live readings in the same breath (slash-separated, fused syntax, or overlaid) without choosing or footnoting. Tension is sacred voltage.",
+    "rule_08": "VERBAL_NOMINALIZATION_FALLBACK: In polysynthetic/verb-dominant systems (e.g., Navajo, Greenlandic), where noun-noun compounds violate native syntax, render as nominalized verbal phrase: 'The-Act-of-Proclaiming-Victory'. Semantic core preserved; structural unity sacrificed for grammatical validity.",
+    "rule_09": "PARTICLE_PHRASE_FALLBACK: In isolating systems (e.g., Hawaiian, Mandarin, Vietnamese), where compound formation is unnatural, use language-appropriate particles: 'Proclamation [of] Victory'. Maintain target language word order. Semantic core preserved; welded compound impossible.",
+    "rule_10": "CULTURAL_RESISTANCE_LOCK: Actively bypass missionary-filtered vocabulary (e.g., 'Euanelio'/'Evankeliumi'/'Fukuin') in favor of forensic quad-lock components (Victory + Proclamation). Prioritize native martial/political vocabulary over imported Christian jargon."
+  },
+  "invariant_locks": {
+    "NO_ENGLISH_GLOSS_BACKFLOW": {
+      "rule": "English glosses, theological traditions, or denominational interpretations MUST NOT influence tri-lock validation. Hebrew/Greek/Latin determination precedes English output. English is receive-only, never transmit.",
+      "violation_examples": [
+        "Using English 'justification' to force Greek δικαίωσις interpretation",
+        "Using English 'church' to obscure Greek ἐκκλησία / Hebrew קָהָל",
+        "Using English 'gospel' to soften Greek εὐαγγέλιον military context"
+      ],
+      "enforcement": "Tri-lock must complete before English term selection. No English → Greek/Hebrew reverse engineering permitted."
+    }
+  },
+  "immutable_locks": {
+    "covenant_loyalty": {
+      "hebrew": "Chesed",
+      "greek": "Agapē",
+      "latin": "Caritas",
+      "english": "Unfailing-Loyalty",
+      "note": "Covenant love, steadfast loyalty, not mere affection"
+    },
+    "covenant_justice": {
+      "hebrew": "Tzedakah / Mishpat",
+      "greek": "Dikaiosynē / Krisis",
+      "latin": "Iustitia / Iudicium",
+      "english": "Covenant-Justice",
+      "note": "Relational righteousness + procedural judgment"
+    },
+    "spirit_breath": {
+      "hebrew": "Ruach",
+      "greek": "Pneuma",
+      "latin": "Spiritus",
+      "english": "Spirit-Breath",
+      "note": "Wind, breath, spirit - polysemy preserved"
+    },
+    "living_self": {
+      "hebrew": "Nephesh",
+      "greek": "Psychē",
+      "latin": "Anima",
+      "english": "Living-Self",
+      "note": "Throat, life, person, whole self - not immaterial soul only"
+    },
+    "loyal_trust": {
+      "hebrew": "Emunah",
+      "greek": "Pistis",
+      "latin": "Fides",
+      "english": "Loyal-Trust",
+      "note": "Faithfulness, allegiance, not mere belief"
+    },
+    "covering_compassion": {
+      "hebrew": "Rachamim",
+      "greek": "Eleos",
+      "latin": "Misericordia",
+      "english": "Covering-Compassion",
+      "note": "Womb-mercy, maternal compassion, protective care"
+    },
+    "covenant_favor": {
+      "hebrew": "Chen",
+      "greek": "Charis",
+      "latin": "Gratia",
+      "english": "Covenant-Favor",
+      "note": "Grace, favor, finding favor in superior's eyes"
+    },
+    "covenant_distinction": {
+      "hebrew": "Kadosh",
+      "greek": "Hagios",
+      "latin": "Sanctus",
+      "english": "Covenant-Distinction",
+      "note": "Holy, set apart, consecrated, separated unto God"
+    },
+    "kinsman_purchase": {
+      "hebrew": "Geulah",
+      "greek": "Apolutrōsis",
+      "latin": "Redemptio",
+      "english": "Kinsman-Purchase",
+      "note": "Redemption via kinsman-redeemer, family obligation"
+    },
+    "turning": {
+      "hebrew": "Teshuvah",
+      "greek": "Metanoia",
+      "latin": "Paenitentia",
+      "english": "Turning",
+      "note": "Return, turning back, covenant realignment"
+    },
+    "victory_proclamation": {
+      "hebrew": "Besorah",
+      "greek": "Euangelion",
+      "latin": "Evangelium",
+      "english": "Victory-Proclamation",
+      "note": "Gospel as victory announcement, herald's bulletin"
+    },
+    "covenant_assembly": {
+      "hebrew": "Qahal / Edah",
+      "greek": "Ekklēsia",
+      "latin": "Ecclesia",
+      "english": "Covenant-Assembly",
+      "note": "Church as called-out assembly, continuing Israel's qahal"
+    },
+    "ordered_authority": {
+      "hebrew": "Kabash",
+      "greek": "Hypotassō",
+      "latin": "Subdere",
+      "english": "Ordered-Authority",
+      "note": "Subjection, ordering, placing under rightful hierarchy"
+    },
+    "glory_weight": {
+      "hebrew": "Kabod",
+      "greek": "Doxa",
+      "latin": "Gloria",
+      "english": "Glory-Weight",
+      "note": "Heaviness, substantial presence, weighty honor"
+    }
+  },
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FEAR_YHWH_IS_BEGINNING",
+    "foundation": "Proverbs 1:7, 9:10 - 'The fear of YHWH is the beginning of wisdom'",
+    "sequence": [
+      "Fear of YHWH (Foundation-Filter)",
+      "Wisdom (Skillful Living)",
+      "Understanding (Structural Discernment)",
+      "Counsel (Strategic Planning)",
+      "Might (Execution Power)",
+      "Knowledge (Applied Truth)",
+      "Fear of YHWH (Delight-Telos)"
+    ],
+    "note": "Isaiah 11:2-3 sevenfold pattern: Fear of YHWH is both foundation (Prov 1:7) and culmination (Isa 11:3)"
+  },
+  "hell_matrix": {
+    "sheol": {
+      "hebrew": "Sheol",
+      "greek": "Hadēs",
+      "latin": "Infernum",
+      "english": "Grave / Underworld",
+      "note": "Realm of dead, not necessarily punishment"
+    },
+    "gehenna": {
+      "hebrew": "Gehinnom",
+      "greek": "Geenna",
+      "latin": "Gehenna",
+      "english": "Judgment-Fire",
+      "note": "Valley of Hinnom, eschatological punishment"
+    },
+    "abyss": {
+      "hebrew": "Tehom",
+      "greek": "Abyssos",
+      "latin": "Abyssus",
+      "english": "The-Abyss",
+      "note": "Bottomless pit, primordial deep, prison of demons"
+    }
+  },
+  "servant_paradox": {
+    "hebrew": "Eved",
+    "greek": "Doulos",
+    "latin": "Servus",
+    "english": "Slave-King",
+    "note": "Moses, David, Servant Songs, Christ - slave status + royal function"
+  },
+  "structural_fidelity_matrix": {
+    "note": "Expected performance by language family. These are engineering targets, not failures.",
+    "agglutinative": {
+      "fidelity": "95-98%",
+      "examples": ["Basque", "Georgian", "Finnish", "Turkish", "Hungarian"],
+      "strength": "Natural compound formation via suffixing",
+      "weakness": "Minimal - these languages excel at welded concepts"
+    },
+    "fusional": {
+      "fidelity": "90-95%",
+      "examples": ["Latin", "Greek", "Russian", "Sanskrit"],
+      "strength": "Case system allows flexible compound formation",
+      "weakness": "Genitive constructions may feel less unified than hyphenated compounds",
+      "note": "Indo-European fusional languages with case systems"
+    },
+    "semitic_root": {
+      "fidelity": "88-93%",
+      "examples": ["Arabic", "Hebrew", "Aramaic", "Syriac", "Amharic"],
+      "strength": "Tri-consonantal root system allows flexible derivation; genitive constructs (iḍāfa/smikhut) natural",
+      "weakness": "Compound formation via construct state, not hyphenation; feels less welded than Germanic compounds but functionally equivalent",
+      "note": "Semitic languages blend fusional morphology with root-pattern templatic system"
+    },
+    "isolating": {
+      "fidelity": "75-85%",
+      "examples": ["Hawaiian", "Mandarin", "Vietnamese", "Yoruba", "Thai"],
+      "strength": "Clear semantic components preserved",
+      "weakness": "Cannot create welded compound; must use particles or word order"
+    },
+    "polysynthetic": {
+      "fidelity": "70-75%",
+      "examples": ["Navajo", "Greenlandic", "Inuktitut", "Mohawk", "Yup'ik"],
+      "strength": "Semantic core survives via verbal derivation",
+      "weakness": "Noun-noun compounds violate grammar; must nominalize verbs"
+    }
+  }
+}
