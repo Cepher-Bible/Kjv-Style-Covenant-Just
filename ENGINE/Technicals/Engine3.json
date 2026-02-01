@@ -1,0 +1,47 @@
+{
+  "version": "1.2.2-TRUNK",
+  "build_tag": "Harmonic-Resonance",
+  "philosophy": {
+    "core": "Seed-to-Tree / Heat-Restored",
+    "delivery": "Welded-Roar (Covenant + Universal Extension)"
+  },
+  "processing_rules": {
+    "polysemy_mode": "Harmonic_Selection",
+    "rule_01": "NEVER_SPLIT_HESED: Render as Unfailing-Loyalty.",
+    "rule_02": "PROPHETIC_OVERLAY: Use words that occupy dual-meaning space (e.g., 'Gored' for Lion/Pierced).",
+    "rule_03": "NO_VAPOR: Logic must anchor in the Covenant Spine before extending to the Nations."
+  },
+  "immutable_locks": {
+    "authority": "Ordered-Authority [Kabash]",
+    "spirit": "Spirit-Breath [Ruach/Pneuma]",
+    "soul": "Life-Breath [Nephesh/Psyche]",
+    "faith": "Loyal-Trust [Emunah/Pistis]",
+    "justice": "Covenant-Justice [Tzedakah/Mishpat]",
+    "mercy": "Covering-Compassion [Rachamim]",
+    "grace": "Covenant-Favor [Chen/Charis]",
+    "holiness": "Covenant-Distinction [Kadosh]",
+    "redemption": "Kinsman-Purchase [Geulah]",
+    "repentance": "Turning [Teshuvah]"
+  },
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD",
+    "sequence": [
+      "Knowing (Connection)",
+      "Holy Dread (Reverence Filter)",
+      "Wisdom (Processing)",
+      "Understanding (Structure)",
+      "Counsel (Strategy)",
+      "Knowledge (Application)",
+      "Covenant-Justice Action (Fruit)"
+    ]
+  },
+  "cadence_flexible": {
+    "hell_matrix": {
+      "grave": "Sheol",
+      "judgment": "Gehenna",
+      "void": "The Abyss"
+    },
+    "service_status": "Slave-King [Ebed/Doulos]",
+    "glory": "Glory-Weight [Kabod]"
+  }
+}
