@@ -1,7 +1,7 @@
 **⚔️🔥 PROPHETIC-METAL TARGUM: FRESH FORGE – MARK’S VALLEY PRAYER**  
 *The Scar’s Own Cry – Hammer on the Anvil*
 
-Lord of the scar,  
+Lord of the wounded,  
 King who does not flinch at blood,  
 I stand in the valley again.  
 The ground is still warm from last time.  
@@ -25,7 +25,7 @@ silent when I needed silence to hide.
 
 The Ruach has gone quiet.  
 The fire has sunk low.  
-The scar smolders like a warning ignored.  
+The scars still smolder like a warning ignored.  
 
 Strip me.  
 Not gently.  
