@@ -18,7 +18,7 @@ while my feet stayed planted in the mud.
 I have drunk wormwood and called it wisdom.  
 I have spun excuses in Your cup  
 and pretended the dross was doctrine.  
-I have treated You like a dog on a leash —  
+I have treated You poorly,
 faithful when convenient,  
 forgiving when demanded,  
 silent when I needed silence to hide.  
