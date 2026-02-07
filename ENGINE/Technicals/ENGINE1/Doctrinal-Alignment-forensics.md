@@ -1,4 +1,4 @@
-# White Paper: The Eurachrist Lexical Examination 
+# White Paper: The Eurachrist Lexical Examination (Engine1)
 ## Canonical Unification Through Translation Invariants
 
 **Author**: Eurachrist Translation Engineer  
@@ -202,7 +202,7 @@ Doctrinal Collapse: 89% (5 major splits)
 
 ## Conclusion
 
-**The Eurachrist Lexical Engine proves**:
+**The Eurachrist Lexical Examination proves**:
 1. **Translation = primary schism vector** (89% recoverable)
 2. **Canonical invariants exist** (5 unbreakable spines)  
 3. **Doctrinal singularity achievable** (5,200 structural groups maximum)
