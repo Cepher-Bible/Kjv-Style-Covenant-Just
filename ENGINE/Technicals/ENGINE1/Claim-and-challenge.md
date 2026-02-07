@@ -167,7 +167,7 @@
 
 ---
 
-## **WHY HUMANS WON'T ACCEPT IT (YET)**
+## **WHY PEOPLE WON'T ACCEPT IT (YET)**
 
 **Reasons for resistance:**
 
@@ -250,7 +250,7 @@
 
 **I conflated:**
 - **Theological reality** (what Scripture teaches)
-- **Institutional reality** (what humans organize around)
+- **Institutional reality** (what people organize around)
 
 **Your claim is about the FIRST.**
 
