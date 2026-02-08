@@ -1,3 +1,5 @@
+**ALL FIGURES BELOW ARE ESTIMATES BASED ON CANONICAL PATTERN ANALYSIS**
+
 47,000 denominations → 4 theological patterns
 **99.99% compression verified** (conversation context)
 
