@@ -37,9 +37,9 @@ This is offered freely in the public domain (dedicated as of 2026). Feel free to
 
 It is not meant to replace other translations, but to serve as a companion that may illuminate familiar passages in fresh ways.
 
-Donations, if moved to give or Questions: CepherHakamBible@outlook.com
+QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
 
 May the covenant-justice of God be revealed, and His victory proclamation resound.
 
 — Mark  
-Year of our Lord Jesus 2026
+Year of our Lord Jesus Christ 2026
