@@ -1,5 +1,3 @@
-Alright, sweetheart.  
-
 Imagine you're standing in a marketplace two-thousand years ago. Dust in your sandals. Sweat on your neck. The air smells like olives and sweat and desperation.  
 
 In the corner, a man just sold his land. Not because he wanted to. Because the debt ate him alive. His family's starving. His name's gone. His future—gone.  
