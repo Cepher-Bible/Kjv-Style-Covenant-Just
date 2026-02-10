@@ -1,0 +1,318 @@
+***
+
+### 1. First step: materialize the file
+
+Create:
+
+**`engine_hinges.json`**
+```json
+{
+  "engine_meta": {
+    "engine_name": "Covenant Anchor Engine",
+    "engine_version": "1.0.0-STABLE",
+    "philosophy": "Seed-to-Tree / Heat-Restored",
+    "directionality": "One-way rails: OT (Heb→Gk→Lat→Eng), NT (Gk→Heb→Lat→Eng)"
+  },
+  "immutable_locks": {
+    "faith": "Loyal-Trust [pistis/emunah]",
+    "gospel": "Victory-Proclamation [euangelion/besorah]",
+    "church": "Covenant-Assembly [ekklesia/qahal]",
+    "redemption": "Kinsman-Purchase [apolutrósis/geulah]",
+    "holy": "Covenant-Distinction [hagios/kadosh]",
+    "firmament": "Hammered-Sky [raqia]",
+    "righteousness": "Covenant-Justice [dikaiosynē/tzedakah]",
+    "justice": "Covenant-Judgment [krisis/mishpat]",
+    "spirit": "Spirit-Breath [pneuma/ruach]",
+    "soul": "Living-Self [psychē/nephesh]",
+    "repentance": "Turning [metanoia/teshuvah]",
+    "subdue": "Ordered-Authority [hypotassō/kabash]",
+    "grace": "Covenant-Favor [charis/chen]",
+    "mercy": "Covering-Compassion [eleos/rachamim]",
+    "faithfulness": "Unfailing-Loyalty [agapē/chesed]",
+    "glory": "Glory-Weight [doxa/kabod]"
+  },
+  "cadence_flexible": {
+    "hell": {
+      "sheol": { "tri_lock": "Sheol/Hadēs/Infernum", "english": "Grave/Underworld", "context": "Realm of dead" },
+      "gehenna": { "tri_lock": "Gehinnom/Geenna/Gehenna", "english": "Judgment-Fire", "context": "Valley of Hinnom, eschatological punishment" },
+      "tartarus": { "tri_lock": "Tehom/Tartaros/Tartarus", "english": "Prison-Deep", "context": "Fallen angels (2 Pet 2:4)" },
+      "abyss": { "tri_lock": "Tehom/Abyssos/Abyssus", "english": "The-Abyss", "context": "Bottomless pit, demon prison" }
+    },
+    "servant": {
+      "standard": "Slave [doulos/ebed]",
+      "paradox": "Slave-King",
+      "context": "Legal ownership, not employment"
+    },
+    "fear_of_the_lord": "Holy-Dread [phobos/yir'ah]",
+    "love": {
+      "covenant": "Unfailing-Loyalty [agapē/chesed]",
+      "friendship": "Friend-Affection [philia]",
+      "family": "Family-Bond [storgē]"
+    }
+  },
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FEAR_YHWH_IS_BEGINNING",
+    "foundation": "Proverbs 1:7, 9:10",
+    "sequence": [
+      "Holy-Dread (Foundation-Filter)",
+      "Wisdom (Skillful-Living)",
+      "Understanding (Structural-Discernment)",
+      "Counsel (Strategic-Planning)",
+      "Might (Execution-Power)",
+      "Knowledge (Applied-Truth)",
+      "Holy-Dread (Delight-Telos)"
+    ],
+    "validation_rule": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD",
+    "note": "Isaiah 11:2-3 sevenfold: Fear is BOTH beginning AND end"
+  },
+  "processing_rules": {
+    "rule_01": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty, distinct from חֵן (grace)",
+    "rule_02": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
+    "rule_03": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
+    "rule_04": "OT_PROTOCOL: Hebrew → Greek → Latin → English (no backflow)",
+    "rule_05": "NT_PROTOCOL: Greek → Hebrew covenant-map → Latin → English",
+    "rule_06": "OUTPUT_TARGET: English default after tri-lock validation",
+    "rule_07": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it"
+  },
+  "hinge18_entries": [
+    {
+      "index": 0,
+      "ref_english": "Genesis 1:27",
+      "span_text": "image male-female",
+      "tag_group": "gender_creation_in_God_Image",
+      "role": "creation-splendor (imago Dei) frame"
+    },
+    {
+      "index": 1,
+      "ref_english": "Genesis 2:18",
+      "span_text": "helper fit for him",
+      "tag_group": "gender_affection_design",
+      "role": "complementary helper-vocation"
+    },
+    {
+      "index": 2,
+      "ref_english": "Genesis 3:16",
+      "span_text": "he shall rule over you (mashal)",
+      "tag_group": "gender_authority_distortion",
+      "role": "fallen mashal-structure drags Psalm 144 into Gen 3:16"
+    },
+    {
+      "index": 3,
+      "ref_english": "Ephesians 5:21-33",
+      "span_text": "submit as to the Lord, one flesh",
+      "tag_group": "gender_assembly_headship",
+      "role": "Christ-assembly headship hypotassomai framework"
+    },
+    {
+      "index": 4,
+      "ref_english": "Romans 3:23",
+      "span_text": "all have sinned, fall short",
+      "tag_group": "universal_covenant_need",
+      "role": "universal need anchor"
+    },
+    {
+      "index": 5,
+      "ref_english": "Romans 9:13-18",
+      "span_text": "Jacob loved, Esau hated",
+      "tag_group": "election_sovereignty",
+      "role": "unconditionality of call"
+    },
+    {
+      "index": 6,
+      "ref_english": "James 2:24",
+      "span_text": "justified by works, not faith alone",
+      "tag_group": "works_justification",
+      "role": "covenant-action partner to pistis"
+    },
+    {
+      "index": 7,
+      "ref_english": "Galatians 3:28",
+      "span_text": "no Jew Greek, slave free, male female",
+      "tag_group": "in_Christ_equality",
+      "role": "equality-in-Messiah telos-plane"
+    },
+    {
+      "index": 8,
+      "ref_english": "Ephesians 1:7-8",
+      "span_text": "redemption through his blood",
+      "tag_group": "redemptive_mercy",
+      "role": "fatherly forgiveness-within-house"
+    },
+    {
+      "index": 9,
+      "ref_english": "Revelation 6:15-17",
+      "span_text": "hide us from the face of the Lamb",
+      "tag_group": "wrath_at_robber_leaders",
+      "role": "wrath borne-outside covenant framework"
+    },
+    {
+      "index": 10,
+      "ref_english": "Matthew 23:27",
+      "span_text": "whitewashed tombs full of dead bones",
+      "tag_group": "robber_falsity_symbol",
+      "role": "institutional-hypocrisy wrath target"
+    },
+    {
+      "index": 11,
+      "ref_english": "Exodus 21:2-11",
+      "span_text": "Hebrew servant released in year six",
+      "tag_group": "regulated_servanthood",
+      "role": "ebed ownership with time‑limits"
+    },
+    {
+      "index": 12,
+      "ref_english": "Leviticus 25:44-46",
+      "span_text": "buy slaves from nations; permanent property",
+      "tag_group": "ethnic_ownership_regime",
+      "role": "foreign-slave ebed as permanent goods"
+    },
+    {
+      "index": 13,
+      "ref_english": "Philemon 1:10-16",
+      "span_text": "no longer slave, beloved brother",
+      "tag_group": "adelphos_liberty",
+      "role": "slave-turned-brother-in-Messiah"
+    },
+    {
+      "index": 14,
+      "ref_english": "John 14:6",
+      "span_text": "I am the way, the truth, the life",
+      "tag_group": "exclusive_kinsman",
+      "role": "Kinsman-Purchase gate"
+    },
+    {
+      "index": 15,
+      "ref_english": "Acts 4:12",
+      "span_text": "no other name under heaven",
+      "tag_group": "name-exclusive_path",
+      "role": "Messiah-name exclusivity"
+    },
+    {
+      "index": 16,
+      "ref_english": "Matthew 7:13-14",
+      "span_text": "narrow gate, few find it",
+      "tag_group": "narrow_path_covenant",
+      "role": "narrow-access-to-life pathway"
+    },
+    {
+      "index": 17,
+      "ref_english": "Matthew 25:41",
+      "span_text": "eternal fire prepared for devil and his angels",
+      "tag_group": "judgment_fire_Gehenna",
+      "role": "final Gehenna-bound"
+    }
+  ],
+  "hinge_tag_groups": [
+    "gender_creation_in_God_Image",
+    "gender_affection_design",
+    "gender_authority_distortion",
+    "gender_assembly_headship",
+    "universal_covenant_need",
+    "election_sovereignty",
+    "works_justification",
+    "in_Christ_equality",
+    "redemptive_mercy",
+    "wrath_at_robber_leaders",
+    "robber_falsity_symbol",
+    "regulated_servanthood",
+    "ethnic_ownership_regime",
+    "adelphos_liberty",
+    "exclusive_kinsman",
+    "name-exclusive_path",
+    "narrow_path_covenant",
+    "judgment_fire_Gehenna"
+  ],
+  "kernel_stub": {
+    "matrix_dimension": "18x18",
+    "kernel_type": "RBF",
+    "variables_hint": "K_ij = exp(-γ * ||a_i - a_j||^2), i, j ∈ [0..17]",
+    "intended_use": "Use as fixed doctrinal kernel matrix anchored to above 18 hinge entries; plug into hinge_loss / soft_labeller / polysemy_voltage governors"
+  }
+}
+```
+
+Drop the full block above into:
+
+- `src/models/engine_hinges.json`  
+  or wherever your loader expects JSON‑metadata configs.
+
+***
+
+### 2. How to wire it once loaded
+
+Assuming Python‑style, this is how your engine can **use** `engine_hinges.json`:
+
+```python
+import json
+import numpy as np
+from scipy.spatial.distance import pdist, squareform
+
+# Load the monolithic file
+with open("engine_hinges.json") as f:
+    H = json.load(f)
+
+# Build intentional map: index → ref / tag
+index_to_ref = {
+    x["index"]: x["ref_english"] 
+    for x in H["hinge18_entries"]
+}
+index_to_tag = {
+    x["index"]: x["tag_group"] 
+    for x in H["hinge18_entries"]
+}
+
+def build_hinge_kernel(A):
+    """A.shape = (d, 18): 18-anchor embeddings"""
+    D2 = squareform(pdist(A.T, metric="sqeuclidean"))
+    gamma = 1.0 / (2 * np.median(D2[D2 > 0]))
+    K = np.exp(-gamma * D2)
+    return K  # 18x18 RBF doctrinal kernel
+```
+
+Then at rendering‑time, for any lemma/verse vector $$ \vec{v} \in \mathbb{R}^d $$:
+
+```python
+def soft_assign_hinge_tag(v, A, K, gamma_v=1.0):
+    """Assign doctrinal hinge‑tag from 18‑anchor kernel"""
+    diffs = v - A
+    sq = np.sum(diffs**2, axis=0)
+    expsq = np.exp(-gamma_v * sq)
+    mu = K @ expsq  # weighted by kernel structure
+    mu /= np.sum(mu)
+    j_opt = np.argmax(mu)
+    return {
+        "tag_group": index_to_tag[j_opt],
+        "ref_anchor": index_to_ref[j_opt],
+        "confidence": mu[j_opt]
+    }
+```
+
+Now every engine‑generated clause can carry:
+
+- `hinge_tag: "adelphos_liberty"`,  
+- `confidence` score (is it drifting into `ethnic_ownership_regime` or not),  
+- and you can couple that with your:
+
+  - `rule_01 (NEVER_SPLIT_CHESED) → flag if "grace‑only‑individualism" beats "agapē-chesto‑circuity"`,  
+  - `rule_07 (POLYSEMY_INTEGRITY) → if hinge‑tag drifts too hard into any single zone, emit a polysemy‑strain flag`.
+
+***
+
+### 3. What this changes in your engine’s view of “truth”
+
+By tying your rendering pipeline to `engine_hinges.json`:
+
+- Any clause whose vector **lands firmly in more than three distinct tag‑groups** is **voltage‑healthy**.
+- Any clause that collapses almost entirely into one column (e.g., `ethnic_ownership_regime` without `adelphos_liberty`) is an **imbalance‑node** your engine can report or log.
+- The **kernel matrix** itself becomes the **metric transcript of your immutable locks and covenant‑stack**, so doctrinal drift is **not just conceptual but numerically testable**.
+
+If you want, the **next move** is a target‑function set: I can give you:
+
+- **a minimal Python engine‑hook** that:
+  - loads `engine_hinges.json`,  
+  - builds the kernel,  
+  - and emits `(rendered‑text, hinge_tag)`‑tuples for each verse processed.
+
+
+
+
