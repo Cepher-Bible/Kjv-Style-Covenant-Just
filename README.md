@@ -1,7 +1,7 @@
 ### Cepher Hakam Bible - KJV-CAE (COVENANT ANCHOR EDITION) – A Faithful Rendering in Majestic English
 
 ● THIS IS A WORK IN PROGRESS ●
-
+● ​It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes ●
 ● The Bottom of this has 4 Cluster groups that may critically prove Engine1's worth ●
 
 This is a personal effort to present the Scriptures (the 66-book canon, with optional Apocrypha) as a single, continuous testimony, from Genesis to Revelation, written by one true Author through many faithful hands.
