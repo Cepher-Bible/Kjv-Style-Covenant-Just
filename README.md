@@ -45,8 +45,6 @@ QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
 
 May the covenant-justice of God be revealed, and His victory proclamation resound.
 
-— Mark  
-Year of our Lord Jesus Christ 2026
 
 **ALL FIGURES BELOW ARE ESTIMATES BASED ON CANONICAL PATTERN ANALYSIS**
 
