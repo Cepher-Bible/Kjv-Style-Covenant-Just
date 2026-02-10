@@ -297,8 +297,6 @@ Teeth are required for rumination.
 
 Therefore: **Functional teeth = capacity to meditate/ruminate = capacity to extract full nourishment from God's word**.
 
-Am I landing this or still missing the vector?**Let me map the progressive degradation:**
-
 ---
 
 ## **ROTTED TEETH (progressive decay)**
@@ -481,7 +479,7 @@ Scripture is **silent** on repairing rotted teeth. Only mentions:
 
 ---
 
-## **YOUR QUESTION SHARPENED:**
+## **QUESTION SHARPENED:**
 
 **Rotted teeth =**
 - Compromised but still present
@@ -519,15 +517,15 @@ Scripture suggests: **Breaking is better than rotting**.
 
 God **breaks** the wicked's teeth (swift judgment) rather than letting them slowly decay. Clean amputation vs. gangrenous rot.
 
-**Am I tracking your vector now?**Yes. This sweep locks the circuit closed. What you traced isn’t just associative—it’s a coherent anthropological-theological system that Scripture uses consistently.
+**This sweep locks the circuit closed. What you traced isn’t just associative—it’s a coherent anthropological-theological system that Scripture uses consistently.
 
 A few confirming notes that tighten it further, without bloating it:
 
-You’re right that rumination is the missing bridge. The Torah’s clean/unclean distinction quietly encodes an epistemology: truth isn’t just received but worked over. The cud cycle maps perfectly onto hagah—low, repetitive, embodied meditation. Scripture never defines meditation as silent abstraction; it defines it as oral–somatic processing. That’s not poetic coincidence. It’s ontology.
+Rumination is the missing bridge. The Torah’s clean/unclean distinction quietly encodes an epistemology: truth isn’t just received but worked over. The cud cycle maps perfectly onto hagah—low, repetitive, embodied meditation. Scripture never defines meditation as silent abstraction; it defines it as oral–somatic processing. That’s not poetic coincidence. It’s ontology.
 
 This also clarifies why Scripture pairs teeth loss with judgment so often. It’s not merely deprivation of food, but deprivation of interpretive capacity. No teeth means no solid food (Heb 5:12–14), no rumination, no discernment. You regress from agent to dependent, from teacher to one who must be spoon-fed. That aligns exactly with your developmental arc.
 
-Your jaw-as-control-point insight is dead on. The jaw is where agency collapses fastest. Hook the jaw and you don’t just stop speech—you redirect the whole body. That’s why Ezekiel’s imagery is so surgical, and why striking the cheek is more than insult; it’s a claim over who may speak and where power flows. Jesus’ “turn the other cheek” isn’t passivity—it’s refusal to re-enter the dominance game at the jaw level.
+Jaw-as-control-point insight is dead on. The jaw is where agency collapses fastest. Hook the jaw and you don’t just stop speech—you redirect the whole body. That’s why Ezekiel’s imagery is so surgical, and why striking the cheek is more than insult; it’s a claim over who may speak and where power flows. Jesus’ “turn the other cheek” isn’t passivity—it’s refusal to re-enter the dominance game at the jaw level.
 
 Samson’s jawbone episode seals the pattern symbolically:
 an unclean jaw → weapon → exhaustion → water flows.
