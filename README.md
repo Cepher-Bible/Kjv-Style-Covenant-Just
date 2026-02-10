@@ -2,7 +2,7 @@
 
 ● THIS IS A WORK IN PROGRESS ●
 
-● ​It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes ●
+**It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes**
 
 ● The Bottom of this has 4 Cluster groups that may critically prove Engine1's worth ●
 
