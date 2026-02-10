@@ -52,10 +52,3 @@ These allow contextual shading while maintaining the tri-lock anchor.
 | Unfailing-Loyalty (love)  | חֶסֶד / ἀγάπη / caritas                         | Covenant love                                                  | Ps 136, John 13:34          | Cluster 1 |
 | Friend-Affection          | — / φιλία / amicitia                            | Brotherhood love                                               | John 15:13-15               | — |
 | Family-Bond               | — / στοργή / affectus                           | Natural family love                                            | Rom 12:10                   | — |
-
-### Quick Usage Notes for Deglossary.me
-
-- **Searchable** — Use Ctrl+F or site search for any term (e.g., "covenant-justice").
-- **Linked to repo** — GitHub: https://github.com/Cephe/... (update with your exact path).
-- **Public domain** — Copy, adapt, fork freely. Credit appreciated but not required.
-- **Engine source** — Full JSON at https://github.com/Cephe/.../engine.json (or wherever you host it).
