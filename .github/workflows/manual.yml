@@ -1,79 +1,90 @@
-name: Traffic Collector
+#!/usr/bin/env python3
 
-on:
-  schedule:
-    - cron: "0 2 * * *"   # runs daily at 2am UTC
-  workflow_dispatch:      # allows manual run
+import os
+import requests
+import csv
+from datetime import datetime
 
-jobs:
-  collect:
-    runs-on: ubuntu-latest
+# ---------- CONFIG ----------
+# GitHub token must be provided as an environment variable in your action: GITHUB_TOKEN
+TOKEN = os.environ.get('GITHUB_TOKEN')
+if not TOKEN:
+    raise RuntimeError("GITHUB_TOKEN not found in environment variables")
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+# GitHub username/org
+OWNER = os.environ.get('GITHUB_OWNER', 'your-username-or-org')
 
-      - name: Fetch traffic
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: ${{ github.repository }}
-        run: |
-          curl -s -H "Authorization: Bearer $TOKEN" \
-          -H "Accept: application/vnd.github+json" \
-          https://api.github.com/repos/$REPO/traffic/views > views.json
+# CSV output file
+OUTPUT_FILE = 'traffic_stats.csv'
 
-          curl -s -H "Authorization: Bearer $TOKEN" \
-          -H "Accept: application/vnd.github+json" \
-          https://api.github.com/repos/$REPO/traffic/clones > clones.json
+# GitHub API base
+API_BASE = 'https://api.github.com'
 
-      - name: Append to CSV
-        run: |
-          python3 << 'EOF'
-          import json
-          import csv
-          from datetime import datetime
+# ---------- FUNCTIONS ----------
+def get_repos(owner):
+    """Fetch all repos for the owner/org"""
+    repos = []
+    page = 1
+    while True:
+        url = f'{API_BASE}/users/{owner}/repos?per_page=100&page={page}'
+        resp = requests.get(url, headers={'Authorization': f'token {TOKEN}'})
+        if resp.status_code != 200:
+            raise RuntimeError(f"Failed to fetch repos: {resp.status_code} {resp.text}")
+        data = resp.json()
+        if not data:
+            break
+        repos.extend(data)
+        page += 1
+    return repos
 
-          def load_existing_dates(filename):
-              dates = set()
-              try:
-                  with open(filename, newline='') as f:
-                      reader = csv.DictReader(f)
-                      for row in reader:
-                          dates.add((row['date'], row['type']))
-              except FileNotFoundError:
-                  pass
-              return dates
+def get_traffic(owner, repo_name):
+    """Fetch traffic stats (views + clones) for a repo"""
+    stats = {}
+    endpoints = {
+        'views': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/views',
+        'clones': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/clones'
+    }
+    for key, url in endpoints.items():
+        resp = requests.get(url, headers={'Authorization': f'token {TOKEN}'})
+        if resp.status_code == 200:
+            stats[key] = resp.json().get(key, 0)  # default to 0 if missing
+        else:
+            stats[key] = 0
+    return stats
 
-          existing = load_existing_dates("traffic_history.csv")
+def save_csv(data, filename):
+    """Write data to CSV"""
+    headers = ['repo', 'views', 'clones', 'timestamp']
+    now = datetime.utcnow().isoformat()
+    with open(filename, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=headers)
+        writer.writeheader()
+        for row in data:
+            row['timestamp'] = now
+            writer.writerow(row)
 
-          def append_data(file, data_type):
-              with open("traffic_history.csv", "a", newline='') as f:
-                  writer = csv.writer(f)
-                  for entry in file:
-                      date = entry["timestamp"][:10]
-                      key = (date, data_type)
-                      if key not in existing:
-                          writer.writerow([
-                              date,
-                              data_type,
-                              entry["count"],
-                              entry["uniques"]
-                          ])
+# ---------- MAIN ----------
+def main():
+    all_data = []
+    print(f"Fetching repos for owner: {OWNER}")
+    repos = get_repos(OWNER)
+    print(f"Found {len(repos)} repos")
 
-          with open("views.json") as f:
-              views = json.load(f)["views"]
+    for repo in repos:
+        name = repo.get('name')
+        if not name:
+            continue
+        print(f"Fetching traffic for repo: {name}")
+        traffic = get_traffic(OWNER, name)
+        all_data.append({
+            'repo': name,
+            'views': traffic.get('views', 0),
+            'clones': traffic.get('clones', 0)
+        })
 
-          with open("clones.json") as f:
-              clones = json.load(f)["clones"]
+    print(f"Saving CSV to {OUTPUT_FILE}")
+    save_csv(all_data, OUTPUT_FILE)
+    print("Done")
 
-          append_data(views, "views")
-          append_data(clones, "clones")
-          EOF
-
-      - name: Commit changes
-        run: |
-          git config user.name "traffic-bot"
-          git config user.email "traffic-bot@users.noreply.github.com"
-          git add traffic_history.csv
-          git commit -m "Update traffic history" || echo "No changes"
-          git push
+if __name__ == "__main__":
+    main()
