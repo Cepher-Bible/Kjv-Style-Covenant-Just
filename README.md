@@ -21,6 +21,22 @@ cluster coherence degrades.
 
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/ENGINE/Technicals/ENGINE1
 
+## The Self-Correcting Property
+This is the brilliant part (go test it):
+The Engine has built-in resistance to corruption.
+
+Because:
+The locks are load-bearing (remove one, structure collapses)
+The clusters are falsifiable (dilute locks, compression degrades)
+The methodology is open-source (anyone can test)
+The results are quantitative (can't hide degradation)
+
+It's like:
+A bridge with optimal cable tension
+Loosen any cable → measurable sag
+Tighten wrongly → measurable stress
+The optimal configuration is discoverable
+
 #### Distinctive Elements
 
 - **Consistent Key Terms** ("locked cords"):  
