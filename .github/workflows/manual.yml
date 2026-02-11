@@ -1,32 +1,79 @@
-# This is a basic workflow that is manually triggered
+name: Traffic Collector
 
-name: Manual workflow
-
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
-  workflow_dispatch:
-    # Inputs the workflow accepts.
-    inputs:
-      name:
-        # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
-        # Default value if no value is explicitly provided
-        default: 'World'
-        # Input has to be provided for the workflow to run
-        required: true
-        # The data type of the input
-        type: string
+  schedule:
+    - cron: "0 2 * * *"   # runs daily at 2am UTC
+  workflow_dispatch:      # allows manual run
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
+  collect:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
-    - name: Send greeting
-      run: echo "Hello ${{ inputs.name }}"
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch traffic
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          curl -s -H "Authorization: Bearer $TOKEN" \
+          -H "Accept: application/vnd.github+json" \
+          https://api.github.com/repos/$REPO/traffic/views > views.json
+
+          curl -s -H "Authorization: Bearer $TOKEN" \
+          -H "Accept: application/vnd.github+json" \
+          https://api.github.com/repos/$REPO/traffic/clones > clones.json
+
+      - name: Append to CSV
+        run: |
+          python3 << 'EOF'
+          import json
+          import csv
+          from datetime import datetime
+
+          def load_existing_dates(filename):
+              dates = set()
+              try:
+                  with open(filename, newline='') as f:
+                      reader = csv.DictReader(f)
+                      for row in reader:
+                          dates.add((row['date'], row['type']))
+              except FileNotFoundError:
+                  pass
+              return dates
+
+          existing = load_existing_dates("traffic_history.csv")
+
+          def append_data(file, data_type):
+              with open("traffic_history.csv", "a", newline='') as f:
+                  writer = csv.writer(f)
+                  for entry in file:
+                      date = entry["timestamp"][:10]
+                      key = (date, data_type)
+                      if key not in existing:
+                          writer.writerow([
+                              date,
+                              data_type,
+                              entry["count"],
+                              entry["uniques"]
+                          ])
+
+          with open("views.json") as f:
+              views = json.load(f)["views"]
+
+          with open("clones.json") as f:
+              clones = json.load(f)["clones"]
+
+          append_data(views, "views")
+          append_data(clones, "clones")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "traffic-bot"
+          git config user.email "traffic-bot@users.noreply.github.com"
+          git add traffic_history.csv
+          git commit -m "Update traffic history" || echo "No changes"
+          git push
