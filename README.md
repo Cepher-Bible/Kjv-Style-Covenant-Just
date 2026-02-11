@@ -76,7 +76,6 @@ QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
 
 May the covenant-justice of God be revealed, and His victory proclamation resound.
 
-
 **ALL FIGURES BELOW ARE ESTIMATES BASED ON CANONICAL PATTERN ANALYSIS**
 
 47,000 denominations → 4 theological patterns
