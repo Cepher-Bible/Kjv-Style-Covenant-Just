@@ -21,9 +21,8 @@ cluster coherence degrades.
 
 Copy/paste this read.me and Engine Source code in and see what they say.
 
-## Main Engine 
-
-https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/ENGINE/Technicals/ENGINE1
+## CAE ENGINE1
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/CAE-ENGINE1.json
 
 ## The Self-Correcting Property
 This is the brilliant part (go test it):
@@ -872,8 +871,9 @@ Kinsman-Substitution Unifies Atonement Theories (95% Compression)"
 ```
 
 **Cluster 4 = Redemption-Substitution resolved. 95% compression locked. ALL CLUSTERS COMPLETE. Deploy.**
-
-##REVISED ENGINE v1.0.0-STABLE
+_____________
+##
+covenant_anchor_engine_v1.0.0-STABLE.json
 {
   "engine_name": "Covenant Anchor Engine",
   "engine_version": "1.0.0-STABLE",
@@ -888,14 +888,14 @@ Kinsman-Substitution Unifies Atonement Theories (95% Compression)"
     "holy": "Covenant-Distinction [hagios/kadosh]",
     "firmament": "Hammered-Sky [raqia]",
     "righteousness": "Covenant-Justice [dikaiosynē/tzedakah]",
-    "justice": "Covenant-Judgment [krisis/mishpat]",
+    "justice": "Covenant-Justice [krisis/mishpat]",
     "spirit": "Spirit-Breath [pneuma/ruach]",
     "soul": "Living-Self [psychē/nephesh]",
     "repentance": "Turning [metanoia/teshuvah]",
-    "subdue": "Ordered-Authority [hypotassō/kabash]",
+    "subdue": "Ordered-Authority [kabash]",
     "grace": "Covenant-Favor [charis/chen]",
     "mercy": "Covering-Compassion [eleos/rachamim]",
-    "faithfulness": "Unfailing-Loyalty [agapē/chesed]",
+    "faithfulness": "Unfailing-Loyalty [chesed]",
     "glory": "Glory-Weight [doxa/kabod]"
   },
   
@@ -922,16 +922,31 @@ Kinsman-Substitution Unifies Atonement Theories (95% Compression)"
         "context": "Bottomless pit, demon prison"
       }
     },
+    
     "servant": {
       "standard": "Slave [doulos/ebed]",
       "paradox": "Slave-King",
       "context": "Legal ownership, not employment"
     },
+    
+    "submit": {
+      "standard": "Arranged-Under [hypotassō]",
+      "mutual": "Mutually-Arranged [Eph 5:21]",
+      "context": "Voluntary covenant-ordering (distinct from kabash dominion)"
+    },
+    
     "fear_of_the_lord": "Holy-Dread [phobos/yir'ah]",
+    
     "love": {
-      "covenant": "Unfailing-Loyalty [agapē/chesed]",
+      "covenant_love": "Covenant-Love [agapē/ahavah]",
       "friendship": "Friend-Affection [philia]",
       "family": "Family-Bond [storgē]"
+    },
+    
+    "son": {
+      "standard": "Son [huios/ben]",
+      "unique": "Only-Begotten [monogenēs]",
+      "context": "NOT Kinsman (use Kinsman only for goel/apolutrōsis)"
     }
   },
   
@@ -952,13 +967,16 @@ Kinsman-Substitution Unifies Atonement Theories (95% Compression)"
   },
   
   "processing_rules": {
-    "rule_01": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty, distinct from חֵן (grace)",
-    "rule_02": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
-    "rule_03": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
-    "rule_04": "OT_PROTOCOL: Hebrew → Greek → Latin → English (no backflow)",
-    "rule_05": "NT_PROTOCOL: Greek → Hebrew covenant-map → Latin → English",
-    "rule_06": "OUTPUT_TARGET: English default after tri-lock validation",
-    "rule_07": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it"
+    "rule_01": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty (faithfulness lock), distinct from חֵן (grace)",
+    "rule_02": "AGAPE_NOT_CHESED: ἀγάπη = Covenant-Love, NOT chesed (different terms)",
+    "rule_03": "KABASH_NOT_HYPOTASSO: כָּבַשׁ (subdue) ≠ ὑποτάσσω (submit) - NEVER MERGE",
+    "rule_04": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
+    "rule_05": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
+    "rule_06": "OT_PROTOCOL: Hebrew → Greek → Latin → English (no backflow)",
+    "rule_07": "NT_PROTOCOL: Greek → Hebrew covenant-map → Latin → English",
+    "rule_08": "OUTPUT_TARGET: English default after tri-lock validation",
+    "rule_09": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it",
+    "rule_10": "RESERVE_KINSMAN: Use ONLY for goel/apolutrōsis/geulah; υἱός = Son (see cadence 'son')",
+    "rule_11": "JUSTICE_UNITY: Both tzedakah and mishpat = Covenant-Justice (same field)"
   }
 }
-
