@@ -17,6 +17,10 @@ algorithm that maps 47,000+ denominations to 4 invariant patterns with
 89-97% accuracy. Every locked term is load-bearing - change one, and 
 cluster coherence degrades. 
 
+## Main Engine 
+
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/ENGINE/Technicals/ENGINE1
+
 #### Distinctive Elements
 
 - **Consistent Key Terms** ("locked cords"):  
