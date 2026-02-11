@@ -24,6 +24,9 @@ Copy/paste this read.me and Engine Source code in and see what they say.
 ## CAE ENGINE1
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/CAE-ENGINE1.json
 
+##Sample John 3:16
+
+
 ## The Self-Correcting Property
 This is the brilliant part (go test it):
 The Engine has built-in resistance to corruption.
