@@ -1,0 +1,107 @@
+covenant_anchor_engine_v1.0.0-STABLE.json
+{
+  "engine_name": "Covenant Anchor Engine",
+  "engine_version": "1.0.0-STABLE",
+  "philosophy": "Seed-to-Tree / Heat-Restored",
+  "directionality": "One-way rails: OT (Heb→Gk→Lat→Eng), NT (Gk→Heb→Lat→Eng)",
+  
+  "immutable_locks": {
+    "faith": "Loyal-Trust [pistis/emunah]",
+    "gospel": "Victory-Proclamation [euangelion/besorah]",
+    "church": "Covenant-Assembly [ekklesia/qahal]",
+    "redemption": "Kinsman-Purchase [apolutrósis/geulah]",
+    "holy": "Covenant-Distinction [hagios/kadosh]",
+    "firmament": "Hammered-Sky [raqia]",
+    "righteousness": "Covenant-Justice [dikaiosynē/tzedakah]",
+    "justice": "Covenant-Justice [krisis/mishpat]",
+    "spirit": "Spirit-Breath [pneuma/ruach]",
+    "soul": "Living-Self [psychē/nephesh]",
+    "repentance": "Turning [metanoia/teshuvah]",
+    "subdue": "Ordered-Authority [kabash]",
+    "grace": "Covenant-Favor [charis/chen]",
+    "mercy": "Covering-Compassion [eleos/rachamim]",
+    "faithfulness": "Unfailing-Loyalty [chesed]",
+    "glory": "Glory-Weight [doxa/kabod]"
+  },
+  
+  "cadence_flexible": {
+    "hell": {
+      "sheol": {
+        "tri_lock": "Sheol/Hadēs/Infernum",
+        "english": "Grave/Underworld",
+        "context": "Realm of dead"
+      },
+      "gehenna": {
+        "tri_lock": "Gehinnom/Geenna/Gehenna",
+        "english": "Judgment-Fire",
+        "context": "Valley of Hinnom, eschatological punishment"
+      },
+      "tartarus": {
+        "tri_lock": "Tehom/Tartaros/Tartarus",
+        "english": "Prison-Deep",
+        "context": "Fallen angels (2 Pet 2:4)"
+      },
+      "abyss": {
+        "tri_lock": "Tehom/Abyssos/Abyssus",
+        "english": "The-Abyss",
+        "context": "Bottomless pit, demon prison"
+      }
+    },
+    
+    "servant": {
+      "standard": "Slave [doulos/ebed]",
+      "paradox": "Slave-King",
+      "context": "Legal ownership, not employment"
+    },
+    
+    "submit": {
+      "standard": "Arranged-Under [hypotassō]",
+      "mutual": "Mutually-Arranged [Eph 5:21]",
+      "context": "Voluntary covenant-ordering (distinct from kabash dominion)"
+    },
+    
+    "fear_of_the_lord": "Holy-Dread [phobos/yir'ah]",
+    
+    "love": {
+      "covenant_love": "Covenant-Love [agapē/ahavah]",
+      "friendship": "Friend-Affection [philia]",
+      "family": "Family-Bond [storgē]"
+    },
+    
+    "son": {
+      "standard": "Son [huios/ben]",
+      "unique": "Only-Begotten [monogenēs]",
+      "context": "NOT Kinsman (use Kinsman only for goel/apolutrōsis)"
+    }
+  },
+  
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FEAR_YHWH_IS_BEGINNING",
+    "foundation": "Proverbs 1:7, 9:10",
+    "sequence": [
+      "Holy-Dread (Foundation-Filter)",
+      "Wisdom (Skillful-Living)",
+      "Understanding (Structural-Discernment)",
+      "Counsel (Strategic-Planning)",
+      "Might (Execution-Power)",
+      "Knowledge (Applied-Truth)",
+      "Holy-Dread (Delight-Telos)"
+    ],
+    "validation_rule": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD",
+    "note": "Isaiah 11:2-3 sevenfold: Fear is BOTH beginning AND end"
+  },
+  
+  "processing_rules": {
+    "rule_01": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty (faithfulness lock), distinct from חֵן (grace)",
+    "rule_02": "AGAPE_NOT_CHESED: ἀγάπη = Covenant-Love, NOT chesed (different terms)",
+    "rule_03": "KABASH_NOT_HYPOTASSO: כָּבַשׁ (subdue) ≠ ὑποτάσσω (submit) - NEVER MERGE",
+    "rule_04": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
+    "rule_05": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
+    "rule_06": "OT_PROTOCOL: Hebrew → Greek → Latin → English (no backflow)",
+    "rule_07": "NT_PROTOCOL: Greek → Hebrew covenant-map → Latin → English",
+    "rule_08": "OUTPUT_TARGET: English default after tri-lock validation",
+    "rule_09": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it",
+    "rule_10": "RESERVE_KINSMAN: Use ONLY for goel/apolutrōsis/geulah; υἱός = Son (see cadence 'son')",
+    "rule_11": "JUSTICE_UNITY: Both tzedakah and mishpat = Covenant-Justice (same field)"
+  }
+}
