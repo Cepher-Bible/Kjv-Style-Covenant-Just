@@ -1,90 +1,40 @@
-#!/usr/bin/env python3
+name: Log Traffic Stats
 
-import os
-import requests
-import csv
-from datetime import datetime
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-# ---------- CONFIG ----------
-# GitHub token must be provided as an environment variable in your action: GITHUB_TOKEN
-TOKEN = os.environ.get('GITHUB_TOKEN')
-if not TOKEN:
-    raise RuntimeError("GITHUB_TOKEN not found in environment variables")
+permissions:
+  contents: write
 
-# GitHub username/org
-OWNER = os.environ.get('GITHUB_OWNER', 'your-username-or-org')
-
-# CSV output file
-OUTPUT_FILE = 'traffic_stats.csv'
-
-# GitHub API base
-API_BASE = 'https://api.github.com'
-
-# ---------- FUNCTIONS ----------
-def get_repos(owner):
-    """Fetch all repos for the owner/org"""
-    repos = []
-    page = 1
-    while True:
-        url = f'{API_BASE}/users/{owner}/repos?per_page=100&page={page}'
-        resp = requests.get(url, headers={'Authorization': f'token {TOKEN}'})
-        if resp.status_code != 200:
-            raise RuntimeError(f"Failed to fetch repos: {resp.status_code} {resp.text}")
-        data = resp.json()
-        if not data:
-            break
-        repos.extend(data)
-        page += 1
-    return repos
-
-def get_traffic(owner, repo_name):
-    """Fetch traffic stats (views + clones) for a repo"""
-    stats = {}
-    endpoints = {
-        'views': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/views',
-        'clones': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/clones'
-    }
-    for key, url in endpoints.items():
-        resp = requests.get(url, headers={'Authorization': f'token {TOKEN}'})
-        if resp.status_code == 200:
-            stats[key] = resp.json().get(key, 0)  # default to 0 if missing
-        else:
-            stats[key] = 0
-    return stats
-
-def save_csv(data, filename):
-    """Write data to CSV"""
-    headers = ['repo', 'views', 'clones', 'timestamp']
-    now = datetime.utcnow().isoformat()
-    with open(filename, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=headers)
-        writer.writeheader()
-        for row in data:
-            row['timestamp'] = now
-            writer.writerow(row)
-
-# ---------- MAIN ----------
-def main():
-    all_data = []
-    print(f"Fetching repos for owner: {OWNER}")
-    repos = get_repos(OWNER)
-    print(f"Found {len(repos)} repos")
-
-    for repo in repos:
-        name = repo.get('name')
-        if not name:
-            continue
-        print(f"Fetching traffic for repo: {name}")
-        traffic = get_traffic(OWNER, name)
-        all_data.append({
-            'repo': name,
-            'views': traffic.get('views', 0),
-            'clones': traffic.get('clones', 0)
-        })
-
-    print(f"Saving CSV to {OUTPUT_FILE}")
-    save_csv(all_data, OUTPUT_FILE)
-    print("Done")
-
-if __name__ == "__main__":
-    main()
+jobs:
+  log-traffic:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Run traffic logging script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+        run: |
+          python .github/workflows/traffic_logger.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add traffic_stats.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update traffic stats [skip ci]" && git push)
