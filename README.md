@@ -46,6 +46,22 @@ Copy/paste this read.me and Engine Source code in and see what they say.
 ## CAE ENGINE1
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/CAE-ENGINE1.json
 
+Old Testament path:    Hebrew (MT / DSS-aligned)  
+                       ↓  
+                       Greek (LXX)  
+                       ↓  
+                       Latin (Vulgate)  
+                       ↓  
+                       English (locked output)
+
+New Testament path:    Greek (NA28 / SBL / THGNT critical text)  
+                       ↓  
+                       Hebrew covenant-map (back-mapping key terms to OT Hebrew equivalents)  
+                       ↓  
+                       Latin (Vulgate)  
+                       ↓  
+                       English (locked output)
+
 ## Sample John 3:16
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/READ.ME/CAE-ENGINE-OUTPUT-SAMPLE1.md
 
