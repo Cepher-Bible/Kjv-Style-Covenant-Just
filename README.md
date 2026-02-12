@@ -71,6 +71,9 @@ https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technic
 ## Sample Romans 8:28 to 8:30 
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/READ.ME/CAE-ENGINE-ROMANS-8-28-30.md
 
+## EPHESIANS 5:25 TO 5:28
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/READ.ME/SAMPLE-OUTPUT-EPHISIANS.md
+
 ## The Self-Correcting Property
 This is the brilliant part (go test it):
 The Engine has built-in resistance to corruption.
