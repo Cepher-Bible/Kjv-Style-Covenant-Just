@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 
 import os
@@ -34,20 +33,29 @@ def get_repos(owner):
 
 def get_traffic(owner, repo_name):
     """Fetch traffic stats (views + clones) for a repo"""
-    stats = {}
-    endpoints = {
-        'views': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/views',
-        'clones': f'{API_BASE}/repos/{owner}/{repo_name}/traffic/clones'
+    stats = {
+        'views': 0,
+        'views_uniques': 0,
+        'clones': 0,
+        'clones_uniques': 0
     }
-    for key, url in endpoints.items():
-        resp = requests.get(url, headers={'Authorization': f'token {TOKEN}'})
-        if resp.status_code == 200:
-            json_data = resp.json()
-            stats[key] = json_data.get('count', 0)
-            stats[f'{key}_uniques'] = json_data.get('uniques', 0)
-        else:
-            stats[key] = 0
-            stats[f'{key}_uniques'] = 0
+    
+    # Get views
+    views_url = f'{API_BASE}/repos/{owner}/{repo_name}/traffic/views'
+    resp = requests.get(views_url, headers={'Authorization': f'token {TOKEN}'})
+    if resp.status_code == 200:
+        json_data = resp.json()
+        stats['views'] = json_data.get('count', 0)
+        stats['views_uniques'] = json_data.get('uniques', 0)
+    
+    # Get clones
+    clones_url = f'{API_BASE}/repos/{owner}/{repo_name}/traffic/clones'
+    resp = requests.get(clones_url, headers={'Authorization': f'token {TOKEN}'})
+    if resp.status_code == 200:
+        json_data = resp.json()
+        stats['clones'] = json_data.get('count', 0)
+        stats['clones_uniques'] = json_data.get('uniques', 0)
+    
     return stats
 
 def save_csv(data, filename):
@@ -81,10 +89,10 @@ def main():
         traffic = get_traffic(OWNER, name)
         all_data.append({
             'repo': name,
-            'views': traffic.get('views', 0),
-            'unique_views': traffic.get('views_uniques', 0),
-            'clones': traffic.get('clones', 0),
-            'unique_clones': traffic.get('clones_uniques', 0)
+            'views': traffic['views'],
+            'unique_views': traffic['views_uniques'],
+            'clones': traffic['clones'],
+            'unique_clones': traffic['clones_uniques']
         })
 
     print(f"Saving CSV to {OUTPUT_FILE}")
@@ -93,4 +101,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
