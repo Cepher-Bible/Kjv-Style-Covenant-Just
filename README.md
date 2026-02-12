@@ -10,6 +10,28 @@ This is a personal effort to present the Scriptures (the 66-book canon, with opt
 
 The translation draws directly from the Hebrew, Aramaic, and Greek originals, seeking to honor their theological depth, covenantal emphasis, and prophetic sharpness with as few liberties as possible.
 
+## Poetic take:
+
+Greek to English = fast.  
+But English is drunk.  
+
+It thinks "love" means "feelings."  
+It thinks "world" means "people."  
+It thinks "eternal" means "forever."  
+
+Hebrew keeps it sober.  
+Latin keeps it locked.  
+
+Without them, Greek hits English and melts.  
+
+With them, Greek hits English and cuts the gloss from Old Testament to New Testament.
+
+That’s the vector.  
+
+Not extra.  
+
+Necessary.
+
 ## Cluster Compression Methodology
 
 This isn't just "a translation with locked terms." It's a compression 
