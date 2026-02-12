@@ -721,12 +721,1013 @@ Ephesians 5:25-28 sits at the **CENTER** of the biblical tension between:
 - Goal = **wife's flourishing** (sanctify, present in splendor, v26-27) - NOT self-serving
 - Unity = **one flesh** (love wife as own body, v28-31) - NOT separate hierarchy
 
-**The polysemy is preserved.**  
-**The sacred voltage is maintained.**  
-**The mystery remains.**
+________________
+
+# **COVENANT ANCHOR ENGINE - SAMPLE OUTPUT**
+## **Ephesians 5:21-33: Complete Marriage Framework**
+## **When Spouse Is In Sin or Rebellion**
+
+**Engine Version:** 1.0.0-STABLE  
+**Philosophy:** Seed-to-Tree / Heat-Restored  
+**Date:** February 2026
 
 ---
 
-**Covenant Anchor Engine v1.0.0-STABLE**  
-**Seed-to-Tree / Heat-Restored**  
-**Polysemy Integrity: MAINTAINED**
+## **📖 CORE PASSAGE (COMPLETE CONTEXT)**
+
+### **Ephesians 5:21-33 (Engine Rendering)**
+
+> **<sup>21</sup> Arranging yourselves under one another in the fear of Christ, <sup>22</sup> wives to your own husbands as to the Lord. <sup>23</sup> Because the husband is the head of the wife even as Christ is the head of the Covenant-Assembly, Himself the Savior of the body. <sup>24</sup> But as the Covenant-Assembly is arranged under Christ, so also wives to their husbands in everything.**
+>
+> **<sup>25</sup> Husbands, Covenant-Love your wives, as Christ Covenant-Loved the Covenant-Assembly and gave Himself up for her, <sup>26</sup> that He might set her apart, having cleansed her by the washing of water with the word, <sup>27</sup> so that He might present the Covenant-Assembly to Himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. <sup>28</sup> In the same way husbands should Covenant-Love their wives as their own bodies. He who Covenant-Loves his wife Covenant-Loves himself. <sup>29</sup> For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the Covenant-Assembly, <sup>30</sup> because we are members of His body. <sup>31</sup> 'Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.' <sup>32</sup> This mystery is profound, and I am saying that it refers to Christ and the Covenant-Assembly. <sup>33</sup> However, let each one of you Covenant-Love his wife as himself, and let the wife fear her husband.**
+
+---
+
+## **Tri-Lock Validation**
+
+**Greek (NA28 - vv21-33):**
+> <sup>21</sup> ὑποτασσόμενοι ἀλλήλοις ἐν φόβῳ Χριστοῦ. <sup>22</sup> Αἱ γυναῖκες τοῖς ἰδίοις ἀνδράσιν ὡς τῷ κυρίῳ, <sup>23</sup> ὅτι ἀνήρ ἐστιν κεφαλὴ τῆς γυναικὸς ὡς καὶ ὁ Χριστὸς κεφαλὴ τῆς ἐκκλησίας, αὐτὸς σωτὴρ τοῦ σώματος. <sup>24</sup> ἀλλὰ ὡς ἡ ἐκκλησία ὑποτάσσεται τῷ Χριστῷ, οὕτως καὶ αἱ γυναῖκες τοῖς ἀνδράσιν ἐν παντί. <sup>25</sup> Οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας, καθὼς καὶ ὁ Χριστὸς ἠγάπησεν τὴν ἐκκλησίαν καὶ ἑαυτὸν παρέδωκεν ὑπὲρ αὐτῆς, <sup>26</sup> ἵνα αὐτὴν ἁγιάσῃ καθαρίσας τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήματι, <sup>27</sup> ἵνα παραστήσῃ αὐτὸς ἑαυτῷ ἔνδοξον τὴν ἐκκλησίαν, μὴ ἔχουσαν σπίλον ἢ ῥυτίδα ἤ τι τῶν τοιούτων, ἀλλ' ἵνα ᾖ ἁγία καὶ ἄμωμος. <sup>28</sup> οὕτως ὀφείλουσιν [καὶ] οἱ ἄνδρες ἀγαπᾶν τὰς ἑαυτῶν γυναῖκας ὡς τὰ ἑαυτῶν σώματα. ὁ ἀγαπῶν τὴν ἑαυτοῦ γυναῖκα ἑαυτὸν ἀγαπᾷ, <sup>29</sup> οὐδεὶς γάρ ποτε τὴν ἑαυτοῦ σάρκα ἐμίσησεν ἀλλὰ ἐκτρέφει καὶ θάλπει αὐτήν, καθὼς καὶ ὁ Χριστὸς τὴν ἐκκλησίαν, <sup>30</sup> ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ. <sup>31</sup> ἀντὶ τούτου καταλείψει ἄνθρωπος [τὸν] πατέρα καὶ [τὴν] μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν. <sup>32</sup> τὸ μυστήριον τοῦτο μέγα ἐστίν, ἐγὼ δὲ λέγω εἰς Χριστὸν καὶ εἰς τὴν ἐκκλησίαν. <sup>33</sup> πλὴν καὶ ὑμεῖς οἱ καθ' ἕνα ἕκαστος τὴν ἑαυτοῦ γυναῖκα οὕτως ἀγαπάτω ὡς ἑαυτόν, ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα.
+
+**Latin (Vulgate - vv21-33):**
+> <sup>21</sup> Subiecti invicem in timore Christi. <sup>22</sup> Mulieres viris suis subditae sint, sicut Domino: <sup>23</sup> quoniam vir caput est mulieris: sicut Christus caput est Ecclesiae: ipse, salvator corporis eius. <sup>24</sup> Sed sicut Ecclesia subiecta est Christo, ita et mulieres viris suis in omnibus. <sup>25</sup> Viri, diligite uxores vestras, sicut et Christus dilexit Ecclesiam, et seipsum tradidit pro ea, <sup>26</sup> ut illam sanctificaret, mundans lavacro aquae in verbo, <sup>27</sup> ut exhiberet ipse sibi gloriosam Ecclesiam, non habentem maculam, aut rugam, aut aliquid eiusmodi, sed ut sit sancta, et immaculata. <sup>28</sup> Ita et viri debent diligere uxores suas ut corpora sua. Qui suam uxorem diligit, seipsum diligit. <sup>29</sup> Nemo enim umquam carnem suam odio habuit: sed nutrit, et fovet eam, sicut et Christus Ecclesiam: <sup>30</sup> quia membra sumus corporis eius, de carne eius, et de ossibus eius. <sup>31</sup> Propter hoc relinquet homo patrem, et matrem suam, et adhaerebit uxori suae, et erunt duo in carne una. <sup>32</sup> Sacramentum hoc magnum est, ego autem dico in Christo, et in Ecclesia. <sup>33</sup> Verumtamen et vos singuli, unusquisque uxorem suam sicut seipsum diligat: uxor autem timeat virum suum.
+
+---
+
+## **Key Term Breakdown**
+
+| **Greek** | **Latin** | **CAE Lock** | **Rendering** |
+|-----------|-----------|--------------|---------------|
+| ὑποτασσόμενοι (hypotassomenoi) v21 | subiecti | — | **arranging under** |
+| ἀλλήλοις (allēlois) v21 | invicem | — | **one another** |
+| κεφαλή (kephalē) v23 | caput | — | **head** |
+| ἀγαπᾶτε (agapate) v25 | diligite | Cadence: love | **Covenant-Love** |
+| ἁγιάσῃ (hagiasē) v26 | sanctificaret | **Immutable: holy** | **set apart** |
+| ῥῆμα (rhēma) v26 | verbo | — | **word** |
+| ἐκτρέφει (ektrephei) v29 | nutrit | — | **nourishes** |
+| θάλπει (thalpei) v29 | fovet | — | **cherishes** |
+| φοβῆται (phobētai) v33 | timeat | — | **fear** |
+
+---
+
+# **⚡ FRAMEWORK: FOUR SCENARIOS**
+
+## **Scenario 1: Husband in Sin**
+## **Scenario 2: Wife in Sin**
+## **Scenario 3: Husband in Rebellion**
+## **Scenario 4: Wife in Rebellion**
+
+---
+
+# **SCENARIO 1: WHEN HUSBAND IS IN SIN**
+
+## **Wife's Biblical Responsibilities**
+
+---
+
+### **A. Primary Text: 1 Peter 3:1-6**
+
+**Engine Output:**
+> **"Likewise, wives, be arranged under to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives, when they see your respectful and pure conduct. Do not let your adorning be external—the braiding of hair and the putting on of gold jewelry, or the clothing you wear—but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious. For this is how the holy women who hoped in God used to adorn themselves, by arranging themselves under to their own husbands, as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening."**
+
+**Greek (1 Pet 3:1-6):**
+> Ὁμοίως [αἱ] γυναῖκες ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν, ἵνα καὶ εἴ τινες ἀπειθοῦσιν τῷ λόγῳ διὰ τῆς τῶν γυναικῶν ἀναστροφῆς ἄνευ λόγου κερδηθήσονται ἐποπτεύσαντες τὴν ἐν φόβῳ ἁγνὴν ἀναστροφὴν ὑμῶν· ὧν ἔστω οὐχ ὁ ἔξωθεν ἐμπλοκῆς τριχῶν καὶ περιθέσεως χρυσίων ἢ ἐνδύσεως ἱματίων κόσμος, ἀλλ' ὁ κρυπτὸς τῆς καρδίας ἄνθρωπος ἐν τῷ ἀφθάρτῳ τοῦ πραέως καὶ ἡσυχίου πνεύματος, ὅ ἐστιν ἐνώπιον τοῦ θεοῦ πολυτελές. οὕτως γάρ ποτε καὶ αἱ ἅγιαι γυναῖκες αἱ ἐλπίζουσαι εἰς θεὸν ἐκόσμουν ἑαυτάς, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν, ὡς Σάρρα ὑπήκουσεν τῷ Ἀβραάμ, κύριον αὐτὸν καλοῦσα· ἧς ἐγενήθητε τέκνα ἀγαθοποιοῦσαι καὶ μὴ φοβούμεναι μηδεμίαν πτόησιν.
+
+**Key Terms:**
+- **ἀπειθέω (apeitheō)** v1 = "disobey, be disobedient" (present participle - ongoing)
+- **τῷ λόγῳ (tō logō)** v1 = "the word" (Gospel/Scripture)
+- **ἄνευ λόγου (aneu logou)** v1 = "**without a word**" (silent witness)
+- **κερδαίνω (kerdainō)** v1 = "**win, gain**" (future passive - they will be won)
+- **ἀναστροφή (anastrophē)** v1-2 = "**conduct, behavior**" (daily life)
+- **πραΰς (prays)** v4 = "**gentle, meek**" (not weak - controlled strength)
+- **ἡσύχιος (hēsychios)** v4 = "**quiet, tranquil**" (peaceful spirit)
+
+---
+
+### **Critical Observations:**
+
+**1. Context: Disobedient Husband (v1)**
+- "Even if some do not obey the word" = **HUSBAND IN SIN**
+- ἀπειθοῦσιν (present tense) = ongoing disobedience (not one-time)
+- τῷ λόγῳ = the Gospel/Scripture (husband rejecting God's word)
+
+**2. Method: WITHOUT A WORD (v1)**
+- διὰ τῆς... ἀναστροφῆς = "**through the conduct**"
+- ἄνευ λόγου = "**without a word**" (no nagging, no preaching)
+- κερδηθήσονται (future passive) = "**they will be won**" (by God through her conduct)
+
+**3. What Wins Him: CONDUCT + FEAR + PURITY (v2)**
+- ἐποπτεύσαντες = "**having observed**" (he watches her life)
+- ἐν φόβῳ = "**in fear**" (reverential fear of God - Holy-Dread)
+- ἁγνή = "**pure**" (chaste, morally clean)
+
+**4. Adornment: INTERNAL not EXTERNAL (v3-4)**
+- **NOT** external (braiding, gold, clothes)
+- **BUT** hidden person of heart (ὁ κρυπτὸς τῆς καρδίας ἄνθρωπος)
+- **Gentle and quiet spirit** (πραέως καὶ ἡσυχίου πνεύματος)
+- **Very precious to God** (ἐνώπιον τοῦ θεοῦ πολυτελές)
+
+**5. Example: Sarah (v5-6)**
+- Holy women "arranged themselves under" husbands (ὑποτασσόμεναι)
+- Sarah **obeyed** Abraham (ὑπήκουσεν - aorist - she obeyed)
+- Called him **κύριον** (lord, master)
+- "You are her children IF you do good and do not fear" (conditional)
+
+---
+
+### **Wife's Response When Husband in Sin:**
+
+**What Scripture COMMANDS:**
+
+✅ **Continue arranging under** (ὑποτασσόμεναι v1 - present participle = keep doing)  
+✅ **Win him WITHOUT WORD** (ἄνευ λόγου v1 - silent witness)  
+✅ **Live pure, respectful conduct** (ἀναστροφή v2)  
+✅ **Gentle and quiet spirit** (πραΰς καὶ ἡσύχιος v4)  
+✅ **Do good** (ἀγαθοποιοῦσαι v6)  
+✅ **Do not fear** (μὴ φοβούμεναι v6 - don't be intimidated)  
+
+**What Scripture does NOT say:**
+
+❌ Leave him (no such instruction)  
+❌ Stop submitting (opposite - keep submitting)  
+❌ Nag him to repentance (opposite - "without a word")  
+❌ Refuse intimacy (1 Cor 7:3-5 forbids this)  
+❌ Publicly expose his sin (opposite - respectful conduct)  
+
+---
+
+### **B. Supporting Text: 1 Corinthians 7:13-16**
+
+**Engine Output:**
+> **"If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him. For the unbelieving husband is set apart through his wife, and the unbelieving wife is set apart through her husband. Otherwise your children would be unclean, but as it is, they are holy. But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you to peace. For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"**
+
+**Greek (1 Cor 7:13-16):**
+> καὶ γυνὴ εἴ τις ἔχει ἄνδρα ἄπιστον, καὶ οὗτος συνευδοκεῖ οἰκεῖν μετ' αὐτῆς, μὴ ἀφιέτω τὸν ἄνδρα· ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικί, καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ἀδελφῷ· ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν, νῦν δὲ ἅγιά ἐστιν. εἰ δὲ ὁ ἄπιστος χωρίζεται, χωριζέσθω· οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις· ἐν δὲ εἰρήνῃ κέκληκεν ὑμᾶς ὁ θεός. τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις; ἢ τί οἶδας, ἄνερ, εἰ τὴν γυναῖκα σώσεις;
+
+**Key Terms:**
+- **ἄπιστος (apistos)** v13 = "**unbeliever**" (faithless, without Loyal-Trust)
+- **συνευδοκέω (syneudokeō)** v13 = "**consents, is willing**"
+- **μὴ ἀφιέτω (mē aphietō)** v13 = "**do not divorce**" (present imperative negative)
+- **ἁγιάζω (hagiazō)** v14 = "**set apart**" (perfect passive - has been set apart)
+- **χωρίζω (chōrizō)** v15 = "**separate, divorce**"
+- **οὐ δεδούλωται (ou dedoulōtai)** v15 = "**not enslaved**" (perfect passive - not bound)
+- **σώζω (sōzō)** v16 = "**save**" (bring to salvation)
+
+---
+
+### **Critical Observations:**
+
+**1. Unbelieving Husband (v13)**
+- ἄπιστος = unbeliever (worse than "in sin" - rejects Gospel entirely)
+- Yet: "he consents to live with her" (συνευδοκεῖ οἰκεῖν)
+- Command: **DO NOT DIVORCE** (μὴ ἀφιέτω - present imperative negative)
+
+**2. Set Apart Through Wife (v14)**
+- Unbelieving husband **ἡγίασται** (perfect passive - "has been set apart")
+- **ἐν τῇ γυναικί** = "**through the wife**" (instrumental - she is the means)
+- Not saved YET, but set apart (consecrated, influenced toward holiness)
+- Children **ἅγιά** (holy) - covenant family status
+
+**3. If He Leaves (v15)**
+- εἰ... χωρίζεται = "if the unbeliever separates"
+- χωριζέσθω = "let him separate" (permission - don't force him to stay)
+- **οὐ δεδούλωται** = "**not enslaved**" (believing spouse free if abandoned)
+- "God has called you to peace" (not perpetual strife)
+
+**4. Hope of Saving Him (v16)**
+- τί οἶδας... εἰ τὸν ἄνδρα σώσεις = "**How do you know whether you will save your husband?**"
+- Rhetorical question = **HOPE** (you might save him by staying)
+- σώζω (save) = bring to salvation (Gospel hope)
+
+---
+
+### **Application to Husband in Sin:**
+
+**If husband in sin (1 Pet 3:1 scenario):**
+
+✅ **Stay with him** (1 Cor 7:13 - do not divorce)  
+✅ **He is set apart through you** (1 Cor 7:14 - your presence sanctifies)  
+✅ **Hope to save him** (1 Cor 7:16 - silent witness may win him)  
+✅ **Live at peace** (1 Cor 7:15 - God called to peace)  
+
+**Exception: If HE abandons (1 Cor 7:15):**
+- Let him go (χωριζέσθω)
+- Not enslaved (οὐ δεδούλωται - free to remarry - debated)
+
+---
+
+### **C. What About Confronting His Sin?**
+
+**Scripture does NOT command wife to confront husband's sin directly.**
+
+**But also does NOT forbid it (cautiously):**
+
+---
+
+#### **Matthew 18:15 (Brother Sins Against You)**
+
+**Engine Output:**
+> **"If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother."**
+
+**Greek:**
+> Ἐὰν δὲ ἁμαρτήσῃ [εἰς σὲ] ὁ ἀδελφός σου, ὕπαγε ἔλεγξον αὐτὸν μεταξὺ σοῦ καὶ αὐτοῦ μόνου. ἐάν σου ἀκούσῃ, ἐκέρδησας τὸν ἀδελφόν σου
+
+**Key Terms:**
+- **ἐλέγχω (elegchō)** = "**reprove, rebuke, expose**"
+- **μεταξύ σοῦ καὶ αὐτοῦ μόνου** = "**between you and him alone**" (private)
+- **κερδαίνω (kerdainō)** = "**gain**" (same verb as 1 Pet 3:1 "win")
+
+**Possible Application:**
+- If husband sins **AGAINST WIFE** (εἰς σέ - "against you")
+- Wife may go to him **PRIVATELY** (μόνου - alone)
+- **Reprove gently** (ἔλεγξον - show the fault)
+- Goal: **GAIN HIM** (ἐκέρδησας - same as 1 Pet 3:1)
+
+**CRITICAL CAVEATS:**
+
+**1. Spirit Matters (Galatians 6:1)**
+> **"Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness."**
+
+- Must be done in **πραΰτης** (gentleness) - same word as 1 Pet 3:4
+- "You who are spiritual" (ὑμεῖς οἱ πνευματικοί) - requires spiritual maturity
+- "Keep watch on yourself, lest you too be tempted" (self-examination first)
+
+**2. 1 Peter 3:1 Prioritizes Silent Witness**
+- "**Without a word**" (ἄνευ λόγου) = primary method
+- Conduct speaks louder than words
+- If you confront, do so **AFTER** much prayer, **RARELY**, **GENTLY**
+
+**3. Proverbs 21:9 Warning**
+> **"It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife."**
+
+**Hebrew:**
+> טוֹב לָשֶׁבֶת עַל־פִּנַּת־גָּג מֵאֵשֶׁת מִדְיָנִים וּבֵית חָבֶר
+
+- **מִדְיָנִים (midyanim)** = "contentions, strife, quarreling"
+- Nagging wife = drives husband away (opposite of 1 Pet 3:1 goal)
+
+---
+
+### **Summary: Wife When Husband in Sin**
+
+**PRIMARY METHOD (1 Pet 3:1-6):**
+✅ Silent witness (ἄνευ λόγου)  
+✅ Pure, respectful conduct (ἁγνὴ ἀναστροφή)  
+✅ Gentle, quiet spirit (πραΰς καὶ ἡσύχιος)  
+✅ Continue submitting (ὑποτασσόμεναι)  
+✅ Pray for him (implied)  
+✅ Trust God to win him (κερδηθήσονται - future passive - God's work)  
+
+**SECONDARY (IF NEEDED - Matt 18:15, Gal 6:1):**
+✅ Private, gentle confrontation (if sin against her)  
+✅ Rare (not nagging - Prov 21:9)  
+✅ In spirit of gentleness (πραΰτης - Gal 6:1)  
+✅ Self-examination first (Gal 6:1 "watch yourself")  
+
+**FORBIDDEN:**
+❌ Public exposure (violates Matt 18:15 private process)  
+❌ Nagging/quarreling (Prov 21:9)  
+❌ Withholding intimacy (1 Cor 7:3-5)  
+❌ Divorce (unless he abandons - 1 Cor 7:15)  
+❌ Rebellion/disrespect (opposite of ὑποτασσόμεναι)  
+
+---
+
+# **SCENARIO 2: WHEN WIFE IS IN SIN**
+
+## **Husband's Biblical Responsibilities**
+
+---
+
+### **A. Primary Text: Ephesians 5:25-27**
+
+**Engine Output (repeated for clarity):**
+> **"Husbands, Covenant-Love your wives, as Christ Covenant-Loved the Covenant-Assembly and gave Himself up for her, that He might set her apart, having cleansed her by the washing of water with the word, so that He might present the Covenant-Assembly to Himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish."**
+
+**Greek (Eph 5:25-27):**
+> Οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας, καθὼς καὶ ὁ Χριστὸς ἠγάπησεν τὴν ἐκκλησίαν καὶ ἑαυτὸν παρέδωκεν ὑπὲρ αὐτῆς, ἵνα αὐτὴν ἁγιάσῃ καθαρίσας τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήματι, ἵνα παραστήσῃ αὐτὸς ἑαυτῷ ἔνδοξον τὴν ἐκκλησίαν, μὴ ἔχουσαν σπίλον ἢ ῥυτίδα ἤ τι τῶν τοιούτων, ἀλλ' ἵνα ᾖ ἁγία καὶ ἄμωμος.
+
+**Key Terms:**
+- **ἀγαπᾶτε (agapate)** v25 = "Covenant-Love" (present imperative - ongoing command)
+- **παραδίδωμι (paradidōmi)** v25 = "**gave up, handed over**" (ἑαυτὸν παρέδωκεν - Himself)
+- **ἁγιάζω (hagiazō)** v26 = "**set apart, sanctify**" (aorist subjunctive - purpose)
+- **καθαρίζω (katharizō)** v26 = "**cleanse**" (aorist participle - having cleansed)
+- **ῥῆμα (rhēma)** v26 = "**word**" (spoken word, Scripture)
+- **σπίλος (spilos)** v27 = "**spot, stain**" (moral blemish)
+- **ῥυτίς (rhytis)** v27 = "**wrinkle**" (defect, imperfection)
+- **ἅγιος (hagios)** v27 = "**holy**" (set apart - immutable lock)
+- **ἄμωμος (amōmos)** v27 = "**without blemish**" (unblemished, perfect)
+
+---
+
+### **Critical Observations:**
+
+**1. Model: CHRIST'S LOVE (v25)**
+- "**AS** Christ loved church" (καθώς - comparative)
+- Not just "love your wife" but "love **AS CHRIST** loved"
+- Christ's love = **SACRIFICIAL** (ἑαυτὸν παρέδωκεν - gave Himself up)
+
+**2. Christ's PURPOSE: Sanctification (v26-27)**
+- **ἵνα αὐτὴν ἁγιάσῃ** = "**that He might set her apart**" (purpose clause)
+- Method: "washing of water **WITH THE WORD**" (ἐν ῥήματι)
+- NOT force, NOT violence, NOT harshness
+- **THE WORD** (ῥῆμα) = Scripture (cleanses through truth)
+
+**3. Christ's GOAL: Spotless Bride (v27)**
+- Present her **ἔνδοξον** (in splendor, glorious)
+- **WITHOUT** spot or wrinkle (μὴ ἔχουσαν σπίλον ἢ ῥυτίδα)
+- **BUT** holy and without blemish (ἵνα ᾖ ἁγία καὶ ἄμωμος)
+- Christ cares about church's **HOLINESS** (not just comfort)
+
+---
+
+### **Application to Wife in Sin:**
+
+**If Christ's model applies (and Paul says it does - v25):**
+
+✅ **Husband cares about wife's HOLINESS** (ἁγιάσῃ v26)  
+✅ **Method: THE WORD** (ἐν ῥήματι v26 - Scripture, not force)  
+✅ **Goal: Spotless** (σπίλος = moral stains removed)  
+✅ **Love throughout** (ἀγαπᾶτε v25 - keep loving even while she has "spots")  
+
+**What this does NOT mean:**
+❌ Ignore her sin (Christ didn't ignore church's sin - He cleanses it)  
+❌ Codependency (enabling sin ≠ Christ's sanctifying work)  
+❌ Harsh domination (Christ's method = word + sacrifice, not force)  
+
+---
+
+### **B. Supporting Text: Colossians 3:19**
+
+**Engine Output:**
+> **"Husbands, Covenant-Love your wives, and do not be harsh with them."**
+
+**Greek:**
+> Οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας καὶ μὴ πικραίνεσθε πρὸς αὐτάς.
+
+**Key Terms:**
+- **ἀγαπᾶτε (agapate)** = "Covenant-Love" (present imperative)
+- **μὴ πικραίνεσθε (mē pikrainesthe)** = "**do not be harsh**" (present imperative negative - **FORBIDDEN**)
+- **πικραίνω (pikrainō)** = "make bitter, embitter, be harsh"
+
+---
+
+### **Critical: ABSOLUTE PROHIBITION**
+
+**μὴ πικραίνεσθε** = present imperative negative
+- NOT just "don't start being harsh"
+- "**STOP being harsh**" (if already doing) or "**NEVER be harsh**" (if not)
+- **NO EXCEPTIONS** (even if wife in sin)
+
+**What is πικραίνω (harshness)?**
+- Physical abuse (beating, hitting, pushing)
+- Verbal abuse (yelling, belittling, cursing)
+- Emotional abuse (manipulation, intimidation, threats)
+- Bitterness (resentment, holding grudges)
+
+**Even when wife in sin:**
+✅ Love (ἀγαπᾶτε)  
+⛔ No harshness (μὴ πικραίνεσθε)  
+
+---
+
+### **C. Supporting Text: 1 Peter 3:7**
+
+**Engine Output:**
+> **"Likewise, husbands, live with your wives according to knowledge, giving honor to the woman as the weaker vessel, since they are heirs with you of the covenant-favor of life, so that your prayers may not be hindered."**
+
+**Greek:**
+> Οἱ ἄνδρες ὁμοίως συνοικοῦντες κατὰ γνῶσιν, ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ ἀπονέμοντες τιμήν, ὡς καὶ συγκληρονόμοις χάριτος ζωῆς, εἰς τὸ μὴ ἐγκόπτεσθαι τὰς προσευχὰς ὑμῶν.
+
+**Key Terms:**
+- **κατὰ γνῶσιν (kata gnōsin)** = "**according to knowledge**" (wisdom, understanding)
+- **ἀσθενής (asthenēs)** = "**weak, frail**" (comparative - weaker)
+- **σκεῦος (skeuos)** = "**vessel, container**" (metaphor)
+- **ἀπονέμω (aponemō)** = "**give, assign, bestow**" (present participle - keep doing)
+- **τιμή (timē)** = "**HONOR, respect, value**"
+- **ἐγκόπτω (egkoptō)** = "**hinder, cut off, block**"
+
+---
+
+### **Critical Observations:**
+
+**1. Live According to Knowledge (κατὰ γνῶσιν)**
+- γνῶσις = understanding, wisdom, discernment
+- Know your wife (understand her needs, weaknesses, struggles)
+- Not ignorance (know her situation)
+
+**2. Weaker Vessel (ἀσθενεστέρῳ σκεύει)**
+- Comparative: "weaker" (than husband - generally physically)
+- Therefore requires **MORE CARE** (not less, not abuse)
+- Like handling fine china (fragile = careful handling)
+
+**3. GIVE HONOR (ἀπονέμοντες τιμήν)**
+- Present participle = **KEEP GIVING** honor
+- τιμή = respect, value, esteem
+- **NOT conditional** on her behavior (even if in sin)
+
+**4. Co-Heirs (συγκληρονόμοις)**
+- "**Joint heirs**" of grace of life
+- **EQUAL** before God (ontological equality)
+- Not inferior (vessel metaphor ≠ less valuable)
+
+**5. WARNING: Prayers Hindered (μὴ ἐγκόπτεσθαι τὰς προσευχάς)**
+- εἰς τὸ μή = "**SO THAT NOT**" (negative purpose clause)
+- If you dishonor wife → **GOD WILL NOT HEAR YOUR PRAYERS**
+- Serious consequence (prayer access cut off)
+
+---
+
+### **Application to Wife in Sin:**
+
+**Even when wife in sin:**
+
+✅ **Live with her according to knowledge** (understand her situation)  
+✅ **GIVE HONOR** (ἀπονέμοντες τιμήν - present tense = keep honoring)  
+✅ **Treat as weaker vessel** (more care, not less)  
+✅ **Remember: co-heir** (equal before God)  
+
+**If you fail:**
+⛔ **God will not hear your prayers** (ἐγκόπτεσθαι τὰς προσευχάς)  
+
+---
+
+### **D. How to Address Wife's Sin: Galatians 6:1**
+
+**Engine Output (repeated):**
+> **"Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted."**
+
+**Greek:**
+> Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς.
+
+**Key Terms:**
+- **προλαμβάνω (prolambanō)** = "**caught, overtaken**" (aorist passive subjunctive)
+- **παράπτωμα (paraptōma)** = "**transgression, trespass, false step**"
+- **πνευματικός (pneumatikos)** = "**spiritual**" (Spirit-led, mature)
+- **καταρτίζω (katartizō)** = "**restore, mend, make complete**" (like mending nets - Mark 1:19)
+- **πραΰτης (prautēs)** = "**GENTLENESS, meekness**" (controlled strength)
+- **σκοπέω (skopeō)** = "**keep watch, pay attention**"
+
+---
+
+### **Process for Husband When Wife in Sin:**
+
+**1. QUALIFICATION: Be Spiritual (ὑμεῖς οἱ πνευματικοί)**
+- NOT "you who are sinless"
+- BUT "you who are **SPIRIT-LED**" (walking by Spirit - Gal 5:16,25)
+- Implies: Can't restore while in unrepentant sin yourself
+
+**2. GOAL: RESTORE (καταρτίζετε)**
+- καταρτίζω = mend, repair (fishing net metaphor)
+- NOT punish, NOT shame, NOT dominate
+- **RESTORE** her to wholeness, holiness, fellowship with God
+
+**3. METHOD: GENTLENESS (ἐν πνεύματι πραΰτητος)**
+- **ἐν πνεύματι** = "in a spirit of" (manner/attitude)
+- **πραΰτης** = **GENTLENESS** (same word as 1 Pet 3:4 - gentle spirit)
+- NOT harsh (Col 3:19 forbids), NOT domineering
+
+**4. SELF-EXAMINATION (σκοπῶν σεαυτόν)**
+- Present participle = **KEEP WATCHING YOURSELF**
+- "lest you too be tempted" (μὴ καὶ σὺ πειρασθῇς)
+- Temptations when correcting: pride, self-righteousness, harshness, control
+
+---
+
+### **Matthew 7:3-5 (Log in Own Eye)**
+
+**Engine Output:**
+> **"Why do you see the speck in your brother's eye, but do not notice the log in your own eye? Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye."**
+
+**Greek:**
+> τί δὲ βλέπεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου, τὴν δὲ ἐν τῷ σῷ ὀφθαλμῷ δοκὸν οὐ κατανοεῖς; ἢ πῶς ἐρεῖς τῷ ἀδελφῷ σου· ἄφες ἐκβάλω τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ σου, καὶ ἰδοὺ ἡ δοκὸς ἐν τῷ ὀφθαλμῷ σοῦ; ὑποκριτά, ἔκβαλε πρῶτον ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν, καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου.
+
+**Key Terms:**
+- **κάρφος (karphos)** = "**speck, splinter**" (tiny piece of wood/straw)
+- **δοκός (dokos)** = "**LOG, BEAM**" (massive wooden beam)
+- **ὑποκριτής (hypokritēs)** = "**hypocrite**" (actor, pretender)
+- **πρῶτον (prōton)** = "**FIRST**" (before anything else)
+
+---
+
+### **Application to Husband Addressing Wife's Sin:**
+
+**BEFORE addressing wife's sin (speck):**
+
+**1. EXAMINE YOUR OWN SIN (log) - FIRST (πρῶτον)**
+- Are you in unrepentant sin?
+- Is YOUR sin worse than hers?
+- Are you being hypocrite (ὑποκριτής)?
+
+**2. REMOVE YOUR LOG**
+- Confess YOUR sin to God
+- Repent of YOUR sin
+- Get YOUR life right first
+
+**3. THEN (τότε) - ONLY THEN:**
+- "**Then you will see clearly**" (τότε διαβλέψεις)
+- Clear vision to help her (not blind leading blind)
+
+---
+
+### **Summary: Husband When Wife in Sin**
+
+**COMMANDED:**
+
+✅ **Keep Covenant-Loving her** (Eph 5:25 - ἀγαπᾶτε)  
+✅ **Care about her holiness** (Eph 5:26-27 - ἁγιάσῃ, ἅγιος)  
+✅ **Use THE WORD** (Eph 5:26 - ἐν ῥήματι - Scripture, not force)  
+✅ **Give honor** (1 Pet 3:7 - ἀπονέμοντες τιμήν)  
+✅ **Restore gently** (Gal 6:1 - πραΰτης)  
+✅ **Self-examination FIRST** (Matt 7:3-5 - πρῶτον remove YOUR log)  
+
+**FORBIDDEN:**
+
+⛔ **Harshness** (Col 3:19 - μὴ πικραίνεσθε - **ABSOLUTE PROHIBITION**)  
+⛔ **Dishonor** (1 Pet 3:7 - opposite of τιμή)  
+⛔ **Correcting while in unrepentant sin yourself** (Matt 7:5 - hypocrite)  
+⛔ **Physical/verbal/emotional abuse** (violates Col 3:19, 1 Pet 3:7)  
+
+**WARNING:**
+⚠️ If you dishonor wife → **God will not hear your prayers** (1 Pet 3:7 - ἐγκόπτεσθαι τὰς προσευχάς)
+
+---
+
+# **SCENARIO 3: WHEN HUSBAND IN REBELLION**
+
+## **Wife's Biblical Response**
+
+**"Rebellion" = persistent, unrepentant sin + refusal to submit to God's word**
+
+---
+
+### **A. When Does Submission End?**
+
+**Scripture gives LIMITED exceptions:**
+
+---
+
+#### **Acts 5:29 (Obey God Rather Than Men)**
+
+**Engine Output:**
+> **"But Peter and the apostles answered, 'We must obey God rather than men.'"**
+
+**Greek:**
+> ἀποκριθεὶς δὲ Πέτρος καὶ οἱ ἀπόστολοι εἶπαν· πειθαρχεῖν δεῖ θεῷ μᾶλλον ἢ ἀνθρώποις.
+
+**Key Terms:**
+- **πειθαρχέω (peitharcheō)** = "**obey, submit to authority**"
+- **δεῖ (dei)** = "**MUST**" (necessity, obligation)
+- **μᾶλλον ἤ (mallon ē)** = "**rather than**" (preference, priority)
+
+**Principle:**
+- When human authority commands **SIN** → Obey God instead
+- God's authority > human authority (always)
+
+---
+
+#### **Daniel 3:16-18 (Three Hebrews Refuse Idol)**
+
+**Engine Output:**
+> **"Shadrach, Meshach, and Abednego answered and said to the king, 'O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and He will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.'"**
+
+**Hebrew (Dan 3:16-18 - Aramaic section):**
+> עֲנוֹ שַׁדְרַךְ מֵישַׁךְ וַעֲבֵד נְגוֹ וְאָמְרִין לְמַלְכָּא...לָא אִיתַי עֲלָנָא צָרְכָא לַהֲתָבוּתָךְ עַל־דְּנָה פִּתְגָם...לָהֵן אִיתַי אֱלָהָנָא דִּי־אֲנַחְנָא פָלְחִין יָכִל לְשֵׁיזָבוּתָנָא...וְהֵן לָא...לֵאלָהָיךְ לָא־אִיתַנָא פָלְחִין
+
+**Principle:**
+- King commands idol worship (sin against 1st commandment)
+- They refuse (civil disobedience)
+- Accept consequences (fiery furnace)
+- God delivers (but were willing to die)
+
+---
+
+#### **Application: When Husband Commands Wife to Sin**
+
+**IF husband commands:**
+- Worship idol (violates 1st commandment)
+- Commit adultery/sexual sin (violates 7th commandment)
+- Abort child (violates 6th commandment - "do not murder")
+- Lie/steal/blaspheme (violates commandments)
+- Abandon worship/church (violates Heb 10:25)
+
+**THEN wife MUST:**
+✅ **Obey God rather than husband** (Acts 5:29)  
+✅ **Refuse to sin** (even if consequences)  
+✅ **Accept persecution** (Dan 3 - willing to die)  
+
+**But STILL:**
+✅ **Respectful refusal** (Dan 3:16 - "O king" - still honored title)  
+✅ **No rebellion for rebellion's sake** (only when commanded to sin)  
+✅ **Trust God for deliverance** (Dan 3:17-18)  
+
+---
+
+### **B. When Husband Demands Wife Sin: 1 Peter 3:1 Still Applies**
+
+**Critical: EVEN IF HUSBAND IN REBELLION:**
+
+**1 Peter 3:1** still says:
+- "so that even if some **do not obey the word**" (ἀπειθοῦσιν τῷ λόγῳ)
+- "they may be **won without a word**" (ἄνευ λόγου κερδηθήσονται)
+- "by the **conduct** of their wives" (διὰ τῆς... ἀναστροφῆς)
+
+**Meaning:**
+- Even REBELLIOUS, DISOBEDIENT husband
+- May be **WON** by wife's silent, godly conduct
+- Not by nagging, not by leaving, but by **CONDUCT**
+
+---
+
+### **C. When Is Separation Permitted?**
+
+**1 Corinthians 7:10-11**
+
+**Engine Output:**
+> **"To the married I give this charge (not I, but the Lord): the wife should not separate from her husband (but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife."**
+
+**Greek:**
+> Τοῖς δὲ γεγαμηκόσιν παραγγέλλω, οὐκ ἐγὼ ἀλλὰ ὁ κύριος, γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι – ἐὰν δὲ καὶ χωρισθῇ, μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω – καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι.
+
+**Key Terms:**
+- **χωρίζω (chōrizō)** = "**separate**" (not full divorce, but physical separation)
+- **μενέτω ἄγαμος (menetō agamos)** = "**remain unmarried**" (present imperative)
+- **καταλλάσσω (katallassō)** = "**be reconciled**" (aorist passive imperative)
+
+---
+
+### **Critical Observations:**
+
+**1. General Command: DO NOT SEPARATE**
+- μὴ χωρισθῆναι (aorist passive infinitive - negative)
+- Lord's command (ὁ κύριος) - not just Paul's opinion
+
+**2. IF Separation Happens (ἐὰν δὲ καὶ χωρισθῇ)**
+- Conditional: "**IF** she does separate"
+- Implies permission in SOME cases (though discouraged)
+- Two options ONLY:
+  - **REMAIN UNMARRIED** (μενέτω ἄγαμος)
+  - **OR be reconciled** (ἢ... καταλλαγήτω)
+
+**3. NO Remarriage Permitted**
+- ἄγαμος = unmarried (not free to remarry)
+- Only reconciliation to original husband allowed
+
+---
+
+### **When Might Separation Be Warranted?**
+
+**Scripture does NOT give explicit list, but principles suggest:**
+
+**1. Physical Danger**
+- Proverbs 22:3 - "The prudent sees danger and hides himself"
+- If husband physically abusive → separation protects life
+- NOT divorce (remain unmarried or reconcile)
+
+**2. Severe Unrepentant Sin**
+- 1 Corinthians 5:11 - "not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler—not even to eat with such a one"
+- If husband in severe, unrepentant sin → separation may be warranted
+- Goal: Bring him to repentance (like church discipline)
+
+**3. Abandonment (1 Cor 7:15)**
+- "If the unbelieving partner separates, let it be so"
+- If HE leaves → she is "not enslaved" (οὐ δεδούλωται)
+
+---
+
+### **What Separation Is NOT:**
+
+❌ Excuse to remarry (μενέτω ἄγαμος - remain unmarried)  
+❌ Permanent solution (goal = reconciliation - καταλλαγήτω)  
+❌ Punishment for minor offense (separation = last resort)  
+❌ Escape from difficulty (1 Pet 3:1 - stay and win him)  
+
+---
+
+### **Summary: Wife When Husband in Rebellion**
+
+**GENERAL RULE:**
+✅ **Stay** (1 Pet 3:1 - even if disobedient to word)  
+✅ **Win without word** (ἄνευ λόγου - silent witness)  
+✅ **Pure conduct** (ἁγνὴ ἀναστροφή)  
+✅ **Gentle spirit** (πραΰτης)  
+✅ **Trust God to change him** (κερδηθήσονται - future passive)  
+
+**EXCEPTIONS (Obey God Rather Than Man):**
+✅ **IF** husband commands sin → **Refuse** (Acts 5:29)  
+✅ **IF** physical danger → **Separate** (Prov 22:3, 1 Cor 7:10-11)  
+✅ **IF** he abandons → **Not enslaved** (1 Cor 7:15)  
+
+**IF SEPARATED:**
+✅ **Remain unmarried** (μενέτω ἄγαμος - 1 Cor 7:11)  
+✅ **Seek reconciliation** (καταλλαγήτω - 1 Cor 7:11)  
+✅ **Pray for his repentance** (implied)  
+
+**NEVER:**
+❌ Remarry (unless he dies - Rom 7:2-3)  
+❌ Separate for trivial reasons  
+❌ Give up hope of winning him (1 Pet 3:1 - may be won)  
+
+---
+
+# **SCENARIO 4: WHEN WIFE IN REBELLION**
+
+## **Husband's Biblical Response**
+
+**"Rebellion" = persistent, unrepentant sin + refusal to submit to God's word**
+
+---
+
+### **A. Husband's Continued Responsibility: Love (Eph 5:25)**
+
+**CRITICAL: Command to love is NOT CONDITIONAL**
+
+**Ephesians 5:25:**
+> **"Husbands, Covenant-Love your wives, as Christ Covenant-Loved the Covenant-Assembly."**
+
+**Observations:**
+
+**1. NO Condition Given**
+- NOT "love IF she submits"
+- NOT "love IF she is obedient"
+- Just: "**LOVE**" (ἀγαπᾶτε - present imperative)
+
+**2. Christ's Model**
+- Christ loved church WHILE she was sinful (Rom 5:8)
+- "While we were still sinners, Christ died for us"
+- NOT after she was perfect, WHILE she was rebellious
+
+**3. Therefore:**
+✅ **Keep loving even if wife rebellious** (Christ's model)  
+✅ **Sacrificial love continues** (ἑαυτὸν παρέδωκεν - gave Himself)  
+✅ **Goal: Her sanctification** (ἁγιάσῃ - set her apart)  
+
+---
+
+### **B. Church Discipline Principles Apply**
+
+**Matthew 18:15-17 (Full Process)**
+
+**Engine Output:**
+> **"If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother. But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses. If he refuses to listen to them, tell it to the Covenant-Assembly. And if he refuses to listen even to the Covenant-Assembly, let him be to you as a Gentile and a tax collector."**
+
+**Greek (Matt 18:15-17):**
+> Ἐὰν δὲ ἁμαρτήσῃ [εἰς σὲ] ὁ ἀδελφός σου, ὕπαγε ἔλεγξον αὐτὸν μεταξὺ σοῦ καὶ αὐτοῦ μόνου. ἐάν σου ἀκούσῃ, ἐκέρδησας τὸν ἀδελφόν σου· ἐὰν δὲ μὴ ἀκούσῃ, παράλαβε μετὰ σοῦ ἔτι ἕνα ἢ δύο, ἵνα ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα· ἐὰν δὲ παρακούσῃ αὐτῶν, εἰπὲ τῇ ἐκκλησίᾳ· ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ, ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης.
+
+---
+
+### **Four-Step Process:**
+
+**STEP 1: PRIVATE CONFRONTATION (v15)**
+- "between you and him **ALONE**" (μεταξὺ σοῦ καὶ αὐτοῦ μόνου)
+- ἔλεγξον (reprove, show the fault)
+- Goal: "**gained your brother**" (ἐκέρδησας - aorist - you won him back)
+
+**STEP 2: TWO OR THREE WITNESSES (v16)**
+- **IF** he does not listen (ἐὰν δὲ μὴ ἀκούσῃ)
+- Take **ONE OR TWO** others (ἕνα ἢ δύο)
+- "that every charge may be established" (ἵνα... σταθῇ πᾶν ῥῆμα)
+- Deuteronomy 19:15 principle (two-three witnesses required)
+
+**STEP 3: TELL THE CHURCH (v17a)**
+- **IF** refuses witnesses (ἐὰν δὲ παρακούσῃ αὐτῶν)
+- "tell it to the Covenant-Assembly" (εἰπὲ τῇ ἐκκλησίᾳ)
+- Church gets involved (formal discipline)
+
+**STEP 4: TREAT AS UNBELIEVER (v17b)**
+- **IF** refuses church (ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ)
+- "let him be to you as a Gentile and tax collector" (ὡσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης)
+- Meaning: **EXCOMMUNICATION** (remove from fellowship)
+
+---
+
+### **Application to Wife in Rebellion:**
+
+**STEP 1: Private, Gentle Confrontation**
+- Husband goes to wife alone
+- Spirit of gentleness (Gal 6:1 - πραΰτης)
+- Goal: Win her back (κερδαίνω)
+
+**STEP 2: Witnesses (Elders/Mature Believers)**
+- IF she refuses private confrontation
+- Bring godly witnesses (elders, mature women - Titus 2:3-4)
+- NOT public embarrassment, but accountability
+
+**STEP 3: Church Discipline**
+- IF refuses witnesses
+- Bring to church leadership (elders)
+- Formal church discipline process
+
+**STEP 4: Separation (Last Resort)**
+- IF refuses church
+- Husband may need to separate (1 Cor 7:10-11 principles)
+- Goal: Bring to repentance (NOT permanent rejection)
+
+---
+
+### **C. 1 Corinthians 5:9-11 (Do Not Associate)**
+
+**Engine Output:**
+> **"I wrote to you in my letter not to associate with sexually immoral people—not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters, since then you would need to go out of the world. But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler—not even to eat with such a one."**
+
+**Greek (1 Cor 5:11):**
+> νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν.
+
+**Key Terms:**
+- **συναναμίγνυμι (synanamignymi)** = "**associate with, mix with**" (present infinitive)
+- **ἀδελφός (adelphos)** = "**brother**" (professing believer)
+- **πόρνος (pornos)** = "sexually immoral"
+- **πλεονέκτης (pleonektēs)** = "greedy, covetous"
+- **εἰδωλολάτρης (eidōlolatrēs)** = "idolater"
+- **λοίδορος (loidoros)** = "**reviler, verbally abusive**"
+- **μέθυσος (methysos)** = "drunkard"
+- **ἅρπαξ (harpax)** = "swindler, robber"
+
+---
+
+### **Critical: "Not Even to Eat" (μηδὲ συνεσθίειν)**
+
+**Most severe form of separation:**
+- NOT just avoid church fellowship
+- "**Not even to eat**" = no table fellowship
+- Ancient world: sharing meal = deepest fellowship
+- Paul: **CUT OFF** social contact with unrepentant professing believer
+
+---
+
+### **Application to Wife in Severe Rebellion:**
+
+**IF wife professes Christ BUT:**
+- Sexually immoral (πόρνος - ongoing adultery, etc.)
+- Greedy/covetous (πλεονέκτης - idolatry per Col 3:5)
+- Idolater (εἰδωλολάτρης - worships false gods)
+- Verbally abusive (λοίδορος - reviling, slandering)
+- Drunkard (μέθυσος - habitual drunkenness)
+- Swindler (ἅρπαξ - stealing, fraud)
+
+**AND refuses to repent after church discipline (Matt 18:15-17)**
+
+**THEN:**
+✅ **Separation warranted** (1 Cor 5:11 - μὴ συναναμίγνυσθαι)  
+✅ **"Not even to eat"** (social separation)  
+✅ **Goal: Bring to repentance** (1 Cor 5:5 - "deliver to Satan for destruction of flesh, that spirit may be saved")  
+
+**BUT STILL:**
+✅ **Remain married** (1 Cor 7:10-11 - no remarriage)  
+✅ **Hope for reconciliation** (καταλλαγή - goal)  
+✅ **Pray for her** (implied)  
+
+---
+
+### **D. What Husband May NOT Do**
+
+**Even if wife in severe rebellion:**
+
+---
+
+#### **1. May NOT Be Harsh (Colossians 3:19)**
+
+⛔ **μὴ πικραίνεσθε** (do not be harsh) - **ABSOLUTE PROHIBITION**
+
+**No exceptions** (even if she is rebellious)
+
+---
+
+#### **2. May NOT Dishonor Her (1 Peter 3:7)**
+
+⛔ Must **GIVE HONOR** (ἀπονέμοντες τιμήν)
+
+**Even in rebellion:**
+- Still weaker vessel (requires care)
+- Still co-heir (equal before God)
+- Still deserves honor (τιμή - respect)
+
+**Warning:** If you dishonor → prayers hindered
+
+---
+
+#### **3. May NOT Stop Loving (Ephesians 5:25)**
+
+⛔ Must **COVENANT-LOVE** (ἀγαπᾶτε)
+
+**Christ's model:**
+- Loved church WHILE sinful
+- Gave Himself WHILE she was rebellious
+- Husband must do same
+
+---
+
+#### **4. May NOT Divorce (Except Fornication)**
+
+**Matthew 19:9**
+
+**Engine Output:**
+> **"And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery."**
+
+**Greek:**
+> λέγω δὲ ὑμῖν ὅτι ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ μὴ ἐπὶ πορνείᾳ καὶ γαμήσῃ ἄλλην μοιχᾶται.
+
+**Key Terms:**
+- **ἀπολύω (apolyō)** = "**divorce, send away**"
+- **μὴ ἐπὶ πορνείᾳ (mē epi porneia)** = "**except for sexual immorality**"
+- **πορνεία (porneia)** = "sexual immorality, fornication" (broad term - adultery, etc.)
+- **μοιχάω (moichaō)** = "commits adultery"
+
+**Meaning:**
+- General rule: **NO DIVORCE**
+- Exception: **πορνεία** (sexual immorality)
+- IF divorce for other reason + remarry = **ADULTERY**
+
+**Application:**
+- Rebellion alone ≠ grounds for divorce
+- **ONLY πορνεία** (sexual immorality) permits divorce
+- Even then: reconciliation preferred (1 Cor 7:11)
+
+---
+
+### **Summary: Husband When Wife in Rebellion**
+
+**CONTINUE:**
+✅ **Covenant-Love** (Eph 5:25 - ἀγαπᾶτε - NOT conditional)  
+✅ **Give honor** (1 Pet 3:7 - τιμή - even if rebellious)  
+✅ **Care about holiness** (Eph 5:26-27 - ἁγιάσῃ)  
+✅ **Use the WORD** (Eph 5:26 - ἐν ῥήματι - Scripture)  
+✅ **Gentle restoration** (Gal 6:1 - πραΰτης)  
+
+**PROCESS (If Unrepentant):**
+1. **Private confrontation** (Matt 18:15 - μεταξὺ σοῦ καὶ αὐτοῦ μόνου)
+2. **Witnesses** (Matt 18:16 - two or three)
+3. **Church discipline** (Matt 18:17a - tell church)
+4. **Separation** (Matt 18:17b + 1 Cor 5:11 - last resort)
+
+**FORBIDDEN:**
+⛔ **Harshness** (Col 3:19 - μὴ πικραίνεσθε)  
+⛔ **Dishonor** (1 Pet 3:7 - must give τιμή)  
+⛔ **Stop loving** (Eph 5:25 - love not conditional)  
+⛔ **Divorce** (unless πορνεία - Matt 19:9)  
+
+**GOAL:**
+✅ **Bring her to repentance** (1 Cor 5:5 - save spirit)  
+✅ **Reconciliation** (1 Cor 7:11 - καταλλαγή)  
+✅ **Her sanctification** (Eph 5:26-27 - ἁγιάσῃ)  
+
+---
+
+# **⚖️ CONCLUSION: THE BIBLICAL BALANCE**
+
+## **Mutual Responsibilities (Even in Sin/Rebellion)**
+
+### **Wife's Responsibilities:**
+✅ Arrange under (ὑποτασσόμεναι - Eph 5:22, 1 Pet 3:1)  
+✅ Respectful conduct (ἀναστροφή - 1 Pet 3:2)  
+✅ Gentle, quiet spirit (πραΰς καὶ ἡσύχιος - 1 Pet 3:4)  
+✅ Win without word (ἄνευ λόγου - 1 Pet 3:1)  
+✅ Fear husband (φοβῆται - Eph 5:33)  
+✅ **EXCEPTION:** Obey God if husband commands sin (Acts 5:29)  
+
+### **Husband's Responsibilities:**
+✅ Covenant-Love (ἀγαπᾶτε - Eph 5:25,33)  
+✅ Give self sacrificially (ἑαυτὸν παρέδωκεν - Eph 5:25)  
+✅ Sanctify with word (ἁγιάσῃ ἐν ῥήματι - Eph 5:26)  
+✅ Nourish and cherish (ἐκτρέφει καὶ θάλπει - Eph 5:29)  
+✅ Give honor (ἀπονέμοντες τιμήν - 1 Pet 3:7)  
+⛔ **NO harshness** (μὴ πικραίνεσθε - Col 3:19)  
+
+---
+
+## **The Hard Truth**
+
+**Scripture does NOT give:**
+- Easy way out when spouse in sin
+- Permission to abandon marriage quickly
+- Conditional love (love only if...)
+- Excuse to be harsh
+
+**Scripture DOES give:**
+- Hard commands (submit even if disobedient husband, love even if rebellious wife)
+- Hope of winning spouse (1 Pet 3:1, Eph 5:26-27)
+- Process for severe cases (Matt 18:15-17, 1 Cor 5:11)
+- Warning of consequences (1 Pet 3:7 - prayers hindered if harsh)
+
+---
+
+## **The Christ Model (Central to All)**
+
+**Ephesians 5:32:**
+> **"This mystery is profound, and I am saying that it refers to Christ and the Covenant-Assembly."**
+
+**Marriage = ICON of Christ + Church:**
+- Husband = Christ (head, lover, sanctifier)
+- Wife = Church (body, beloved, sanctified)
+- Both fall short of model (both sin)
+- Both called to reflect Christ (in their roles)
+
+**Christ's Example:**
+- Loved church WHILE sinful (Rom 5:8)
+- Gave Himself WHILE she was rebellious
+- Sanctified her BY THE WORD (Eph 5:26)
+- Goal: Spotless bride (Eph 5:27)
+
+**Application:**
+- Husband loves wife even if she sins/rebels (Christ's model)
+- Wife submits to husband even if he sins/rebels (Church's model)
+- Both trust God to change the other (1 Pet 3:1-2, Eph 5:26-27)
