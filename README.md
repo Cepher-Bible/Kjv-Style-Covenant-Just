@@ -62,6 +62,9 @@ New Testament path:    Greek (NA28 / SBL / THGNT critical text)
                        ↓  
                        English (locked output)
 
+## SAMPLE OVERVIEW - POLYSEMY 
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/READ.ME/SAMPLE-OUTPUT.md
+
 ## Sample John 3:16
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/READ.ME/CAE-ENGINE-OUTPUT-SAMPLE1.md
 
