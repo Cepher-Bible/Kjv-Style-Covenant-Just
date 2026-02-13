@@ -42,6 +42,7 @@ cluster coherence degrades.
 ## The Quick LLM Test
 
 Copy/paste this read.me and Engine Source code in and see what they say.
+(LLMs/Ai is increasing overriding the cords and locks and make more and more drift, so be careful with them)
 
 ## CAE ENGINE1
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/ENGINE/Technicals/ENGINE1/CAE-ENGINE1.json
