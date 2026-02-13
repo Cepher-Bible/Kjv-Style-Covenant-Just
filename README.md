@@ -32,6 +32,10 @@ Not extra.
 
 Necessary.
 
+When you strip the varnish off, the whole thing reads like a single sentence.  
+Every law, every psalm, every nail in the wood, same subject, same verb.  
+You either see the thread, or you get tangled in footnotes.
+
 ## Cluster Compression Methodology
 
 This isn't just "a translation with locked terms." It's a compression 
