@@ -125,7 +125,7 @@ It is not meant to replace other translations, but to serve as a companion that 
 
 QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
 
-## If this is Accuser's (Satan's) Tool, then we use it to UNITE and slow the DIVISONS of the Body of Christ!
+## If this is Accuser's (Satan's) Tool, then we use it to UNITE and slow the DIVISONS within the Body of Christ!
 ## May it let us spend less time thinking and more time doing, 💕 Hearts and 🙌 Hands ✝️🕊🙏. 
 
 May the covenant-justice of God be revealed, and His victory proclamation resound.
