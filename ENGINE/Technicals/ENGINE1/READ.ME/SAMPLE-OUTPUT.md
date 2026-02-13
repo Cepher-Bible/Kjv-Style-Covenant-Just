@@ -28,9 +28,9 @@
 
 ---
 
-# **⚡ ENGINE CORE PRINCIPLE**
+# **ENGINE CORE PRINCIPLE**
 
-## **Sacred Voltage: Polysemy Preserved**
+## **Polysemy Preserved**
 
 **The Covenant Anchor Engine does NOT resolve biblical tensions.**
 
@@ -163,7 +163,7 @@ Hebrew עוֹלָם (olam) and Greek αἰώνιος (aiōnios) both contain pol
 
 ---
 
-## **⚡ SACRED VOLTAGE: SOVEREIGNTY vs. RESPONSIBILITY**
+## **SOVEREIGNTY vs. RESPONSIBILITY**
 
 ### **POLE A: God's Sovereign Action (Calvinist Emphasis)**
 
@@ -244,7 +244,7 @@ IF make calling sure → IF work out salvation → IF endure to end → THEN glo
 
 ---
 
-## **⚡ SACRED VOLTAGE: GENDER & AUTHORITY**
+## **GENDER & AUTHORITY**
 
 ### **Context: Ephesians 5:21-24 (The Headship Passage)**
 
