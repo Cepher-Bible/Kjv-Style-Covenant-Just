@@ -86,7 +86,7 @@ _________________
 # Alignment Test: Top 5 Christian Denominations  
 **Covenant Anchor Engine v1.0.0-STABLE**  
 
-## Ancient Scripture and Doctrine Trump Engine %
+## Ancient Scripture, Doctrine, and Tradition Trump Engine %
 
 **Test Date**: February 13, 2026  
 **Methodology**: Comparative doctrinal scan of top 5 denominations by global adherents (Catholic Church: 1.3B; Eastern Orthodox: 220M; Anglican Communion: 85M; Lutheranism: 80M; Southern Baptist Convention: 47M). Sourced from Wikipedia/WCD baselines; core statements (Nicene Creed, Augsburg Confession, Baptist Faith & Message) extracted via lexical analysis. Evaluated against immutable locks, Isaiah 11 wisdom stack, and processing rules. Focus: Covenant spine fidelity (loyal-trust justification, Torah-Spirit synthesis, kinsman-purchase redemption).  
