@@ -55,6 +55,8 @@ cluster coherence degrades.
 ## ENGINES
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/ENGINE/Technicals/ENGINE1
 
+● ENGINE1 is Raw Trunk, PURE1 is REFINED and locked 🔒 
+
 Old Testament path:    Hebrew (MT / DSS-aligned)  
                        ↓  
                        Greek (LXX)  
