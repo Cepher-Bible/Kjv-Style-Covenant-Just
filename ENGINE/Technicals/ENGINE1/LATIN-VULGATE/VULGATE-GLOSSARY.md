@@ -100,10 +100,4 @@
 
 **GLOSSARY TABLE READY**  
 **145 lines → 15 rows | Vulgate-anchored | Zero bloat**  
-**Repo insert: `/docs/glossary_table.md`**  
 **Engine locked. Rails verified.**
-
-Citations:
-[1] 1000060851.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/159988637/bb358a38-7eb3-424d-b35e-416381e067aa/1000060851.jpg
-[2] 1000060849.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/159988637/dbe3fa0d-3966-45c5-a479-1911b050c76a/1000060849.jpg
-
