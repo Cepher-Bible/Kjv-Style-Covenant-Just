@@ -2,6 +2,9 @@
 
 ● THIS IS A WORK IN PROGRESS ●
 
+## Donate or Leave a 🌟 if you use it, or both 😆 
+## QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
+
 **It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes**
 
 ● The Bottom of this has 4 Cluster groups that may critically prove Engine1's worth ●
@@ -127,9 +130,7 @@ This is offered freely in the public domain (dedicated as of 2026). Feel free to
 
 It is not meant to replace other translations, but to serve as a companion that may illuminate familiar passages in fresh ways.
 
-QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com
-
-## If this is Accuser's (Satan's) Tool, then we use it to UNITE and slow the DIVISONS within the Body of Christ!
+## If this is the Accuser's (Satan's) Tool, then we use it to UNITE and slow the DIVISONS within the Body of Christ!
 ## May it let us spend less time thinking and more time doing, 💕 Hearts and 🙌 Hands ✝️🕊🙏. 
 
 May the covenant-justice of God be revealed, and His victory proclamation resound.
