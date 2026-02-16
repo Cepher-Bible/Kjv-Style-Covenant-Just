@@ -3,7 +3,7 @@
 ● THIS IS A WORK IN PROGRESS ●
 
 ## Donate or Leave a 🌟 if you use it, or both 😆 
-## QUESTIONS or Donate to the Project: CepherHakamBible@outlook.com PayPal 
+## QUESTIONS or Donate to the Project via PayPal,or contact: CepherHakamBible@outlook.com 
 
 **It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes**
 
