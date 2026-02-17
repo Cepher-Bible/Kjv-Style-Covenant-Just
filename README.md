@@ -2,6 +2,16 @@
 
 ● THIS IS A WORK IN PROGRESS ●
 
+# Covenant Anchor Engine
+
+**Purpose**: This translation framework preserves the Hebrew conceptual soil from which the New Testament grows, without imposing Mosaic ceremonial law on the Church. Think roots, not regression.
+
+**What it does**: Locks key theological terms to their covenant spine (Hebrew → Greek → Latin → English) to prevent semantic drift. When Paul writes *pistis*, we hear the echo of Abraham's *emunah*. When John writes *logos*, we feel the creative breath of Genesis 1. The goal is depth, not decoration.
+
+**What it is NOT**: This is not "Hebrew Roots" theology or an attempt to Judaize Christianity. The New Covenant stands. We're simply refusing to let 2,000 years of translation fog obscure what the apostles actually meant when they reached for Greek words to carry Hebrew-shaped truth.
+
+**Output**: Crystal-clear English that carries the full voltage of the original languages. No mystical obscurity. No semantic smoothing. Just the text as the authors intended, with all its tension and thunder intact.
+
 ## Donate or Leave a 🌟 if you use it, or both 😆 
 ## QUESTIONS or Donate to the Project via PayPal,or contact: CepherHakamBible@outlook.com 
 
