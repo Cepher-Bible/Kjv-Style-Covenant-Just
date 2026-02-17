@@ -8,7 +8,7 @@
 
 **Purpose**: Restore Hebrew conceptual depth to the New Testament WITHOUT imposing Mosaic ceremonial law on the Church. The New Testament IS the New Covenant: external stone tablets replaced by internal heart transformation.
 
-**What it does**: Locks covenant vocabulary (Hebrew → Greek → Latin → English) so *pistis* still echoes Abraham's *emunah* and *ekklesia* still means *qahal*, the covenant assembly. No semantic fog. No translation drift.
+**What it does**: MAPS without FORCING and Locks covenant vocabulary (Hebrew → Greek → Latin → English) so *pistis* still echoes Abraham's *emunah* and *ekklesia* still means *qahal*, the covenant assembly. No semantic fog. No translation drift.
 
 **What it is NOT**: Not "Hebrew Roots" theology. Not Judaizing Christianity. Not dragging believers back under Torah. The Law moved from Sinai stone to redeemed hearts (Jeremiah 31:33, Hebrews 8:10). This engine just refuses to let English translations bury what the apostles actually meant.
 
