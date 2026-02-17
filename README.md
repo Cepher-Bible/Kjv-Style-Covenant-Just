@@ -4,11 +4,15 @@
 
 # Covenant Anchor Engine
 
-**Purpose**: This translation framework preserves the Hebrew conceptual soil from which the New Testament grows, without imposing Mosaic ceremonial law on the Church. Think roots, not regression.
+**"For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."** (Romans 2:28-29)
 
-**What it does**: Locks key theological terms to their covenant spine (Hebrew → Greek → Latin → English) to prevent semantic drift. When Paul writes *pistis*, we hear the echo of Abraham's *emunah*. When John writes *logos*, we feel the creative breath of Genesis 1. The goal is depth, not decoration.
+**Purpose**: Restore Hebrew conceptual depth to the New Testament WITHOUT imposing Mosaic ceremonial law on the Church. The New Testament IS the New Covenant: external stone tablets replaced by internal heart transformation.
 
-**What it is NOT**: This is not "Hebrew Roots" theology or an attempt to Judaize Christianity. The New Covenant stands. We're simply refusing to let 2,000 years of translation fog obscure what the apostles actually meant when they reached for Greek words to carry Hebrew-shaped truth.
+**What it does**: Locks covenant vocabulary (Hebrew → Greek → Latin → English) so *pistis* still echoes Abraham's *emunah* and *ekklesia* still means *qahal*, the covenant assembly. No semantic fog. No translation drift.
+
+**What it is NOT**: Not "Hebrew Roots" theology. Not Judaizing Christianity. Not dragging believers back under Torah. The Law moved from Sinai stone to redeemed hearts (Jeremiah 31:33, Hebrews 8:10). This engine just refuses to let English translations bury what the apostles actually meant.
+
+**Output**: English with the original voltage intact. Period.
 
 **Output**: Crystal-clear English that carries the full voltage of the original languages. No mystical obscurity. No semantic smoothing. Just the text as the authors intended, with all its tension and thunder intact.
 
