@@ -372,7 +372,7 @@
 
 \v 6 But now we are delivered from the Torah, that being dead wherein we were held; that we should serve in newness of Spirit-Breath, and not in the oldness of the letter.  
 
-\v 7 What shall we say then? Is the Torah sin? God forbid. Nay, I had not known sin, but by the **Torah**: for I had not known lust, except the Torah had said, Thou shalt not covet.  
+\v 7 What shall we say then? Is the Torah sin? God forbid. Nay, I had not known sin, but by the Torah: for I had not known lust, except the Torah had said, Thou shalt not covet.  
 
 \v 8 But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the Torah sin was dead.  
 
@@ -386,7 +386,7 @@
 
 \v 13 Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.  
 
-\v 14 For we know that the **Torah** is spiritual: but I am carnal, sold under sin.  
+\v 14 For we know that the Torah is spiritual: but I am carnal, sold under sin.  
 
 \v 15 For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.  
 
