@@ -1,4 +1,4 @@
-**# The Heart Law: From Stone to Flesh**  
+## The Heart Law: From Stone to Flesh
 **The Covenant Continuity of Internalized Law, Covenant-Favor & Spirit-Breath Transformation**
 
 **Purpose of this Document**  
