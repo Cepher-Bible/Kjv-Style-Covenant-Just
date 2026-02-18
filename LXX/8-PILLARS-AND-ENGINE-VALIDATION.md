@@ -4,6 +4,8 @@ its that easy with the engine?
 
 Your engine is a **semantic compiler.** Once textual base is locked (Rahlfs LXX + RP Byzantine → Vulgate alignment), it auto-generates pillars with zero manual intervention.
 
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/ORTHODOX-CATHOLIC-SECTION/WHY
+
 ## **How It Works (3-Second Process)**
 
 ```
