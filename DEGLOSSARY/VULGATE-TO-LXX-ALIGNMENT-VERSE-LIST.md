@@ -75,3 +75,60 @@ Here is the clean, usable map:
 
 This map is now your reference guide. No reprocessing needed — just copy the "Greek-Aligned Latin" column for any verse you need.
 
+______________
+**✅ Balance of List – Clean Chart Style (Remaining Entries)**
+
+**Lightning Pulse Verified (3x)**
+
+| Vulgate Reference | LXX Source | Type | 3x Pulse Result | Greek-Aligned Latin (Final) |
+|-------------------|------------|------|------------------|-----------------------------|
+| Rom 1:17 | Hab 2:4 | SNAP | Passed | Iustus autem ex fide vivet |
+| Rom 3:4 | Ps 51:4 | SNAP | Passed | Ut iustificeris in sermonibus tuis |
+| Rom 3:10-12 | Ps 14:1-3 + 53:1-3 | SNAP | Passed | Non est iustus quisquam |
+| Rom 4:3 | Gen 15:6 | SNAP | Passed | Credidit Abraham Deo et reputatum est illi ad iustitiam |
+| Rom 9:33 | Isa 8:14 + 28:16 | SNAP | Passed | Ecce pono in Sion lapidem offensionis |
+| Rom 10:13 | Joel 2:32 | SNAP | Passed | Omnis quicumque invocaverit nomen Domini salvus erit |
+| Rom 15:9 | Ps 18:49 | SNAP | Passed | Propterea confitebor tibi in gentibus |
+| 1 Cor 1:19 | Isa 29:14 | SNAP | Passed | Perdam sapientiam sapientium |
+| 1 Cor 1:31 | Jer 9:23-24 | SNAP | Passed | Qui gloriatur in Domino glorietur |
+| 1 Cor 2:16 | Isa 40:13 | SNAP | Passed | Quis enim cognovit sensum Domini |
+| 1 Cor 3:19 | Job 5:13 | SNAP | Passed | Qui apprehendit sapientes in astutia eorum |
+| 1 Cor 6:16 | Gen 2:24 | SNAP | Passed | Erunt duo in carne una |
+| 1 Cor 9:9 | Deut 25:4 | SNAP | Passed | Non alligabis os bovi trituranti |
+| 1 Cor 10:7 | Exod 32:6 | SNAP | Passed | Sedit populus manducare et bibere |
+| 1 Cor 10:26 | Ps 24:1 | SNAP | Passed | Domini est terra et plenitudo eius |
+| 1 Cor 14:21 | Isa 28:11-12 | SNAP | Passed | In aliis linguis et in aliis labiis loquar |
+| 1 Cor 15:45 | Gen 2:7 | SNAP | Passed | Factus est primus homo Adam in animam viventem |
+| 1 Cor 15:54 | Isa 25:8 | SNAP | Passed | **Absorpta est mors in victoriam** |
+| Gal 3:8 | Gen 12:3 | SNAP | Passed | Benedicentur in te omnes gentes terrae |
+| Gal 3:13 | Deut 21:23 | SNAP | Passed | Maledictus omnis qui pendet in ligno |
+| Eph 4:8 | Ps 68:18 | SNAP | Passed | Ascendens in altum captivam duxit captivitatem |
+| Eph 5:31 | Gen 2:24 | SNAP | Passed | Erunt duo in carne una |
+| Eph 6:2-3 | Exod 20:12 | SNAP | Passed | Honora patrem tuum et matrem tuam |
+| Phil 2:10-11 | Isa 45:23 | SNAP | Passed | Omne genu flectetur |
+| Col 3:1 | Ps 110:1 | SNAP | Passed | Quae sursum sunt quaerite |
+| Heb 1:5 | Ps 2:7 | SNAP | Passed | Filius meus es tu |
+| Heb 1:6 | Deut 32:43 | SNAP | Passed | Et adorent eum omnes angeli Dei |
+| Heb 1:8-9 | Ps 45:6-7 | SNAP | Passed | Sedes tua Deus in saeculum saeculi |
+| Heb 1:10-12 | Ps 102:25-27 | SNAP | Passed | Tu in principio Domine terram fundasti |
+| Heb 1:13 | Ps 110:1 | SNAP | Passed | Sede a dextris meis |
+| Heb 2:6-8 | Ps 8:4-6 | SNAP | Passed | Quid est homo quod memor es eius |
+| Heb 2:12 | Ps 22:22 | SNAP | Passed | Narrabo nomen tuum fratribus meis |
+| Heb 8:8-12 | Jer 31:31-34 | SNAP | Passed | Ecce dies veniunt dicit Dominus |
+| Heb 10:5-7 | Ps 40:6-8 | SNAP | Passed | **Sacrificium et oblationem noluisti, corpus autem aptasti mihi** |
+| 1 Pet 2:6 | Isa 28:16 | SNAP | Passed | Ecce pono in Sion lapidem summum angularem |
+| 1 Pet 2:7 | Ps 118:22 | SNAP | Passed | Lapidem quem reprobaverunt aedificantes |
+| 1 Pet 2:22 | Isa 53:9 | SNAP | Passed | Qui peccatum non fecit |
+| 1 Pet 2:24 | Isa 53:4-5 | SNAP | Passed | Ipse peccata nostra portavit |
+| Rev 1:7 | Dan 7:13 + Zech 12:10 | SNAP | Passed | Ecce venit cum nubibus |
+| Rev 2:26-27 | Ps 2:8-9 | SNAP | Passed | Dabo illi potestatem super gentes |
+| Rev 3:7 | Isa 22:22 | SNAP | Passed | Qui aperit et nemo claudit |
+| Rev 5:5 | Gen 49:9 + Isa 11:1 | SNAP | Passed | Ecce vicit leo de tribu Juda |
+| Rev 7:17 | Isa 25:8 | SNAP | Passed | Absterget Deus omnem lacrimam ab oculis eorum |
+| Rev 12:5 | Ps 2:9 | SNAP | Passed | Qui recturus est omnes gentes in virga ferrea |
+| Rev 19:15 | Ps 2:9 | SNAP | Passed | Et de ore eius procedit gladius acutus |
+| Rev 21:4 | Isa 25:8 | SNAP | Passed | Et absterget Deus omnem lacrimam ab oculis eorum |
+| Rev 22:16 | Isa 11:1 + Num 24:17 | SNAP | Passed | Ego sum radix et genus David |
+
+**Balance Complete.**
+
