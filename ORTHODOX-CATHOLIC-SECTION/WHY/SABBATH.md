@@ -1,4 +1,4 @@
-**# Biblical Justification for the Fulfilled Sabbath**  
+## Biblical Justification for the Fulfilled Sabbath
 **The Covenant Continuity of Sacred Rest: From Creation to Christ**
 
 **Purpose of this Document**  
