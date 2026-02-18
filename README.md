@@ -4,6 +4,22 @@
 
 ## NOT JUDAIZING - MAKING THE CORDS VISIBLE, THATS ALL! - NOT ANCIENT NAME - NOT SECRET KNOWLEDGE - SHOWING THE FULFILLMENT OF THE LAW, NOT SERVITUDE UNDER IT, BUT THE LAW OF THE HEART AND SPIRIT !!! ✝️❤️🕊
 
+ **CRITICAL CLARIFICATION: COVENANT LANGUAGE ≠ TORAH OBSERVANCE**
+## **Why Hebrew Spine Translation Does Not Equal Judaizing**
+
+---
+
+## **THE CONCERN (Valid and Important)**
+
+**Question:** "If we use Hebrew covenant terms like *chesed*, *teshuvah*, *nephesh*, and translate with 'Covenant-Justice' instead of just 'righteousness,' are we telling Christians they need to keep the Law of Moses?"
+
+**Short Answer:** **NO. Absolutely not.**
+
+**Long Answer:** Understanding the Hebrew semantic field helps us read the New Testament correctly. It does NOT impose Old Covenant legal obligations. Here's why:
+
+
+
+
 # Covenant Anchor Engine
 
 **"For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."** (Romans 2:28-29)
