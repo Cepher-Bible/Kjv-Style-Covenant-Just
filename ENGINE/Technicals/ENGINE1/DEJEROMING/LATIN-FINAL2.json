@@ -1,0 +1,177 @@
+{
+  "engine_name": "Covenant Anchor Engine",
+  "engine_version": "1.0.5-GREEK-ALIGNED-VULGATE-LATIN",
+  "philosophy": "Seed-to-Tree / Heat-Restored + Western Rail Preservation (Vulgate-First, Greek-Aligned)",
+  "directionality": {
+    "dejeroming_core": "VULGATE → Rahlfs-Hanhart LXX + RP Byzantine NT → GREEK ALIGNED VULGATE = Latin",
+    "focus": "Vulgate as primary base text; align exclusively with Rahlfs-Hanhart LXX (OT) and Robinson-Pierpont Byzantine NT (\~300 NT→OT cross-connections)",
+    "full_pipeline": "Vulgate (Jerome base) → Cross-check with Rahlfs-Hanhart LXX + RP Byzantine NT → Produce Greek-Aligned Vulgate → Final Output: Latin",
+    "note": "Rahlfs-Hanhart LXX + RP Byzantine locked as primary Greek pair. No Hebrew backflow. No English output. Vulgate as Western stabilizer."
+  },
+  
+  "immutable_locks": {
+    "faith": "Loyal-Trust [pistis/emunah]",
+    "gospel": "Victory-Proclamation [euangelion/besorah]",
+    "church": "Covenant-Assembly [ekklesia/qahal]",
+    "redemption": "Kinsman-Purchase [apolutrósis/geulah]",
+    "holy": "Covenant-Distinction [hagios/kadosh]",
+    "firmament": "Hammered-Sky [raqia]",
+    "righteousness": "Covenant-Justice [dikaiosynē/tzedakah]",
+    "justice": "Covenant-Justice [krisis/mishpat]",
+    "spirit": "Spirit-Breath [pneuma/ruach]",
+    "soul": "Living-Self [psychē/nephesh]",
+    "repentance": "Turning [metanoia/teshuvah]",
+    "subdue": "Ordered-Authority [kabash]",
+    "grace": "Covenant-Favor [charis/chen]",
+    "mercy": "Covering-Compassion [eleos/rachamim]",
+    "faithfulness": "Unfailing-Loyalty [chesed]",
+    "glory": "Glory-Weight [doxa/kabod]"
+  },
+  
+  "cadence_flexible": {
+    "hell": {
+      "selection_priority": ["hades", "gehenna", "sheol", "tartarus", "abyss"],
+      "hades": {
+        "tri_lock": "Sheol/Hadēs/Infernum",
+        "latin": "Infernum",
+        "context": "Intermediate state",
+        "keywords": ["hades", "intermediate", "departed"]
+      },
+      "gehenna": {
+        "tri_lock": "Gehinnom/Geenna/Gehenna",
+        "latin": "Gehenna",
+        "context": "Eschatological punishment",
+        "keywords": ["gehenna", "gehinnom", "fire", "judgment", "valley"]
+      },
+      "sheol": {
+        "tri_lock": "Sheol/Hadēs/Infernum",
+        "latin": "Infernum",
+        "context": "Realm of dead",
+        "keywords": ["sheol", "grave", "pit", "dead"]
+      },
+      "tartarus": {
+        "tri_lock": "Tehom/Tartaros/Tartarus",
+        "latin": "Tartarus",
+        "context": "Fallen angels only",
+        "keywords": ["tartarus", "tartaros", "angels", "prison"]
+      },
+      "abyss": {
+        "tri_lock": "Tehom/Abyssos/Abyssus",
+        "latin": "Abyssus",
+        "context": "Demon prison",
+        "keywords": ["abyss", "abyssos", "bottomless", "demons"]
+      }
+    },
+    
+    "servant": {
+      "standard": {
+        "latin": "Servus [doulos/ebed]",
+        "context": "Legal ownership, not employment",
+        "keywords": ["servant", "slave", "doulos", "ebed"]
+      },
+      "paradox": {
+        "latin": "Servus-Rex",
+        "context": "Messianic paradox",
+        "keywords": ["slave-king", "paradox"]
+      }
+    },
+    
+    "submit": {
+      "standard": {
+        "latin": "Subiectus [hypotassō]",
+        "context": "Voluntary covenant-ordering (DISTINCT from kabash dominion)",
+        "keywords": ["submit", "submission", "hypotasso", "arrange"]
+      },
+      "mutual": {
+        "latin": "Mutuo Subiectus [Eph 5:21]",
+        "context": "Reciprocal submission",
+        "keywords": ["mutual", "one another", "each other", "reciprocal"]
+      }
+    },
+    
+    "fear_of_the_lord": {
+      "latin": "Timor Domini [phobos/yir'ah]",
+      "keywords": ["fear", "dread", "reverence", "yirah", "phobos"]
+    },
+    
+    "love": {
+      "covenant": {
+        "latin": "Caritas Foederis [agapē/ahavah]",
+        "context": "Self-giving love",
+        "keywords": ["love", "agape", "ahavah", "covenant"]
+      },
+      "friendship": {
+        "latin": "Amicitia [philia]",
+        "context": "Brotherly love",
+        "keywords": ["friendship", "friend", "philia", "brother"]
+      },
+      "family": {
+        "latin": "Vinculum Familiae [storgē]",
+        "context": "Natural affection",
+        "keywords": ["family", "storge", "natural", "kindred"]
+      }
+    },
+    
+    "son": {
+      "standard": {
+        "latin": "Filius [huios/ben]",
+        "context": "NOT Kinsman (reserve for goel/apolutrósis only)",
+        "keywords": ["son", "child", "huios", "ben", "heir"]
+      },
+      "unique": {
+        "latin": "Unigenitus [monogenēs]",
+        "context": "Trinitarian designation",
+        "keywords": ["only", "begotten", "monogenes", "unique", "only-begotten"]
+      }
+    }
+  },
+  
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FEAR_YHWH_IS_BEGINNING",
+    "foundation": "Proverbs 1:7, 9:10",
+    "sequence": [
+      "Holy-Dread (Foundation-Filter)",
+      "Wisdom (Skillful-Living)",
+      "Understanding (Structural-Discernment)",
+      "Counsel (Strategic-Planning)",
+      "Might (Execution-Power)",
+      "Knowledge (Applied-Truth)",
+      "Holy-Dread (Delight-Telos)"
+    ],
+    "validation_rule": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD",
+    "note": "Isaiah 11:2-3 sevenfold: Fear is BOTH beginning AND end"
+  },
+  
+  "processing_rules": {
+    "rule_01_chesed": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty (distinct from חֵן grace, רַחֲמִים mercy)",
+    "rule_02_agape": "AGAPE_NOT_CHESED: ἀγάπη = Covenant-Love, NOT chesed (different semantic fields)",
+    "rule_03_kabash": "KABASH_NOT_HYPOTASSO: כָּבַשׁ (subdue) ≠ ὑποτάσσω (submit) - NEVER MERGE",
+    "rule_04_polysemy": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
+    "rule_05_spine": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
+    "rule_06_ot_flow": "OT_PROTOCOL: Vulgate base → Rahlfs-Hanhart LXX alignment → Greek Aligned Vulgate (Latin)",
+    "rule_07_nt_flow": "NT_PROTOCOL: Greek RP Byzantine → Vulgate alignment → Greek Aligned Vulgate (Latin)",
+    "rule_08_output": "OUTPUT_TARGET: Latin (Greek Aligned Vulgate) - NO ENGLISH OUTPUT",
+    "rule_09_voltage": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it",
+    "rule_10_kinsman": "RESERVE_KINSMAN: Use ONLY for goel/apolutrósis/geulah; υἱός = Filius",
+    "rule_11_justice": "JUSTICE_UNITY: Both tzedakah and mishpat = Covenant-Justice (same field)",
+    "rule_12_trinity": "TRINITY_GUARD: FAIL if [created/lesser/subordinate/temporal] + [filius/spiritus]",
+    "rule_17_dejeroming": "VULGATE_FIRST: Vulgate as primary base text",
+    "rule_18_lxx_alignment": "GREEK_ALIGNED_VULGATE: Align Vulgate exclusively with Rahlfs-Hanhart LXX + RP Byzantine NT",
+    "rule_19_dejeroming_priority": "DEJEROMING_PRIORITY: Vulgate as starting point; correct only via Rahlfs-Hanhart LXX + RP Byzantine alignment; final output is Latin (Greek Aligned Vulgate)",
+    "rule_20_no_english": "NO_ENGLISH_OUTPUT: Final rendering is Latin only",
+    "rule_21_no_hebrew_backflow": "NO_HEBREW_PRIMACY: Jerome did well enough; no Hebrew backflow or injection"
+  },
+  
+  "selection_logic": {
+    "cadence_priority": "1) Match subterm key in context, 2) Check keywords for match, 3) Use selection_priority order, 4) First listed option, 5) Dejeroming rail (Vulgate → Rahlfs-Hanhart + RP Byzantine alignment → Latin)",
+    "example": "Context 'raised from hades' → Vulgate 'infernum' → Greek alignment (Rahlfs + RP) → selects Latin 'Infernum'",
+    "keyword_matching": "If subterm key not in context, check if any keyword from subterm appears in context (prioritize longer/specific keywords over generic ones like 'dead', 'fire')"
+  },
+  
+  "dejeroming_pipeline": {
+    "description": "Western Rail Preservation: Vulgate as primary base text, aligned exclusively with Rahlfs-Hanhart LXX + RP Byzantine NT",
+    "flow": "Vulgate (Jerome base) → Cross-check with Rahlfs-Hanhart LXX + RP Byzantine NT → Produce Greek-Aligned Vulgate → Final Output: Latin",
+    "purpose": "Preserve Jerome's Vulgate as Western stabilizer; align with the Greek pair the Apostles and Church used; no Hebrew primacy, no English output, final product is Latin (Greek Aligned Vulgate)",
+    "validation": "Every term starts with Vulgate, then aligned with Rahlfs-Hanhart LXX + RP Byzantine for final Latin rendering"
+  }
+}
