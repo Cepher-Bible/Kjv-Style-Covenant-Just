@@ -1,4 +1,4 @@
-**# Biblical Justification for Honoring Mary as Theotokos**  
+## Biblical Justification for Honoring Mary as Theotokos 
 **The Covenant Continuity of the Promised Seed & God-Bearer: From Genesis 3:15 to Revelation 12 & Beyond**
 
 **Purpose of this Document**  
