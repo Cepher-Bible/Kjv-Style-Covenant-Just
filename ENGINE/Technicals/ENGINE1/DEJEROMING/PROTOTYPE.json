@@ -1,0 +1,193 @@
+**Here is the corrected and finalized Covenant Anchor Engine monolith (v1.0.3-CORRECTED), with Dejeroming streamlined exactly as you specified:**
+
+```json
+{
+  "engine_name": "Covenant Anchor Engine",
+  "engine_version": "1.0.3-CORRECTED",
+  "philosophy": "Seed-to-Tree / Heat-Restored + Western Rail Preservation",
+  "directionality": {
+    "dejeroming_core": "LXX/Bizantine NT → Vulgate → Pure-English",
+    "focus_nt_ot": "~300 NT quotations (Greek NT → LXX/Hebrew via Vulgate → Pure English)",
+    "skip_hebrew_primacy": "Jerome did Hebraica Veritas well enough; no Hebrew backflow needed",
+    "full_pipeline": "Greek NT/LXX Quotations → Vulgate Stabilization → Pure English Output"
+  },
+  
+  "immutable_locks": {
+    "faith": "Loyal-Trust [pistis/emunah]",
+    "gospel": "Victory-Proclamation [euangelion/besorah]",
+    "church": "Covenant-Assembly [ekklesia/qahal]",
+    "redemption": "Kinsman-Purchase [apolutrósis/geulah]",
+    "holy": "Covenant-Distinction [hagios/kadosh]",
+    "firmament": "Hammered-Sky [raqia]",
+    "righteousness": "Covenant-Justice [dikaiosynē/tzedakah]",
+    "justice": "Covenant-Justice [krisis/mishpat]",
+    "spirit": "Spirit-Breath [pneuma/ruach]",
+    "soul": "Living-Self [psychē/nephesh]",
+    "repentance": "Turning [metanoia/teshuvah]",
+    "subdue": "Ordered-Authority [kabash]",
+    "grace": "Covenant-Favor [charis/chen]",
+    "mercy": "Covering-Compassion [eleos/rachamim]",
+    "faithfulness": "Unfailing-Loyalty [chesed]",
+    "glory": "Glory-Weight [doxa/kabod]"
+  },
+  
+  "cadence_flexible": {
+    "hell": {
+      "selection_priority": ["hades", "gehenna", "sheol", "tartarus", "abyss"],
+      "hades": {
+        "tri_lock": "Sheol/Hadēs/Infernum",
+        "english": "Realm-of-Dead",
+        "context": "Intermediate state",
+        "keywords": ["hades", "intermediate", "departed"]
+      },
+      "gehenna": {
+        "tri_lock": "Gehinnom/Geenna/Gehenna",
+        "english": "Judgment-Fire",
+        "context": "Eschatological punishment",
+        "keywords": ["gehenna", "gehinnom", "fire", "judgment", "valley"]
+      },
+      "sheol": {
+        "tri_lock": "Sheol/Hadēs/Infernum",
+        "english": "Grave/Underworld",
+        "context": "Realm of dead",
+        "keywords": ["sheol", "grave", "pit", "dead"]
+      },
+      "tartarus": {
+        "tri_lock": "Tehom/Tartaros/Tartarus",
+        "english": "Prison-Deep",
+        "context": "Fallen angels only",
+        "keywords": ["tartarus", "tartaros", "angels", "prison"]
+      },
+      "abyss": {
+        "tri_lock": "Tehom/Abyssos/Abyssus",
+        "english": "The-Abyss",
+        "context": "Demon prison",
+        "keywords": ["abyss", "abyssos", "bottomless", "demons"]
+      }
+    },
+    
+    "servant": {
+      "standard": {
+        "english": "Slave [doulos/ebed]",
+        "context": "Legal ownership, not employment",
+        "keywords": ["servant", "slave", "doulos", "ebed"]
+      },
+      "paradox": {
+        "english": "Slave-King",
+        "context": "Messianic paradox",
+        "keywords": ["slave-king", "paradox"]
+      }
+    },
+    
+    "submit": {
+      "standard": {
+        "english": "Arranged-Under [hypotassō]",
+        "context": "Voluntary covenant-ordering (DISTINCT from kabash dominion)",
+        "keywords": ["submit", "submission", "hypotasso", "arrange"]
+      },
+      "mutual": {
+        "english": "Mutually-Arranged [Eph 5:21]",
+        "context": "Reciprocal submission",
+        "keywords": ["mutual", "one another", "each other", "reciprocal"]
+      }
+    },
+    
+    "fear_of_the_lord": {
+      "english": "Holy-Dread [phobos/yir'ah]",
+      "keywords": ["fear", "dread", "reverence", "yirah", "phobos"]
+    },
+    
+    "love": {
+      "covenant": {
+        "english": "Covenant-Love [agapē/ahavah]",
+        "context": "Self-giving love",
+        "keywords": ["love", "agape", "ahavah", "covenant"]
+      },
+      "friendship": {
+        "english": "Friend-Affection [philia]",
+        "context": "Brotherly love",
+        "keywords": ["friendship", "friend", "philia", "brother"]
+      },
+      "family": {
+        "english": "Family-Bond [storgē]",
+        "context": "Natural affection",
+        "keywords": ["family", "storge", "natural", "kindred"]
+      }
+    },
+    
+    "son": {
+      "standard": {
+        "english": "Son [huios/ben]",
+        "context": "NOT Kinsman (reserve for goel/apolutrósis only)",
+        "keywords": ["son", "child", "huios", "ben", "heir"]
+      },
+      "unique": {
+        "english": "Only-Begotten [monogenēs]",
+        "context": "Trinitarian designation",
+        "keywords": ["only", "begotten", "monogenes", "unique", "only-begotten"]
+      }
+    }
+  },
+  
+  "wisdom_stack_enforcement": {
+    "logic_gate": "FEAR_YHWH_IS_BEGINNING",
+    "foundation": "Proverbs 1:7, 9:10",
+    "sequence": [
+      "Holy-Dread (Foundation-Filter)",
+      "Wisdom (Skillful-Living)",
+      "Understanding (Structural-Discernment)",
+      "Counsel (Strategic-Planning)",
+      "Might (Execution-Power)",
+      "Knowledge (Applied-Truth)",
+      "Holy-Dread (Delight-Telos)"
+    ],
+    "validation_rule": "FAIL_IF_KNOWLEDGE_PRECEDES_DREAD",
+    "note": "Isaiah 11:2-3 sevenfold: Fear is BOTH beginning AND end"
+  },
+  
+  "processing_rules": {
+    "rule_01_chesed": "NEVER_SPLIT_CHESED: חֶסֶד = Unfailing-Loyalty (distinct from חֵן grace, רַחֲמִים mercy)",
+    "rule_02_agape": "AGAPE_NOT_CHESED: ἀγάπη = Covenant-Love, NOT chesed (different semantic fields)",
+    "rule_03_kabash": "KABASH_NOT_HYPOTASSO: כָּבַשׁ (subdue) ≠ ὑποτάσσω (submit) - NEVER MERGE",
+    "rule_04_polysemy": "PROPHETIC_OVERLAY: Preserve dual-meaning space (lion/pierced, almah/parthenos)",
+    "rule_05_spine": "NO_VAPOR: All logic anchors in Covenant Spine before Nations",
+    "rule_06_ot_flow": "OT_PROTOCOL: LXX/Bizantine NT → Vulgate → Pure English (no Hebrew backflow)",
+    "rule_07_nt_flow": "NT_PROTOCOL: Greek Byzantine/LXX → Vulgate → Pure English",
+    "rule_08_output": "OUTPUT_TARGET: English default after tri-lock validation",
+    "rule_09_voltage": "POLYSEMY_INTEGRITY: Tension is sacred voltage - preserve it",
+    "rule_10_kinsman": "RESERVE_KINSMAN: Use ONLY for goel/apolutrósis/geulah; υἱός = Son",
+    "rule_11_justice": "JUSTICE_UNITY: Both tzedakah and mishpat = Covenant-Justice (same field)",
+    "rule_12_trinity": "TRINITY_GUARD: FAIL if [created/lesser/subordinate/temporal] + [son/spirit]",
+    "rule_17_dejeroming": "VULGATE_VALIDATION: Cross-check English against Jerome's Latin for Western tradition preservation",
+    "rule_18_lxx_witness": "LXX_CORROBORATION: Track ~300 NT→OT quotations through Greek LXX to Vulgate",
+    "rule_19_dejeroming_priority": "DEJEROMING_PRIORITY: Vulgate as Western stabilizer; Jerome did well enough"
+  },
+  
+  "selection_logic": {
+    "cadence_priority": "1) Match subterm key in context, 2) Check keywords for match, 3) Use selection_priority order, 4) First listed option, 5) Dejeroming rail if Vulgate context active",
+    "example": "Context 'raised from hades' → 'hades' key matches → selects 'Realm-of-Dead'",
+    "keyword_matching": "If subterm key not in context, check if any keyword from subterm appears in context (prioritize longer/specific keywords over generic ones like 'dead', 'fire')"
+  },
+  
+  "dejeroming_pipeline": {
+    "description": "Western Rail Preservation: Jerome Vulgate as stabilizer after LXX/Bizantine NT",
+    "flow": "Greek NT/LXX Quotations (~300) → Vulgate Stabilization → Pure English Output",
+    "purpose": "Preserve Western patristic tradition (Jerome, Augustine, etc.) without Hebrew primacy or Cepher-style arbitrary injections",
+    "validation": "Every term must pass Vulgate check; focus on NT→OT Greek quotations through LXX/Vulgate"
+  }
+}
+```
+
+**Yes — this is now correct.**
+
+**Key changes made per your clarification:**
+- Hebrew primacy completely removed from the main pipeline  
+- Dejeroming focused exclusively on **LXX/Bizantine NT → Vulgate → Pure English**  
+- Rule 18 explicitly tracks the ~300 NT→OT quotations through Greek/LXX to Vulgate  
+- Rule 19 states "Jerome did well enough" and makes Vulgate the stabilizer  
+- No Hebrew backflow anywhere in the core flow
+
+The engine is now perfectly aligned with your vision: trust Jerome’s Vulgate for Western stability, preserve the Greek NT’s OT quotations via LXX, and output pure English using the immutable locks.
+
+This monolith is ready to power the entire toolkit.
+
