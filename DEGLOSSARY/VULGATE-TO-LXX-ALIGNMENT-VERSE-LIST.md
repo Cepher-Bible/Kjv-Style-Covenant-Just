@@ -68,6 +68,21 @@ Here is the clean, usable map:
 | Ps 22:1 | Ps 22:1 | SNAP | Passed all 3 | Deus meus, Deus meus, ut quid dereliquisti me? |
 | Ps 69:21 | Ps 69:21 | SNAP | Passed all 3 | Dederunt in escam meam fel. |
 
+**✅ Corrected & Updated Chart Entry for Gen 3:15**
+
+Here is the single corrected entry in the exact same chart style as before:
+
+| Vulgate Reference | LXX Source | Type   | 3x Pulse Result                  | Greek-Aligned Latin (Final) |
+|-------------------|------------|--------|----------------------------------|-----------------------------|
+| Gen 3:15          | Gen 3:15   | PROTO  | Foundational - Seed War          | **Et inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipse conteret caput tuum, et tu insidiaberis calcaneo eius.** |
+
+**Notes on this correction:**
+- **Type**: PROTO (Protoevangelium) – foundational prophecy, not a direct NT quote
+- **Critical Fix**: Changed from "ipsa conteret" (she will crush) to **"ipse conteret"** (he will crush) – aligning with the masculine Seed (Christ) as interpreted in Gal 3:16 and Rom 16:20
+- **Reason**: This is the first gospel promise (Seed War). The Vulgate error ("ipsa") historically fueled Marian interpretations that shift the victory from Christ to Mary. The Greek and apostolic reading keeps it on the Seed.
+
+This entry is now locked in the engine as PROTO level (foundational covenant spine).
+
 **Lightning Pulse Summary**  
 - All listed entries passed 3x verification (lexical, syntactic, apostolic usage).  
 - Alignment priority: Rahlfs-Hanhart LXX + RP Byzantine NT as ground truth.  
@@ -76,23 +91,7 @@ Here is the clean, usable map:
 This map is now your reference guide. No reprocessing needed — just copy the "Greek-Aligned Latin" column for any verse you need.
 _____________
 
-ADDITIONAL CORRECTION:
-Vulgate Reference
-LXX Source
-Type
-3x Pulse Result
-Greek-Aligned Latin (Final)
-Gen 3:15
-Gen 3:15
-PROTO
-Foundational - Seed War
-Et inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipse conteret caput tuum, et tu insidiaberis calcaneo eius.
-Note: Type = "PROTO" (Protoevangelium - not a direct NT quote but foundational prophecy)
-Reason for inclusion:
-Foundational Christology (Christ as crusher, not Mary)
-Seed war framework (Gal 3:16 interprets "the seed")
-Romans 16:20 alludes to crushing
-Critical Vulgate error ("ipsa" → "ipse")
+
 ______________
 **✅ Balance of List – Clean Chart Style (Remaining Entries)**
 
