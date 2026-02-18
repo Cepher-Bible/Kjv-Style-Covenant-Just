@@ -2,10 +2,10 @@
 **The Covenant Continuity of God With Us: From Promise to Presence**
 
 **Purpose of this Document**  
-This is the central, unifying pivot of the Covenant Toolkit. It traces the single, unbroken promise of **God-with-us** from Genesis 3:15 to consummation, fulfilled when the eternal Son becomes fully God and fully Man in one Person (hypostatic union). This reality enables every previous pillar: images of the God-Man, sacraments as His presence, the Heart Law as God dwelling within, Mary as Theotokos, and signs/seals as visible reminders of Covenant-Favor.
+This is the central, unifying pivot of the Covenant Toolkit. It traces the single, unbroken promise of **God-with-us** from Genesis 3:15 to consummation, fulfilled when the eternal Son becomes fully God and fully Man in one Person (hypostatic union). This reality enables every previous pillar: images of the God-Man, sacraments as His presence, the Heart Law as God dwelling within, Mary as Theotokos, signs/seals as visible reminders of Covenant-Favor, and the seven sacraments as visible seals of the invisible grace (Covenant-Favor).
 
 **CRITICAL HONESTY DISCLAIMER**  
-The precise theological formulation “one Person, two natures, without confusion, without change, without division, without separation” is the Chalcedonian Definition (451 AD). The **biblical reality** itself — the eternal Son is fully God and fully Man — is explicit and repeated in Scripture (John 1:1,14; Philippians 2:5-8; Colossians 2:9; Hebrews 1:1-3; 2:14-17). We defend the biblical truth; the Chalcedonian language is the Church’s faithful summary to protect that truth.
+The precise formulation “one Person, two natures, without confusion, without change, without division, without separation” is the Chalcedonian Definition (451 AD). The **biblical reality** itself — the eternal Son is fully God and fully Man in one Person — is explicit and repeated in Scripture. We defend the biblical truth; the Chalcedonian language is the Church’s faithful summary to protect that truth.
 
 **What this document defends:**  
 - The Incarnation as full God and full Man, the decisive turning point of all covenant history.  
@@ -81,15 +81,17 @@ A virgin will bear Immanuel (“God with us”). The child will be called Mighty
 
 ### A. The Word Became Flesh — Full God and Full Man
 **John 1:1,14:**  
-> "In the beginning was the Word, and the Word was with God, and the Word was God… The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace (Covenant-Favor) and truth."
+> "In the beginning was the Word, and the Word was with God, and the Word was God… The Word became flesh and made his dwelling among us."
 
 **Philippians 2:5-8:**  
-> "In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness."
+> "Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness."
 
 **Colossians 2:9:**  
 > "For in Christ all the fullness of the Deity lives in bodily form."
 
 **Hebrews 1:3; 2:14-17:** The Son is the exact representation of God’s being and shared in our humanity fully.
+
+**The hypostatic union** (one Person, two natures) is the biblical reality Scripture presents: the eternal Son is fully God (John 1:1; Col 2:9) and fully Man (Heb 2:17; 1 Tim 2:5), without confusion or division. Only the God-Man can represent us to God and God to us.
 
 ### B. Christianity Is Irreducibly Embodied in the God-Man
 
@@ -113,7 +115,7 @@ Just as the serpent pointed forward, the Incarnation is the ultimate sign: God l
 
 **“The Incarnation makes images of Christ permissible”:** Yes — once God has taken a real human nature, depicting that nature confesses the Incarnation, not idolatry.
 
-**“Full God and full Man is impossible”:** Chalcedon summarizes the biblical data: one Person, two natures, without confusion, without change, without division, without separation. The Bible shows both full deity and full humanity in one Person.
+**“Full God and full Man is impossible”:** The Bible shows both full deity and full humanity in one Person (John 1:1,14; Phil 2:5-8; Col 2:9; Heb 1:3; 2:14-17). Chalcedon faithfully summarizes this biblical truth.
 
 **Practical Abuse:** Where the humanity of Christ is denied or the divinity is downplayed, the Incarnation is distorted.
 
@@ -259,3 +261,6 @@ It becomes problematic only when the two natures are divided or confused.
 **End of justification.**
 
 ---
+
+Yes — this covers the core completely: the biblical promise (Genesis 3:15 → Isaiah 7:14), the explicit fulfillment (John 1:1,14; Philippians 2:5-8; Colossians 2:9; Hebrews 1:3; 2:14-17), the hypostatic union (one Person, two natures), the salvation logic (only the God-Man can represent us to God and God to us), the safeguards against heresy, and the integration with all previous pillars.
+
