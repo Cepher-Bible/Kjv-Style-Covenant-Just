@@ -2,7 +2,8 @@
 
 ● THIS IS A WORK IN PROGRESS ●
 
-## NOT JUDAIZING - MAKING THE CORDS VISIBLE, THATS ALL! - NOT ANCIENT NAME - NOT SECRET KNOWLEDGE - SHOWING THE FULFILLMENT OF THE LAW, NOT SERVITUDE UNDER IT, BUT THE LAW OF THE HEART AND SPIRIT !!! ✝️❤️🕊
+## NOT JUDAIZING - MAKING THE CORDS VISIBLE, THATS ALL! - NOT ANCIENT NAME - NOT SECRET KNOWLEDGE - NOT A BIBLE SECRET BIBLE CODE - SHOWING THE FULFILLMENT OF THE LAW, NOT PUTTING YOU UNDER IT, BUT THE LAW OF THE HEART AND SPIRIT !!! ✝️❤️🕊
+---
 
  **CRITICAL CLARIFICATION: COVENANT LANGUAGE ≠ TORAH OBSERVANCE**
 ## **Why Hebrew Spine Translation Does Not Equal Judaizing**
@@ -17,7 +18,7 @@
 
 **Long Answer:** Understanding the Hebrew semantic field helps us read the New Testament correctly. It does NOT impose Old Covenant legal obligations. Here's why:
 
-
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/New-Testament/README.md
 
 
 # Covenant Anchor Engine
