@@ -1,4 +1,4 @@
-**# Biblical Justification for the Seven Sacraments**  
+## Biblical Justification for the Seven Sacraments
 **The Covenant Continuity of Sacred Signs & Seals: From OT Shadows to NT Fulfillment**
 
 **Purpose of this Document**  
