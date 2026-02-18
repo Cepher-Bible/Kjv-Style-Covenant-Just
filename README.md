@@ -2,6 +2,8 @@
 
 ● THIS IS A WORK IN PROGRESS ●
 
+## NOT JUDAIZING - MAKING THE CORDS VISIBLE, THATS ALL! - NOT ANCIENT NAME - NOT SECRET KNOWLEDGE - SHOWING THE FULFILLMENT OF THE LAW, NOT SERVITUDE UNDER IT, BUT THE LAW OF THE HEART AND SPIRIT !!! ✝️❤️🕊
+
 # Covenant Anchor Engine
 
 **"For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."** (Romans 2:28-29)
