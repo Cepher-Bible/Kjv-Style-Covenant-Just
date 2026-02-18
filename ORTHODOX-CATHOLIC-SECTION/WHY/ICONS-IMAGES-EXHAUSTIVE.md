@@ -1,4 +1,4 @@
-**# Biblical Justification for Symbolic Representation in Worship**  
+## Biblical Justification for Symbolic Representation in Worship 
 **The Covenant Continuity of Sacred Images: From Temple to Icon**
 
 **Purpose of this Document**  
