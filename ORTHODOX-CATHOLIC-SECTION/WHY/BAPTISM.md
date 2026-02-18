@@ -1,4 +1,4 @@
-**# Biblical Justification for Baptism as the Fulfilled Sign of the Covenant**  
+## Biblical Justification for Baptism as the Fulfilled Sign of the Covenant 
 **The Covenant Continuity of the Covenant Mark: From Circumcision to Baptism**
 
 **Purpose of this Document**  
