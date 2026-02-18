@@ -74,7 +74,25 @@ Here is the clean, usable map:
 - Vulgate base adjusted only where Greek alignment requires (e.g., "accipiet" locked for Isa 7:14).
 
 This map is now your reference guide. No reprocessing needed — just copy the "Greek-Aligned Latin" column for any verse you need.
+_____________
 
+ADDITIONAL CORRECTION:
+Vulgate Reference
+LXX Source
+Type
+3x Pulse Result
+Greek-Aligned Latin (Final)
+Gen 3:15
+Gen 3:15
+PROTO
+Foundational - Seed War
+Et inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipse conteret caput tuum, et tu insidiaberis calcaneo eius.
+Note: Type = "PROTO" (Protoevangelium - not a direct NT quote but foundational prophecy)
+Reason for inclusion:
+Foundational Christology (Christ as crusher, not Mary)
+Seed war framework (Gal 3:16 interprets "the seed")
+Romans 16:20 alludes to crushing
+Critical Vulgate error ("ipsa" → "ipse")
 ______________
 **✅ Balance of List – Clean Chart Style (Remaining Entries)**
 
