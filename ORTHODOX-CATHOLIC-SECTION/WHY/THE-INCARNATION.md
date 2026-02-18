@@ -1,4 +1,4 @@
-**## Biblical Justification for the Incarnation — Full God, Full Man**  
+## Biblical Justification for the Incarnation — Full God, Full Man**  
 **The Covenant Continuity of God With Us: From Promise to Presence**
 
 **Purpose of this Document**  
