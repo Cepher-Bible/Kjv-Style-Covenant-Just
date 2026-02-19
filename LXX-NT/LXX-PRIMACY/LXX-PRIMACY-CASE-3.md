@@ -1,5 +1,4 @@
-```
-## The Case for LXX Canonical Primacy
+# The Case for LXX Canonical Primacy
 ## A Forensic Investigation of Old Testament Textual Traditions
 
 **Version:** 3.0 FINAL  
@@ -633,5 +632,4 @@ Under the following terms:
 ---
 
 *"The grass withers, the flower fades, but the word of our God will stand forever." — Isaiah 40:8 (LXX & MT agree)*
-```
-
+``` 
