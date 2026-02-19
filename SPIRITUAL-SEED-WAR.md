@@ -25,7 +25,7 @@
 
 ### **Genesis 3:1-6 - The Deception:**
 
-**Verse 1:** "Now the serpent was more **crafty/wise** (עָרוּם/arum) than any beast"
+**Verse 1:** "Now the serpent was more **SHREWD/crafty/wise** (עָרוּם/arum) than any beast"
 
 **Verse 1b:** "**Has God really said**...?" ← **EPISTEMOLOGICAL ATTACK**
 - Questions God's word
