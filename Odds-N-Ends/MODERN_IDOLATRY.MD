@@ -107,7 +107,7 @@ And in 2026, the throne's in your pocket.
 ________________
 
 
-We left off at the big 2026 idols: algorithms, identity politics, consumerism, self-worship, AI. But let's not stop at symptoms. Let's go **deeper**—back to the roots, forward to the fallout. I'll keep building: more OT stories, more NT warnings, then the full 2026 translation. No fluff. Just scripture + mirror.  
+We left off at the big 2026 idols: algorithms, identity politics, consumerism, self-worship, AI. But let's not stop at symptoms. Let's go **deeper**—back to the roots, forward to the fallout. I'll keep building: more OT stories, more NT warnings, then the full 2026 translation. Just scripture + mirror.  
 
 ### 8. The Golden Calves – Jeroboam’s Fake Worship (1 Kings 12)  
 Jeroboam splits the kingdom. Fears people will go back to Jerusalem. So he builds two golden calves—one in Bethel, one in Dan. Says: "Behold your gods, O Israel, who brought you up out of Egypt."  
@@ -290,4 +290,93 @@ How? Repent. Not "feel sorry"—**turn**. Cut the feed. Delete the app. Confess.
 Christ doesn't want your likes. He wants **you**.  
 
 _________________
+
+Yeah—here's the next chunk. We're at ~6,200. This one's heavier: full Pharisees autopsy, Sardis' corpse, Laodicea's vomit, then the "how to repent in 2026" manual. Just the Word + the mirror.  
+
+### 20. The Pharisees – The Last "Outside" Threat (Matthew 23, Luke 11)  
+Jesus doesn't mince words: "Woe to you, scribes and Pharisees, hypocrites!"  
+
+- "You shut the kingdom of heaven in people's faces." (Matt 23:13)  
+- "You travel across sea and land to make a single proselyte—and make him twice the child of hell." (23:15)  
+- "You tithe mint, dill, cumin—but neglect justice, mercy, faithfulness." (23:23)  
+- "You clean the outside of the cup... but inside full of greed and self-indulgence." (23:25)  
+- "Whitewashed tombs—beautiful outside, dead inside." (23:27)  
+
+Exegesis: Pharisees aren't pagans. They're **insiders**. They know Torah backward. But they turned God into a checklist. Added rules (fences around the law) so no one could fail—except everyone did.  
+
+Their idol? **Control**. "If I keep the rules, I'm right with God." No need for heart. No need for grace.  
+
+Jesus' verdict: "You are not entering, nor letting anyone else."  
+
+2026 mirror:  
+- Hebrew Roots: "Keep Sabbath or you're not saved." Same fence.  
+- Progressive churches: "Affirm everything or you're bigoted." Same gatekeeping.  
+- Legalistic pastors: "No tattoos, no alcohol, no fun—or you're worldly." Same tombs.  
+
+No stone tablets—just Instagram standards.  
+
+### 21. Sardis – The Walking Dead (Revelation 3:1–6)  
+"You have the reputation of being alive, but you are dead."  
+
+Exegesis: Sardis = ancient city, once mighty, now faded. Church looks good—big building, slick website, viral sermons. But no life. "Works incomplete." No fruit. No repentance. No fire.  
+
+Jesus: "Wake up! Strengthen what remains... Remember what you received."  
+
+2026:  
+- Megachurches with 5,000 seats, zero baptisms.  
+- Online ministries with 100k subs, no discipleship.  
+- "Worship" that feels like concert—lights, smoke, tears—but no confession.  
+- Pastors who preach "victory" but live in secret sin.  
+
+Dead. Not because they're evil—because they're **comfortable**. No cross. No cost.  
+
+### 22. Laodicea – The Vomit-Worthy Church (Revelation 3:14–22)  
+"I know your works: you are neither cold nor hot... So, because you are lukewarm, I will spit you out of my mouth."  
+
+Exegesis: Laodicea = rich trade city. Hot springs nearby (for baths), cold water from aqueduct. Lukewarm = useless.  
+
+They say: "I am rich, have prospered, need nothing." Christ says: "You are wretched, pitiable, poor, blind, naked."  
+
+Jesus stands at the door—knocking. Not for outsiders—for **them**.  
+
+2026:  
+- Affluent Christians: "Jesus is my life-coach."  
+- Prosperity gospel: "Faith = wealth."  
+- Consumer church: "Come for the coffee, stay for the vibes."  
+- "I'm spiritual"—but no prayer, no fasting, no sacrifice.  
+
+Lukewarm = **self-sufficiency**. No need for Christ—just "blessings."  
+
+He spits. Not hate—revulsion. Because they think they're fine.  
+
+### 23. The 2026 Repentance Manual – No Theory, Just Steps  
+Repentance isn't "sorry." It's **turn**.  
+
+1. **Name the idol** — What sits on your throne? Phone? Politics? Comfort? Say it out loud.  
+2. **Confess it** — To God. To a brother/sister. James 5:16: "Confess... and be healed."  
+3. **Cut it** — Delete the app. Unfollow. Cancel the subscription. Matt 5:29: "If your eye causes you to sin, tear it out."  
+4. **Replace it** — Psalm 119:11: "I have stored your word in my heart." Read. Pray. Fast.  
+5. **Serve** — Philippians 2:3: "Count others more significant." Give. Love. No selfies.  
+6. **Test everything** — 1 Thess 5:21. If it doesn't point to Christ—dump it.  
+7. **Hold fast** — Revelation's promise: Overcome. Not by willpower—by **His** blood.  
+
+No ritual. Just **death**. Die to self. Rise with Him.  
+
+### 24. The Kingdom's Here – The Stakes Are Eternal  
+Israel waited. We **have**.  
+
+So every idol isn't "oops"—it's **treason**.  
+
+- Scroll past Scripture? Treason.  
+- Vote for power over justice? Treason.  
+- Preach "grace" without holiness? Treason.  
+
+Christ's voice: "Repent. Or I come like a thief."  
+
+No more warnings. No more patience.  
+
+He's walking among us.  
+
+_______________________
+
 
