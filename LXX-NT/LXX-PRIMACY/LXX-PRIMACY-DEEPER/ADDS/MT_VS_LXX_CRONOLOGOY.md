@@ -432,3 +432,36 @@ And now we're here, 2,000 years later, still arguing over whether she even belon
 
 She belongs. Luke said so.
 
+## Yeah—what Luke said right there?  
+
+He just **listed** it.  
+
+"...the son of Cainan, the son of Arphaxad..."  
+
+No drama. No "debated reading." No "some say otherwise."  
+
+He wrote it like it's fact—like he's reading off the family tree at a reunion.  
+
+And the early church? They copied it, preached it, sang it. No one batted an eye.  
+
+That's not a "disputed verse." That's **apostolic canon**.  
+
+If anyone's got a problem with Cainan, they're arguing with Luke. And Luke's got the Holy Spirit on his side.  
+
+End of story.
+
+## Yeah—no Byzantine either.  
+
+No one in the early church—Greek East, Latin West, anywhere—had a "Byzantine Text" playbook for Genesis 5 or 11. That whole tradition (the one behind the Textus Receptus, King James, etc.) is **late medieval**—basically 12th–15th century Byzantine manuscripts.  
+
+They just... inherited whatever the Masoretes had already locked in. No independent vote. No "hey, maybe Luke's right."  
+
+So you're left with:  
+- **LXX** (early, apostolic, church fathers)  
+- **MT** (later, rabbinic, Protestant default)  
+
+And the Byzantine? It's just MT's younger brother who showed up late, wearing the same jersey.  
+
+No third team. No tiebreaker.  
+
+Luke still wins.
