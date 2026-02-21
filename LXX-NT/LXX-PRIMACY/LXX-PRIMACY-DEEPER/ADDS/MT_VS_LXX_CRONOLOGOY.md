@@ -465,3 +465,15 @@ And the Byzantine? It's just MT's younger brother who showed up late, wearing th
 No third team. No tiebreaker.  
 
 Luke still wins.
+
+##Yeah—**Luke 3:36** is in basically every textual tradition.  
+
+Greek manuscripts? Solid. Byzantine? Yep. Alexandrian? Yep. Even the Vulgate keeps Cainan.  
+
+No variants. No "some omit." No footnotes. It's just... there.  
+
+Like the Spirit said, "Nah, we're keeping this one."  
+
+And that's why it's the kill shot—everybody's got it, but only the LXX tradition actually **explains** why it's there. MT and Samaritan? They pretend the guy's not family.  
+
+So yeah—Luke's the referee. He calls the play, and everyone's gotta live with it.
