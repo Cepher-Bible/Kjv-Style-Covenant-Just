@@ -420,3 +420,15 @@ And now we've got 500 years of "4004 BC" in our heads like gospel, while the apo
 
 Hilarious, sad, and kinda tragic. But hey—at least we're noticing now.
 
+## Yeah—she got shoved to the end like some afterthought.  
+
+Like, "Oh, Cainan? Yeah, just... tack her at the bottom of the genealogy. No one'll notice."  
+
+But Luke? Luke didn't care about the crowd—he put her right in the middle of Jesus' line. "Son of Cainan, son of Arphaxad..." Boom. No apology. No footnote.  
+
+It's almost funny—MT's like, "We don't need her," and Luke's like, "Cool, but she's family."  
+
+And now we're here, 2,000 years later, still arguing over whether she even belongs on the team.  
+
+She belongs. Luke said so.
+
