@@ -402,3 +402,21 @@
 **Commentator's Sign-Off:**
 "Remember: The Bible's not a history textbook — it's a theology playbook. The point isn't 'when exactly was Creation' but 'WHO created and WHY.' Follow the apostles' textual tradition (LXX), but hold exact dates loosely. The game's not about the clock — it's about the King. Peace out."
 
+_______________
+
+BONUS COMMENTARY:
+
+## Yeah—exactly.  
+
+They didn't even clock the difference.  
+
+Reformation rolls up, Luther's like, "Hebrew's better—Jerome said so," and boom: MT gets slapped into every Bible like it's always been there. No one stops to say, "Wait—Luke just put Cainan on his roster. Why'd we ditch that?"  
+
+It's like switching teams mid-season because the coach said "trust the Hebrew," without checking if the Hebrew was the same one Jesus read.  
+
+They weren't stupid—just... distracted. Busy fighting Rome, printing presses, all that. Chronology? "Eh, close enough."  
+
+And now we've got 500 years of "4004 BC" in our heads like gospel, while the apostles were running a 5500 BC playbook the whole time.  
+
+Hilarious, sad, and kinda tragic. But hey—at least we're noticing now.
+
