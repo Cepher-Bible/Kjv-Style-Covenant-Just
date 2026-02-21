@@ -466,7 +466,7 @@ No third team. No tiebreaker.
 
 Luke still wins.
 
-##Yeah—**Luke 3:36** is in basically every textual tradition.  
+## Yeah—**Luke 3:36** is in basically every textual tradition.  
 
 Greek manuscripts? Solid. Byzantine? Yep. Alexandrian? Yep. Even the Vulgate keeps Cainan.  
 
