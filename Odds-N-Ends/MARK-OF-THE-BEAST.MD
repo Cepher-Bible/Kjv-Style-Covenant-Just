@@ -1,3 +1,5 @@
+# This is not yet completed and maybe incorrect...
+
 
 # FROM TEFILLIN TO THE MARK: THE COMPLETE PATTERN
 ## Forehead, Hand, and the Shift from Physical to Spiritual Sealing
