@@ -1,0 +1,22 @@
+ID,NT_Ref,OT_Refs,Type,%,Vulgate_Drift,LXX_True,Notes
+1,Matt 1:23,Isa 7:14,SNAP,98,virgo (virgin),παρθένος (virgin),No drift—Jerome kept it, but LXX wins fidelity
+3,Matt 2:15,Hos 11:1,SNAP,93,ex Aegypto vocavi filium meum,ἐξ Αἰγύπτου ἐκάλεσα τὰ τέκνα μου,"filium" vs "τέκνα"—singular drift
+19,Matt 8:17,Isa 53:4,SNAP,93,languores nostros ipse portavit,αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν,"portavit" vs "ἔλαβεν"—took vs bore
+27,Matt 13:14-15,Isa 6:9-10,SNAP,96,auditu audietis et non intellegitis,ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε,Vulgate softens "no understanding"
+50,Matt 26:64,Dan 7:13 Ps 110:1,COMP,97,sedet ad dexteram virtutis,καθήμενος ἐκ δεξιῶν τῆς δυνάμεως,"virtutis" vs "δυνάμεως"—power drift
+51,Matt 27:9-10,Zech 11:12-13,SNAP,91,XXX argenteos... in agro figuli,τριάκοντα ἀργυρίων... εἰς τὸν ἀγρὸν τοῦ κεραμέως,Vulgate adds "figuli"—potter field edit
+61,Matt 3:17,Ps 2:7 Isa 42:1,COMP,94,dilectus meus in quo mihi complacui,ὁ ἀγαπητός μου ἐν ᾧ εὐδόκησα,No drift—perfect
+70,Matt 5:35,Ps 48:2,ECHO,79,civitas magni regis,πόλις τοῦ μεγάλου βασιλέως,Vulgate "magni" vs "τοῦ μεγάλου"—same
+101,Matt 22:13,Ps 112:10,ECHO,76,tenebrae exteriores,σκότος τὸ ἐξώτερον,No drift
+124,Matt 2:23,Isa 11:1,ECHO,79,Nazaraeus vocabitur,Ναζωραῖος κληθήσεται,Vulgate "Nazaraeus"—LXX "Ναζωραῖος"
+199,Mark 1:2-3,Mal 3:1 Isa 40:3,COMP,94,ante faciem tuam,πρὸ προσώπου σου,No drift
+230,Mark 15:34,Ps 22:1,SNAP,99,Deus meus Deus meus quare dereliquisti me,ὁ Θεός μου ὁ Θεός μου ἵνα τί με ἐγκατέλιπες,Vulgate "dereliquisti"—LXX "ἐγκατέλιπες"
+267,Luke 1:17,Mal 4:5-6,SNAP,93,in spiritu et virtute Heliae,ἐν πνεύματι καὶ δυνάμει Ἠλίου,"virtute" vs "δυνάμει"—power drift
+286,Luke 4:18-19,Isa 61:1-2,COMP,95,unxit me... annuntiare pauperibus,ἔχρισέν με... εὐαγγελίσασθαι πτωχοῖς,Vulgate adds "captivis"—LXX omits
+315,Luke 13:35,Ps 118:26,SNAP,95,benedictus qui venit,εὐλογημένος ὁ ἐρχόμενος,No drift
+338,Luke 23:46,Ps 31:5,SNAP,96,in manus tuas commendo spiritum meum,εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου,Vulgate "commendo"—LXX "παρατίθεμαι"
+443,John 1:23,Isa 40:3,SNAP,97,rectas facite semitas eius,εὐθείας ποιήσατε τὰς τρίβους αὐτοῦ,No drift
+460,John 19:24,Ps 22:18,SNAP,97,sortem miserunt in vestimentum meum,ἐπὶ τὸν χιτῶνά μου ἔβαλον κλῆρον,Vulgate "sortem"—LXX "κλῆρον"
+541,Acts 1:20,Ps 69:25 109:8,COMP,94,fiat deserta... et episcopatum eius accipiat alter,γενηθήτω ἔρημος... καὶ τὴν ἐπισκοπὴν αὐτοῦ λάβοι ἕτερος,No drift
+562,Acts 8:32-33,Isa 53:7-8,SNAP,96,sicut ovis ad occisionem ductus est,ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη,Vulgate "ductus"—LXX "ἤχθη"
+570,Acts 15:16-18,Amos 9:11-12,SNAP,94,reaedificabo tabernaculum David,ἀνοικοδομήσω τὴν σκηνὴν Δαυίδ,Vulgate "reaedificabo"—LXX "ἀνοικοδομήσω"
