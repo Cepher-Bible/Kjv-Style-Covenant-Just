@@ -75,6 +75,10 @@ https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/New-Testament/
 ## Donate or Leave a 🌟 if you use it, or both 😆 
 ## QUESTIONS or Donate to the Project via PayPal,or contact: CepherHakamBible@outlook.com 
 
+## SPOILER - Skip to Critical TEXT findings and check readme for the end result after the chase and exhaustive Research!!
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/LXX-NT
+
+
 **It treats the Bible as a Covenant Document rather than a buffet of inspirational quotes**
 
 ● The Bottom of this has 4 Cluster groups that may critically prove Engine1's worth ●
