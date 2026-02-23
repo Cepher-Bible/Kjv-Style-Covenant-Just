@@ -1765,5 +1765,3 @@ Those who refuse the mark and bear God's seal will reign with Christ forever (Re
 ---
 
 **END OF REFINED MASTER DOCUMENT**
-
-
