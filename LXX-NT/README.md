@@ -1,3 +1,5 @@
+# While Section 1 established the forensic link between the NT and the LXX, Section 2 examines the technical 'Why.' It investigates the linguistic decay of Hebrew as a living tongue and the late-medieval reconstruction of the Masoretic tradition.
+
 ## SECTION 1
 
 # CRITICAL FINDINGS
