@@ -1,5 +1,3 @@
-# WORK IN PROGRESS...
-
 # FROM TEFILLIN TO THE MARK: THE COMPLETE PATTERN
 ## Forehead, Hand, and the Shift from Physical to Spiritual Sealing
 
@@ -8,6 +6,8 @@
 **Evidence Base:** MT, LXX, DSS (4QPhyl, 4QDeut), NT Greek, Hebrews, Church Fathers  
 **Scope:** Mark Location, Economic Control, Image Worship, Name/Number  
 **Anchor Count:** 2,048 textual connections  
+
+**Methodology Note:** Sections labeled **EXEGESIS** are direct textual observations; **THEOLOGICAL SYNTHESIS** marks doctrinal inferences drawn from exegesis; **SPECULATIVE IMPLEMENTATION** marks possible but non-necessary fulfillment mechanisms (e.g., technology scenarios).  
 
 ---
 
@@ -231,7 +231,7 @@ God's "image" is not carved—it's **incarnate**. Jesus = living tefillin. Word 
 - **Internal sealing** becomes universal for those in Christ
 
 **Critical Theological Marker:**
-This marks the transition from the **pedagogical age of external covenant signs** to the **fulfillment age of internal Spirit-sealing**. Post-Pentecost, external Torah signs may persist as cultural practice (cf. Paul circumcising Timothy in Acts 16:3 for missionary reasons), but become **spiritually dangerous** at the point they are treated as covenant-securing after the once-for-all internal seal has been offered in Christ (Gal 5:1-4).
+This marks the transition from the **pedagogical age of external covenant signs** to the **fulfillment age of internal Spirit-sealing**. *(For full discussion of how external Torah signs relate to Christians post-Pentecost, see Part 3.5: Hebrews grounding.)*
 
 ---
 
@@ -475,6 +475,7 @@ Mark of **OWNERSHIP** and **ALLEGIANCE**. Not just identifier—shows who you be
 - Same preposition: *epi* (ἐπί) = "on, upon"
 - Same body part: *cheir* (χείρ) = "hand"
 - Same frontal location: *metōpon* (μέτωπον) = "forehead" (synonymous with "before eyes")
+- **Note:** *Pro ophthalmōn* (πρὸ ὀφθαλμῶν, "before the eyes") and *metōpon* (μέτωπον, "forehead") are functionally overlapping designations for the same frontal identity-space—the visible location marking thoughts/worldview. Both terms locate the covenant sign in the cognitive/visual center.
 
 **THEOLOGICAL SYNTHESIS:**
 
@@ -1582,6 +1583,8 @@ Economic Access (Buy/Sell)
 
 **Verdict:** Current technologies (chips, QR codes, biometrics) ≠ beast mark **unless** tied to worship demand. Stay vigilant, but don't panic.
 
+**Pastoral Implication:** This pattern calls believers to resist any system—ancient or modern—that demands visible allegiance at the cost of exclusive loyalty to Christ, especially when economic survival is tied to that allegiance. The mark's function is ultimately spiritual (worship), not technological.
+
 ---
 
 ### 11.2 How to Resist the Mark (Now and Future)
@@ -1762,4 +1765,5 @@ Those who refuse the mark and bear God's seal will reign with Christ forever (Re
 ---
 
 **END OF REFINED MASTER DOCUMENT**
+
 
