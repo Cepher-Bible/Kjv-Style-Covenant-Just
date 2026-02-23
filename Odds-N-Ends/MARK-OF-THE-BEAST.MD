@@ -1,3 +1,5 @@
+# Work in Progress... Speculative 
+
 # FROM TEFILLIN TO THE MARK: THE COMPLETE PATTERN
 ## Forehead, Hand, and the Shift from Physical to Spiritual Sealing
 
