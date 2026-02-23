@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "purpose": "Reference for identifying authentic 1611 readings",
+    "verses_analyzed": 37,
+    "total_differences": 179,
+    "pattern_types": 11
+  },
+  "patterns": [
+    {
+      "type": "major_variant",
+      "frequency": 67,
+      "description": "Major spelling variant (<60% similar)",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "of",
+          "1769": "and"
+        },
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "Angels",
+          "1769": "of"
+        },
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "and",
+          "1769": "angels"
+        },
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "haue",
+          "1769": "and"
+        },
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "not",
+          "1769": "have"
+        }
+      ]
+    },
+    {
+      "type": "final_e_removed",
+      "frequency": 37,
+      "description": "Final E removed in modernization",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "1_Corinthians.13.1",
+          "1611": "speake",
+          "1769": "speak"
+        },
+        {
+          "reference": "1_Corinthians.13.4",
+          "1611": "kinde",
+          "1769": "kind"
+        },
+        {
+          "reference": "Ephesians.2.8",
+          "1611": "yee",
+          "1769": "ye"
+        },
+        {
+          "reference": "Exodus.33.22",
+          "1611": "passe",
+          "1769": "pass"
+        },
+        {
+          "reference": "Exodus.33.22",
+          "1611": "rocke",
+          "1769": "rock"
+        }
+      ]
+    },
+    {
+      "type": "u_v_interchange",
+      "frequency": 31,
+      "description": "U/V interchange (1611 used u/v interchangeably)",
+      "rule": "1611: Letters u and v were positional variants (v at start, u in middle)",
+      "examples": [
+        {
+          "reference": "1_Corinthians.13.4",
+          "1611": "enuieth",
+          "1769": "envieth"
+        },
+        {
+          "reference": "Ephesians.2.8",
+          "1611": "saued",
+          "1769": "saved"
+        },
+        {
+          "reference": "Exodus.33.22",
+          "1611": "couer",
+          "1769": "cover"
+        },
+        {
+          "reference": "Ezekiel.24.7",
+          "1611": "vpon",
+          "1769": "upon"
+        },
+        {
+          "reference": "Ezekiel.24.7",
+          "1611": "vpon",
+          "1769": "upon"
+        }
+      ]
+    },
+    {
+      "type": "moderate_variant",
+      "frequency": 21,
+      "description": "Moderate spelling variant (60-85% similar)",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "Exodus.33.22",
+          "1611": "clift",
+          "1769": "cleft"
+        },
+        {
+          "reference": "Ezekiel.24.7",
+          "1611": "powred",
+          "1769": "poured"
+        },
+        {
+          "reference": "Genesis.1.2",
+          "1611": "mooued",
+          "1769": "moved"
+        },
+        {
+          "reference": "Genesis.3.5",
+          "1611": "euill",
+          "1769": "evil"
+        },
+        {
+          "reference": "Hebrews.9.20",
+          "1611": "inioined",
+          "1769": "enjoined"
+        }
+      ]
+    },
+    {
+      "type": "ie_to_y",
+      "frequency": 8,
+      "description": "IE vowel digraph changed to Y",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "1_Corinthians.13.13",
+          "1611": "charitie",
+          "1769": "charity"
+        },
+        {
+          "reference": "1_Corinthians.13.13",
+          "1611": "charitie",
+          "1769": "charity"
+        },
+        {
+          "reference": "1_Corinthians.13.4",
+          "1611": "Charitie",
+          "1769": "Charity"
+        },
+        {
+          "reference": "1_Corinthians.13.4",
+          "1611": "charitie",
+          "1769": "charity"
+        },
+        {
+          "reference": "1_Corinthians.13.4",
+          "1611": "charitie",
+          "1769": "charity"
+        }
+      ]
+    },
+    {
+      "type": "minor_variant",
+      "frequency": 7,
+      "description": "Minor spelling variant (>85% similar)",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "Ephesians.2.9",
+          "1611": "workes",
+          "1769": "works"
+        },
+        {
+          "reference": "Genesis.1.2",
+          "1611": "darkenesse",
+          "1769": "darkness"
+        },
+        {
+          "reference": "Genesis.3.5",
+          "1611": "doeth",
+          "1769": "doth"
+        },
+        {
+          "reference": "Isaiah.5.14",
+          "1611": "inlarged",
+          "1769": "enlarged"
+        },
+        {
+          "reference": "John.3.16",
+          "1611": "onely",
+          "1769": "only"
+        }
+      ]
+    },
+    {
+      "type": "i_j_interchange",
+      "frequency": 3,
+      "description": "I/J interchange (1611 used i/j interchangeably)",
+      "rule": "1611: Letters i and j were positional variants (j at start, i elsewhere)",
+      "examples": [
+        {
+          "reference": "Revelation.22.21",
+          "1611": "Iesus",
+          "1769": "Jesus"
+        },
+        {
+          "reference": "Romans.3.24",
+          "1611": "Iesus",
+          "1769": "Jesus"
+        },
+        {
+          "reference": "Romans.8.1",
+          "1611": "Iesus",
+          "1769": "Jesus"
+        }
+      ]
+    },
+    {
+      "type": "double_consonant_added",
+      "frequency": 2,
+      "description": "Consonant doubled in modernization",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "Numbers.11.8",
+          "1611": "mils",
+          "1769": "mills"
+        },
+        {
+          "reference": "Psalms.23.6",
+          "1611": "goodnes",
+          "1769": "goodness"
+        }
+      ]
+    },
+    {
+      "type": "known_1611_archaic",
+      "frequency": 1,
+      "description": "Known 1611 archaic spelling pattern",
+      "rule": "1611: Common archaic spellings standardized by 1769",
+      "examples": [
+        {
+          "reference": "Genesis.1.2",
+          "1611": "voyd",
+          "1769": "void"
+        }
+      ]
+    },
+    {
+      "type": "j_i_interchange",
+      "frequency": 1,
+      "description": "J/I interchange (reverse pattern)",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "Romans.3.24",
+          "1611": "iustified",
+          "1769": "justified"
+        }
+      ]
+    },
+    {
+      "type": "oo_to_o",
+      "frequency": 1,
+      "description": "Pattern: oo_to_o",
+      "rule": "Pattern-specific orthographic variance",
+      "examples": [
+        {
+          "reference": "Romans.3.25",
+          "1611": "foorth",
+          "1769": "forth"
+        }
+      ]
+    }
+  ]
+}
