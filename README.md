@@ -4,6 +4,39 @@
 
 ## NOT JUDAIZING - MAKING THE CORDS VISIBLE, THATS ALL! - NOT ANCIENT NAME - NOT SECRET KNOWLEDGE - NOT A BIBLE SECRET BIBLE CODE - SHOWING THE FULFILLMENT OF THE LAW, NOT PUTTING YOU UNDER IT, BUT THE LAW OF THE HEART AND SPIRIT !!! ✝️❤️🕊
 
+ECUMENICAL FRAMEWORK & PURPOSE STATEMENT
+## Where Jesus, God, and the Holy Spirit Are: Across All Genuine Believers
+
+**Repository Purpose:** Reduce textual drift, recognize historical tradition, cut noise  
+**NOT Our Purpose:** Shake anyone's faith, attack institutions, claim exclusive truth  
+**Core Affirmation:** The Holy Spirit works through many churches and traditions that keep believers on the rails of Scripture, fellowship, and good works  
+
+---
+
+## STATEMENT OF AFFIRMATION
+
+### We Affirm:
+
+**1. JESUS, GOD, AND THE HOLY SPIRIT ARE PRESENT:**
+- In Catholic parishes where the Eucharist is celebrated and Scripture is read
+- In Orthodox liturgies where ancient traditions preserve apostolic faith
+- In Protestant congregations where the Word is preached and believers gather
+- In Pentecostal assemblies where the Spirit moves and gifts are manifested
+- In house churches where two or three gather in His name (Matthew 18:20)
+- In Ethiopian Orthodox, Coptic, Armenian, Syriac, and Oriental traditions
+- In every place where genuine believers confess Jesus as Lord and live by Scripture
+
+**2. MANY TRADITIONS KEEP BELIEVERS "ON THE RAILS":**
+
+**We are NOT here to:**
+- Tear down institutions that keep believers from willful sin
+- Attack churches that maintain fellowship, study, and good works
+- Shake anyone's faith in their tradition if it's bearing fruit
+- Claim our textual analysis is the only path to God
+
+- ## Full statement here:
+- https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/Odds-N-Ends/BODY_OF_CHRIST/ECUMENICAL_STATEMENT.MD
+
 ### WARNINGS ⚠️ AGAINST SOME TRENDS
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/Odds-N-Ends/WARNINGS_CHRISTIAN_TRENDS.MD
 
