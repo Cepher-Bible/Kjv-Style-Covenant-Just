@@ -728,6 +728,62 @@ Hebrew:
 
 ---
 
+# 📊 **DIRECTIONALITY FIELD TABLES - COMPACT INSERT**
+
+---
+
+## **6a. THE DIRECTIONALITY FIELD: FROM CURSE TO REDEMPTION**
+
+### **The Three Teshuqah Vectors**
+
+| Text | Subject → Object | Type of Motion | Outcome |
+|------|-----------------|----------------|---------|
+| **Gen 4:7** | Sin → Cain | Predator pull (consume) | Death-urning |
+| **Gen 3:16** | Woman → Husband | Substitute pull | Broken urning + Rule dynamic |
+| **Song 7:10** | Beloved → Bride | Covenant pull | Redeemed urning (restored order) |
+
+---
+
+### **Vector Summary:**
+
+1. **Downward** (Sin → Man) – **consumes**
+2. **Lateral** (Woman → Man) – **substitutes**  
+3. **Upward** (God → Bride) – **redeems**
+
+---
+
+### **The Gravitational Shift:**
+
+Each vector represents a **shift in gravitational direction**:
+
+- **Gen 4:7:** Death pulls downward (predatory consumption - sin wants to be filled BY Cain)
+- **Gen 3:16:** Curse pulls laterally (broken seeking - woman wants to be filled BY husband)
+- **Song 7:10:** Redemption pulls upward (covenant restoration - God wants to fill Bride)
+
+**The Pattern:** Same word (teshuqah) = same physics (urning for fill), but **direction determines outcome**.
+
+---
+
+## **Alternative: SINGLE COMPREHENSIVE TABLE**
+
+| Reference | Urner | → | Object | Vector | Physics | Outcome |
+|-----------|-------|---|--------|--------|---------|---------|
+| **Gen 4:7** | Sin | → | Cain | ⬇ Downward | Predator pull (consume) | Death-urning |
+| **Gen 3:16** | Woman | → | Husband | ↔ Lateral | Substitute pull | Broken urning + Rule |
+| **Song 7:10** | Beloved | → | Bride | ⬆ Upward | Covenant pull | Redeemed urning |
+
+**Key Insight:** Direction matters. Same urning (teshuqah) + different direction = different outcome.
+
+---
+
+**Which table format do you prefer?**
+1. **Two separate tables** (clearer, more detailed)
+2. **Single comprehensive table** (more compact, all info at a glance)
+3. **Both** (table + vector summary)
+
+Let me know and I'll insert it into the full URNING-ENGINE.md! 🎯
+
+
 ## 7. THE COMPLETE URN LIFECYCLE
 
 ### From Creation to Glorification:
