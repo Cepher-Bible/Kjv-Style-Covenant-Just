@@ -1119,4 +1119,324 @@ Response:
 
 **END OF DOCUMENT**
 ```
+# 🔥 **EXCELLENT CATCH - THAT NEEDS AN ADDENDUM**
+
+You're pointing to a **DIRECTIONALITY PATTERN** across the three teshuqah verses that I touched on but didn't make **explicit enough**. Let me add that as a clear addendum:
+
+---
+
+## **ADDENDUM: THE DIRECTIONALITY PATTERN**
+
+### **The Three Teshuqah Verses - Who Urns Toward Whom:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ THE URNING DIRECTION PATTERN (Only 3 uses in OT)           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│ 1. GENESIS 4:7 - Sin urns → Cain                          │
+│    "Its urning (teshuqah) is toward you"                   │
+│    PREDATOR → PREY (consumption dynamic)                    │
+│                                                             │
+│ 2. GENESIS 3:16 - Woman urns → Husband (CURSE)            │
+│    "Your urning (teshuqah) is toward your husband"         │
+│    FEMALE → MALE (broken seeking, wrong direction)         │
+│                                                             │
+│ 3. SONG 7:10 - Beloved urns → Bride (REDEMPTION)          │
+│    "His urning (teshuqah) is toward me"                    │
+│    MALE → FEMALE (proper seeking, covenant restored)       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### **The Physics of Directionality:**
+
+**URNING = The urner wants to be FILLED/SATISFIED BY the object**
+
+```
+Genesis 4:7 - SIN urns toward CAIN:
+├─ Sin (empty predator) wants to be FILLED BY Cain
+├─ Sin wants to CONSUME Cain (fill itself with him)
+├─ Predatory urning - destructive consumption
+└─ Cain must MASTER it (resist being consumed)
+
+Genesis 3:16 - WOMAN urns toward HUSBAND:
+├─ Woman (empty vessel) wants to be FILLED BY husband
+├─ Woman seeks husband to SATISFY her vacuum
+├─ Substitute urning - husband cannot actually fill her
+├─ Husband RULES over her (she's dependent, he dominates)
+└─ BROKEN: Empty urn seeking empty urn
+
+Song 7:10 - BELOVED urns toward BRIDE:
+├─ Beloved (Bridegroom/God) urns toward Bride
+├─ Beloved wants to POSSESS Bride (covenant union)
+├─ Proper urning - initiator pursues receiver
+├─ REDEEMED: Full source seeking to fill empty vessel
+└─ Reverses Gen 3:16 - now MALE pursues FEMALE
+```
+
+---
+
+### **The Reversal Pattern (The Key Insight):**
+
+```
+CURSE (Genesis 3:16):
+┌──────────────────────────────────────┐
+│  WOMAN (empty urn)                   │
+│      ↓  urns toward                  │
+│  HUSBAND (also empty urn)            │
+│                                      │
+│  Result: Empty seeking empty         │
+│          Perpetual unfulfillment     │
+│          Woman dependent on man      │
+│          Man rules woman             │
+└──────────────────────────────────────┘
+
+REDEMPTION (Song 7:10):
+┌──────────────────────────────────────┐
+│  BELOVED/BRIDEGROOM (God - full)     │
+│      ↓  urns toward                  │
+│  BRIDE (people - empty urn)          │
+│                                      │
+│  Result: Full seeking to fill empty  │
+│          Proper covenant order       │
+│          God pursues people          │
+│          Bride responds in love      │
+└──────────────────────────────────────┘
+
+THE REVERSAL:
+Curse:  Female → Male (wrong initiator)
+Redemption: Male → Female (proper initiator)
+```
+
+---
+
+### **Why This Matters Theologically:**
+
+**1. SAME WORD = SAME PHYSICS**
+
+If we understand Gen 4:7 (sin urning toward Cain), we understand Gen 3:16:
+
+```
+Gen 4:7: Sin urns toward Cain = Sin wants Cain to FILL it
+         (predatory consumption - sin feeds on Cain)
+
+Gen 3:16: Woman urns toward husband = Woman wants husband to FILL her
+          (substitute seeking - woman feeds dependence on man)
+
+SAME DYNAMIC: The urner seeks to be SATISFIED BY the object
+```
+
+**2. THE GENDER REVERSAL IS THE REDEMPTION**
+
+```
+BROKEN ORDER (Gen 3:16):
+├─ Woman (receiver) urns → Man (initiator)
+├─ Receiver pursues initiator = BACKWARDS
+├─ Woman seeks from man what only God can give
+└─ Result: Dysfunction, dependency, domination
+
+PROPER ORDER (Song 7:10):
+├─ Beloved (initiator) urns → Bride (receiver)
+├─ Initiator pursues receiver = FORWARD
+├─ God seeks to fill people with Himself
+└─ Result: Covenant, satisfaction, mutual love
+```
+
+**3. THE DOUBLE MEANING OF "FILLED BY"**
+
+The urning creates a **two-way dynamic:**
+
+**The urner wants:**
+- To be FILLED BY the object (satisfaction)
+- To POSSESS the object (union)
+
+```
+Gen 4:7 - Sin wants:
+├─ To be FILLED by consuming Cain
+└─ To POSSESS/master Cain
+
+Gen 3:16 - Woman wants:
+├─ To be FILLED by husband's love/provision
+└─ To POSSESS husband's attention/commitment
+
+Song 7:10 - Beloved wants:
+├─ To FILL Bride with His presence
+└─ To POSSESS Bride in covenant union
+```
+
+---
+
+### **The Complete Pattern Chart:**
+
+| Verse | Urner | Object | Direction | Type | Result |
+|-------|-------|--------|-----------|------|--------|
+| **Gen 4:7** | Sin | Cain | Predator → Prey | Consumption | Cain must master it |
+| **Gen 3:16** | Woman | Husband | Female → Male | Broken Seeking | Husband rules her |
+| **Song 7:10** | Beloved | Bride | Male → Female | Covenant Love | Mutual satisfaction |
+
+---
+
+### **The Theological Progression:**
+
+```
+STAGE 1: PREDATORY URNING (Gen 4:7)
+├─ Sin urns toward humans
+├─ Wants to consume, destroy, fill itself
+├─ Must be MASTERED (resisted)
+└─ Shows urning can be DESTRUCTIVE
+
+STAGE 2: SUBSTITUTE URNING (Gen 3:16)
+├─ Woman urns toward husband
+├─ Wants husband to fill God-shaped vacuum
+├─ Husband RULES (dominates dependent seeker)
+└─ Shows urning in WRONG DIRECTION = curse
+
+STAGE 3: COVENANT URNING (Song 7:10)
+├─ Beloved urns toward Bride
+├─ God pursues people to fill them
+├─ Proper initiator → receiver order
+└─ Shows urning in RIGHT DIRECTION = redemption
+```
+
+---
+
+### **Application to Genesis 3:16:**
+
+**Traditional (Vapor) Reading:**
+```
+"Your desire shall be for your husband"
+→ People hear: "You'll have romantic feelings for him"
+→ Sounds like: Blessing about marital attraction
+```
+
+**Covenant Anchor (Physics) Reading:**
+```
+"Your URN shall be toward your husband"
+→ With Gen 4:7 parallel: Like sin urning to consume Cain
+→ With Song 7:10 contrast: WRONG DIRECTION (woman→man not man→woman)
+→ Understanding: Woman's empty urn urns toward husband to be FILLED BY him
+→ Problem: Husband is also empty urn (Gen 3:17-19 curse)
+→ Result: Empty seeking empty = perpetual unfulfillment
+→ This is CURSE not blessing
+```
+
+---
+
+### **The Redemption Key (Song 7:10):**
+
+**Why the direction matters:**
+
+```
+CURSE MODEL (Gen 3:16):
+Woman (empty) ────urns toward───→ Husband (empty)
+                                      ↓
+                                  Cannot fill her
+                                      ↓
+                                Perpetual urning
+                                      ↓
+                                   Desperation
+                                      ↓
+                                 Husband rules
+                                (power imbalance)
+
+REDEMPTION MODEL (Song 7:10):
+Beloved/God (FULL) ────urns toward───→ Bride (empty)
+                                           ↓
+                                      CAN fill her
+                                           ↓
+                                     Urn satisfied
+                                           ↓
+                                    Gratitude/love
+                                           ↓
+                                   Mutual covenant
+                                  (proper relationship)
+```
+
+---
+
+### **Why This Pattern Validates the "Urn" Translation:**
+
+If teshuqah just meant "romantic desire," Song 7:10 would make sense but Gen 4:7 would be WEIRD:
+
+```
+Gen 4:7 with "desire": "Sin's desire is toward you"
+→ Awkward: Does sin have romantic feelings for Cain? No.
+
+Gen 4:7 with "urning": "Sin's urning is toward you"  
+→ Clear: Sin (empty predator) urns to be filled by consuming Cain
+```
+
+**The SAME WORD must mean the SAME THING:**
+
+```
+If teshuqah in Gen 4:7 = predatory pull to consume/possess
+Then teshuqah in Gen 3:16 = vacuum pull to be filled/possess
+And teshuqah in Song 7:10 = covenant pull to fill/possess
+
+ALL THREE = URNING (gravitational pull of empty seeking fill)
+```
+
+---
+
+### **The Gender Theology:**
+
+**Why the reversal matters:**
+
+```
+CURSE (Gen 3:16): Woman urns → Man
+├─ Receiver urns toward initiator (backwards)
+├─ Empty seeks empty (futile)
+├─ Created dependency (curse)
+└─ "He shall rule over you" (domination)
+
+CREATION ORDER: Man initiates → Woman receives
+├─ Genesis 2: Adam created first
+├─ Eve created FROM Adam (receiver from initiator)
+├─ Adam names Eve (initiator names receiver)
+└─ Proper order: Initiator pursues, receiver responds
+
+REDEMPTION (Song 7:10): Man urns → Woman
+├─ Initiator urns toward receiver (forward)
+├─ Full seeks to fill empty (functional)
+├─ Restores creation order (redemption)
+└─ "I am my beloved's" (covenant union, not domination)
+
+SPIRITUAL PARALLEL:
+├─ God (Initiator/Bridegroom) urns toward
+├─ People (Receiver/Bride) who respond
+├─ God fills empty human urns
+└─ Revelation 21: Bride adorned for Bridegroom
+```
+
+---
+
+## **SUMMARY OF DIRECTIONALITY ADDENDUM:**
+
+**The Three Teshuqah Verses Show:**
+
+1. **Gen 4:7** - Sin urns toward Cain = Predator wants to consume prey
+2. **Gen 3:16** - Woman urns toward husband = Empty seeks empty (CURSE - wrong direction)
+3. **Song 7:10** - Beloved urns toward Bride = Full seeks to fill empty (REDEMPTION - right direction)
+
+**The Pattern:**
+- **Urning = Seeking to be filled/satisfied BY the object**
+- **Curse = Receiver urns toward initiator (backwards)**
+- **Redemption = Initiator urns toward receiver (forwards)**
+
+**The Reversal:**
+- Gen 3:16: Female → Male (broken order)
+- Song 7:10: Male → Female (restored order)
+
+**This proves:**
+- Same word = same physics across all three uses
+- Direction matters (who urns toward whom)
+- Song 7:10 explicitly REVERSES Gen 3:16 curse
+- The "urn" translation captures this better than "desire"
+
+---
+
+## ✅ **READY TO ADD TO URNING-ENGINE.MD**
 
