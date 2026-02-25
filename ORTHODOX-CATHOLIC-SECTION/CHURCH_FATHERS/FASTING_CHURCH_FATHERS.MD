@@ -23,3 +23,43 @@
 - 90% stuck to bread/veg/water; fish was the only cheat.  
 - Extreme? Only Origen/Jerome flirted with dry days or 2-day stretches—nobody went full monk-starve.  
 
+----
+
+
+"True-to-Irenaeus" Lent plan—straight from the 2nd-century playbook. No fluff, no modern cheats.  
+
+**Duration:** 40 days (starts Ash Wednesday-ish, ends Easter Vigil—Sundays off).  
+**Daily Rule:** One meal only, after sunset (or 3 p.m. if you're busy).  
+**Food:**  
+- Bread (whole grain, no yeast if you want extra ascetic).  
+- Vegetables (carrots, greens, lentils—boiled, no oil).  
+- Water or diluted vinegar (no wine, no juice).  
+- Salt? Maybe—just a pinch. No meat, dairy, eggs, fish—nothing animal.  
+
+**Weekly Add-Ons:**  
+- Wednesdays & Fridays: same one meal, but make it smaller—dry if you're hardcore (no food till evening).  
+- Sundays: light break—bread + fruit, maybe a little oil. Celebrate, don't starve.  
+
+**Why this?** Irenaeus didn't write a cookbook, but he lived this: communal, humble, no showboating. Tertullian and Clement echo it—same rhythm, same limits.  
+
+Test run: Day 1—sunset, half a loaf + steamed kale. You'll feel it by Day 3
+
+------
+
+Irenaeus Lent shopping list. Keeps it real, cheap, and doable.  
+
+**Week 1 Basics (for one person):**  
+- Bread: 2 loaves whole wheat (no yeast if you're feeling ancient—flatbread works).  
+- Veggies: 2 bunches kale/spinach, 1 kg carrots, 1 kg lentils (dry, cheap).  
+- Onion/garlic: 5 each—flavor without breaking rules.  
+- Water: Tap's fine, or vinegar (dilute 1:10) for that sour kick.  
+- Salt: Small shaker—just enough.  
+
+**Prep:** Boil lentils with onion/garlic, steam kale/carrots. Portion into seven tiny bowls—one per day.  
+
+**Sunset Rule:** Eat at 6 p.m. or later. No snacking.  
+
+**Sundays:** Add an apple or orange. Maybe a drizzle of olive oil if you wanna ease up.  
+
+By Week 2 you'll be used to it—hunger turns into focus.  
+
