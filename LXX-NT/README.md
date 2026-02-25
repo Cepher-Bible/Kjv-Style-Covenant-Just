@@ -18,6 +18,9 @@
 
 ---
 
+# DATA TABLES:
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/DATA-SETS
+
 ## WHAT THIS PROJECT IS
 
 This repository documents a forensic research effort to answer one question:
