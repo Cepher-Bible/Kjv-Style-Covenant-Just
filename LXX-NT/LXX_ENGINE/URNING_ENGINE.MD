@@ -776,14 +776,6 @@ Each vector represents a **shift in gravitational direction**:
 
 ---
 
-**Which table format do you prefer?**
-1. **Two separate tables** (clearer, more detailed)
-2. **Single comprehensive table** (more compact, all info at a glance)
-3. **Both** (table + vector summary)
-
-Let me know and I'll insert it into the full URNING-ENGINE.md! 🎯
-
-
 ## 7. THE COMPLETE URN LIFECYCLE
 
 ### From Creation to Glorification:
