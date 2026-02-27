@@ -1,4 +1,3 @@
-```markdown
 # 50 Biggest Threads Lost in English Bibles (MT vs. LXX/DSS) – With Hub Overlap
 
 | #  | Thread Name                          | Key Element                  | MT Noise (English)              | LXX/DSS Signal                  | 200-Chord Lock       | NT Hit                  | Core Loss Summary                          | Hub(s)                          |
@@ -53,8 +52,6 @@
 | 48 | The Bow & Covenant               | Gen 9:13                     | Rainbow in cloud                | Rainbow in cloud                | 184 Doxa             | Rev 4:3                 | Pretty arc → throne-room covenant          | 5 (Throne/Crown)                |
 | 49 | The Rod & Rule                   | Ps 2:9                       | Rod of iron                     | Rod of iron                     | 82 Exousia           | Rev 2:27                | Stick → iron rule over nations             | 3 (Authority)                   |
 | 50 | The Crown of Thorns & Glory      | Isa 53:3                     | Man of sorrows                  | Man of sorrows                  | 183 Crown            | John 19:2               | Sad crown → eternal wreath                 | 5 (Throne/Crown)                |
-```
-
 **Hub Recap (for quick reference)**:  
 - 1: Light (Phōs #1) – Victory glow (9 threads)  
 - 2: Body (Sōma #180) – Uncorrupted vessel (7 threads)  
