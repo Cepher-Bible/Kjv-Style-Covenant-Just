@@ -463,4 +463,29 @@ Loss: "Stick" vs. iron rule over nations.
 | Zech 6:11                | Crown on head                   | Crown on head                   | 183 Crown            | Rev 19:12               |
 Loss: "Sad crown" vs. thorns → eternal wreath.
 
+# Revelation: Apostolic Hub Map (Full Book)
+LXX/DSS signals + NT enforcement. Hubs only—no fluff.
+
+| Chapter/Section          | Key Signal (LXX/Apostolic)                  | Dominant Hub(s)                  | Chord Hits                  | Verdict / Cosmic Move                  |
+|--------------------------|---------------------------------------------|----------------------------------|-----------------------------|----------------------------------------|
+| 1:1–20 – Prologue & Vision | Son of Man amid lamps, voice like thunder   | 1 Light + 5 Throne/Crown        | #1 Phōs, #191 Boaō, #77 Throne | Throne-room reveal—Jesus holds keys    |
+| 2–3 – Letters to Churches | Conquerors get crowns, authority over nations | 3 Authority + 5 Throne/Crown   | #82 Exousia, #183 Crown     | Witnesses promoted—powers' seats taken |
+| 4–5 – Throne & Scroll     | 24 elders, Lamb takes scroll                | 5 Throne/Crown + 3 Authority    | #77 Throne, #180 Sōma       | Succession: Lamb → humans inherit      |
+| 6 – Seals & Martyrs       | Souls under altar cry out                   | 4 Witness + 2 Body              | #193 Martyr, #180 Sōma      | Blood-testimony starts eviction        |
+| 7 – Multitude & Seal      | White-robed from every nation               | 2 Body + 4 Witness + 3 Authority| #181 Enduō, #193 Martyr     | Robes = uniform, seal = protection     |
+| 8–9 – Trumpets & Thunder  | Thunder, trumpets, voices                   | 1 Light + 3 Authority           | #191 Boaō, #1 Phōs          | Alarm: powers hear verdict             |
+| 10–11 – Little Scroll     | Voice thunders, witnesses rise              | 4 Witness + 1 Light             | #191 Boaō, #193 Martyr      | Testimony = resurrection weapon        |
+| 12 – Woman & Dragon       | Dragon cast down by blood/testimony         | 4 Witness + 3 Authority         | #113 Diabolos, #193 Martyr  | Accuser evicted—nations reclaimed      |
+| 13 – Beasts & Mark        | Mark vs. seal                               | 4 Witness + 2 Body              | #193 Martyr, #180 Sōma      | Body loyalty test—powers mimic         |
+| 14 – Harvest & Lamb       | Firstfruits, sickle swings                  | 1 Light + 2 Body                | #1 Phōs, #88 Zōē            | Separation: light divides             |
+| 15–16 – Bowls & Plague    | Thunder, voices, glory                  | 1 Light + 5 Throne/Crown        | #191 Boaō, #184 Doxa        | Judgment flash—throne executes         |
+| 17–18 – Babylon Falls     | City judged, merchants mourn                | 3 Authority + 4 Witness         | #82 Exousia, #193 Martyr    | Rogue system dismantled                |
+| 19 – Rider & Marriage     | White horse, fine linen bride               | 2 Body + 5 Throne/Crown         | #180 Sōma, #182 Stolē       | Conquest uniform—martyrs ride          |
+| 20 – Millennium & Judgment| Martyrs reign, Accuser bound                | 3 Authority + 4 Witness         | #82 Exousia, #193 Martyr    | Thrones filled—powers silenced         |
+| 21–22 – New Creation      | No night, tree of life, river               | 1 Light + 2 Body                | #1 Phōs, #88 Zōē            | Light wins—entropy reversed            |
+
+**Quick Engine Read**:  
+- Hubs cycle: Light alarms → Body rises → Authority transfers → Witnesses enforce → Throne crowns.  
+- Not "future movie"—it's the ongoing coup, starting at resurrection.  
+- LXX signals (e.g., angelic worship in 5, thunder in 10) lock the cosmic spine. MT flattens it to "end times hope."
 
