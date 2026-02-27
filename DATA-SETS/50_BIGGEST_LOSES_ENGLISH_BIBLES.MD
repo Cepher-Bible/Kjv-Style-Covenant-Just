@@ -59,7 +59,7 @@
 - 4: Witness/Martyr (#193) – Legal agent (9 threads)  
 - 5: Throne/Crown (#77/#183) – Succession seat (6 threads)  
 
-The **biggest threads** English Bibles lose when they lean on MT over LXX—each one distilled, intensive, with its own clean data table. No fluff. Just the signal, the loss, and the chord lock. Copy-paste ready.
+The **biggest threads** English Bibles lose when they lean on MT over LXX—each one distilled, intensive, with its own clean data table. Just the signal, the loss, and the chord lock. 
 
 ### 1. Cosmic Hierarchy & Nation Reclamation
 | Element                  | MT Noise (English)              | LXX/DSS Signal                  | 200-Chord Lock       | NT Hit                  |
