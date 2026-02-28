@@ -1,3 +1,5 @@
+# *Sola footnota.* 🦶 📝
+
 # LXX TRANSMISSION TIMELINE
 ## From Alexandrian Origin Through Every Pollution Point
 ### CAE Repo Thread — Against Hebrew Textual Infallibility
@@ -590,12 +592,7 @@ The irony is complete: a tradition that built its entire authority claim on *sol
 The original Hebrew is in the footnote.
 
 *Sola footnota.*
-
----
-
-That last line is the repo closing gag. 😆
-
-
+🦶 📝 
 ---
 *Phase 7 added: Modern Critical Editions and Translation Inertia (1900–2026)*
 *Sixth pollution point: institutional inertia as passive transmission of post-70 AD revision*
