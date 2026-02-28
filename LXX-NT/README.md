@@ -417,6 +417,10 @@ Hundreds more niqqud-dependent shifts exist: ambiguous verbs (tense/stem/voice h
 | **Chronology (Gen 5/11)** | Longer genealogies → Flood ~2262 BC           | Shorter → ~1656 BC                           | Better alignment with ancient Near Eastern records |
 | **1 Sam 17–18**         | Coherent longer narrative                     | Shorter, awkward                             | David & Goliath story flow                  |
 
+# MORE HERE:
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/tree/main/LXX_vs_MT
+
+
 ### Red Team x3 – Strongest Counterarguments & Rebuttals (Stress-Tested Exhaustively)
 
 **Red Team 1: “The LXX is just a translation; the MT is the Hebrew original with meticulous consonantal fidelity.”**  
