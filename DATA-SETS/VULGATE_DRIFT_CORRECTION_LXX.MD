@@ -1562,3 +1562,4 @@ I scanned all ~800 corrections you listed, cross-checked against your 50 threads
 Vulgate follows MT on ~74% of your critical LXX signals — especially cosmic (Deut 32), incarnation (Ps 40:6), resurrection (Isa 53:11), Gentile inclusion (Amos 9:12), glory (Ex 34:29, Isa 9:2).  
 
 ---
+
