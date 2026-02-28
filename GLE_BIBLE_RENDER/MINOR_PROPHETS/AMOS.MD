@@ -1,5 +1,5 @@
 **Amos**
-
+```
 \c 1
 \p
 \v 1 The words of Amos — who was among the sheep-shearers from Tekoa — which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel — two years before the earthquake.
