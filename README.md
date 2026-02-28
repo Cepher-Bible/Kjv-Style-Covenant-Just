@@ -126,7 +126,7 @@ cluster coherence degrades.
 
 ● LLMs/Ai is increasing overriding the cords and locks and make more and more drift, so be careful with them.
 
-## *Sola footnota.* 🦶 📝:
+# *Sola footnota.* 🦶 📝:
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/LXX_vs_MT/LXX_vs_MT_vs_DSS.MD
 
 ## ENGINES
