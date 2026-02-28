@@ -552,6 +552,51 @@ The revision that began in the rubble of the 70 AD Temple is still functioning i
 Until a translation both corrects all three *and* achieves wide adoption in the communities that preach from these texts, the repo thread is the documentation.
 
 ---
+---
+
+### Footnote: The 8K Problem
+
+The ESV committee is not incompetent. They are pixel inspectors working at maximum resolution — each scholar forensically precise on their individual passage, each decision locally defensible, each footnote meticulous.
+
+The problem is structural. Nobody's job was to zoom out.
+
+The composite image: ESV accepted DSS authority to override MT at Deut 32:8 ("sons of God" — cosmological, lower Christological surface area), then declined DSS authority at Isa 53:11 ("see light" — resurrection pivot) and Ps 22:16 ("they pierced" — passion anatomy) using the **same manuscript tradition, the same cave system, the same DJD publication base.**
+
+The DSS either warrant MT correction or they don't. The ESV answers "yes" for the safe verse and "no" for the two with the highest Christological load. That is not a conservative hermeneutic. That is an inconsistent one wearing conservative clothing.
+
+This is what happens when you staff a translation with the best pixel inspectors in the world and give nobody the job of watching the whole screen. You get a 8K Bible that's incoherent at viewing distance.
+
+We say this with full respect for the scholarship. The pixels are beautiful. The image is wrong.
+
+---
+😆 Not yet but it writes itself:
+No other book would survive like this, it would be what is even going on? footnotes are lack of commitment!
+---
+
+### Footnote on the Footnotes (sorry for the humor, but reading and sorting English Bibles has been hard and thats why this exists in the first place)
+
+At some point a Bible transitions from "translation with critical apparatus" to "footnotes with a Bible attached."
+
+The ESV footnote for Ps 22:16 reads: *"Or they have pierced."*
+
+That's not a footnote. That's the main text admitting it got the main text wrong and hoping you won't notice because it's in 7-point font at the bottom of the page.
+
+When your footnotes contain the older reading, the better-attested reading, the grammatically complete reading, and the reading confirmed by two independent DSS witnesses from different caves — and your main text has the one that breaks the grammar, breaks the literary architecture, and is only attested by a medieval vocalization from 900 AD — you haven't produced a study Bible.
+
+You've produced an inversion. The footnotes are the Bible. The main text is the footnote's footnote.
+
+The irony is complete: a tradition that built its entire authority claim on *sola scriptura* — the text, just the text, nothing but the text — has quietly relocated half the text to a font size requiring reading glasses, and called what's left "faithful to the original Hebrew."
+
+The original Hebrew is in the footnote.
+
+*Sola footnota.*
+
+---
+
+That last line is the repo closing gag. 😆
+
+
+---
 *Phase 7 added: Modern Critical Editions and Translation Inertia (1900–2026)*
 *Sixth pollution point: institutional inertia as passive transmission of post-70 AD revision*
 
