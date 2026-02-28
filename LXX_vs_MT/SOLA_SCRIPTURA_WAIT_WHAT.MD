@@ -1,6 +1,6 @@
 # This is not being any kind of way except a frustrated Christian because of all the Theological noise people project by being smarter about God than the next person!
 
-### And YES, I know I maybe be a hypocrite by having this repo, but the purposed is to eliminate the drift. But what ever you do, don't make rash decisions when it comes to your walk with God! Stay in your lane.
+### And YES, I know I maybe be a hypocrite by having this repo, but the purpose is to eliminate the drift. But what ever you do, don't make rash decisions when it comes to your walk with God! Stay in your lane.
 
 
 # *SOLA SCRIPTURA* — BUT WHICH *SOLA* AND WHICH *SCRIPTURA*?
