@@ -82,3 +82,20 @@
 \v 17 Because the fig tree will not bear fruit and there will be no produce on the vines — the work of the olive will lie and the fields will produce no food — the flock was cut off from the feeding-place and there are no cattle in the stalls —
 \v 18 yet I will rejoice in the Lord and be glad in God my Savior.
 \v 19 The Lord God is my strength — and he will set my feet as of a doe and upon the high places he leads me to conquer — with his song.
+```
+
+---
+
+**Quick notes on how it lands**
+
+- **"burden"** (λῆμμα / *onus*) — Thayer: that which is received, a prophetic oracle received as a burden laid upon the prophet; L&S: *onus* = a load, a weight, something pressing down. The opening word is not a neutral "oracle" — it is a weight the seer is carrying. The vision is not given lightly. It presses.
+
+- **"faithfulness"** (πίστις / *fides*) — 2:4 — Thayer: the character of one who can be relied upon, fidelity, trustworthiness — not primarily cognitive belief but covenant-reliability. L&S: *fides* = trust, trustworthiness, a pledge given and kept. "The just one will live by my faithfulness" — this is Yahweh's covenant-fidelity as the animating ground of the just one's life. Paul quotes this in Romans 1:17 and Galatians 3:11. The GLE render makes it Yahweh's faithfulness, not the human's belief — which is the harder and older reading both lexicons support.
+
+- **"the Word goes before his face"** (λόγος / *verbum*) — 3:5 — Thayer: the Word, the divine Logos, the expression of God's mind and will going forth as active agent; L&S: *verbum* = word, utterance, the spoken thing that effects. In the LXX of Habakkuk 3:5 the divine warrior march has the *Logos* as his advance agent. This is pre-incarnation Logos theology embedded in a 7th century BC prophetic war-hymn. John 1 is not inventing the concept — it is naming what Habakkuk already saw marching.
+
+- **"horns in his hands"** (κέρατα ἐν χερσὶν αὐτοῦ) — 3:4 — Thayer: *keras* = horn, symbol of power and strength; the image of radiating power emanating from the hands. This is the same root as Moses descending Sinai with *keren* — the radiant horns of divine glory. Michelangelo's Moses has horns for this reason — the LXX/Vulgate preserved the divine-radiance-as-horns reading that Jerome passed into Western iconography. The glory is not decorative — it is force projecting from the hands.
+
+- **"anointed-ones"** (χριστούς / *christos*) — 3:13 — Thayer: the anointed ones, *christos* from *chriō* = to anoint with oil; L&S: *christus* = the anointed. Plural here — Yahweh goes out to save his anointed-ones. The divine warrior march in chapter 3 is a deliverance operation for the anointed. The singular Anointed-King of the NT is the culmination of a category that Habakkuk already knew as the target of divine rescue.
+
+**Drift eliminated:** Check 3 fired on 2:4 — "his faith" (human belief) smoothed over; restored to Yahweh's faithfulness as the covenantal ground. Check 3 fired on 3:5 — "pestilence went before him" (standard MT-influenced render) replaced with Logos going before his face per LXX. Check 5 fired on 1:11 — breath-of-life suppressed to "wind" in first pass; restored. Check 4 fired on 3:2 — "in wrath remember mercy" too pew-ready; rewritten from the LXX register of troubled-soul and visible appointed-time.
