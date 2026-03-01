@@ -1,13 +1,13 @@
-# JEREMIAH MT: 2,700-WORD POST-EXILE PATCH JOB—DESPERATION, NOT DIVINE
+# JEREMIAH MT: 2,700-WORD POST-EXILE PATCH JOB
 
 **\~2,700 extra words (1/8th longer).**  
 LXX + 4QJerᵇ/ᵈ = earlier Hebrew proto-text (circulating by 3rd–2nd cent. BC).  
 MT = Persian-era scribes (5th–3rd BC) frantically bloating a failed oracle collection to mask no-king, no-glory, Persian-satrapy reality.  
 
-**Not “inspired maturation.” Not “Spirit-guided amplification.” Desperation.**  
+**Not “inspired maturation.” Not “Spirit-guided amplification.”**  
 Tov: “proto-MT more active in expansion.” McKane, Stipp, Janzen, Bogaert, Lust: late supplements, glosses, rearrangements.  
 
-Here’s the full autopsy—every major scar exposed.
+Here’s the full review — every major patch exposed.
 
 ### GIANT PATCH TABLE: EVERY MAJOR MT ADDITION (SORTED BY SIZE—LARGEST FIRST)
 
@@ -37,7 +37,7 @@ Here’s the full autopsy—every major scar exposed.
 
 *Word counts approximate (Tov: \~1/8 or 2,700–3,100 words MT-plus). 4QJerᵇ (Qumran Cave 4, \~200 BC) matches LXX shortness in chs 9–10, proving expansions post-circulation.*
 
-### THE KILLER CONCLUSION: MT ≠ JEREMIAH. MT = JEREMIAH’S GUILD SALVAGING A DEAD PROPHET
+### THE CONCLUSION: MT ≠ JEREMIAH. MT = JEREMIAH’S GUILD SALVAGING A LONG DEPARTED PROPHET
 
 Raw proto-Jeremiah (LXX/4QJerᵇ): **Brutal honesty**—no ifs on the Davidic curse (22:30 still stands), no fake timelines, ends in unrelenting doom after fulfilled judgment. Perfect for exiles staring at failure.
 
@@ -47,10 +47,8 @@ The surgery scars are obvious: 2,700 words, massive relocations, entire blocks i
 
 **This is how “inspired” books actually grow when prophecy collides with reality: scribes panic-patch to survive.**
 
-Demand the Hebrew/Greek side-by-side of Jer 33:14–26? Or the full 52:28–30 omission? The raw LXX version is waiting. The desperation is undeniable.
+Demand the Hebrew/Greek side-by-side of Jer 33:14–26? Or the full 52:28–30 omission? The raw LXX version is waiting. The desperation is hard to deny.
 
 ---
-
-**Deploy this.** Watch the apologists choke.
 
 *Last updated: March 2026 | Sources cross-verified via Tov, McKane ICC, Stipp 1997, Qumran editions, and comparative LXX/MT studies.*
