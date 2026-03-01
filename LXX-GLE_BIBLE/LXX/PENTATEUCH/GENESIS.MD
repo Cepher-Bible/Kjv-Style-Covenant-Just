@@ -953,4 +953,900 @@ CAE flags active for Genesis:
 \v 45 until the anger of your brother turns away from you and he forgets what you did to him — and I will send and take you from there — why should I be bereaved of both of you in one day?
 \v 46 And Rebekah said to Isaac: I am weary of my life because of the daughters of Heth — if Jacob takes a wife from the daughters of Heth like these from the daughters of the land — what good is life to me?
 
+\c 28
+\p
+\v 1 And Isaac called Jacob and blessed him and commanded him saying: Do not take a wife from the daughters of Canaan.
+\v 2 Rise up and go to Mesopotamia to the house of Bethuel your mother's father — and take from there a wife from the daughters of Laban your mother's brother.
+\v 3 And may God Almighty bless you and increase you and multiply you — and you will become gatherings of nations.
+\v 4 And may he give you the blessing of Abraham — to you and to your seed after you — to inherit the land of your sojourning which God gave to Abraham.
+\v 5 And Isaac sent away Jacob and he went to Mesopotamia to Laban the son of Bethuel the Syrian — the brother of Rebekah the mother of Jacob and Esau.
+\p
+\v 6 And Esau saw that Isaac blessed Jacob and sent him to Mesopotamia to take from there a wife — and that as he blessed him he commanded him saying: Do not take a wife from the daughters of Canaan —
+\v 7 and that Jacob heard his father and his mother and went to Mesopotamia.
+\v 8 And Esau saw that the daughters of Canaan were evil before Isaac his father —
+\v 9 and Esau went to Ishmael and took Mahalath the daughter of Ishmael the son of Abraham — the sister of Nebaioth — in addition to his wives as a wife.
+\p
+\v 10 And Jacob went out from Beersheba and went to Haran.
+\v 11 And he arrived at a place and slept there — for the sun had set. And he took one of the stones of the place and placed it at his head and lay down to sleep in that place.
+\v 12 And he dreamed — and look — a ladder was set upon the earth and its top reached to heaven — and the angels of God were ascending and descending upon it.
+\v 13 And the Lord was fixed upon it and said: I am the Lord the God of Abraham your father and the God of Isaac — do not fear — the land on which you are lying — to you I will give it and to your seed.
+\v 14 And your seed will be as the sand of the earth — and it will spread to the sea and to the south and to the north and to the east — and in you and in your seed all the tribes of the earth will be blessed.
+\v 15 And look — I am with you and will guard you on every road on which you go — and I will bring you back to this land — because I will not leave you until I do all things which I spoke to you.
+\v 16 And Jacob woke from his sleep and said: The Lord is in this place and I did not know.
+\v 17 And he was afraid and said: How fearful is this place — this is none other than the house of God and this is the gate of heaven.
+\v 18 And Jacob rose early in the morning and took the stone which he had placed at his head and set it up as a pillar and poured oil upon its top.
+\v 19 And he called the name of that place House of God — but Luz was the name of that city before.
+\v 20 And Jacob vowed a vow saying: If the Lord God is with me and guards me on this road on which I go — and gives me bread to eat and garments to clothe myself —
+\v 21 and brings me back in safety to the house of my father — then the Lord will be my God —
+\v 22 and this stone which I set up as a pillar will be a house of God — and of all things which you give me I will tithe a tenth to you.
+
+\c 29
+\p
+\v 1 And Jacob lifted up his feet and went into the land of the east.
+\v 2 And he looked and look — a well in the open-field and three flocks of sheep resting beside it — for from that well they watered the flocks — and a great stone was upon the mouth of the well.
+\v 3 And all the flocks were gathered there and they rolled the stone from the mouth of the well and watered the sheep — and put back the stone upon the mouth of the well in its place.
+\v 4 And Jacob said to them: Brothers — where are you from? And they said: We are from Haran.
+\v 5 And he said to them: Do you know Laban the son of Nahor? And they said: We know him.
+\v 6 And he said to them: Is he well? And they said: He is well — and look — Rachel his daughter is coming with the sheep.
+\v 7 And Jacob said: The day is still long — it is not yet time to gather the cattle — water the sheep and go feed them.
+\v 8 And they said: We are not able until all the flocks are gathered and they roll the stone from the mouth of the well — then we will water the sheep.
+\v 9 While he was still speaking with them Rachel came with her father's sheep — for she was a shepherdess.
+\v 10 And it came to pass when Jacob saw Rachel the daughter of Laban his mother's brother and the sheep of Laban his mother's brother — that Jacob went forward and rolled the stone from the mouth of the well and watered the sheep of Laban his mother's brother.
+\v 11 And Jacob kissed Rachel and lifted up his voice and wept.
+\v 12 And Jacob told Rachel that he was the brother of her father and that he was the son of Rebekah — and she ran and told her father.
+\v 13 And it came to pass when Laban heard the name of Jacob his sister's son — he ran to meet him and embraced him and kissed him and brought him into his house. And he told Laban all these things.
+\v 14 And Laban said to him: You are from my bones and from my flesh. And he dwelt with him a full month.
+\p
+\v 15 And Laban said to Jacob: Because you are my brother — should you serve me for nothing? Tell me what your wages will be.
+\v 16 Now Laban had two daughters — the name of the elder was Leah and the name of the younger was Rachel.
+\v 17 And the eyes of Leah were weak — but Rachel was beautiful in form and beautiful in appearance.
+\v 18 And Jacob loved Rachel and said: I will serve you seven years for Rachel your younger daughter.
+\v 19 And Laban said: It is better for me to give her to you than to give her to another man — dwell with me.
+\v 20 And Jacob served for Rachel seven years — and they were before him as a few days because of his love for her.
+\v 21 And Jacob said to Laban: Give me my wife — for my days are fulfilled — so that I may go in to her.
+\v 22 And Laban gathered all the men of that place and made a feast.
+\v 23 And it came to pass in the evening that he took Leah his daughter and brought her in to him — and he went in to her.
+\v 24 And Laban gave to his daughter Leah Zilpah his female-servant as a female-servant.
+\v 25 And it came to pass in the morning — and look — it was Leah. And Jacob said to Laban: What is this you have done to me — did I not serve you for Rachel — and why did you deceive me?
+\v 26 And Laban said: It is not done so in our place — to give the younger before the firstborn.
+\v 27 Complete the week of this one and I will give you also this one for the service which you will serve me yet another seven years.
+\v 28 And Jacob did so and completed her week — and he gave him Rachel his daughter as a wife.
+\v 29 And Laban gave to Rachel his daughter Bilhah his female-servant as a female-servant to her.
+\v 30 And he went in also to Rachel — and he loved Rachel more than Leah — and he served him yet another seven years.
+\p
+\v 31 And the Lord saw that Leah was hated — and he opened her womb — but Rachel was barren.
+\v 32 And Leah conceived and bore a son and called his name Reuben saying: Because the Lord looked upon my humiliation — for now my husband will love me.
+\v 33 And she conceived again and bore a son and said: Because the Lord heard that I am hated — he gave me this one also. And she called his name Simeon.
+\v 34 And she conceived again and bore a son and said: In this time my husband will be with me — for I bore him three sons. Therefore she called his name Levi.
+\v 35 And she conceived again and bore a son and said: This time I will acknowledge the Lord. Therefore she called his name Judah. And she ceased bearing.
+
+\c 30
+\p
+\v 1 And Rachel saw that she did not bear children to Jacob — and Rachel envied her sister and said to Jacob: Give me children — and if not I die.
+\v 2 And Jacob was angry with Rachel and said: Am I in the place of God who withheld from you the fruit of the womb?
+\v 3 And she said: Look — my female-servant Bilhah — go in to her and she will bear upon my knees and I also will have children through her.
+\v 4 And she gave him Bilhah her female-servant as a wife — and Jacob went in to her.
+\v 5 And Bilhah conceived and bore Jacob a son.
+\v 6 And Rachel said: God judged me and heard my voice and gave me a son. Therefore she called his name Dan.
+\v 7 And Bilhah the female-servant of Rachel conceived again and bore Jacob a second son.
+\v 8 And Rachel said: God contended with me — a great contention — with my sister — and I prevailed. And she called his name Naphtali.
+\p
+\v 9 And Leah saw that she had ceased bearing — and she took Zilpah her female-servant and gave her to Jacob as a wife.
+\v 10 And Zilpah the female-servant of Leah bore Jacob a son.
+\v 11 And Leah said: Fortunately. And she called his name Gad.
+\v 12 And Zilpah the female-servant of Leah bore Jacob a second son.
+\v 13 And Leah said: Blessed am I — for the women will call me blessed. And she called his name Asher.
+\p
+\v 14 And Reuben went in the days of wheat-harvest and found mandrakes in the open-field and brought them to Leah his mother. And Rachel said to Leah: Give me of your son's mandrakes.
+\v 15 And she said to her: Is it a small thing that you took my husband — and will you also take my son's mandrakes? And Rachel said: Therefore he will sleep with you tonight for your son's mandrakes.
+\v 16 And Jacob came from the open-field in the evening — and Leah went out to meet him and said: You will come in to me tonight — for I have hired you with my son's mandrakes. And he slept with her that night.
+\v 17 And God heard Leah — and she conceived and bore Jacob a fifth son.
+\v 18 And Leah said: God gave me my reward because I gave my female-servant to my husband. And she called his name Issachar.
+\v 19 And Leah conceived again and bore Jacob a sixth son.
+\v 20 And Leah said: God has given me a good gift — this time my husband will choose me — for I bore him six sons. And she called his name Zebulun.
+\v 21 And after this she bore a daughter and called her name Dinah.
+\p
+\v 22 And God remembered Rachel and God listened to her and opened her womb.
+\v 23 And she conceived and bore a son and said: God has taken away my reproach.
+\v 24 And she called his name Joseph saying: May the Lord add to me another son.
+\p
+\v 25 And it came to pass when Rachel bore Joseph that Jacob said to Laban: Send me away that I may go to my place and to my land.
+\v 26 Give me my wives and my children for whom I served you — and I will go. For you know my service with which I served you.
+\v 27 And Laban said to him: If I have found grace before you — I have divined well and the Lord blessed me for your sake.
+\v 28 Specify your wages to me and I will give them.
+\v 29 And he said to him: You know how I served you and how much your cattle were with me.
+\v 30 For it was little which you had before me — and it spread out greatly — and the Lord blessed you at my coming in. And now when shall I also do something for my own house?
+\v 31 And he said: What shall I give you? And Jacob said: You will not give me anything — if you do this thing for me I will again feed your flock and guard it.
+\v 32 I will pass through all your flock today removing from there every speckled and spotted sheep and every dark one among the lambs and the spotted and speckled among the goats — and this will be my wage.
+\v 33 And my righteousness will answer for me on the coming day — when you come before my wage — everything that is not speckled and spotted among the goats and dark among the lambs will be as stolen with me.
+\v 34 And Laban said: Good — let it be as you said.
+\v 35 And he removed on that day the striped and spotted he-goats and all the speckled and spotted she-goats — everything in which there was white — and everything dark among the lambs — and he gave them into the hand of his sons.
+\v 36 And he set three days journey between himself and between Jacob — and Jacob fed the remaining flock of Laban.
+\p
+\v 37 And Jacob took fresh rods of white poplar and almond and plane-tree — and peeled white peelings in them — uncovering the white which was on the rods.
+\v 38 And he set up the rods which he had peeled in the watering-troughs — in the channels of water where the flocks came to drink — opposite the flock. And they conceived when they came to drink.
+\v 39 And the flocks conceived at the rods and the flocks bore striped and speckled and spotted.
+\v 40 And Jacob separated the lambs — and set the faces of the flock toward the striped and every dark one in the flock of Laban — and he put his own droves by themselves and did not put them with the flock of Laban.
+\v 41 And it came to pass at every strong conceiving of the flock — Jacob set the rods before the flock in the channels so that they might conceive at the rods.
+\v 42 But at the feeble conceiving of the flock he did not set them — and the feeble were for Laban and the strong for Jacob.
+\v 43 And the man increased exceedingly exceedingly — and he had many flocks and female-servants and male-servants and camels and donkeys.
+
+\c 31
+\p
+\v 1 And Jacob heard the words of the sons of Laban saying: Jacob has taken all that was our father's and from what belonged to our father he has made all this glory.
+\v 2 And Jacob saw the face of Laban — and look — it was not toward him as before.
+\v 3 And the Lord said to Jacob: Return to the land of your fathers and to your kindred — and I will be with you.
+\v 4 And Jacob sent and called Rachel and Leah into the open-field to his flock —
+\v 5 and said to them: I see the face of your father that it is not toward me as before — but the God of my father was with me.
+\v 6 And you know that with all my strength I served your father.
+\v 7 And your father deceived me and changed my wages ten times — and God did not let him harm me.
+\v 8 If he said: The speckled will be your wages — then all the flock bore speckled. And if he said: The striped will be your wages — then all the flock bore striped.
+\v 9 And God took away the cattle of your father and gave them to me.
+\v 10 And it came to pass at the time of the flock conceiving — I lifted up my eyes and saw in a dream — and look — the he-goats and the rams climbing upon the flocks were striped and speckled and spotted.
+\v 11 And an angel of God said to me in the dream: Jacob. And I said: Look — I am here.
+\v 12 And he said: Lift up your eyes and see all the he-goats and rams climbing upon the flocks — striped and speckled and spotted — for I have seen all that Laban is doing to you.
+\v 13 I am the God who appeared to you in the place of God where you anointed a pillar for me and vowed a vow to me — now rise up and go out from this land and return to the land of your birth.
+\v 14 And Rachel and Leah answered and said to him: Is there still a portion or an inheritance for us in the house of our father?
+\v 15 Are we not counted as foreigners by him — for he sold us and consumed our silver completely?
+\v 16 For all the wealth which God took from our father — it belongs to us and to our sons. And now all that God said to you — do it.
+\p
+\v 17 And Jacob rose up and lifted his sons and his wives upon the camels —
+\v 18 and led away all his cattle and all his possessions which he had acquired — the cattle of his possession which he had acquired in Mesopotamia — to go to Isaac his father in the land of Canaan.
+\v 19 And Laban had gone to shear his sheep — and Rachel stole the idols of her father.
+\v 20 And Jacob hid from Laban the Syrian by not telling him that he was fleeing.
+\v 21 And he fled — he and all that was his — and he crossed the river and set his face toward the mountain of Gilead.
+\p
+\v 22 And it was told to Laban the Syrian on the third day that Jacob had fled.
+\v 23 And he took his brothers with him and pursued after him seven days journey — and overtook him at the mountain of Gilead.
+\v 24 And God came to Laban the Syrian in sleep by night and said to him: Take heed to yourself that you do not speak to Jacob either good or evil.
+\v 25 And Laban caught up with Jacob — and Jacob had pitched his tent in the mountain — and Laban with his brothers pitched in the mountain of Gilead.
+\v 26 And Laban said to Jacob: What have you done — you hid from me and led away my daughters as captives of the sword?
+\v 27 And why did you flee secretly and deceive me and not tell me — and I would have sent you away with gladness and with songs and with timbrel and harp?
+\v 28 And you did not let me kiss my sons and my daughters. Now you have acted foolishly.
+\v 29 And now my hand has power to do evil to you — but the God of your father spoke to me yesterday saying: Take heed to yourself that you do not speak to Jacob either good or evil.
+\v 30 And now you have gone — for you greatly longed for the house of your father — but why did you steal my gods?
+\v 31 And Jacob answered and said to Laban: Because I was afraid — for I said: Perhaps you will take away your daughters from me by force.
+\v 32 With whoever you find your gods he will not live — before our brothers recognize what is yours with me — and take it. And Jacob did not know that Rachel had stolen them.
+\v 33 And Laban entered the tent of Jacob and the tent of Leah and the tent of the two female-servants — and did not find them. And he entered the tent of Rachel.
+\v 34 And Rachel had taken the idols and put them in the camel's saddle and sat upon them. And Laban searched all the tent and did not find them.
+\v 35 And she said to her father: Let it not be grievous before my lord that I am not able to rise up before you — for the way of women is upon me. And he searched and did not find the idols.
+\p
+\v 36 And Jacob was angry and contended with Laban — and Jacob answered and said to Laban: What is my transgression and what is my sin that you pursued after me —
+\v 37 and you searched all my possessions — what did you find from all the possessions of your house? Set it here before your brothers and my brothers and let them judge between us both.
+\v 38 These twenty years I was with you — your ewes and your she-goats did not miscarry and the rams of your flock I did not eat.
+\v 39 A mangled one I did not bring to you — I bore the loss myself — from my hand you sought it — what was stolen by day and what was stolen by night.
+\v 40 I was there — by day the heat consumed me and the frost by night — and my sleep fled from my eyes.
+\v 41 These twenty years I served in your house — fourteen years for your two daughters and six years for your flock — and you changed my wages ten times.
+\v 42 Unless the God of my father — the God of Abraham and the fear of Isaac — was with me — surely now you would have sent me away empty-handed. God saw my humiliation and the toil of my hands and reproved you yesterday.
+\p
+\v 43 And Laban answered and said to Jacob: The daughters are my daughters and the sons are my sons and the flocks are my flocks and everything you see is mine. And what shall I do to my daughters today or to their children whom they bore?
+\v 44 And now come let us make a covenant — I and you — and it will be for a witness between me and between you.
+\v 45 And Jacob took a stone and set it up as a pillar.
+\v 46 And Jacob said to his brothers: Gather stones. And they gathered stones and made a heap — and they ate and drank there upon the heap.
+\v 47 And Laban called it Heap of Witness — and Jacob called it Heap of Witness.
+\v 48 And Laban said: This heap is a witness between me and between you today. Therefore he called its name Heap of Witness —
+\v 49 and the Watch-tower — for he said: May the Lord watch between me and between you when we are hidden from each other.
+\v 50 If you afflict my daughters and if you take wives in addition to my daughters — no man is with us — look — God is a witness between me and between you.
+\v 51 And Laban said to Jacob: Look — this heap and look — this pillar which I have set up between me and between you —
+\v 52 this heap is a witness and this pillar is a witness — that I will not cross over to you past this heap and that you will not cross over to me past this heap and past this pillar for evil.
+\v 53 The God of Abraham and the God of Nahor — the God of their father — judge between us. And Jacob swore by the fear of his father Isaac.
+\v 54 And Jacob offered a sacrifice on the mountain and called his brothers to eat bread — and they ate bread and lodged on the mountain.
+\v 55 And Laban rose early in the morning and kissed his sons and his daughters and blessed them — and Laban departed and returned to his place.
+
+\c 32
+\p
+\v 1 And Jacob went on his way — and angels of God met him.
+\v 2 And Jacob saw them and said: This is the camp of God. And he called the name of that place Camps.
+\p
+\v 3 And Jacob sent messengers before him to Esau his brother to the land of Seir — the region of Edom.
+\v 4 And he commanded them saying: Thus you will say to my lord Esau — thus says your servant Jacob: I sojourned with Laban and stayed until now.
+\v 5 And I have oxen and donkeys and sheep and male-servants and female-servants — and I sent to tell my lord to find grace before you.
+\v 6 And the messengers returned to Jacob saying: We came to your brother Esau and he comes to meet you — and four hundred men with him.
+\v 7 And Jacob was very afraid and was distressed — and he divided the people with him and the sheep and the cattle and the camels into two camps.
+\v 8 And he said: If Esau comes to one camp and strikes it — the remaining camp will be saved.
+\p
+\v 9 And Jacob said: O God of my father Abraham and God of my father Isaac — Lord who said to me: Return to your land and to your kindred and I will do good to you —
+\v 10 I am not sufficient for all the mercies and all the truth which you have done to your servant — for with my staff I crossed this Jordan and now I have become two camps.
+\v 11 Rescue me from the hand of my brother — from the hand of Esau — for I am afraid of him lest he come and strike me — mother upon children.
+\v 12 But you said: Doing good I will do good to you and I will make your seed as the sand of the sea which cannot be numbered from its multitude.
+\v 13 And he lodged there that night and took from what came into his hand a gift for Esau his brother —
+\v 14 two hundred she-goats and twenty he-goats — two hundred ewes and twenty rams —
+\v 15 thirty nursing camels with their young — forty cows and ten bulls — twenty she-donkeys and ten young donkeys.
+\v 16 And he gave them into the hand of his servants — each drove by itself — and he said to his servants: Pass over before me and put a distance between drove and drove.
+\v 17 And he commanded the first saying: When Esau my brother meets you and asks you saying: Whose are you and where are you going and whose are these before you —
+\v 18 then you will say: Your servant Jacob's — a gift sent to my lord Esau — and look — he himself also is behind us.
+\v 19 And he commanded also the second and the third and all those going after the droves saying: According to this word you will speak to Esau when you find him.
+\v 20 And you will say: Also look — your servant Jacob is behind us. For he said: I will appease his face with the gift going before my face — and afterward I will see his face — perhaps he will receive me.
+\v 21 And the gift passed over before his face — and he himself lodged that night in the camp.
+\p
+\v 22 And he rose up that night and took his two wives and his two female-servants and his eleven children and crossed the ford of Jabbok.
+\v 23 And he took them and brought them across the torrent — and brought across all that he had.
+\v 24 And Jacob was left alone — and a man wrestled with him until the dawn broke.
+\v 25 And he saw that he did not prevail against him — and he touched the socket of his thigh — and the socket of the thigh of Jacob was put out of joint as he wrestled with him.
+\v 26 And he said: Release me — for the dawn has broken. And he said: I will not release you unless you bless me.
+\v 27 And he said to him: What is your name? And he said: Jacob.
+\v 28 And he said: Your name will no longer be called Jacob but Israel will be your name — for you were strong with God and with men and prevailed.
+\v 29 And Jacob asked and said: Tell me your name. And he said: Why is it that you ask my name? And he blessed him there.
+\v 30 And Jacob called the name of that place Peniel saying: For I saw God face to face and my soul was saved.
+\v 31 And the sun rose upon him when he passed Peniel — and he limped upon his thigh.
+\v 32 Therefore the sons of Israel do not eat the sinew which shrank — which is upon the socket of the thigh — until this day — because he touched the socket of the thigh of Jacob at the sinew which shrank.
+
+\c 33
+\p
+\v 1 And Jacob lifted up his eyes and saw — and look — Esau was coming and four hundred men with him. And he divided the children to Leah and to Rachel and to the two female-servants.
+\v 2 And he placed the female-servants and their children first — and Leah and her children after — and Rachel and Joseph last.
+\v 3 And he himself passed over before them and bowed down to the ground seven times until he drew near to his brother.
+\v 4 And Esau ran to meet him and embraced him and fell upon his neck and kissed him — and they both wept.
+\v 5 And Esau lifted up his eyes and saw the women and the children and said: What are these to you? And he said: The children with which God showed mercy to your servant.
+\v 6 And the female-servants and their children drew near and bowed down.
+\v 7 And Leah and her children drew near and bowed down — and after this Joseph and Rachel drew near and bowed down.
+\v 8 And he said: What are all these camps to you which I met? And he said: To find grace before my lord.
+\v 9 And Esau said: I have many things my brother — let yours be yours.
+\v 10 And Jacob said: If I have found grace before you — take my gifts from my hands — for this reason I saw your face as one sees the face of God and you received me favorably.
+\v 11 Take my blessing which was brought to you — because God had mercy on me and I have everything. And he urged him and he took it.
+\v 12 And he said: Let us depart and go — and I will go with you.
+\v 13 And he said to him: My lord knows that the children are tender and the flocks and the herds nursing with me — if they drive them hard one day all the flock will die.
+\v 14 Let my lord go before his servant — and I myself will move along gently according to the pace of the livestock which is before me and according to the pace of the children — until I come to my lord to Seir.
+\v 15 And Esau said: Let me leave with you some of the people who are with me. And he said: Why is this — let me find grace before my lord.
+\v 16 And Esau returned that day on his road to Seir.
+\v 17 And Jacob journeyed to Succoth and built himself a house there — and for his cattle he made shelters. Therefore he called the name of that place Succoth.
+\p
+\v 18 And Jacob came to Salem a city of Shechem which is in the land of Canaan when he came from Mesopotamia — and he camped before the city.
+\v 19 And he acquired the portion of the field where he pitched his tent from the hands of the sons of Hamor the father of Shechem for a hundred lambs.
+\v 20 And he set up there an altar and called upon the God of Israel.
+
+\c 34
+\p
+\v 1 And Dinah the daughter of Leah whom she bore to Jacob went out to see the daughters of that land.
+\v 2 And Shechem the son of Hamor the Hivite the ruler of that land saw her — and he took her and lay with her and humbled her.
+\v 3 And he was attached to the soul of Dinah the daughter of Jacob — and he loved the young woman and spoke tenderly to the young woman.
+\v 4 And Shechem spoke to Hamor his father saying: Take this young woman as a wife for me.
+\v 5 And Jacob heard that he had defiled Dinah his daughter — and his sons were with his cattle in the open-field — and Jacob was silent until they came.
+\v 6 And Hamor the father of Shechem went out to Jacob to speak with him.
+\v 7 And the sons of Jacob came from the open-field — and when they heard they were grieved — and the men were very angry — because he had done a shameful thing in Israel by lying with the daughter of Jacob — and thus it ought not to be done.
+\v 8 And Hamor spoke to them saying: Shechem my son — his soul longs for your daughter — give her to him as a wife.
+\v 9 And intermarry with us — give your daughters to us and take our daughters for yourselves.
+\v 10 And dwell among us — and the land is before you — dwell and trade in it and acquire property in it.
+\v 11 And Shechem said to her father and to her brothers: Let me find grace before you and whatever you say to me I will give.
+\v 12 Increase upon me exceedingly the bride-price and gift — and I will give as you say to me — only give me the young woman as a wife.
+\v 13 And the sons of Jacob answered to Shechem and to Hamor his father with deceit — and they spoke — because he had defiled Dinah their sister.
+\v 14 And they said to them: We are not able to do this thing — to give our sister to a man who is uncircumcised — for it is a reproach to us.
+\v 15 Only in this will we consent to you — if you become as us — to circumcise every male among you.
+\v 16 And we will give our daughters to you and take your daughters for us — and we will dwell with you and become one people.
+\v 17 But if you will not hear us to be circumcised — we will take our daughter and go.
+\v 18 And their words pleased Hamor and Shechem the son of Hamor.
+\v 19 And the young man did not delay to do the thing — for he desired the daughter of Jacob. And he was more honored than all the house of his father.
+\v 20 And Hamor and Shechem his son came to the gate of their city and spoke to the men of their city saying:
+\v 21 These men are peaceable with us — and let them dwell in the land and trade in it — and the land look — is broad before them. We will take their daughters as wives for us and give our daughters to them.
+\v 22 Only in this will the men consent to dwell with us to be one people — in the circumcising of every male among us as they are circumcised.
+\v 23 And their cattle and their possessions and all their quadrupeds — will they not be ours? Only let us consent to them and they will dwell with us.
+\v 24 And Hamor and Shechem his son were heard by all those going out at the gate of their city — and every male was circumcised — all those going out at the gate of their city.
+\v 25 And it came to pass on the third day when they were in pain — the two sons of Jacob — Simeon and Levi the brothers of Dinah — each took his sword and came upon the city securely and killed every male.
+\v 26 And they killed Hamor and Shechem his son with the edge of the sword — and took Dinah from the house of Shechem and went out.
+\v 27 And the sons of Jacob came upon the slain and plundered the city — because they had defiled their sister.
+\v 28 They took their sheep and their cattle and their donkeys and everything in the city and in the open-field.
+\v 29 And all their wealth and all their little ones and their wives they took captive — and plundered everything in the houses.
+\v 30 And Jacob said to Simeon and Levi: You have troubled me by making me odious to those who inhabit the land — to the Canaanites and the Perizzites — and I am few in number and they will gather against me and strike me — and I will be destroyed — I and my house.
+\v 31 And they said: But shall our sister be treated as a prostitute?
+
+\c 35
+\p
+\v 1 And God said to Jacob: Rise up and go up to Bethel and dwell there — and make there an altar to the God who appeared to you when you fled from the face of Esau your brother.
+\v 2 And Jacob said to his household and to all those with him: Remove the foreign gods which are among you and purify yourselves and change your garments.
+\v 3 And let us rise up and go up to Bethel and make there an altar to God who heard me in the day of my affliction and was with me on the road on which I went.
+\v 4 And they gave to Jacob all the foreign gods which were in their hands and the earrings which were in their ears — and Jacob hid them under the terebinth which is near Shechem and destroyed them until this day.
+\v 5 And they departed — and the fear of God was upon the cities round about them and they did not pursue after the sons of Jacob.
+\p
+\v 6 And Jacob came to Luz which is in the land of Canaan — this is Bethel — he and all the people who were with him.
+\v 7 And he built there an altar and called the name of that place Bethel — for there God appeared to him when he was fleeing from the face of his brother.
+\v 8 And Deborah the nurse of Rebekah died — and she was buried below Bethel under the oak — and Jacob called its name Oak of Mourning.
+\p
+\v 9 And God appeared again to Jacob when he came from Mesopotamia and blessed him.
+\v 10 And God said to him: Your name is Jacob — your name will no longer be called Jacob — but Israel will be your name. And he called his name Israel.
+\v 11 And God said to him: I am your God the Almighty — increase and multiply — nations and gatherings of nations will come from you — and kings will come from your loins.
+\v 12 And the land which I gave to Abraham and Isaac — to you I will give it — and to your seed after you I will give the land.
+\v 13 And God went up from him at the place where he spoke with him.
+\v 14 And Jacob set up a pillar at the place where he spoke with him — a pillar of stone — and poured a drink-offering upon it and poured oil upon it.
+\v 15 And Jacob called the name of the place where God spoke with him — Bethel.
+\p
+\v 16 And they departed from Bethel — and it was yet some distance of land to come to Ephratha — and Rachel gave birth and had difficulty in her labor.
+\v 17 And it came to pass in her difficult labor that the midwife said to her: Do not fear — for this also is a son for you.
+\v 18 And it came to pass as her soul was going out — for she was dying — she called his name Son-of-my-sorrow — but his father called his name Benjamin.
+\v 19 And Rachel died and was buried on the road to Ephratha — this is Bethlehem.
+\v 20 And Jacob set up a pillar upon her burial-place — this is the pillar of the burial-place of Rachel until this day.
+\p
+\v 21 And Israel departed and pitched his tent beyond the tower of Eder.
+\v 22 And it came to pass when Israel dwelt in that land — that Reuben went and lay with Bilhah his father's concubine — and Israel heard.
+\p
+\v 23 And the sons of Jacob were twelve. The sons of Leah: the firstborn of Jacob — Reuben — and Simeon and Levi and Judah and Issachar and Zebulun.
+\v 24 The sons of Rachel: Joseph and Benjamin.
+\v 25 And the sons of Bilhah the female-servant of Rachel: Dan and Naphtali.
+\v 26 And the sons of Zilpah the female-servant of Leah: Gad and Asher. These are the sons of Jacob who were born to him in Mesopotamia.
+\p
+\v 27 And Jacob came to Isaac his father at Mamre — to the city of the plain — this is Hebron in which Abraham and Isaac sojourned.
+\v 28 And the days of Isaac were a hundred and eighty years.
+\v 29 And Isaac breathed his last and died and was added to his people — old and full of days — and Esau and Jacob his sons buried him.
+
+\c 36
+\p
+\v 1 And these are the generations of Esau — this is Edom.
+\v 2 Esau took his wives from the daughters of Canaan — Adah the daughter of Elon the Hittite and Oholibamah the daughter of Anah the daughter of Zibeon the Hivite —
+\v 3 and Basemath the daughter of Ishmael the sister of Nebaioth.
+\v 4 And Adah bore to Esau Eliphaz — and Basemath bore Reuel —
+\v 5 and Oholibamah bore Jeush and Jalam and Korah. These are the sons of Esau who were born to him in the land of Canaan.
+\v 6 And Esau took his wives and his sons and his daughters and all the souls of his house and his cattle and all his quadrupeds and all his possessions which he had acquired in the land of Canaan — and went to another land away from the face of Jacob his brother.
+\v 7 For their possessions were too great for them to dwell together — and the land of their sojourning could not bear them because of their cattle.
+\v 8 And Esau dwelt in the mountain of Seir — Esau is Edom.
+\p
+\v 9 And these are the generations of Esau the father of Edom in the mountain of Seir.
+\v 10 These are the names of the sons of Esau: Eliphaz the son of Adah the wife of Esau — and Reuel the son of Basemath the wife of Esau.
+\v 11 And the sons of Eliphaz were Teman and Omar and Zepho and Gatam and Kenaz.
+\v 12 And Timna was a concubine of Eliphaz the son of Esau — and she bore to Eliphaz Amalek. These are the sons of Adah the wife of Esau.
+\v 13 And these are the sons of Reuel: Nahath and Zerah — Shammah and Mizzah. These were the sons of Basemath the wife of Esau.
+\v 14 And these were the sons of Oholibamah the daughter of Anah the daughter of Zibeon the wife of Esau — and she bore to Esau Jeush and Jalam and Korah.
+\p
+\v 15 These are the chiefs of the sons of Esau — the sons of Eliphaz the firstborn of Esau: chief Teman — chief Omar — chief Zepho — chief Kenaz —
+\v 16 chief Korah — chief Gatam — chief Amalek. These are the chiefs of Eliphaz in the land of Edom — these are the sons of Adah.
+\v 17 And these are the sons of Reuel the son of Esau: chief Nahath — chief Zerah — chief Shammah — chief Mizzah. These are the chiefs of Reuel in the land of Edom — these are the sons of Basemath the wife of Esau.
+\v 18 And these are the sons of Oholibamah the wife of Esau: chief Jeush — chief Jalam — chief Korah. These are the chiefs of Oholibamah the daughter of Anah the wife of Esau.
+\v 19 These are the sons of Esau and these are their chiefs — this is Edom.
+\p
+\v 20 These are the sons of Seir the Horite who inhabit the land: Lotan and Shobal and Zibeon and Anah
+\v 21 and Dishon and Ezer and Dishan. These are the chiefs of the Horites the sons of Seir in the land of Edom.
+\v 22 And the sons of Lotan were Hori and Heman — and the sister of Lotan was Timna.
+\v 23 And these are the sons of Shobal: Alvan and Manahath and Ebal — Shepho and Onam.
+\v 24 And these are the sons of Zibeon: both Aiah and Anah — this is the Anah who found the hot springs in the desolate-place when he was feeding the donkeys of his father Zibeon.
+\v 25 And these are the children of Anah: Dishon and Oholibamah the daughter of Anah.
+\v 26 And these are the sons of Dishon: Hemdan and Eshban and Ithran and Cheran.
+\v 27 These are the sons of Ezer: Bilhan and Zaavan and Akan.
+\v 28 These are the sons of Dishan: Uz and Aran.
+\v 29 These are the chiefs of the Horites: chief Lotan — chief Shobal — chief Zibeon — chief Anah —
+\v 30 chief Dishon — chief Ezer — chief Dishan. These are the chiefs of the Horites according to their chiefs in the land of Seir.
+\p
+\v 31 And these are the kings who reigned in the land of Edom before a king reigned over the sons of Israel.
+\v 32 And Bela the son of Beor reigned in Edom — and the name of his city was Dinhabah.
+\v 33 And Bela died — and Jobab the son of Zerah from Bozrah reigned in his place.
+\v 34 And Jobab died — and Husham from the land of the Temanites reigned in his place.
+\v 35 And Husham died — and Hadad the son of Bedad who struck Midian in the open-field of Moab reigned in his place — and the name of his city was Avith.
+\v 36 And Hadad died — and Samlah from Masrekah reigned in his place.
+\v 37 And Samlah died — and Shaul from Rehoboth on the river reigned in his place.
+\v 38 And Shaul died — and Baal-Hanan the son of Achbor reigned in his place.
+\v 39 And Baal-Hanan the son of Achbor died — and Hadar reigned in his place — and the name of his city was Pau — and the name of his wife was Mehetabel the daughter of Matred the daughter of Mezahab.
+\p
+\v 40 And these are the names of the chiefs of Esau according to their families according to their places by their names: chief Timna — chief Alvah — chief Jetheth —
+\v 41 chief Oholibamah — chief Elah — chief Pinon —
+\v 42 chief Kenaz — chief Teman — chief Mibzar —
+\v 43 chief Magdiel — chief Iram. These are the chiefs of Edom according to their dwelling-places in the land of their possession — this is Esau the father of Edom.
+
+\c 37
+\p
+\v 1 And Jacob dwelt in the land in which his father sojourned — in the land of Canaan.
+\v 2 And these are the generations of Jacob. Joseph being seventeen years old was feeding the flock with his brothers — being young — with the sons of Bilhah and with the sons of Zilpah the wives of his father. And Joseph brought an evil report of them to Israel their father.
+\v 3 And Israel loved Joseph more than all his sons — because he was a son of old age to him — and he made him a multi-colored coat.
+\v 4 And his brothers saw that their father loved him more than all his brothers — and they hated him and could not speak to him peaceably.
+\v 5 And Joseph dreamed a dream and told it to his brothers — and they hated him yet more.
+\v 6 And he said to them: Hear now this dream which I dreamed.
+\v 7 Look — we were binding sheaves in the middle of the open-field — and look — my sheaf rose up and stood — and look — your sheaves surrounded and bowed down to my sheaf.
+\v 8 And his brothers said to him: Will you indeed reign over us — or will you indeed rule over us? And they hated him yet more on account of his dreams and on account of his words.
+\v 9 And he dreamed yet another dream and told it to his father and to his brothers and said: Look — I dreamed yet another dream — and look — the sun and the moon and eleven stars were bowing down to me.
+\v 10 And he told it to his father and to his brothers — and his father rebuked him and said to him: What is this dream which you dreamed — shall I and your mother and your brothers indeed come and bow down to the ground before you?
+\v 11 And his brothers envied him — but his father kept the word.
+\p
+\v 12 And his brothers went to feed the flock of their father in Shechem.
+\v 13 And Israel said to Joseph: Are not your brothers feeding the flock in Shechem? Come and I will send you to them. And he said to him: Look — I am here.
+\v 14 And he said to him: Go now and see whether your brothers are well and whether the flock is well — and bring me back word. And he sent him from the valley of Hebron and he came to Shechem.
+\v 15 And a man found him — and look — he was wandering in the open-field. And the man asked him saying: What do you seek?
+\v 16 And he said: I am seeking my brothers — tell me where they are feeding.
+\v 17 And the man said: They departed from here — for I heard them saying: Let us go to Dothan. And Joseph went after his brothers and found them in Dothan.
+\p
+\v 18 And they saw him from far off — and before he drew near to them they plotted against him to kill him.
+\v 19 And each said to his brother: Look — the lord of the dreams is coming.
+\v 20 And now come let us kill him and throw him into one of the pits — and we will say: An evil wild-animal ate him — and we will see what his dreams will be.
+\v 21 And Reuben heard and rescued him from their hands and said: We will not strike his soul.
+\v 22 And Reuben said to them: Do not shed blood — throw him into this pit which is in the desolate-place — but do not lay a hand upon him — that he might rescue him from their hands to return him to his father.
+\v 23 And it came to pass when Joseph came to his brothers — they stripped Joseph of his coat — the multi-colored coat which was upon him —
+\v 24 and they took him and threw him into the pit — and the pit was empty — it had no water in it.
+\v 25 And they sat to eat bread — and they lifted up their eyes and saw — and look — a caravan of Ishmaelites was coming from Gilead — and their camels were carrying spices and resin and myrrh — going to bring them down to Egypt.
+\v 26 And Judah said to his brothers: What profit is it if we kill our brother and conceal his blood?
+\v 27 Come let us sell him to the Ishmaelites and let not our hand be upon him — for he is our brother and our flesh. And his brothers listened.
+\v 28 And the men of Midian — merchants — passed by — and they drew up and lifted Joseph out of the pit and sold Joseph to the Ishmaelites for twenty pieces of gold — and they brought Joseph to Egypt.
+\v 29 And Reuben returned to the pit — and look — Joseph was not in the pit. And he tore his garments.
+\v 30 And he returned to his brothers and said: The child is not — and I — where shall I go?
+\v 31 And they took the coat of Joseph and slaughtered a young goat and dipped the coat in the blood.
+\v 32 And they sent the multi-colored coat and brought it to their father and said: This we found — recognize now whether it is your son's coat or not.
+\v 33 And he recognized it and said: It is my son's coat — an evil wild-animal ate him — a wild-animal seized Joseph.
+\v 34 And Jacob tore his garments and put sackcloth on his loins and mourned for his son many days.
+\v 35 And all his sons and all his daughters rose up to comfort him — and he refused to be comforted and said: Because I will go down to my son mourning to Hades. And his father wept for him.
+\v 36 And the Midianites sold Joseph into Egypt to Potiphar a eunuch of Pharaoh — commander of the guard.
+
+\c 38
+\p
+\v 1 And it came to pass at that time that Judah went down from his brothers and turned in to a certain man of Adullam whose name was Hirah.
+\v 2 And Judah saw there the daughter of a Canaanite man whose name was Shua — and he took her and went in to her.
+\v 3 And she conceived and bore a son and he called his name Er.
+\v 4 And she conceived again and bore a son and called his name Onan.
+\v 5 And she added again and bore a son and called his name Shelah — and she was in Chezib when she bore him.
+\v 6 And Judah took a wife for Er his firstborn whose name was Tamar.
+\v 7 And Er the firstborn of Judah was evil before the Lord — and God killed him.
+\v 8 And Judah said to Onan: Go in to your brother's wife and marry her as a brother-in-law and raise up seed for your brother.
+\v 9 And Onan knew that the seed would not be his — and it came to pass when he went in to his brother's wife he spilled it on the ground so as not to give seed to his brother.
+\v 10 And what he did was evil before the Lord — and he killed him also.
+\v 11 And Judah said to Tamar his daughter-in-law: Remain a widow in the house of your father until Shelah my son grows up — for he said: Lest he also die as his brothers. And Tamar went and dwelt in the house of her father.
+\p
+\v 12 And the days were multiplied and the daughter of Shua the wife of Judah died. And Judah was comforted and went up to his sheep-shearers — he and Hirah his friend the Adullamite — to Timnah.
+\v 13 And it was told to Tamar saying: Look — your father-in-law is going up to Timnah to shear his sheep.
+\v 14 And she removed the garments of her widowhood from her and covered herself with a veil and wrapped herself — and sat at the gate of Enaim which is on the road to Timnah — for she saw that Shelah had grown up and she had not been given to him as a wife.
+\v 15 And Judah saw her and thought her to be a prostitute — for she had covered her face.
+\v 16 And he turned to her on the road and said: Come now let me go in to you — for he did not know that she was his daughter-in-law. And she said: What will you give me to come in to me?
+\v 17 And he said: I will send a young goat from the flock. And she said: If you give me a pledge until you send it.
+\v 18 And he said: What pledge shall I give you? And she said: Your signet and your cord and your staff which is in your hand. And he gave them to her and went in to her — and she conceived by him.
+\v 19 And she rose up and went and removed her veil from upon her and put on the garments of her widowhood.
+\v 20 And Judah sent the young goat by the hand of his friend the Adullamite to receive the pledge from the hand of the woman — and he did not find her.
+\v 21 And he asked the men of that place saying: Where is the prostitute who was at Enaim on the road? And they said: There was no prostitute here.
+\v 22 And he returned to Judah and said: I did not find her — and also the men of the place said: There was no prostitute here.
+\v 23 And Judah said: Let her take them for herself lest we be put to shame — look — I sent this young goat and you did not find her.
+\v 24 And it came to pass about three months later that it was told to Judah saying: Tamar your daughter-in-law has prostituted herself — and look — she has conceived by prostitution. And Judah said: Bring her out and let her be burned.
+\v 25 And as she was being brought out she sent to her father-in-law saying: I conceived by the man to whom these belong — and she said: Recognize now whose signet and cord and staff these are.
+\v 26 And Judah recognized and said: She is more righteous than I — because I did not give her to Shelah my son. And he did not know her again.
+\v 27 And it came to pass at the time of her giving birth — and look — twins were in her womb.
+\v 28 And it came to pass as she gave birth — one put out a hand — and the midwife took and bound upon his hand a scarlet thread saying: This one came out first.
+\v 29 And it came to pass as he drew back his hand — and look — his brother came out. And she said: What a breaking-out you have broken out upon yourself. And she called his name Perez.
+\v 30 And afterward his brother came out upon whose hand was the scarlet thread — and she called his name Zerah.
+
+\c 39
+\p
+\v 1 And Joseph was brought down to Egypt — and Potiphar a eunuch of Pharaoh the commander of the guard — an Egyptian man — bought him from the hands of the Ishmaelites who brought him down there.
+\v 2 And the Lord was with Joseph and he was a prosperous man — and he was in the house of his lord the Egyptian.
+\v 3 And his lord saw that the Lord was with him and that the Lord was prospering everything he did in his hands.
+\v 4 And Joseph found grace before his lord — and he served him — and he set him over his household — and everything he had he gave into the hand of Joseph.
+\v 5 And it came to pass from the time he set him over his household and over all that he had that the Lord blessed the house of the Egyptian on account of Joseph — and the blessing of the Lord was upon everything he had — in the house and in the open-field.
+\v 6 And he left everything he had in the hand of Joseph — and did not know what was with him except the bread which he ate. And Joseph was beautiful in form and beautiful in appearance.
+\p
+\v 7 And it came to pass after these things that the wife of his lord cast her eyes upon Joseph and said: Lie with me.
+\v 8 But he refused and said to the wife of his lord: Look — my lord does not know what is with me in the house — and everything he has he has given into my hand.
+\v 9 He is not greater in this house than I — and he has not withheld from me anything except you — because you are his wife. And how shall I do this great evil and sin against God?
+\v 10 And it came to pass as she spoke to Joseph day by day — that he did not listen to her to lie beside her to be with her.
+\v 11 And it came to pass on such a day that he entered the house to do his work — and there was no one of the household men there in the house.
+\v 12 And she seized him by his garment saying: Lie with me. And he left his garment in her hand and fled and went outside.
+\v 13 And it came to pass when she saw that he had left his garment in her hand and fled outside —
+\v 14 that she called to the household men and said to them: See — he brought to us a Hebrew man to mock us — he came in to me to lie with me and I cried out with a great voice.
+\v 15 And it came to pass when he heard that I lifted up my voice and cried out — he left his garment beside me and fled and went outside.
+\v 16 And she laid up his garment beside her until his lord came to his house.
+\v 17 And she spoke to him according to these words saying: The Hebrew servant whom you brought to us came in to me to mock me.
+\v 18 And it came to pass as I lifted up my voice and cried out — he left his garment beside me and fled outside.
+\v 19 And it came to pass when his lord heard the words of his wife which she spoke to him saying: According to these things your servant did to me — that he was angry.
+\v 20 And the lord of Joseph took him and put him into the prison-house — the place where the prisoners of the king were bound — and he was there in the prison-house.
+\v 21 And the Lord was with Joseph and poured mercy upon him — and gave him grace before the warden of the prison-house.
+\v 22 And the warden of the prison-house gave into the hand of Joseph all the prisoners who were in the prison-house — and everything they did there he was doing.
+\v 23 And the warden of the prison-house was not overseeing anything at all that was in his hand — because the Lord was with him — and whatever he did the Lord prospered.
+
+\c 40
+\p
+\v 1 And it came to pass after these things that the cup-bearer of the king of Egypt and the baker sinned against their lord the king of Egypt.
+\v 2 And Pharaoh was angry with his two eunuchs — with the chief cup-bearer and with the chief baker.
+\v 3 And he put them in custody in the house of the commander of the guard — into the prison-house — the place where Joseph was imprisoned.
+\v 4 And the commander of the guard appointed Joseph over them and he served them — and they were some days in custody.
+\v 5 And the two of them dreamed a dream — each his own dream in one night — each according to the interpretation of his dream — the cup-bearer and the baker who were for the king of Egypt who were in the prison-house.
+\v 6 And Joseph came to them in the morning and saw them — and look — they were troubled.
+\v 7 And he asked the eunuchs of Pharaoh who were with him in custody in the house of his lord saying: Why are your faces sad today?
+\v 8 And they said to him: We dreamed a dream and there is no one to interpret it. And Joseph said to them: Is not the interpretation through God? Tell me then.
+\p
+\v 9 And the chief cup-bearer told his dream to Joseph and said to him: In my dream — look — a vine was before me.
+\v 10 And in the vine were three branches — and it was budding — its blossom came up — its clusters ripened into grapes.
+\v 11 And the cup of Pharaoh was in my hand — and I took the grapes and pressed them into the cup of Pharaoh and gave the cup into the hand of Pharaoh.
+\v 12 And Joseph said to him: This is its interpretation — the three branches are three days.
+\v 13 Yet three days and Pharaoh will lift up your head and will restore you to your position — and you will give the cup of Pharaoh into his hand according to the former manner when you were his cup-bearer.
+\v 14 But remember me through yourself when it goes well with you — and do mercy with me and mention me to Pharaoh — and bring me out from this prison-house.
+\v 15 For I was indeed stolen from the land of the Hebrews — and here also I have done nothing — and they put me into this pit.
+\p
+\v 16 And the chief baker saw that the interpretation was good — and he said to Joseph: I also — in my dream — and look — three baskets of white bread were upon my head.
+\v 17 And in the uppermost basket were from all the foods of Pharaoh — the work of a baker — and the birds were eating them from the basket upon my head.
+\v 18 And Joseph answered and said: This is its interpretation — the three baskets are three days.
+\v 19 Yet three days and Pharaoh will lift up your head from you and will hang you on a tree — and the birds will eat your flesh from upon you.
+\p
+\v 20 And it came to pass on the third day — the day of the birth of Pharaoh — that he made a feast for all his servants. And he lifted up the head of the chief cup-bearer and the head of the chief baker among his servants.
+\v 21 And he restored the chief cup-bearer to his cup-bearing — and he gave the cup into the hand of Pharaoh.
+\v 22 And the chief baker he hanged — as Joseph had interpreted to them.
+\v 23 And the chief cup-bearer did not remember Joseph — but forgot him.
+
+\c 41
+\p
+\v 1 And it came to pass after two years of days that Pharaoh dreamed — and look — he was standing by the river.
+\v 2 And look — from the river there came up seven cows beautiful in appearance and fat in flesh — and they grazed in the marsh-grass.
+\v 3 And look — seven other cows came up after them from the river — ugly in appearance and lean in flesh — and they stood beside the cows on the bank of the river.
+\v 4 And the cows ugly in appearance and lean in flesh ate the seven cows beautiful in appearance and fat. And Pharaoh woke up.
+\v 5 And he slept and dreamed a second time — and look — seven ears of grain came up on one stalk — fat and good.
+\v 6 And look — seven ears lean and scorched by the east wind were sprouting up after them.
+\v 7 And the seven lean ears swallowed the seven fat and full ears. And Pharaoh woke up — and look — it was a dream.
+\v 8 And it came to pass in the morning that his breath-of-life was troubled — and he sent and called all the diviners of Egypt and all her wise men. And Pharaoh told them his dream — and there was no one to interpret them for Pharaoh.
+\p
+\v 9 And the chief cup-bearer spoke to Pharaoh saying: I am recalling my sins today.
+\v 10 Pharaoh was angry with his servants and put me in custody in the house of the commander of the guard — me and the chief baker.
+\v 11 And we dreamed a dream in one night — I and he — each according to the interpretation of our dream we dreamed.
+\v 12 And there was there with us a Hebrew youth — a servant of the commander of the guard — and we told him and he interpreted our dreams to us — each according to his dream he interpreted.
+\v 13 And it came to pass as he interpreted to us so it happened — me he restored to my position and him he hanged.
+\p
+\v 14 And Pharaoh sent and called Joseph — and they brought him quickly from the pit. And he shaved and changed his garments and came to Pharaoh.
+\v 15 And Pharaoh said to Joseph: I dreamed a dream and there is no one to interpret it — and I have heard it said of you that you hear a dream and interpret it.
+\v 16 And Joseph answered Pharaoh saying: Apart from God — the answer of peace will not be given to Pharaoh.
+\v 17 And Pharaoh spoke to Joseph: In my dream — look — I was standing on the bank of the river.
+\v 18 And look — seven cows came up from the river fat in flesh and beautiful in form — and they grazed in the marsh-grass.
+\v 19 And look — seven other cows came up after them — wretched and very ugly in form and lean in flesh — I have not seen such ugly ones in all the land of Egypt.
+\v 20 And the seven lean and ugly cows ate the first seven fat cows.
+\v 21 And they entered into their bellies — and it was not known that they had entered their bellies — and their appearance was ugly as at the beginning. And I woke up.
+\v 22 And I saw in my dream — and look — seven ears came up on one stalk full and good.
+\v 23 And look — seven ears withered lean scorched by the east wind were sprouting up after them.
+\v 24 And the seven lean ears swallowed the seven good ears. And I told the diviners — and there was no one to explain it to me.
+\p
+\v 25 And Joseph said to Pharaoh: The dream of Pharaoh is one — what God is doing he showed to Pharaoh.
+\v 26 The seven good cows are seven years — and the seven good ears are seven years — the dream is one.
+\v 27 And the seven lean and ugly cows coming up after them are seven years — and the seven empty ears scorched by the east wind will be seven years of famine.
+\v 28 This is the word I spoke to Pharaoh — what God is doing he showed to Pharaoh.
+\v 29 Look — seven years are coming of great plenty in all the land of Egypt.
+\v 30 And seven years of famine will rise up after them — and all the plenty will be forgotten in the land of Egypt — and the famine will consume the land.
+\v 31 And the plenty will not be known in the land from the face of that famine afterward — for it will be very severe.
+\v 32 And concerning the doubling of the dream to Pharaoh twice — because the word has been established from God and God is hastening to do it.
+\v 33 And now let Pharaoh look for a wise and understanding man and set him over the land of Egypt.
+\v 34 Let Pharaoh do this and appoint overseers over the land — and take up a fifth of the land of Egypt in the seven years of plenty.
+\v 35 And let them gather all the food of these good years that are coming — and pile up grain under the hand of Pharaoh — food in the cities — and guard it.
+\v 36 And the food will be for a reserve for the land for the seven years of famine which will be in the land of Egypt — and the land will not be cut off in the famine.
+\p
+\v 37 And the word was good before Pharaoh and before all his servants.
+\v 38 And Pharaoh said to all his servants: Shall we find such a man as this — in whom is the breath-of-life of God?
+\v 39 And Pharaoh said to Joseph: Since God has shown you all this — there is no one as understanding and wise as you.
+\v 40 You will be over my house — and by your mouth all my people will be fed — only by the throne will I be greater than you.
+\v 41 And Pharaoh said to Joseph: Look — I have set you over all the land of Egypt.
+\v 42 And Pharaoh removed his signet ring from his hand and put it on the hand of Joseph — and clothed him in fine linen garments and placed the gold chain upon his neck.
+\v 43 And he made him ride in the second chariot which he had — and they cried before him: Bow the knee. And he set him over all the land of Egypt.
+\v 44 And Pharaoh said to Joseph: I am Pharaoh — and apart from you no man will lift his hand or his foot in all the land of Egypt.
+\v 45 And Pharaoh called the name of Joseph Zaphenath-paneah — and gave him Asenath the daughter of Potiphera priest of Heliopolis as a wife. And Joseph went out over all the land of Egypt.
+\v 46 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from before Pharaoh and passed through all the land of Egypt.
+\v 47 And in the seven years of plenty the land produced by handfuls.
+\v 48 And he gathered all the food of the seven years which were in the land of Egypt — and placed the food in the cities — the food of the open-field of the city which was round about it he placed within it.
+\v 49 And Joseph piled up grain as the sand of the sea — exceedingly much — until they ceased counting — for it was without number.
+\v 50 And to Joseph were born two sons before the year of famine came — whom Asenath the daughter of Potiphera priest of Heliopolis bore to him.
+\v 51 And Joseph called the name of the firstborn Manasseh — for God made me forget all my toil and all my father's house.
+\v 52 And the name of the second he called Ephraim — for God increased me in the land of my humiliation.
+\v 53 And the seven years of plenty which were in the land of Egypt came to an end.
+\v 54 And the seven years of famine began to come as Joseph had said — and there was famine in all the lands — but in all the land of Egypt there was bread.
+\v 55 And all the land of Egypt hungered — and the people cried to Pharaoh for bread. And Pharaoh said to all the Egyptians: Go to Joseph — whatever he says to you do.
+\v 56 And the famine was upon all the face of the earth — and Joseph opened all the storehouses and sold to all the Egyptians. And the famine was severe in the land of Egypt.
+\v 57 And all the earth came to Egypt to Joseph to buy — for the famine was severe in all the earth.
+
+\c 42
+\p
+\v 1 And Jacob saw that there was grain being sold in Egypt — and Jacob said to his sons: Why are you idle?
+\v 2 Look — I have heard that there is grain in Egypt — go down there and buy for us from there so that we may live and not die.
+\v 3 And the ten brothers of Joseph went down to buy grain from Egypt.
+\v 4 But Benjamin the brother of Joseph Jacob did not send with his brothers — for he said: Lest harm befall him.
+\v 5 And the sons of Israel came to buy among those who came — for the famine was in the land of Canaan.
+\v 6 And Joseph was the ruler over the land — he was the one selling to all the people of the land. And the brothers of Joseph came and bowed down to him face to the ground.
+\v 7 And Joseph saw his brothers and recognized them — and he acted as a stranger to them and spoke hard things to them and said to them: Where have you come from? And they said: From the land of Canaan to buy food.
+\v 8 And Joseph recognized his brothers but they did not recognize him.
+\v 9 And Joseph remembered the dreams which he dreamed about them and said to them: You are spies — you have come to see the nakedness of the land.
+\v 10 And they said to him: No my lord — your servants came to buy food.
+\v 11 We are all sons of one man — we are peaceful men — your servants are not spies.
+\v 12 And he said to them: No — but you came to see the nakedness of the land.
+\v 13 And they said: We your servants are twelve brothers — sons of one man in the land of Canaan — and look — the youngest is with our father today and the other is no more.
+\v 14 And Joseph said to them: This is what I spoke to you saying: You are spies.
+\v 15 By this you will be tested — by the life of Pharaoh — you will not go from here unless your youngest brother comes here.
+\v 16 Send one of you and let him take your brother — and you will be bound and your words will be tested whether the truth is with you — and if not by the life of Pharaoh you are spies.
+\v 17 And he gathered them into custody for three days.
+\v 18 And Joseph said to them on the third day: Do this and live — I fear God.
+\v 19 If you are peaceful men — let one of your brothers be bound in the prison-house — and you go carry grain for the famine of your houses.
+\v 20 And bring your youngest brother to me — and your words will be verified and you will not die. And they did so.
+\v 21 And they said each to his brother: Truly we are guilty concerning our brother — because we saw the distress of his soul when he implored us and we did not listen — therefore this distress has come upon us.
+\v 22 And Reuben answered them saying: Did I not say to you: Do not sin against the child — and you did not listen? And look — his blood also is required.
+\v 23 And they did not know that Joseph was listening — for the interpreter was between them.
+\v 24 And he turned away from them and wept — and he returned to them and spoke to them — and he took Simeon from them and bound him before their eyes.
+\v 25 And Joseph commanded and they filled their vessels with grain and returned their silver each into his sack — and gave them provisions for the road. And he did so for them.
+\v 26 And they loaded their grain upon their donkeys and went from there.
+\v 27 And one opened his sack to give fodder to his donkey at the lodging-place — and he saw his silver — and look — it was in the mouth of his bag.
+\v 28 And he said to his brothers: My silver was returned — and look — it is even in my bag. And their heart went out — and they were troubled each to his brother saying: What is this God has done to us?
+\v 29 And they came to Jacob their father to the land of Canaan and told him all the things that happened to them saying:
+\v 30 The man — the lord of the land — spoke hard things to us and put us in custody as spies of the land.
+\v 31 And we said to him: We are peaceful men — we are not spies.
+\v 32 We are twelve brothers — sons of our father — the one is no more and the youngest is with our father today in the land of Canaan.
+\v 33 And the man the lord of the land said to us: By this I will know that you are peaceful — leave one of your brothers with me and take grain for the famine of your houses and go.
+\v 34 And bring your youngest brother to me and I will know that you are not spies but that you are peaceful — and I will give you your brother and you will trade in the land.
+\v 35 And it came to pass as they were emptying their sacks — and look — each man's bundle of silver was in his sack. And they and their father saw the bundles of their silver and they were afraid.
+\v 36 And Jacob their father said to them: You have bereaved me — Joseph is no more and Simeon is no more — and you will take Benjamin. All these things are against me.
+\v 37 And Reuben said to his father saying: Kill my two sons if I do not bring him back to you — give him into my hand and I will return him to you.
+\v 38 And he said: My son will not go down with you — for his brother is dead and he alone is left — and harm will befall him on the road on which you go — and you will bring down my gray hair with grief to Hades.
+
+\c 43
+\p
+\v 1 And the famine was severe in the land.
+\v 2 And it came to pass when they finished eating the grain which they brought from Egypt that their father said to them: Go back and buy us a little food.
+\v 3 And Judah said to him saying: The man warned us solemnly saying: You will not see my face unless your brother is with you.
+\v 4 If you are sending our brother with us we will go down and buy food for you.
+\v 5 But if you are not sending him we will not go down — for the man said to us: You will not see my face unless your brother is with you.
+\v 6 And Israel said: Why did you do evil to me to tell the man that you had another brother?
+\v 7 And they said: The man asked us repeatedly about ourselves and about our kindred saying: Is your father still alive — do you have a brother? And we told him according to these words — could we know that he would say: Bring down your brother?
+\v 8 And Judah said to Israel his father: Send the child with me and we will rise up and go — and we will live and not die — both we and you and also our little ones.
+\v 9 I will be surety for him — from my hand you will seek him — if I do not bring him to you and set him before you I will have sinned against you all the days.
+\v 10 For if we had not delayed surely we would have returned already twice.
+\v 11 And Israel their father said to them: If it is so — do this — take from the finest produce of the land in your vessels and bring the man a gift — a little resin and a little honey — spices and myrrh — nuts and almonds.
+\v 12 And take double silver in your hand — and the silver that was returned in the mouth of your sacks return in your hand — perhaps it was a mistake.
+\v 13 And take your brother and rise up and return to the man.
+\v 14 And may God Almighty give you mercy before the man — and send away your other brother and Benjamin. And I — as I have been bereaved I have been bereaved.
+\p
+\v 15 And the men took this gift and took double silver in their hand and Benjamin — and they rose up and went down to Egypt and stood before Joseph.
+\v 16 And Joseph saw Benjamin with them and said to the one over his house: Bring the men into the house and slaughter animals and prepare — for the men will eat with me at midday.
+\v 17 And the man did as Joseph said and brought the men into the house of Joseph.
+\v 18 And the men were afraid because they were brought into the house of Joseph — and they said: On account of the silver that was returned in our sacks the first time we are brought in — to roll upon us and to fall upon us and to take us as servants and our donkeys.
+\v 19 And they drew near to the man who was over the house of Joseph and spoke to him at the door of the house —
+\v 20 and said: Please my lord — we came down the first time to buy food —
+\v 21 and it came to pass when we came to the lodging-place and opened our sacks — and look — the silver of each man was in the mouth of his sack — our silver in its full weight. And we returned it in our hand.
+\v 22 And other silver we brought down in our hand to buy food — we do not know who put our silver in our sacks.
+\v 23 And he said: Peace to you — do not fear — your God and the God of your father gave you treasure in your sacks — your silver came to me. And he brought Simeon out to them.
+\v 24 And the man brought the men into the house of Joseph and gave them water and they washed their feet — and he gave fodder to their donkeys.
+\v 25 And they prepared the gift until Joseph came at midday — for they heard that they would eat bread there.
+\v 26 And Joseph came into the house and they brought him the gift which was in their hand — into the house — and they bowed down to him to the ground.
+\v 27 And he asked them about their welfare and said: Is your aged father well — of whom you spoke — is he still alive?
+\v 28 And they said: Your servant our father is well — he is still alive. And they bowed down and made obeisance.
+\v 29 And he lifted up his eyes and saw Benjamin his brother the son of his mother and said: Is this your youngest brother of whom you spoke to me? And he said: God have mercy on you my son.
+\v 30 And Joseph hastened — for his inner-parts were moved toward his brother — and he sought to weep — and he entered into the chamber and wept there.
+\v 31 And he washed his face and came out and controlled himself and said: Serve bread.
+\v 32 And they served him by himself and them by themselves and the Egyptians eating with him by themselves — for the Egyptians could not eat bread with the Hebrews — for it is an abomination to the Egyptians.
+\v 33 And they sat before him — the firstborn according to his birthright and the youngest according to his youth — and the men looked at one another in amazement.
+\v 34 And portions were taken from before him to them — and the portion of Benjamin was five times as much as the portions of all of them. And they drank and were drunk with him.
+
+\c 44
+\p
+\v 1 And he commanded the one over his house saying: Fill the sacks of the men with food as much as they can carry — and put the silver of each man in the mouth of his sack.
+\v 2 And my cup — the silver cup — put in the mouth of the sack of the youngest and his grain silver. And he did according to the word of Joseph which he spoke.
+\v 3 The morning became light and the men were sent away — they and their donkeys.
+\v 4 They had gone out of the city — not far — and Joseph said to the one over his house: Rise up and pursue after the men — and when you overtake them say to them: Why have you repaid evil for good?
+\v 5 Is this not the cup from which my lord drinks — and in which he indeed divines? You have done evil in what you have done.
+\v 6 And he overtook them and spoke to them these words.
+\v 7 And they said to him: Why does my lord speak according to these words? Far be it from your servants to do according to this word.
+\v 8 Look — the silver which we found in the mouth of our sacks we returned to you from the land of Canaan — and how would we steal from the house of your lord silver or gold?
+\v 9 With whichever of your servants it is found let him die — and also we will be servants to my lord.
+\v 10 And he said: Also now as you say — the one with whom it is found will be my servant — and you will be blameless.
+\v 11 And they hastened and each man lowered his sack to the ground and each opened his sack.
+\v 12 And he searched — beginning with the eldest and finishing with the youngest — and the cup was found in the sack of Benjamin.
+\v 13 And they tore their garments and loaded each man his donkey and returned to the city.
+\p
+\v 14 And Judah and his brothers entered the house of Joseph — and he was still there — and they fell before him to the ground.
+\v 15 And Joseph said to them: What is this deed you have done — do you not know that a man like me indeed divines?
+\v 16 And Judah said: What shall we say to my lord — what shall we speak — and how shall we declare ourselves righteous? God has found out the lawless deed of your servants — look — we are servants to my lord — both we and the one in whose hand the cup was found.
+\v 17 And he said: Far be it from me to do this — the man in whose hand the cup was found — he will be my servant — and you go up in peace to your father.
+\p
+\v 18 And Judah drew near to him and said: Please my lord — let your servant speak a word in the ears of my lord and let not your wrath be kindled against your servant — for you are as Pharaoh.
+\v 19 My lord asked his servants saying: Do you have a father or a brother?
+\v 20 And we said to my lord: We have an aged father and a young child of old age — and his brother is dead — and he alone is left from his mother — and his father loves him.
+\v 21 And you said to your servants: Bring him down to me and I will set my eyes upon him.
+\v 22 And we said to my lord: The child is not able to leave his father — for if he leaves his father he will die.
+\v 23 And you said to your servants: If your youngest brother does not come down with you — you will not see my face again.
+\v 24 And it came to pass when we went up to your servant my father we told him the words of my lord.
+\v 25 And our father said: Go back and buy us a little food.
+\v 26 And we said: We are not able to go down — if our youngest brother is with us we will go down — for we are not able to see the face of the man and our youngest brother is not with us.
+\v 27 And your servant my father said to us: You know that my wife bore two sons to me.
+\v 28 And the one went out from me and I said: Surely he has been torn to pieces — and I have not seen him until now.
+\v 29 And if you take this one also from my face and harm befalls him — you will bring down my gray hair with evil to Hades.
+\v 30 And now when I come to your servant my father and the child is not with us — and his soul is bound to his soul —
+\v 31 it will come to pass when he sees that the child is not — that he will die — and your servants will bring down the gray hair of your servant our father with grief to Hades.
+\v 32 For your servant was surety for the child from my father saying: If I do not bring him to you — I will have sinned against my father all the days.
+\v 33 And now let your servant remain instead of the child as a servant to my lord — and let the child go up with his brothers.
+\v 34 For how shall I go up to my father and the child is not with me — lest I see the evil which will find my father.
+
+\c 45
+\p
+\v 1 And Joseph was not able to control himself before all those standing beside him — and he said: Send everyone out from me. And no one stood with him when Joseph made himself known to his brothers.
+\v 2 And he gave his voice in weeping — and the Egyptians heard and the house of Pharaoh heard.
+\v 3 And Joseph said to his brothers: I am Joseph — is my father still alive? And his brothers were not able to answer him — for they were troubled before his face.
+\v 4 And Joseph said to his brothers: Draw near to me. And they drew near. And he said: I am Joseph your brother whom you sold into Egypt.
+\v 5 And now do not be grieved and let it not be hard in your eyes that you sold me here — for God sent me before you for life.
+\v 6 For this is two years of famine in the midst of the land — and there are still five years in which there will be no plowing or harvest.
+\v 7 And God sent me before you to leave for you a remnant upon the earth and to save your lives by a great deliverance.
+\v 8 And now it was not you who sent me here but God — and he made me a father to Pharaoh and lord of all his house and ruler over all the land of Egypt.
+\v 9 Hasten and go up to my father and say to him: Thus says your son Joseph — God made me lord of all Egypt — come down to me — do not delay.
+\v 10 And you will dwell in the land of Goshen and you will be near to me — you and your sons and the sons of your sons and your sheep and your cattle and all that you have.
+\v 11 And I will nourish you there — for there are still five years of famine — lest you and your household and all that is yours become poor.
+\v 12 And look — your eyes see and the eyes of my brother Benjamin — that it is my mouth that speaks to you.
+\v 13 And tell my father all my glory in Egypt and all that you have seen — and hasten and bring down my father here.
+\v 14 And he fell upon the neck of Benjamin his brother and wept — and Benjamin wept upon his neck.
+\v 15 And he kissed all his brothers and wept over them — and after this his brothers spoke with him.
+\p
+\v 16 And the voice was heard in the house of Pharaoh saying: The brothers of Joseph have come. And it was good in the eyes of Pharaoh and in the eyes of all his servants.
+\v 17 And Pharaoh said to Joseph: Say to your brothers: Do this — load your animals and go — enter into the land of Canaan.
+\v 18 And take your father and your households and come to me — and I will give you the good of the land of Egypt and you will eat the fat of the land.
+\v 19 And you are commanded — do this — take wagons from the land of Egypt for your little ones and for your wives — and take your father and come.
+\v 20 And let your eye not spare your vessels — for the good of all the land of Egypt is yours.
+\p
+\v 21 And the sons of Israel did so — and Joseph gave them wagons according to the word of Pharaoh — and he gave them provisions for the road.
+\v 22 To all of them he gave changes of garments — but to Benjamin he gave three hundred pieces of silver and five changes of garments.
+\v 23 And to his father he sent accordingly — ten donkeys carrying from the good things of Egypt and ten female-donkeys carrying grain and bread and provisions for his father for the road.
+\v 24 And he sent his brothers away and they went — and he said to them: Do not quarrel on the road.
+\p
+\v 25 And they went up from Egypt and came to the land of Canaan to Jacob their father.
+\v 26 And they told him saying: Joseph is still alive — and he is ruler over all the land of Egypt. And his heart became numb — for he did not believe them.
+\v 27 And they spoke to him all the words of Joseph which he spoke to them — and he saw the wagons which Joseph sent to carry him — and the breath-of-life of Jacob their father revived.
+\v 28 And Israel said: Great — my son Joseph is still alive — I will go and see him before I die.
+
+\c 46
+\p
+\v 1 And Israel set out — he and all that he had — and came to the well of the oath — and he offered sacrifices to the God of his father Isaac.
+\v 2 And God spoke to Israel in a vision by night and said: Jacob Jacob. And he said: Look — I am here.
+\v 3 And he said: I am the God of your fathers — do not fear to go down into Egypt — for I will make you a great nation there.
+\v 4 I myself will go down with you into Egypt and I myself will bring you up at the end — and Joseph will put his hands upon your eyes.
+\v 5 And Jacob rose up from the well of the oath — and the sons of Israel carried Jacob their father and their little ones and their wives on the wagons which Pharaoh sent to carry him.
+\v 6 And they took their cattle and their possessions which they had acquired in the land of Canaan and came into Egypt — Jacob and all his seed with him.
+\v 7 His sons and the sons of his sons with him — his daughters and the daughters of his sons — and all his seed he brought with him into Egypt.
+\p
+\v 8 And these are the names of the sons of Israel who came into Egypt — Jacob and his sons. The firstborn of Jacob: Reuben.
+\v 9 And the sons of Reuben: Hanoch and Pallu and Hezron and Carmi.
+\v 10 And the sons of Simeon: Jemuel and Jamin and Ohad and Jachin and Zohar and Shaul the son of a Canaanite woman.
+\v 11 And the sons of Levi: Gershon Kohath and Merari.
+\v 12 And the sons of Judah: Er and Onan and Shelah and Perez and Zerah — but Er and Onan died in the land of Canaan. And the sons of Perez were Hezron and Hamul.
+\v 13 And the sons of Issachar: Tola and Puvah and Iob and Shimron.
+\v 14 And the sons of Zebulun: Sered and Elon and Jahleel.
+\v 15 These are the sons of Leah whom she bore to Jacob in Mesopotamia — and Dinah his daughter. All the souls — his sons and his daughters — thirty-three.
+\v 16 And the sons of Gad: Ziphion and Haggi — Shuni and Ezbon — Eri and Arodi and Areli.
+\v 17 And the sons of Asher: Imnah and Ishvah and Ishvi and Beriah and Serah their sister. And the sons of Beriah: Heber and Malchiel.
+\v 18 These are the sons of Zilpah whom Laban gave to Leah his daughter — and she bore these to Jacob — sixteen souls.
+\v 19 The sons of Rachel the wife of Jacob: Joseph and Benjamin.
+\v 20 And to Joseph were born in the land of Egypt — whom Asenath the daughter of Potiphera priest of Heliopolis bore to him — Manasseh and Ephraim.
+\v 21 And the sons of Benjamin: Bela and Becher and Ashbel — Gera and Naaman — Ehi and Rosh — Muppim and Huppim and Ard.
+\v 22 These are the sons of Rachel who were born to Jacob — all the souls fourteen.
+\v 23 And the sons of Dan: Hushim.
+\v 24 And the sons of Naphtali: Jahzeel and Guni and Jezer and Shillem.
+\v 25 These are the sons of Bilhah whom Laban gave to Rachel his daughter — and she bore these to Jacob — all the souls seven.
+\v 26 All the souls coming with Jacob into Egypt — those coming out of his loins — apart from the wives of the sons of Jacob — all the souls were sixty-six.
+\v 27 And the sons of Joseph who were born to him in Egypt were nine souls. All the souls of the house of Jacob coming into Egypt were seventy-five.
+\p
+\v 28 And he sent Judah before him to Joseph to make ready before him in Goshen — and they came into the land of Goshen.
+\v 29 And Joseph harnessed his chariot and went up to meet Israel his father in Goshen — and he appeared to him and fell upon his neck and wept over his neck yet more.
+\v 30 And Israel said to Joseph: Now I will die — having seen your face — because you are still alive.
+\v 31 And Joseph said to his brothers and to his father's household: I will go up and tell Pharaoh and say to him: My brothers and my father's household who were in the land of Canaan have come to me.
+\v 32 And the men are shepherds of flocks — for they are men of cattle — and their sheep and their cattle and all that they have they have brought.
+\v 33 And it will come to pass when Pharaoh calls you and says: What is your occupation —
+\v 34 you will say: Men of cattle were your servants from our youth until now — both we and our fathers — so that you may dwell in the land of Goshen — for every shepherd of sheep is an abomination to the Egyptians.
+
+\c 47
+\p
+\v 1 And Joseph came and told Pharaoh saying: My father and my brothers and their sheep and their cattle and all that they have have come from the land of Canaan — and look — they are in the land of Goshen.
+\v 2 And from his brothers he took five men and stood them before Pharaoh.
+\v 3 And Pharaoh said to his brothers: What is your occupation? And they said to Pharaoh: Your servants are shepherds of flocks — both we and our fathers.
+\v 4 And they said to Pharaoh: We came to sojourn in the land — for there is no pasture for the flocks of your servants — for the famine is severe in the land of Canaan. And now let your servants dwell in the land of Goshen.
+\v 5 And Pharaoh said to Joseph: Let them dwell in the land of Goshen — and if you know that there are capable men among them set them as rulers of cattle over my cattle.
+\v 6 And Jacob and his sons came to Joseph in Egypt — and Pharaoh king of Egypt heard. And Pharaoh said to Joseph: Your father and your brothers have come to you.
+\v 7 And Joseph brought in Jacob his father and stood him before Pharaoh — and Jacob blessed Pharaoh.
+\v 8 And Pharaoh said to Jacob: How many are the days of the years of your life?
+\v 9 And Jacob said to Pharaoh: The days of the years of my sojourning are a hundred and thirty years — few and evil have been the days of the years of my life — and they have not reached the days of the years of the life of my fathers in the days of their sojourning.
+\v 10 And Jacob blessed Pharaoh and went out from before Pharaoh.
+\v 11 And Joseph settled his father and his brothers and gave them a possession in the land of Egypt — in the best of the land — in the land of Rameses — as Pharaoh commanded.
+\v 12 And Joseph nourished his father and his brothers and all the house of his father with bread according to the little ones.
+\p
+\v 13 And there was no bread in all the land — for the famine was exceedingly severe — and the land of Egypt and the land of Canaan were exhausted from the famine.
+\v 14 And Joseph gathered all the silver found in the land of Egypt and in the land of Canaan for the grain which they were buying — and Joseph brought the silver into the house of Pharaoh.
+\v 15 And the silver was consumed from the land of Egypt and from the land of Canaan — and all the Egyptians came to Joseph saying: Give us bread — and why should we die before you — for the silver has failed.
+\v 16 And Joseph said: Bring your cattle — and I will give you for your cattle if the silver has failed.
+\v 17 And they brought their cattle to Joseph — and Joseph gave them bread for the horses and for the sheep and for the cattle and for the donkeys — and he supported them with bread for all their cattle in that year.
+\v 18 And that year came to an end — and they came to him in the second year and said to him: We will not hide from my lord that the silver has been consumed and the herds of the cattle are with my lord — nothing remains before my lord except our bodies and our land.
+\v 19 Why should we die before you — both we and our land? Buy us and our land for bread — and we and our land will be servants to Pharaoh — and give seed so that we may live and not die and the land not be desolate.
+\v 20 And Joseph bought all the land of Egypt for Pharaoh — for the Egyptians sold each his field because the famine prevailed over them — and the land became Pharaoh's.
+\v 21 And the people he transferred to cities from one end of the border of Egypt to its other end.
+\v 22 Only the land of the priests he did not buy — for the priests had a portion from Pharaoh and they ate their portion which Pharaoh gave them — therefore they did not sell their land.
+\v 23 And Joseph said to the people: Look — I have bought you today and your land for Pharaoh — look — here is seed for you and you will sow the land.
+\v 24 And it will come to pass at the harvests that you will give a fifth to Pharaoh — and the four parts will be yours for seed of the field and for your food and for those in your houses and for your little ones to eat.
+\v 25 And they said: You have saved our lives — let us find grace before our lord and we will be servants to Pharaoh.
+\v 26 And Joseph made it a statute until this day over the land of Egypt — a fifth for Pharaoh. Only the land of the priests alone was not for Pharaoh.
+\p
+\v 27 And Israel dwelt in the land of Egypt — in the land of Goshen — and they acquired possessions in it and increased and multiplied exceedingly.
+\v 28 And Jacob lived in the land of Egypt seventeen years — and the days of Jacob — the years of his life — were a hundred and forty-seven years.
+\v 29 And the days of Israel drew near to die — and he called his son Joseph and said to him: If I have found grace before you — place your hand under my thigh and do mercy and truth with me — do not bury me in Egypt.
+\v 30 And I will lie with my fathers — and carry me out of Egypt and bury me in their burial-place. And he said: I will do according to your word.
+\v 31 And he said: Swear to me. And he swore to him. And Israel bowed down upon the top of his staff.
+
+\c 48
+\p
+\v 1 And it came to pass after these things that it was told to Joseph: Look — your father is ill. And he took his two sons with him — Manasseh and Ephraim.
+\v 2 And it was told to Jacob saying: Look — your son Joseph is coming to you. And Israel strengthened himself and sat up on the bed.
+\v 3 And Jacob said to Joseph: God Almighty appeared to me at Luz in the land of Canaan and blessed me.
+\v 4 And he said to me: Look — I will increase you and multiply you and make you a gathering of nations — and I will give this land to your seed after you for an everlasting possession.
+\v 5 And now your two sons — those born to you in the land of Egypt before I came to you into Egypt — are mine. Ephraim and Manasseh will be to me as Reuben and Simeon.
+\v 6 And the children whom you beget after them will be yours — they will be called by the name of their brothers in their inheritance.
+\v 7 And I — when I came from Mesopotamia — Rachel died upon me in the land of Canaan on the road when there was still some distance of land to come to Ephratha — and I buried her there on the road to Ephratha — this is Bethlehem.
+\p
+\v 8 And Israel saw the sons of Joseph and said: Who are these?
+\v 9 And Joseph said to his father: They are my sons whom God gave me here. And he said: Bring them to me and I will bless them.
+\v 10 And the eyes of Israel were heavy from old age — he was not able to see. And he brought them near to him and he kissed them and embraced them.
+\v 11 And Israel said to Joseph: I had not hoped to see your face — and look — God showed me also your seed.
+\v 12 And Joseph brought them out from his knees and bowed down to the ground.
+\v 13 And Joseph took both of them — Ephraim in his right hand opposite the left of Israel and Manasseh in his left hand opposite the right of Israel — and brought them near to him.
+\v 14 And Israel stretched out his right hand and placed it upon the head of Ephraim — and he was the younger — and his left hand upon the head of Manasseh — crossing his hands — for Manasseh was the firstborn.
+\v 15 And he blessed them and said: God before whom my fathers Abraham and Isaac walked — the God who shepherded me from my beginning until this day —
+\v 16 the angel who ransomed-released me from all evil — bless the children — and my name will be called upon them and the name of my fathers Abraham and Isaac — and let them increase into a multitude in the midst of the earth.
+\v 17 And Joseph saw that his father placed his right hand upon the head of Ephraim — and it was evil in his eyes — and he took hold of the hand of his father to remove it from the head of Ephraim to the head of Manasseh.
+\v 18 And Joseph said to his father: Not so father — for this one is the firstborn — place your right hand upon his head.
+\v 19 And his father refused and said: I know child I know — he also will become a people and he also will be great — but his younger brother will be greater than he — and his seed will become a fullness of nations.
+\v 20 And he blessed them on that day saying: In you Israel will bless saying: May God make you as Ephraim and as Manasseh. And he set Ephraim before Manasseh.
+\v 21 And Israel said to Joseph: Look — I am dying — and God will be with you and will return you to the land of your fathers.
+\v 22 And I give you Shechem — one portion above your brothers — which I took from the hand of the Amorites with my sword and my bow.
+
+\c 49
+\p
+\v 1 And Jacob called his sons and said: Gather and I will tell you what will happen to you in the last days.
+\v 2 Gather and hear O sons of Jacob — hear Israel your father.
+\p
+\v 3 Reuben — you are my firstborn — my strength and the firstfruits of my children — hard to bear and hard and headstrong.
+\v 4 You boiled over as water — do not prevail — for you went up to the bed of your father — then you defiled the couch — he went up.
+\p
+\v 5 Simeon and Levi — brothers — they completed the instrument of their violence.
+\v 6 Let my soul not enter into their counsel and let my glory not be joined with their gathering — for in their anger they killed men and in their self-will they hamstrung oxen.
+\v 7 Cursed be their anger for it is fierce and their wrath for it is hard — I will divide them in Jacob and scatter them in Israel.
+\p
+\v 8 Judah — your brothers will praise you — your hands on the back of your enemies — the sons of your father will bow down to you.
+\v 9 A lion-cub is Judah — from a shoot my son you went up — lying down you slept as a lion and as a lion-cub — who will rouse him?
+\v 10 A ruler will not fail from Judah nor a leader from his thighs until the things laid up for him come — and he is the expectation of nations.
+\v 11 Binding his foal to the vine and his donkey's colt to the choice vine — he washes his garment in wine and his covering in the blood of grapes.
+\v 12 His eyes are glad with wine and his teeth are whiter than milk.
+\p
+\v 13 Zebulun will dwell on the shore of the sea — and he himself will be at the shore of ships and will extend to Sidon.
+\p
+\v 14 Issachar desired the good part — resting between the lots.
+\v 15 And he saw the resting-place that it was good and the land that it was fertile — and he bent his shoulder to toil and became a man farmer.
+\p
+\v 16 Dan will judge his people as one tribe of Israel.
+\v 17 And let Dan become a serpent on the road — a horned snake on the path — biting the heel of a horse and the rider will fall backward.
+\v 18 I have waited for your salvation O Lord.
+\p
+\v 19 Gad — a raiding band will raid him — and he will raid their heel.
+\p
+\v 20 Asher — his bread is fat and he will give delicacies to rulers.
+\p
+\v 21 Naphtali is a spreading trunk-tree showing beautiful branches.
+\p
+\v 22 Joseph is a son increased — my beloved son increased — my youngest son return to me.
+\v 23 Against whom taking counsel they treated him with contempt — and the masters of arrows were at variance with him.
+\v 24 And their bow was broken with strength — and the sinews of their arms were loosened by the hand of the Mighty One of Jacob — from there the one who strengthened Israel —
+\v 25 by the God of your father and he helped you — and the Almighty and he blessed you — with the blessings of heaven from above and the blessings of earth having all things — because of the blessing of breasts and womb.
+\v 26 The blessings of your father prevailed over the blessings of the permanent mountains and over the desire of the everlasting hills — they will be upon the head of Joseph and upon the crown of his head among brothers.
+\p
+\v 27 Benjamin — a devouring wolf — in the morning he will eat still and in the evening he will distribute food.
+\p
+\v 28 All these are the twelve tribes of Israel — and this is what their father spoke to them and blessed them — each according to his blessing he blessed them.
+\p
+\v 29 And he commanded them and said to them: I am being added to my people — bury me with my fathers in the cave which is in the field of Ephron the Hittite —
+\v 30 in the cave which is in the double cave opposite Mamre in the land of Canaan — which Abraham bought together with the field from Ephron the Hittite for a possession of a burial-place.
+\v 31 There they buried Abraham and Sarah his wife — there they buried Isaac and Rebekah his wife — and there I buried Leah.
+\v 32 The purchase of the field and of the cave which is in it was from the sons of Heth.
+\v 33 And Jacob finished charging his sons — and gathering his feet to the bed he breathed his last and was added to his people.
+
+\c 50
+\p
+\v 1 And Joseph fell upon the face of his father and wept over him and kissed him.
+\v 2 And Joseph commanded his servants the physicians to embalm his father — and the physicians embalmed Israel.
+\v 3 And forty days were fulfilled for him — for thus are the days of embalming fulfilled — and Egypt mourned for him seventy days.
+\v 4 And when the days of his mourning passed Joseph spoke to the household of Pharaoh saying: If I have found grace before you speak in the ears of Pharaoh saying:
+\v 5 My father made me swear saying: Look — I am dying — in my tomb which I dug for myself in the land of Canaan — there you will bury me. And now let me go up and bury my father and I will return.
+\v 6 And Pharaoh said: Go up and bury your father as he made you swear.
+\p
+\v 7 And Joseph went up to bury his father — and with him went up all the servants of Pharaoh — the elders of his house and all the elders of the land of Egypt —
+\v 8 and all the house of Joseph and his brothers and the house of his father — only their little ones and their sheep and their cattle they left in the land of Goshen.
+\v 9 And there went up with him both chariots and horsemen — and it was a very great camp.
+\v 10 And they came to the threshing-floor of Atad which is beyond the Jordan — and they mourned there with a great and very heavy mourning — and he made a mourning for his father seven days.
+\v 11 And the inhabitants of the land — the Canaanites — saw the mourning at the threshing-floor of Atad and said: This is a great mourning to the Egyptians. Therefore he called its name Mourning of Egypt — which is beyond the Jordan.
+\v 12 And his sons did to him thus as he commanded them.
+\v 13 And his sons carried him to the land of Canaan and buried him in the cave of the double field which Abraham bought as a possession of a burial-place from Ephron the Hittite opposite Mamre.
+\v 14 And Joseph returned to Egypt — he and his brothers and all those who went up with him to bury his father — after he buried his father.
+\p
+\v 15 And the brothers of Joseph saw that their father had died — and they said: What if Joseph remembers the evil and fully repays us for all the evil which we did to him?
+\v 16 And they approached Joseph and said: Your father commanded before he died saying:
+\v 17 Thus you will say to Joseph: Forgive now the transgression of your brothers and their sin — because they did evil to you. And now forgive the transgression of the servants of the God of your father. And Joseph wept when they spoke to him.
+\v 18 And his brothers came also and fell before him and said: Look — we are your servants.
+\v 19 And Joseph said to them: Do not fear — for I am under God.
+\v 20 You planned evil against me — but God planned it for good — to do as on this day — to keep alive a great people.
+\v 21 And now do not fear — I will nourish you and your little ones. And he comforted them and spoke to their heart.
+\p
+\v 22 And Joseph dwelt in Egypt — he and the house of his father — and Joseph lived a hundred and ten years.
+\v 23 And Joseph saw the sons of Ephraim — children of the third generation — and the sons of Machir the son of Manasseh were born upon the knees of Joseph.
+\p
+\v 24 And Joseph said to his brothers: I am dying — and God will visit you and bring you up from this land to the land which he swore to Abraham and to Isaac and to Jacob.
+\v 25 And Joseph made the sons of Israel swear saying: When God visits you — bring up my bones from here.
+\v 26 And Joseph died being a hundred and ten years old — and they embalmed him and placed him in a coffin in Egypt.
+
+
 
