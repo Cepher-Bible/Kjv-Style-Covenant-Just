@@ -1848,5 +1848,241 @@ CAE flags active for Genesis:
 \v 25 And Joseph made the sons of Israel swear saying: When God visits you — bring up my bones from here.
 \v 26 And Joseph died being a hundred and ten years old — and they embalmed him and placed him in a coffin in Egypt.
 
+# GENESIS — GLE v2.1 Consolidated Notes
+
+**Text base:** Rahlfs-Hanhart LXX Greek  
+**Engine:** Thayer (1889) primary anchor | LSJ Septuagintal depth layer | Vulgate friction witness  
+**CAE contamination block:** Active throughout  
+**Methodology:** v2.1 — Greek scores, Vulgate challenges, LSJ deepens
+
+---
+
+## CAE CONTAMINATION NODES
+
+### 3:15 — Tier 2 Soft Block: *sperma* seed-war / *autos* vs *autē*
+
+Vulgate suspended at this verse. Jerome renders *ipsa conteret caput tuum* — "she will crush your head" — making the woman the subject of the crushing. The LXX has *autos* = he, masculine singular — the seed of the woman is the subject. Jerome's *ipsa* introduces a Marian reading that is foreign to the LXX text.
+
+Rendered: **"he will watch against your head and you will watch against his heel"**
+
+The LXX *autos* = he refers to the *sperma* = seed — grammatically neuter in Greek but the pronoun is masculine, a deliberate interpretive move by the LXX translators pointing toward an individual male descendant. The *tērēsei* = will watch against / will guard against — from *tēreō* = to watch closely, to guard, to observe with hostile intent. Not merely bruising but sustained hostile watching. The seed-war is ongoing — both parties are watching and striking. Rendered from LXX base with Vulgate suspended.
+
+### 3:5 / 3:22 — Divine Council Language
+
+**3:5** — *kai esesthe hōs theoi* = "and you will be as gods" — *theoi* = divine beings, the plural used for the divine council members. The serpent's promise is not "you will be like God" (singular) but "you will be as gods" — as the members of the divine council who know good and evil.
+
+**3:22** — *idou Adam gegonen hōs heis ex hēmōn* = "look — Adam has become as one of us" — the divine council plurality is explicit. The Lord speaks to the council: Adam has become as one of us. The tree of the knowing of good and evil is what the council members possess that Adam now has a share in. The exclusion from the tree of life is the act that maintains the distinction between Adam-as-mortal and the immortal divine council members.
+
+### 6:2 / 6:4 — *huioi tou theou* / sons of God
+
+**6:2** — *hoi huioi tou theou* = the sons of God — Thayer: *huios* = son, one who bears the nature of another; *theos* = God, divine being. LSJ: *theios* class, divine beings, those belonging to the divine realm. The sons of God are divine beings of the heavenly council taking human women. The LXX does not soften this to "sons of rulers" or "godly line of Seth." The angelic-watcher reading is the LXX reading. 1 Enoch, Jubilees, and the NT (2 Peter 2:4, Jude 6) all read this as divine beings.
+
+**6:4** — *hoi de gigantes ēsan epi tēs gēs en tais hēmerais ekeinais* = "now the giants were upon the earth in those days" — *gigantes* = giants, the offspring of the divine-human unions. LSJ: *gigantes* = giants, the race born of the union of heaven and earth in Greek tradition. The LXX uses the same word used in Greek cosmology for the hybrid offspring of divine and mortal unions. The *gigantes* are named as *andres onomastoi* = men of renown — the same phrase used in heroic traditions for legendary warriors. Rendered at full weight throughout.
+
+---
+
+## BLOCK 1 — CHAPTERS 1–11
+
+### 1:1 — *en archē* / in the beginning
+
+The opening word establishes the cosmological frame. *Archē* = beginning, origin, first-principle — Thayer: the first in a temporal series, the point from which existence proceeds. John 1:1 deliberately echoes *en archē* — "in the beginning was the Word." The LXX opening and the Johannine prologue are in direct conversation. The engine preserved *archē* as "beginning" throughout, maintaining the John 1 anchor.
+
+### 1:2 — *epephereto* / was being carried
+
+"The breath-of-life of God was being carried upon the water" — *epipherō* = to bring upon, to carry over, to bear upon — in the imperfect passive: was being carried, was hovering, was moving over. LSJ: to bring to, to carry upon. The verb is active motion over the formless deep — not merely presence but movement, the animating approach of the breath-of-life before the first creative word. *Abyss* = the deep, the primordial waters — same word used in Revelation 9:1–2, 11 for the realm beneath. The creation opens with the breath-of-life moving over the abyss.
+
+### 1:26 — *poiēsōmen* / let us make
+
+"And God said: Let us make man" — *poiēsōmen* = cohortative plural: let us make, we will make together. This is the divine council deliberation. The plural is not grammatical honorific — it is the same divine council plurality as 3:22 ("as one of us") and 11:7 ("let us go down and confuse"). The making of man is a council decision. *Kat' eikona hēmeteran* = according to our image — the image is plural-possessed: our image. Thayer: *eikōn* = image, likeness, that which is formed to resemble — the derived representation of an original. The *eikōn* and *homoiōsis* = image and likeness are distinguished in v.26 — the image is structural, the likeness is relational/functional. Rendered throughout as "image" and "likeness."
+
+### 2:7 — *pnoēn zōēs* / breath of life
+
+"And breathed into his face a breath of life — and the man became a living soul" — *pnoē* = breath, the single exhaled breath; *zōēs* = of life, the genitive of *zōē* = life, the animating principle. This is distinct from *pneuma* — *pnoē* is the single creative breath of God into the formed clay, making Adam a *psychē zōsa* = living soul. The breath-of-life vocabulary chain: *pnoē* at creation (2:7) → *pneuma* as ongoing animating presence → the resurrection breath of Ezekiel 37 and John 20:22 where Jesus breathes on the disciples and says "Receive the breath-of-life." The engine rendered *pnoē* as "breath of life" and *pneuma* as "breath-of-life" throughout to preserve the distinction while maintaining the chain.
+
+### 2:17 — *thanatō apothanēsthe* / by death you will die
+
+The cognate construction: *thanatō* = by death, with death, the instrumental dative of *thanatos* = death; *apothanēsthe* = you will die, second person plural aorist — the full dying. LSJ: the double construction emphasizes certainty and completeness. The translation "you will surely die" flattens the construction. "You will die by death" preserves the legal weight — this is a covenant death-penalty clause. The violation of the command activates a specific mode of dying: dying by death, dying the death. Romans 6:23 "the wages of sin is death" operates in this register.
+
+### 3:1 — *phronimōtatos* / most prudent
+
+"The serpent was the most prudent of all the wild-animals" — *phronimos* = prudent, practically wise, shrewd in calculation — from *phronēsis* = practical wisdom, the capacity to plan and execute toward goals. LSJ: *phronimos* = intelligent, sensible, prudent. The LXX does not call the serpent evil or demonic at the point of introduction — it calls him the wisest of the wild creatures. The deception is accomplished through wisdom turned toward folly. The same *phronimos* word is used positively in Matthew 10:16 ("be prudent as serpents") and in the parable of the prudent manager. Wisdom weaponized toward the Folly event.
+
+### 3:13 — *ēpatēsen* / deceived
+
+"The serpent deceived me" — *apataō* = to deceive, to cheat, to lead astray through false presentation. LSJ: to cheat, to beguile, to make to err. Paul uses this word twice in the Adamic argument: 2 Corinthians 11:3 ("as the serpent deceived Eve") and 1 Timothy 2:14 ("and Adam was not deceived but the woman being deceived fell into transgression"). The *apatē* = deception / deceit vocabulary becomes the engine term for the mode of the Folly event — not brute force but persuasion through false representation of reality. The lie is the instrument.
+
+### 4:7 — *hamartaneis* / you sin — the LXX difficulty
+
+Genesis 4:7 is one of the most difficult verses in the LXX. The Greek is compressed and grammatically unusual. The engine rendered: "Did you not sin if you offered correctly but did not divide correctly? Be still — to you is its turning and you will rule over it."
+
+The *hamartaneis* = you sin is second person singular present — you are sinning. The "it" whose turning is toward Cain is grammatically ambiguous — the sin itself personified, or Abel's turning/desire toward his brother. The LXX reading that the sin's desire is toward Cain and he must rule over it anticipates the internal-battle language of Romans 7 ("sin dwelling in me"). The ambiguity is preserved in the render — the engine does not resolve what the LXX leaves unresolved.
+
+### 5:24 — *metatithēmi* / transferred
+
+"Enoch was well-pleasing to God — and he was not found — because God transferred him" — *metatithēmi* = to transfer, to transport from one place to another, to change location. LSJ: to transpose, to remove from one place to another. Hebrews 11:5 quotes this verse directly: "By trust Enoch was transferred so as not to see death — and he was not found because God transferred him." The *metatithēmi* vocabulary is distinct from death and burial — Enoch was relocated, not killed. The same vocabulary used for Elijah's whirlwind departure. The engine rendered "transferred" throughout to preserve the Hebrews 11 anchor.
+
+### 9:6 — *en eikoni theou* / in the image of God
+
+"For in the image of God I made man" — the prohibition of blood-vengeance is grounded in the *eikōn* = image. The life of the *eikōn*-bearer cannot be taken without requiring the life of the taker — because to destroy the image-bearer is an act against the one whose image it is. The entire Noahic covenant rests on the *eikōn* foundation established in 1:26–27. Paul's argument in 1 Corinthians 11:7 and the James 3:9 ("men who are made according to the likeness of God") both draw on this foundation.
+
+### 11:7 — *deute katabantes* / come let us go down
+
+Babel — the second divine council deliberation in Genesis: "Come let us go down and confuse there their tongue." The same plural voice as 1:26 and 3:22. The Lord descends with the council to act upon the human project. The structural symmetry: at creation the council deliberates to make man in their image — at Babel the council deliberates to scatter man before he reaches their realm. The two council moments frame the entire primeval history.
+
+---
+
+## BLOCK 2 — CHAPTERS 12–25 (ABRAHAMIC COVENANT)
+
+### 12:3 — *eneulogēthēsontai* / will be blessed
+
+"And in you all the tribes of the earth will be blessed" — *eneulogeō* = to bless in, to receive blessing in the context of — the passive future: will be blessed. Galatians 3:8 quotes this verse as the "gospel preached beforehand to Abraham." Paul reads *eneulogēthēsontai* as the advance announcement of the Gentile-inclusion gospel. The LXX *en soi* = in you — the blessing is located in Abraham, not merely through him. The instrument of the blessing is Abraham himself/his seed. Paul applies it to the seed = Christ (Galatians 3:16).
+
+### 14:18–20 — Melchizedek
+
+**Key terms:**
+- *basileus Salēm* = king of Salem — Salem = Shalom = peace. The king of peace appears before there is a Davidic throne.
+- *hiereus tou theou tou hypsistou* = priest of God Most High — *hypsistos* = highest, the superlative of *hypos*. LSJ: the Most High God, used for the supreme deity across cultures. The title is used of the Lord in LXX Psalms throughout.
+- *eulogēsas auton* = blessing him — Hebrews 7:7 makes the theological argument: "the lesser is blessed by the greater." Melchizedek blesses Abram — therefore Melchizedek is greater than Abram — therefore greater than the Levitical priesthood which descends from Abram.
+- *apodekatō* = tenth, tithe — Abram gives a tenth to Melchizedek. The tithing acknowledges the superior priestly standing.
+
+Hebrews 5–7 builds entirely on this passage. The engine rendered at full weight — *hiereus* = priest (not "minister"), *hypsistos* = Most High, *eulogeō* = bless with the full hierarchy-establishing weight.
+
+### 15:6 — *elogisthē autō eis dikaiosynēn* / it was reckoned to him as righteousness
+
+The pivotal verse of the Abrahamic covenant. *Pisteuō* = Abraham trusted God — the full faith-trust verb; *logizomai* = to reckon, to count, to calculate and assign to an account — the accounting verb. LSJ: to calculate, to reckon as, to credit to. *Dikaiosynē* = righteousness, the forensic standing of being declared in right relationship.
+
+Romans 4:3, Galatians 3:6, James 2:23 — all three quote this verse as the foundation of justification-by-trust. Paul's entire argument in Romans 4 rests on the timing: the reckoning happened before circumcision (chapter 15) and before the Law (430 years later per Galatians 3:17). The *logizomai* verb is an accounting metaphor — a ledger entry, not a moral transformation. Trust was credited as the righteousness-standing. The engine rendered *elogisthē* as "was reckoned" throughout to preserve the accounting register.
+
+### 17:7 — *diathēkē aiōnios* / everlasting covenant
+
+"I will establish my covenant between me and between you and between your seed after you into their generations — for an everlasting covenant." *Aiōnios* = of the age, age-long, pertaining to the coming age — not merely "forever" in the temporal sense but of the age-order, the eschatological permanence. LSJ: lasting for an age, eternal. The *diathēkē aiōnios* vocabulary fires at 9:16 (Noah), 17:7 (Abraham), and carries through to Isaiah 24:5, 55:3, 61:8 and into Hebrews 13:20 ("the blood of the everlasting covenant"). The covenant is not temporary — it belongs to the age-order that does not pass away. Rendered "everlasting covenant" throughout.
+
+### 22:2 — *ton agapēton* / the beloved
+
+"Take your son — the beloved — whom you love — Isaac" — *agapētos* = beloved, the one uniquely loved — from *agapaō* = to love with decisive commitment. LSJ: beloved, dear, the loved one. The LXX inserts *ton agapēton* = the beloved as a descriptor before the name — not in the MT. This is the same word used at the baptism of Jesus: *houtos estin ho huios mou ho agapētos* = "this is my Son the beloved" (Matthew 3:17). The Akedah/binding of Isaac is a typological ground for the language of the Father giving the beloved Son. The engine preserved *ton agapēton* rather than harmonizing to the MT.
+
+### 22:18 — *en tō spermati sou* / in your seed
+
+"And in your seed all the nations of the earth will be blessed" — Galatians 3:16 — "he does not say: and to the seeds as of many — but as of one: and to your seed — which is Christ." Paul's seed = singular argument reads the LXX *sperma* as a collective singular capable of pointing to one individual. The *en tō spermati* = in your seed construction runs from 3:15 (seed-war) through 12:3, 22:18, and into the NT as the entire covenantal chain. The engine rendered *sperma* as "seed" throughout — never "offspring" or "descendants" — to preserve the Galatians 3 anchor.
+
+---
+
+## BLOCK 3 — CHAPTERS 25–36 (JACOB CYCLE)
+
+### 25:23 — *ho meizōn douleusei tō elassoni* / the greater will serve the lesser
+
+"And the greater will serve the lesser" — Romans 9:12 quotes this as the foundation of the election argument: before the twins had done anything good or evil, the elder was appointed to serve the younger. The *meizōn / elassōn* = greater / lesser distinction is birth-order. The divine reversal of birth-order is the pattern: Cain/Abel, Ishmael/Isaac, Esau/Jacob, Manasseh/Ephraim. The LXX renders the oracle clearly — the greater will serve the lesser. Paul uses it as the definitive text for sovereign election prior to works.
+
+### 28:12 — *klimax* / ladder
+
+"A ladder was set upon the earth and its top reached to heaven — and the angels of God were ascending and descending upon it" — *klimax* = ladder, staircase — from *klimō* = to slope, to incline. LSJ: a ladder, a scaling-ladder, steps. John 1:51 — Jesus says to Nathanael: "You will see heaven opened and the angels of God ascending and descending upon the Son of Man." The Bethel ladder is relocated onto the person of Jesus — he is the point of connection between heaven and earth, the *klimax* between the two realms. The engine preserved *klimax* as "ladder" to maintain the John 1:51 anchor.
+
+### 32:28 — *Israel* / the name-change
+
+"Your name will no longer be called Jacob but Israel will be your name — for you were strong with God and with men and prevailed" — *oti enischysas meta theou kai meta anthrōpōn dynatos* = because you were strong with God and with men and had power. The name Israel = he who strives with God / God strives. The wrestling event is the foundational naming event for the entire covenant people. The engine rendered the name-explanation in full.
+
+### 32:30 — *eidon theon prosōpon pros prosōpon* / I saw God face to face
+
+"For I saw God face to face and my soul was saved" — *prosōpon pros prosōpon* = face to face, the direct encounter of presence. The LXX *theon* = God — not "a divine being" or "an angel" but God. The face-to-face encounter is the most intense form of divine presence possible — the same language used for Moses in Deuteronomy 34:10. The *psychē mou esōthē* = my soul was saved — *sōzō* = to save, to preserve alive. The survival of the face-to-face encounter is itself an act of saving.
+
+---
+
+## BLOCK 4 — CHAPTERS 37–50 (JOSEPH NARRATIVE)
+
+### 37:35 — *hades* / Hades
+
+"I will go down to my son mourning to Hades" — Jacob speaks of dying as descending to Hades — *hadēs* = the realm of the dead, the underworld. Thayer: the unseen realm, the place of departed souls. LSJ: the abode of the dead, the underworld. The LXX uses *hadēs* consistently where the MT has *sheol* = the place of the dead. The engine rendered *hadēs* throughout — never "the grave" or "hell" which carry different registers. The Hades vocabulary is the same used in Isaiah 14, Hosea 13:14, 1 Corinthians 15:55, and Revelation 1:18, 6:8, 20:13–14. The chain must be preserved.
+
+### 41:38 — *pneuma theou* / breath-of-life of God
+
+"Shall we find such a man as this — in whom is the breath-of-life of God?" — Pharaoh identifies in Joseph the *pneuma theou* = breath-of-life of God — the same vocabulary as Genesis 1:2 where the breath-of-life of God moves over the waters. Pharaoh the pagan correctly identifies the source of Joseph's wisdom and discernment as the divine breath-of-life. The engine rendered *pneuma theou* as "breath-of-life of God" to preserve the 1:2 anchor.
+
+### 45:5–8 — *ho theos apesteilen* / God sent me
+
+Joseph's threefold declaration: "God sent me before you for life" (v.5) — "God sent me before you to leave a remnant" (v.7) — "it was not you who sent me here but God" (v.8). The *apostellō* = to send with commission — the same word used for the apostolic sending. Joseph's narrative is the first extended type of the sent-one who suffers at the hands of his brothers, is given up for dead, is elevated to the right hand of power, and becomes the source of life for the very ones who sold him. The typological architecture is fully present in the LXX.
+
+### 48:16 — *ho aggelos ho rhyomenos me* / the angel who ransomed-released me
+
+Jacob blesses Joseph's sons: "the angel who ransomed-released me from all evil — bless the children" — *rhyomai* = to rescue by pulling out, to ransom-release from danger. LSJ: to draw to oneself from danger, to rescue. This is the *rhyomai* vocabulary from the Minor Prophets and Isaiah — the ransom-release from evil. Jacob identifies the angel of his wrestling encounter as the *rhyomenos* = the releasing-one who drew him out of all evil. The same angel who wrestled him is the one who rescued him. The engine preserved *rhyomai* throughout.
+
+### 49:10 — *heōs an elthē ta apokeimena autō* / until the things laid up for him come
+
+"A ruler will not fail from Judah nor a leader from his thighs until the things laid up for him come — and he is the expectation of nations" — *apokeimena* = the things laid up, stored, reserved — from *apokeimai* = to be laid away, to be in reserve, to be stored for a future time. LSJ: to be laid up, to be stored in reserve. This is the Shiloh oracle — one of the most contested messianic texts in the OT. The LXX renders the MT *shiloh* as *ta apokeimena autō* = the things reserved for him — a reading that understands *shiloh* as a reference to a future entitlement or inheritance. *Prosdokia ethnōn* = the expectation of nations — he for whom the nations wait. The engine rendered from the LXX base — not from the MT or the traditional "Shiloh will come" translations.
+
+---
+
+## INSTITUTIONAL VOCABULARY — GENESIS FREQUENCY ANALYSIS
+
+### *Diathēkē* / Covenant — 17 occurrences
+
+The covenant chain: Noah (9:9, 9:11, 9:12, 9:13, 9:15, 9:16, 9:17) → Abraham (15:18, 17:2, 17:4, 17:7, 17:9, 17:10, 17:13, 17:14, 17:19, 17:21). The *diathēkē* is established unilaterally by God — the human party receives it, does not negotiate it. It is signed in blood (circumcision at 17:10–14, the covenant-cutting ceremony at 15:9–17) and contains land, seed, and presence promises. The engine rendered *diathēkē* as "covenant" throughout — never "testament" which carries a different legal register.
+
+### *Sperma* / Seed — 59 occurrences
+
+The highest-frequency theological term in Genesis. The seed chain: 3:15 (seed-war) → 12:7 (seed given land) → 13:15–16 (seed as dust of earth) → 15:3–5 (seed through biological heir) → 15:18 (seed given the land by covenant) → 17:7–10 (seed in the everlasting covenant) → 22:17–18 (seed as stars, sand, blessing for nations) → 26:3–4 (to Isaac) → 28:13–14 (to Jacob). The Galatians 3:16 seed = singular argument reads this entire chain. The engine rendered *sperma* as "seed" throughout — never "offspring" or "descendants."
+
+### *Eulogeō* / Bless — 88 occurrences
+
+The blessing vocabulary is the dominant positive action in Genesis. The chain: God blesses the creation (1:22, 1:28, 2:3) → God blesses Noah (9:1) → God blesses Abraham (12:2–3, 22:17) → Abraham blesses others → the patriarchal blessings (27, 28, 48, 49). The *eulogeō* = to speak well of, to confer beneficial power through spoken word — from *eu* = well + *logos* = word. The blessing is a performative speech act — the word accomplishes what it declares. The engine rendered *eulogeō* as "bless" and *eulogia* as "blessing" throughout.
+
+### *Rhyomai* / Ransom-release — fires at 32:11 and 48:16
+
+The *rhyomai* = rescue-by-pulling-out vocabulary first fires at Jacob's prayer (32:11: "rescue me from the hand of my brother") and again at the deathbed blessing (48:16: "the angel who ransomed-released me from all evil"). The vocabulary establishes that the covenant God is a *rhyomenos* = releasing-rescuer — the identity confirmed in Exodus 6:6 (*lytrōsō* = I will ransom-release you with a high arm) and carried through to Isaiah 59:20, Romans 11:26 (*ho rhyomenos ek Siōn*).
+
+---
+
+## DIVINE COUNCIL ARCHITECTURE IN GENESIS
+
+Genesis contains the fullest concentration of divine council material in the Torah:
+
+**1:26** — "Let us make man according to our image" — creation by council deliberation  
+**3:5** — "You will be as gods" — the serpent's appeal to council membership  
+**3:22** — "Adam has become as one of us" — the council's post-Fall assessment  
+**6:2** — "The sons of God saw the daughters of men" — council beings descending  
+**6:4** — "The giants were upon the earth" — council-human hybrid offspring  
+**11:7** — "Let us go down and confuse" — council action against Babel  
+**18:1–2** — "The Lord appeared to him... and look — three men" — council visitation  
+**19:1** — "The two angels came to Sodom" — council members on mission  
+**32:24–30** — "A man wrestled with him... I saw God face to face" — council encounter  
+**48:16** — "The angel who ransomed-released me from all evil" — council member identified as rescuer
+
+The engine rendered every occurrence at full weight — *huioi tou theou* = sons of God (not "godly men"), *theoi* = gods/divine beings (not merely "God" singular), *gigantes* = giants (not "mighty men"), *angelos* = angel/messenger (not softened).
+
+---
+
+## FOLLY EVENT ARCHITECTURE — GENESIS 3
+
+The Fall is the engine's foundational Folly event. Key structural notes:
+
+The serpent's strategy is entirely linguistic — he does not force, he persuades. The four moves:
+1. **Distortion** (3:1) — "Did God say: You shall not eat from every tree?" — misquoting the command to introduce doubt
+2. **Negation** (3:4) — "You will not die by death" — direct contradiction of the divine word
+3. **Reframing** (3:5) — "God knows that... you will be as gods" — offering an alternative explanation that makes the prohibition look like oppression
+4. **The woman's own assessment** (3:6) — "the tree was good for food and pleasing to the eyes and beautiful to contemplate" — the triple sensory evaluation that produces the decision
+
+The Folly event is the acceptance of the lie as true — the ontological death-by-language. *Thanatō apothanēsthe* (2:17) = you will die by death — the covenant death-penalty that activates the moment the lie is accepted as reality. The engine's Wisdom/Folly axis is established here and runs through the entire canonical render.
+
+---
+
+## DRIFT ELIMINATION SUMMARY — GENESIS
+
+**Highest-frequency drift sources:**
+
+**KJV liturgical shaping** — "In the beginning God created" (vs. *epoiēsen* = made, not *ktizō* = created — the LXX uses *poieō*), "Let there be light" (vs. "Let light come to be"), "deep" (the *abyssos* = abyss vocabulary lost), "a garden in Eden" (vs. *paradeisos* = garden of delight — the LXX word that becomes "paradise"). Every instance required Check 1 intervention.
+
+**"Spirit" for *pneuma*** — consistent pressure to render 1:2 as "Spirit of God" (capitalized, Trinitarian loading) rather than "breath-of-life of God." The 1:2 *pneuma theou* is the animating creative breath — the same vocabulary as 2:7 (*pnoē*), 6:3, and 41:38. The breath-of-life chain was preserved throughout.
+
+**"Soul" for *psychē*** — pressure to render *psychē zōsa* (2:7) as "living being" rather than "living soul." The LXX *psychē* = soul, the animating life-force — not a modern "self" or "being." Paul's argument in 1 Corinthians 15:44–45 ("a soul-body / a breath-of-life-body") depends on the *psychē* vocabulary from 2:7. Rendered as "soul" throughout.
+
+**Hades flattening** — *hadēs* consistently pressure-rendered to "the grave" in the Sheol passages (37:35, 42:38, 44:29, 44:31). The *hadēs* vocabulary chain was preserved — Jacob descends to Hades, not merely to a grave. The chain must run through to the NT without interruption.
+
+**Seed pluralization** — *sperma* = seed pressure-rendered to "offspring," "descendants," "children" — all pluralizing moves that sever the Galatians 3:16 anchor. "Seed" preserved throughout.
+
+**Covenant softening** — *diathēkē* pressure-rendered to "agreement" or "promise." The legal-instrument weight of *diathēkē* = covenant was preserved throughout — this is a binding legal document, not a friendly arrangement.
+
+---
+
+*GLE v2.1 | Rahlfs-Hanhart LXX base | Genesis complete*  
+*Notes document produced as single consolidated pass per protocol*
 
 
