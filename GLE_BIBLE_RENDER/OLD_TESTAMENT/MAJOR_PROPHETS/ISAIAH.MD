@@ -1295,3 +1295,164 @@
 \v 21 And if they thirst in the desolate-place he will lead them through — and water from a rock he will bring forth for them — the rock will be split and water will flow and my people will drink.
 \v 22 There is no rejoicing for the impious says the Lord.
 
+\c 49
+\p
+\v 1 Hear me O islands — and give ear O nations — after a long time it will stand says the Lord — from my mother's womb he called my name.
+\v 2 And he made my mouth as a sharp sword and under the shadow of his hand he hid me — he made me as a chosen arrow and in his quiver he sheltered me.
+\v 3 And he said to me: You are my servant O Israel and in you I will be glorified.
+\v 4 And I said: I labored in vain — I gave my strength for emptiness and vanity — therefore my judgment is with the Lord and my labor before my God.
+\v 5 And now thus says the Lord who formed me from the womb as his own servant — to gather Jacob to him and Israel — I will be gathered and glorified before the Lord and my God will be my strength.
+\v 6 And he said to me: It is a great thing for you to be called my servant — to set up the tribes of Jacob and to turn back the scattered ones of Israel — look — I gave you as a covenant of a race — a light of nations — so that you may be for salvation to the end of the earth.
+\v 7 Thus says the Lord who ransomed-released you the God of Israel — sanctify the one who despises his soul — the one who is abhorred by the nations the servant of rulers: Kings will see and rulers will rise up and will bow down to him because of the Lord — for the Holy One of Israel is faithful and he chose you.
+\p
+\v 8 Thus says the Lord: In an acceptable time I heard you and in a day of salvation I helped you — and I formed you and gave you as a covenant of nations — to set up the earth and to inherit the desolate inheritances —
+\v 9 saying to those in bonds: Go out — and to those in darkness: Be uncovered. They will be fed on all the roads and in all the paths their pasture will be.
+\v 10 They will not hunger nor thirst — nor will the heat nor the sun strike them — for the one who has mercy on them will comfort them and through springs of water will lead them.
+\v 11 And I will make every mountain a road and every path a pasture for them.
+\v 12 Look — these from far off will come and these from the north and from the sea and others from the land of the Persians.
+\p
+\v 13 Be glad O heaven and let the earth rejoice — let the mountains break forth with gladness — for God had mercy on his people and comforted the lowly of his people.
+\p
+\v 14 But Zion said: The Lord abandoned me and the Lord forgot me.
+\v 15 Will a woman forget her infant — so as not to have mercy on the offspring of her womb? But even if a woman forgets these things — I will not forget you says the Lord.
+\v 16 Look — upon my hands I inscribed your walls — and you are continually before me.
+\v 17 And swiftly you will be built by those who tore you down — and those who made you desolate will go out from you.
+\v 18 Lift up your eyes round about and see all of them — they were gathered and came to you. As I live says the Lord you will put them all on as an ornament and gird them on you as an adornment of a bride.
+\v 19 For your desolate and destroyed and fallen places — now you will be too narrow for those who dwell in you and those who swallowed you up will be far from you.
+\v 20 For they will say in your ears — the sons of your bereavement: The place is too narrow for me — make room for me so that I may dwell.
+\v 21 And you will say in your heart: Who begot me these — I was childless and a widow — but these — who reared them for me? I was left alone — and these — where were they for me?
+\p
+\v 22 Thus says the Lord: Look — I lift up my hand to the nations and to the islands I will raise my signal — and they will bring your sons in their bosom and they will carry your daughters upon their shoulders.
+\v 23 And kings will be your nursing-fathers and their rulers your nursing-mothers — they will bow down to you face upon the earth and will lick the dust of your feet — and you will know that I am the Lord and those who wait upon me will not be put to shame.
+\p
+\v 24 Will anyone take spoils from a giant — and if someone takes captive unjustly will he be saved?
+\v 25 For thus says the Lord: If anyone takes a giant captive he will take spoils — and one who takes from a strong man will be saved — but I will judge your legal-case and I will ransom-release your sons.
+\v 26 And those who afflicted you will eat their own flesh and they will drink their own blood as new wine — and all flesh will know that I am the Lord who saves you and who ransoms-releases Jacob your strength.
+
+\c 50
+\p
+\v 1 Thus says the Lord: What is this bill of your mother's divorce by which I sent her away — or to which of my creditors did I sell you? Look — you were sold for your sins and for your lawless deeds I sent your mother away.
+\v 2 Why did I come and there was no man — I called and there was no one who heard? Is my hand not strong to ransom-release — or do I have no strength to save? Look — by my rebuke I will dry up the sea — I will make rivers a desolate-place — and their fish will dry up because there is no water and will die of thirst.
+\v 3 I will clothe the heaven in darkness and will make its covering as sackcloth.
+\p
+\v 4 The Lord gives me a tongue of instruction to know when it is necessary to speak a word — he set it for the morning — he added an ear to me to hear —
+\v 5 and the instruction of the Lord Lord opens my ears — and I do not resist nor do I speak against.
+\v 6 My back I gave to floggings and my cheeks to blows — and my face I did not turn away from the shame of spitting.
+\v 7 And the Lord Lord became my helper — therefore I was not put to shame — but I set my face as a solid rock and I knew that I would not be put to shame —
+\v 8 for the one who declared me righteous draws near — who is the one contending with me? Let him stand against me at the same time — and who is the one judging me? Let him draw near to me.
+\v 9 Look — the Lord Lord will help me — who will harm me? Look — all of you will grow old as a garment and a moth will devour you.
+\p
+\v 10 Who among you fears the Lord — let him hear the voice of his servant — those who walk in darkness and have no light — trust in the name of the Lord and lean upon God.
+\v 11 Look — all of you kindle fire and strengthen a flame — walk in the light of your fire and in the flame which you kindled — this happened to you because of me — you will lie down in grief.
+
+\c 51
+\p
+\v 1 Hear me hear me you who follow righteousness and seek the Lord — look to the solid rock which you cut and to the hole of the pit which you dug.
+\v 2 Look to Abraham your father and to Sarah who gave birth to you — for he was one and I called him and blessed him and loved him and multiplied him.
+\v 3 And now I will comfort you O Zion — and I comforted all her desolate places — and I will make her desolate places as a garden and her western places as a garden of the Lord — they will find in her gladness and exultation — a voice of praise and a voice of song.
+\p
+\v 4 Hear me hear me my people — and O kings give ear to me — for a law will go out from me and my judgment as a light of nations.
+\v 5 My righteousness draws near swiftly and my salvation will go out as a light — and in my arm nations will hope — the islands will wait upon me and will hope in my arm.
+\v 6 Lift up your eyes to the heaven and look upon the earth below — for the heaven was made firm as smoke and the earth will grow old as a garment — and those who dwell in it will die in like manner — but my salvation will be into the age and my righteousness will not fail.
+\p
+\v 7 Hear me you who know judgment — a people in whose heart is my law — do not fear the reproach of men and do not be broken by their contempt.
+\v 8 For as a garment will be devoured by time and as wool will be devoured by a moth — so also they will be devoured — but my righteousness will be into the age and my salvation into all generations.
+\p
+\v 9 Wake up wake up O Jerusalem and put on the strength of your arm — wake up as in the first day as in the ancient generation — are you not the one who cut Rahab in pieces and wounded the dragon?
+\v 10 Are you not the one who dried up the sea — the water of the great deep — who made the depths of the sea a road for the ransomed-released ones to pass over?
+\v 11 And those ransomed-released by the Lord will return and come to Zion with gladness and everlasting joy — for upon their head will be praise and gladness and joy will receive them — grief and pain and groaning fled away.
+\p
+\v 12 I am I am the one who comforts you — know who you are that you were afraid of mortal man and of a son of man who was dried up as grass —
+\v 13 and you forgot God who made you and who made the heaven and founded the earth — and you were afraid continually all the days from the face of the wrath of the one who afflicted you — for in what way did he set his wrath against you?
+\v 14 For in his saving he will not stand still nor will he be delayed —
+\v 15 for I am the Lord your God who troubled the sea and made its waves roar — the Lord Almighty is his name.
+\v 16 I will put my words in your mouth and under the shadow of my hand I will shelter you — in which I set the heaven and founded the earth — and will say to Zion: You are my people.
+\p
+\v 17 Wake up wake up — stand up O Jerusalem — you who drank from the hand of the Lord the cup of his wrath — for you drank out and drained the cup of calamity the bowl of falling.
+\v 18 And there was no one comforting you of all the sons whom you bore — and there was no one taking hold of your hand of all the sons whom you reared.
+\v 19 Therefore these things oppose you — who will grieve with you? Ruin and destruction and famine and sword — who will comfort you?
+\v 20 Your sons are the ones who are helpless and who sleep at the head of every road as a half-boiled beet — those who are full of the wrath of the Lord — exhausted by the Lord God.
+\p
+\v 21 Therefore hear this you afflicted and drunk — not with wine.
+\v 22 Thus says the Lord God who judges his people: Look — I have taken from your hand the cup of calamity the bowl of my wrath — and you will not drink it any longer.
+\v 23 And I will give it into the hands of those who wronged you and those who humbled you — who said to your soul: Bow down so that we may pass over — and you made your back as earth and as a road for those passing through.
+
+\c 52
+\p
+\v 1 Wake up wake up O Zion — put on your strength O Zion — and you O Jerusalem the holy city — put on the glory of your garments — for the uncircumcised and the unclean will no longer pass through you.
+\v 2 Shake off the dust and rise up — sit O Jerusalem — loose the bond from your neck O captive daughter of Zion.
+\p
+\v 3 For thus says the Lord: You were sold for nothing and not with silver will you be ransomed-released.
+\v 4 Thus says the Lord: Into Egypt my people went down formerly to sojourn there — and into Assyria they were led away by force.
+\v 5 And now why are you here? Thus says the Lord: Because my people were taken for nothing — marvel and wail. Thus says the Lord: Because of you my name is continually blasphemed among the nations.
+\v 6 Therefore my people will know my name in that day — for I am the one who speaks — I am here.
+\p
+\v 7 As a season upon the mountains as the feet of one who brings good-news of a report of peace — as one who brings good-news of good things — because I will make your salvation heard saying to Zion: Your God will reign.
+\v 8 For the voice of those who guard you was lifted up and will rejoice together — for eye to eye they will see when the Lord has mercy on Zion.
+\v 9 Let the desolate places of Jerusalem break forth with joy together — for the Lord had mercy on her and ransomed-released Jerusalem.
+\v 10 And the Lord will uncover his holy arm before all the nations — and all the ends of the earth will see the salvation of our God.
+\p
+\v 11 Depart depart go out from there and do not touch the unclean thing — go out from the midst of her — be separated you who carry the vessels of the Lord.
+\v 12 For you will not go out in tumult nor will you go as fugitives — for the Lord will go before you and the God of Israel will gather you from behind.
+\p
+\v 13 Look — my servant will understand and be lifted up and glorified exceedingly.
+\v 14 As many were astonished at you — so your appearance will be without glory from men and your glory from the sons of men —
+\v 15 so many nations will marvel at him and kings will shut their mouth — for those to whom it was not told about him will see and those who have not heard will understand.
+
+\c 53
+\p
+\v 1 Lord who believed our report — and the arm of the Lord — to whom was it revealed?
+\v 2 He came up before him as a child — as a root in a thirsty land — he has no form nor glory — and we saw him and he had no form nor beauty.
+\v 3 But his form was without honor and falling short beyond the sons of men — a man in blow and knowing to bear sickness — because his face was turned away — he was dishonored and not esteemed.
+\v 4 This one bears our sins and suffers pain for us — and we esteemed him to be in toil and blow and ill-treatment.
+\v 5 But he was wounded because of our lawless deeds and he was made weak because of our sins — the correction of our peace was upon him and by his bruise we were healed.
+\v 6 All we as sheep went astray — each went astray in his own road — and the Lord gave him over to our sins.
+\v 7 And he himself because of his ill-treatment does not open his mouth — as a sheep he was led to slaughter and as a lamb before the one who shears it is silent — so he does not open his mouth.
+\v 8 In his humiliation his judgment was taken away — who will declare his generation? Because his life is taken away from the earth — from the lawless deeds of my people he was led to death.
+\v 9 And I will give the evil ones instead of his burial and the rich instead of his death — because he did no lawlessness nor was deceit found in his mouth.
+\v 10 And the Lord desires to cleanse him from the blow — if you give for sin your soul will see a long-lived seed —
+\v 11 and the Lord desires to take away from the toil of his soul — to show him light and to form him with understanding — to declare-righteous a righteous one who serves many well — and he himself will bear their sins.
+\v 12 Therefore he will inherit many and he will divide the spoils of the strong — because his soul was given over to death and he was numbered among the lawless — and he bore the sins of many and because of their sins he was given over.
+
+\c 54
+\p
+\v 1 Be glad O barren one who does not bear — break forth and cry aloud you who are not in labor — because many more are the children of the desolate one than the children of the one who has a husband says the Lord.
+\v 2 Enlarge the place of your tent and of your curtains — fix firmly — do not spare — lengthen your ropes and strengthen your stakes.
+\v 3 Yet to the right and to the left spread out — and your seed will inherit nations and you will settle desolated cities.
+\v 4 Do not fear — for you will not be put to shame — nor be confounded — for you will not be disgraced — for you will forget your former shame and the reproach of your widowhood you will not remember anymore.
+\v 5 For the Lord who made you — the Lord Almighty is his name — and the one who ransomed-released you — the Holy One of Israel — he will be called the God of all the earth.
+\v 6 Not as a woman who was abandoned and faint-hearted did the Lord call you — nor as a woman hated from youth says your God.
+\v 7 For a little time I abandoned you and with great mercy I will have mercy on you.
+\v 8 In a small wrath I turned my face away from you — and with everlasting mercy I will have mercy on you says the Lord who ransomed-released you.
+\p
+\v 9 From the water of Noah this is for me — as I swore to him in that time concerning the earth — so I swore to you that I will no longer be angry with you nor will I rebuke you.
+\v 10 For the mountains will depart and the hills be shaken — but my mercy will not depart from you and the covenant of my peace will not be shaken says the Lord who has mercy on you.
+\p
+\v 11 O afflicted and tossed and not comforted — look — I will prepare your stone with crystal and your foundations with sapphire —
+\v 12 and I will make your battlements jasper and your gates crystal stones and your wall chosen stones.
+\v 13 And I will make all your sons taught by God and in great peace your sons —
+\v 14 and in righteousness you will be built — stay far from unrighteous things and you will not fear — and trembling will not approach you.
+\v 15 Look — sojourners will come to you through me and will dwell with you and will take refuge in you.
+\p
+\v 16 Look — I created you — not as a coppersmith blowing coals and bringing out a vessel for work — but I created you not for destruction to corrupt.
+\v 17 Every vessel formed against you will not prosper — and every voice that rises against you for judgment you will overcome all of them and those who oppose you will be in them — there is an inheritance for those who serve the Lord and you will be righteous before me says the Lord.
+
+\c 55
+\p
+\v 1 You who are thirsty go to the water — and as many as have no silver — go and buy and drink wine and fat without silver and without price.
+\v 2 Why do you value silver and toil for what is not bread — and your labor for what does not satisfy? Hear me and you will eat what is good and your soul will delight in good things.
+\v 3 Give heed with your ears and follow my ways — hear me and your soul will live in good things — and I will make with you an everlasting covenant — the holy faithful things of David.
+\v 4 Look — I gave him as a testimony among nations — a ruler and commander of nations.
+\v 5 Nations which do not know you will call upon you and peoples who do not understand you will flee to you — because of the Lord your God the Holy One of Israel — for he glorified you.
+\p
+\v 6 Seek the Lord and when you find him call upon him — and when he draws near to you —
+\v 7 let the impious one leave behind his ways and the lawless man his counsels — and let him return to the Lord and he will have mercy on him — and to our God for he will greatly forgive.
+\p
+\v 8 For my counsels are not as your counsels nor are my ways as your ways says the Lord.
+\v 9 But as the heaven is far from the earth — so my way is far from your ways and your thoughts from my mind.
+\v 10 For as rain comes down or snow from heaven and will not return there until it saturates the earth and it gives birth and sprouts and gives seed to the one who sows and bread for eating —
+\v 11 so will my word be — whatever goes out from my mouth — it will not turn back to me empty until whatever I willed is accomplished and I will prosper your ways and my commands.
+\v 12 For with gladness you will go out and with joy you will be taught — for the mountains and the hills will leap receiving you with joy — and all the trees of the open-field will applaud with their branches.
+\v 13 And instead of the bramble-bush a cypress will come up and instead of the nettle a myrtle will come up — and the Lord will be for a name and for an everlasting sign and will not fail.
+
+
