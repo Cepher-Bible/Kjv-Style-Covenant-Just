@@ -677,3 +677,340 @@
 \p
 \v 11 And it will be in that day God will fence men in from the channel of the river as far as Rhinocorura — but you gather the sons of Israel one by one.
 \v 12 And it will be in that day they will blow the great trumpet and the lost ones in the land of the Assyrians will come and the lost ones in Egypt — and they will bow down to the Lord upon the holy mountain in Jerusalem.
+
+\c 28
+\p
+\v 1 Woe to the crown of pride — the hired ones of Ephraim — the flower that fell from the glory upon the top of the fat mountain — those who are drunk with wine.
+\v 2 Look — the wrath of the Lord is strong and hard — as a storm of hail falling with no shelter — violently rushing — as a great flood of water sweeping away the land — he will give rest to the earth with his hands.
+\v 3 The crown of pride — the hired ones of Ephraim will be trampled with the feet.
+\v 4 And the flower that fell from the hope of glory upon the top of the high mountain will be as an early fig — the one who sees it before he has taken it in his hand will desire to swallow it.
+\p
+\v 5 In that day the Lord Almighty will be a crown of hope — woven with glory — to the remnant of the people.
+\v 6 They will be left in the breath-of-life of judgment for judgment and for strength — turning away the enemies to the gate.
+\p
+\v 7 For these have wandered through wine and have gone astray through strong drink — priest and prophet have gone astray through strong drink — they were swallowed up because of wine — they staggered from the strong drink — they went astray — this is their vision — these are their counsels.
+\v 8 For the table is vile — filled everywhere with vomit — there is nowhere clean.
+\p
+\v 9 To whom did we declare evils and to whom did we declare a message? To those who are weaned from milk — to those drawn away from the breast.
+\v 10 Expect affliction upon affliction — hope upon hope — yet a little there — yet a little here.
+\v 11 Because through contemptuous lips and through another tongue they will speak to this people —
+\v 12 saying to them: This is the rest for the hungry — and this is the calamity — but they were not willing to hear.
+\v 13 And the word of the Lord will be to them: Affliction upon affliction — hope upon hope — yet a little there — yet a little here — that they may go and fall backward and be crushed and be in danger and be taken captive.
+\p
+\v 14 Therefore hear the word of the Lord O men of affliction and you rulers of this people in Jerusalem.
+\v 15 Because you said: We made a covenant with Hades and agreements with death — if the rushing storm passes through it will not come upon us — for we have made falsehood our hope and by falsehood we will be sheltered.
+\v 16 Therefore thus says the Lord: Look — I am laying in Zion a foundation stone — a costly stone chosen corner-stone — a precious foundation — and the one who trusts in him will not be put to shame.
+\v 17 And I will make judgment the hope and mercy my weight — and those who trust in vanity — the storm will not reach you and it will not come upon you.
+\v 18 And your covenant with death will be taken away and your hope in Hades will not stand — if the rushing storm comes you will be its trampling ground.
+\v 19 Whenever it passes through it will take you — morning by morning it will pass through in the day and by night — and it will be an evil hope to understand the report.
+\v 20 For the bed is shortened so as not to be able to stretch out upon it — and the garment is narrow so as to cover yourself with it.
+\v 21 For the Lord will rise up as the mountain of the impious ones — and will be in the valley of Gibeon — to do his works — his work is strange and to do his deed — his deed is alien.
+\v 22 And now do not rejoice and let your bonds not be strengthened — for I have heard from the Lord God Almighty that completed things and cut short have been determined upon all the earth.
+\p
+\v 23 Give ear and hear my voice — give heed and hear my words.
+\v 24 Will the plowman plow all day to sow — will he prepare the ground and plow it?
+\v 25 Does he not when he levels its surface then sow small black grain and cumin and scatter wheat and barley and millet in its boundaries?
+\v 26 And you will be disciplined by the judgment of your God and rejoice.
+\v 27 For black grain is not cleansed with harsh things nor will a wagon-wheel go round on the cumin — but black grain is threshed with a rod and cumin with a staff.
+\v 28 But bread grain will be threshed — for I will not be angry with you forever nor will the voice of my bitterness trample you.
+\v 29 And these signs came from the Lord Almighty — take counsel — exalt vain comfort.
+
+\c 29
+\p
+\v 1 Woe to the city of Ariel which David besieged — gather fruits year after year — eat for you will eat with Moab.
+\v 2 For I will afflict Ariel and her strength and glory will be to me as Ariel.
+\v 3 And I will surround you as David did — and I will make a siege-mound round about you and I will raise towers round about you.
+\v 4 And your words will be brought down to the earth and your words will go down to the ground and your voice will be as those who prophesy from the earth and your voice will be weak from the ground.
+\p
+\v 5 And the wealth of the impious will be as dust from a wheel and the multitude of those who wrong you as flying chaff — and it will be suddenly and instantly.
+\v 6 There will be a visitation from the Lord Almighty with thunder and earthquake and a great voice — a rushing whirlwind and a devouring flame of fire.
+\v 7 And the wealth of all the nations that wage war against Ariel will be as a dream seen in a vision of the night — all who are gathered against her and all who press hard upon her and besiege her.
+\v 8 And as when a thirsty man dreams that he is drinking — but when he wakes he is still thirsty and his soul craved in vain — so will be the wealth of all the nations that wage war against mount Zion.
+\p
+\v 9 Be dazed and confused — be blind and unable to see — be drunk but not with wine — stagger but not with strong drink.
+\v 10 For the Lord has made you drink a breath-of-life of deep-sleep — and he will close their eyes and the eyes of their prophets and of their rulers who see hidden things.
+\p
+\v 11 And all these visions will be to you as the words of this sealed book — if they give it to a literate man saying: Read this — he will say: I cannot read it for it is sealed.
+\v 12 And this book will be given into the hands of a man who does not know letters and they will say to him: Read this — and he will say: I do not know letters.
+\p
+\v 13 And the Lord said: This people draws near to me with their mouth and they honor me with their lips but their heart is far from me — and they worship me in vain teaching commandments and teachings of men.
+\v 14 Therefore look — I will proceed to remove this people — and I will remove them — and I will destroy the wisdom of the wise and will hide the understanding of the understanding ones.
+\p
+\v 15 Woe to those who take deep counsel — and not through the Lord — woe to those who counsel in secret — and their works are in darkness — and they say: Who sees us and who knows us?
+\v 16 Shall you not be counted as the clay of the potter — shall the thing formed say to the one who formed it: You did not form me — or the work to the craftsman: You did not make me wisely?
+\p
+\v 17 Is it not yet a little while and Lebanon will be changed as the mount Carmel and Carmel will be counted as a forest?
+\v 18 And in that day the deaf will hear the words of a book — and those in darkness and those in mist — the eyes of the blind will see.
+\v 19 And the poor will rejoice with joy through the Lord and those who have no hope among men will be filled with joy.
+\v 20 The lawless man has ceased and the arrogant man has perished — and those who work iniquity have been utterly cut off —
+\v 21 those who cause men to sin by their word and those who set a snare for the one who reproves in the gates — who turned aside the righteous man unjustly.
+\p
+\v 22 Therefore thus says the Lord against the house of Jacob whom he set apart from Abraham: Jacob will no longer be put to shame and he will no longer change color —
+\v 23 but when they see their children my works they will sanctify my name and will sanctify the Holy One of Jacob — and the God of Israel they will fear.
+\v 24 And those who wandered in breath-of-life will understand — and those who grumbled will learn obedience and the dumb tongues will learn to speak peace.
+
+\c 30
+\p
+\v 1 Woe to the apostate children — thus says the Lord — you took counsel but not through me — and made covenants but not through my breath-of-life — to add sin upon sin.
+\v 2 Those who went down into Egypt but did not ask through me — to be helped by Pharaoh and to be sheltered in the shadow of the Egyptians.
+\v 3 For the shadow of Egypt will be to you a shame and a disgrace.
+\v 4 For there are rulers in Tanis — evil messengers.
+\v 5 In vain they will labor for a people that will not profit them for help — not for aid or for a benefit but for shame and reproach.
+\p
+\v 6 The vision of the four-footed animals in the desolate-place. In affliction and in distress — a lion and a lion-cub from there — and asp and young flying serpent — they carry their wealth upon donkeys and camels to a nation that will not profit them.
+\v 7 The Egyptians will help you in vain and with emptiness — declare to them that this consolation of yours is vain.
+\p
+\v 8 Now sit down and write these things upon a tablet and in a book — for it will be for many days into the age into the age.
+\v 9 For this is a disobedient people — false sons — sons who were not willing to hear the law of God —
+\v 10 who say to the prophets: Do not report to us — and to those who see visions: Do not speak to us true things — but speak to us and report to us another error.
+\v 11 Turn us away from this path — remove from us this road — and take away from us the Holy One of Israel.
+\v 12 Therefore thus says the Holy One of Israel: Because you refused to obey these words and you trusted in falsehood and in tumult and leaned upon it —
+\v 13 therefore this sin will be to you as a falling wall of a strong city suddenly falling — whose fall comes suddenly.
+\v 14 And its fall will be as the breaking of a clay vessel of a large jar — crushed small — and there will not be found among its fragments a shard with which to carry fire — and from its breaking you will not take water.
+\p
+\v 15 Thus says the Lord the Holy One of Israel: When you turn and mourn you will be saved and you will know where you were — when you trusted in vanities your strength became empty.
+\v 16 And you were not willing to hear — but you said: We will flee upon horses — therefore you will flee — and: We will ride upon light ones — therefore those who pursue you will be light.
+\v 17 A thousand will flee because of the voice of one — and many will flee because of the voice of five — until you are left as a signal-post upon a mountain and as a standard-bearer upon a hill.
+\p
+\v 18 And the Lord will wait to have mercy on you — and therefore he will be lifted up to have compassion on you — because the Lord your God is a judge — blessed are all those who wait upon him.
+\p
+\v 19 For a holy people will dwell in Zion — and Jerusalem wept a bitter weeping. Have mercy — he will have mercy on you — at the voice of your cry when he heard he heard you.
+\v 20 And the Lord will give you bread of affliction and water of constraint — and those who lead you astray will no longer be near to you — for your eyes will see those who are leading you astray —
+\v 21 and your ears will hear the words behind you of those who lead you saying: This is the road — let us walk in it — whether we turn to the right or to the left.
+\v 22 And you will defile the silver and gold coverings of your idols and your carved-images — you will scatter them as the water of one who is unclean — you will cast them out as dung.
+\p
+\v 23 Then rain will be given for the seed of your land — and the bread of the produce of your land will be abundant and fat — and your cattle will feed on that day in a rich and spacious meadow.
+\v 24 And your bulls and your oxen who work the land will eat chaff mixed with barley winnowed with a fan.
+\v 25 And there will be upon every high mountain and upon every high hill water running in that day when many fall and when the towers fall.
+\v 26 And the light of the moon will be as the light of the sun and the light of the sun will be sevenfold in the day when the Lord heals the fracture of his people and will heal the pain of your blow.
+\p
+\v 27 Look — the name of the Lord comes from far off burning with wrath — the word is with glory — with wrath and with anger and with a flame of devouring fire.
+\v 28 The breath of the Lord as a rushing ravine — it will reach as far as the neck — and it will scatter the nations with a vain plague — and it will pursue them with an error that seizes upon the face of the nations.
+\v 29 But you will have a song as the night the feast is consecrated and gladness of heart as one going with a flute to come to the mountain of the Lord and to the God of Israel.
+\v 30 And the Lord will make the glory of his voice heard — and the wrath of his arm he will make visible with fury and a flame of devouring fire — lightning and rain and hail together.
+\v 31 For the Assyrian will be crushed by the voice of the Lord with a rod with which he will strike him.
+\v 32 And it will be from every side as he smites him with a staff he will weary him — and it will be from the foundation of the earth and from the hills — with the tympanum and harp they will wage war against him with a raised hand.
+\v 33 For you have been prepared of old — has he not been prepared to be eaten? He made it deep and wide — the gathering of it is fire and much wood — the breath of the Lord as a ravine of brimstone kindles it.
+
+\c 31
+\p
+\v 1 Woe to those who go down to Egypt for help — who trust in horses and in chariots because there are many of them — and in a multitude of horses — and did not trust in the Holy One of Israel and did not seek the Lord.
+\v 2 And he wisely brought evils upon them and his word will not be taken away — and he will rise up against the houses of the evil ones and against their hope — a vain help.
+\v 3 An Egyptian is a man and not God — his horses are flesh and not help — but the Lord will bring his hand upon them and those who help will be weary and all together will perish.
+\p
+\v 4 For thus the Lord said to me: As a lion roars — or a lion-cub over prey that he has seized — and he cries out over it until the mountains are filled with his voice — and he was overcome and the multitude of his wrath was not taken away — so the Lord Almighty will come down to wage war upon the mountain Zion and upon its hills.
+\v 5 As birds flying so the Lord Almighty will shield Jerusalem — shielding and delivering and saving and passing over.
+\p
+\v 6 Return O sons of Israel to him from whom you were deeply alienated.
+\v 7 For in that day each will reject his silver idols and his gold idols which your hands made as sin.
+\v 8 And the Assyrian will fall — not by the sword of a great man nor will the sword of a lowly man devour him — and he will flee not from the face of a sword — and the young men will be for defeat.
+\v 9 And they will be surrounded by a rock as in a ditch — and they will be defeated — the one who flees will be taken captive says the Lord — blessed is the one who has a seed in Zion and household-members in Jerusalem.
+
+\c 32
+\p
+\v 1 Look — a righteous king will reign and rulers will rule with judgment.
+\v 2 And a man will hide his word and will be hidden as from the rushing water — and will be visible in Zion as a rushing river glorious in a thirsty land.
+\v 3 And no longer will they trust in men — but they will give their ears to hear.
+\v 4 And the heart of the weak will give heed to hear and the dumb tongues will quickly learn to speak peace.
+\v 5 And the fool will no longer be called wise nor the wicked be called ruler.
+\v 6 For the fool will speak foolishness and his heart will think empty things — to accomplish lawless things and to speak error against the Lord — to scatter hungry souls and will empty the souls of the thirsty.
+\v 7 For the counsel of the evil ones will devise lawlessness — to destroy the lowly with unrighteous words and to scatter the words of the lowly in judgment.
+\v 8 But the godly devised godly things and this counsel will stand.
+\p
+\v 9 Rise up you rich women — hear my voice — you daughters who are in hope give ear to my words.
+\v 10 Days of a year — in pain with hope — the vintage has been consumed — it will no longer come.
+\v 11 Be amazed — be in pain you who are at ease — strip yourselves and be naked and gird your loins.
+\v 12 And mourn upon the breasts — mourn over the desirable field and over the fruitful vine.
+\v 13 The land of my people will be thorns and grass — and joy will be taken from every house in every city.
+\v 14 The houses are left — the wealth of the city and the desirable houses will be abandoned — and the villages will be caves into the age — the joy of wild-donkeys — pastures of flocks —
+\v 15 until the breath-of-life comes upon you from on high and Carmel will be as a desolate-place and the desolate-place will be counted as Carmel.
+\p
+\v 16 And judgment will dwell in the desolate-place and righteousness will dwell in Carmel.
+\v 17 And the works of righteousness will be peace — and righteousness will hold rest and trust into the age.
+\v 18 And his people will inherit mercy — in a city of peace and in dwellings full of trust and in rich rest.
+\v 19 And the hail will go down and the city will be brought low in humiliation.
+\v 20 Blessed are those who sow upon every water where the ox and donkey are trampled.
+
+\c 33
+\p
+\v 1 Woe to those who afflict you — but no one afflicts you — and to the one who deals treacherously with you — but no one deals treacherously with you. Those who afflict will be taken captive and those who deal treacherously will be given up and will fall.
+\p
+\v 2 O Lord have mercy on us — for we hoped in you — be the seed of our offspring and our salvation in time of affliction.
+\v 3 Because of the fearful voice the peoples were troubled — because of your exaltation the nations were scattered.
+\v 4 And the spoils of your nations will be gathered as when someone gathers locusts — as when a ditch is full of them.
+\p
+\v 5 The Lord God is holy — dwelling on high — Zion was filled with judgment and righteousness.
+\v 6 They will be given up to the law in her time of safety — riches of salvation — wisdom and knowledge — the fear of the Lord — this is his treasure.
+\p
+\v 7 Look — they will be afraid of their fear — those who were sent to make peace will weep bitterly.
+\v 8 For the roads of these will be made desolate — the fear of the nations ceased — and the covenant with them has been taken away — and you will not count them as men.
+\v 9 The earth mourned and was put to shame — Lebanon was ashamed — the Sharon has become a marsh — Galilee will be made visible and Carmel.
+\p
+\v 10 Now I will rise up says the Lord — now I will be glorified — now I will be lifted up.
+\v 11 Now you will see — now you will feel — the breath of your plan will be empty fire — it will devour you.
+\v 12 And the peoples will be as thorns cut and burned in fire — thorns in a field will be burned by fire.
+\p
+\v 13 Those who are far off will hear what I did — those who are near will know my strength.
+\p
+\v 14 The sinners in Zion were removed — trembling will seize the impious. Who will tell us that fire is kindled — who will tell us about the eternal burning?
+\v 15 The one who walks in righteousness — speaking straight paths — hating lawlessness and unrighteousness — and shaking his hands from gifts — making his ears heavy so as not to hear the judgment of blood — closing his eyes so as not to see unrighteousness.
+\v 16 He will dwell in a high cave of a strong rock — bread will be given to him and his water will be faithful.
+\p
+\v 17 You will see a king with glory — your eyes will behold a land from far off.
+\v 18 Your soul will meditate on fear. Where are the scribes — where are the counselors — where is the one who counts those who are fed — the small and the great people?
+\v 19 They did not take counsel with them nor did they know the deep people — a people with a tongue they could not hear — who do not have understanding in their hearing.
+\p
+\v 20 Look at Zion the city of our feast — your eyes will see Jerusalem a rich city — tents that will not be shaken — and the stakes of her tent will not be moved into the age — and her ropes will not be broken.
+\v 21 For the name of the Lord is great for you — a place for you — rivers and wide channels will not pass through — nor will a ship with oars pass through — nor will a great ship pass through it.
+\v 22 For my God the Lord is my judge — the Lord is my lawgiver — the Lord is my king — he will save me.
+\v 23 Your ropes were broken — for they were not strong — your mast was not fixed in the right way — it will not spread its sails — then the abundance of the spoils will be divided — many lame will plunder the spoil.
+\v 24 And by no means will the people near it say: I am sick — for the sin will be forgiven them.
+
+\c 34
+\p
+\v 1 Draw near O nations and hear — O rulers give ear — let the earth hear and those who are in it — the inhabited world and the people in it.
+\v 2 For the wrath of the Lord is upon all the nations and anger upon the number of them — to destroy them and give them over to slaughter.
+\v 3 And their slain will be cast out and from their corpses a stench will go up — and the mountains will be wet from their blood.
+\v 4 And all the powers of heaven will melt and the heaven will be rolled up as a scroll — and all the stars will fall as leaves fall from a vine and as leaves fall from a fig tree.
+\v 5 My sword was made drunk in heaven — look it will come down upon Edom and upon the people of destruction for judgment.
+\v 6 The sword of the Lord was filled with blood — it was made fat with fat — with the blood of goats and rams — because the Lord has a sacrifice in Bozrah and a great slaughter in the land of Edom.
+\v 7 And the great ones will fall with them and the rams and the bulls — and the land will be drunk from blood and the earth will be filled with their fat.
+\v 8 For it is a day of judgment of the Lord — a year of recompense in the judgment of Zion.
+\v 9 And her ravines will be turned into pitch and her land into brimstone — and her land will be as burning pitch —
+\v 10 by night and by day she will not be extinguished — and into the age her smoke will go up — she will be made desolate for a long time — from generation to generation she will be desolate — there is no one passing through it.
+\p
+\v 11 And the birds and the hedgehogs and the ibis and the raven will dwell in it — and the measuring-cord of desolation will be cast upon it and confusion-weights.
+\v 12 Her nobles will be there but there will be none — and her kings and her great men will be for destruction.
+\v 13 And thorns will spring up in their cities and in their strong places — and it will be a dwelling of sirens and a courtyard of ostriches.
+\v 14 And demons will meet with donkey-centaurs and they will cry to one another — and there the night-stalker will rest — having found rest for herself.
+\v 15 There the hedgehog made its nest and the earth protected its young safely — there the deer gathered and saw one another.
+\v 16 They passed by in number and not one of them perished — they did not seek one another — for thus my Lord commanded them and his breath-of-life gathered them.
+\v 17 And he will cast a lot for them and his hand divided it out to them by measuring-cord — they will inherit it into the age — from generation to generation they will dwell in it.
+
+\c 35
+\p
+\v 1 Be glad O desolate-place and let the desert rejoice — and let the desolate-place bloom as a lily.
+\v 2 And the desolate places of the Jordan will bloom and be glad — and the glory of Lebanon was given to it and the honor of Carmel — and my people will see the glory of the Lord and the height of God.
+\v 3 Be strong you weak hands and you feeble knees —
+\v 4 take courage you faint-hearted in your mind — be strong — do not fear — look — our God renders judgment and he will render it — he himself will come and save us.
+\v 5 Then the eyes of the blind will be opened and the ears of the deaf will hear.
+\v 6 Then the lame will leap as a deer and the tongue of the dumb will be clear — for water broke out in the desolate-place and a ravine in the thirsty land.
+\v 7 And the waterless place will be a marsh and a spring of water to those who are thirsty — there joy and gladness will be there — and the place of reeds and pools.
+\v 8 And there will be a clean way there — and it will be called a holy road — and the unclean will not pass through nor will there be an unclean road there — but the scattered ones will walk on it and they will not go astray.
+\v 9 And there will be no lion there nor will any of the evil wild-animals go up upon it nor be found there — but the redeemed ones will walk there —
+\v 10 and the gathered ones through the Lord will return and come to Zion with joy and everlasting gladness upon their head — for upon their head will be praise and gladness and joy will receive them — pain and grief and groaning fled away.
+
+\c 36
+\p
+\v 1 And it came to pass in the fourteenth year of king Hezekiah — Sennacherib king of the Assyrians came up against all the fortified cities of Judah and took them.
+\v 2 And the king of the Assyrians sent Rabshakeh from Lachish to Jerusalem to king Hezekiah with a large force — and he stood at the conduit of the upper pool on the road of the fuller's field.
+\v 3 And there came out to him Eliakim the son of Hilkiah the house-steward and Shebna the scribe and Joah the son of Asaph the recorder.
+\p
+\v 4 And Rabshakeh said to them: Say to Hezekiah: Thus says the great king of the Assyrians — what is this trust in which you trust?
+\v 5 You said — but they are only words of lips — counsel and power are for war. Now in whom do you trust that you rebelled against me?
+\v 6 Look — you trust upon this broken reed staff — upon Egypt — upon which if a man leans it will go into his hand and pierce it — thus is Pharaoh king of Egypt to all who trust in him.
+\v 7 But if you say to me: We trust in the Lord our God — is this not the one whose high places and altars Hezekiah removed — and he said to Judah and Jerusalem: Before this altar you will bow down?
+\v 8 And now mix with my lord the king of Assyria and I will give you two thousand horses — if you are able to put riders upon them.
+\v 9 And how will you turn away the face of one toparch of the least of the servants of my lord — and you trusted upon Egypt for chariots and horsemen?
+\v 10 And now did I come up without the Lord against this land to destroy it? The Lord said to me: Go up against this land and destroy it.
+\p
+\v 11 And Eliakim and Shebna and Joah said to him: Speak to your servants in Aramaic — for we understand it — and do not speak to us in Hebrew — and why do you speak in the ears of the men on the wall?
+\v 12 And Rabshakeh said to them: Did my lord send me to your lord or to you to speak these words — was it not to the men sitting on the wall who will eat their own dung and drink their own urine with you?
+\p
+\v 13 And Rabshakeh stood and cried out with a great voice in Hebrew and said: Hear the words of the great king of the Assyrians.
+\v 14 Thus says the king: Do not let Hezekiah deceive you — for he will not be able to rescue you.
+\v 15 And do not let Hezekiah make you trust in the Lord saying: The Lord will surely save us — this city will not be given into the hand of the king of the Assyrians.
+\v 16 Do not hear Hezekiah — for thus says the king of the Assyrians: Do good to me and come out to me — and each of you will eat from his own vine and each from his own fig tree — and each will drink the water of his own cistern —
+\v 17 until I come and take you to a land like your land — a land of grain and wine and bread and vineyards.
+\v 18 Do not let Hezekiah deceive you saying: The Lord will save us. Did any of the gods of the nations save his land from the hand of the king of the Assyrians?
+\v 19 Where is the god of Hamath and Arpad — and where is the god of the city of Sepharvaim — did they save Samaria from my hand?
+\v 20 Who are all the gods of these lands — did they save their land from my hand — that the Lord will save Jerusalem from my hand?
+\p
+\v 21 And they were silent and did not answer him a word — for the order of the king was: Do not answer him.
+\v 22 And Eliakim the son of Hilkiah the house-steward and Shebna the scribe and Joah the son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
+
+\c 37
+\p
+\v 1 And it came to pass when king Hezekiah heard — he tore his garments and covered himself with sackcloth and entered the house of the Lord.
+\v 2 And he sent Eliakim the house-steward and Shebna the scribe and the elders of the priests covered with sackcloth to Isaiah the son of Amoz the prophet.
+\v 3 And they said to him: Thus says Hezekiah — this day is a day of affliction and reproach and anger — for the children came to the point of birth and there is no strength for the one giving birth.
+\v 4 May the Lord your God hear the words of Rabshakeh — which the king of the Assyrians his lord sent to revile the living God — and to reproach with words which the Lord your God heard — and you will pray for the remnant that is left.
+\v 5 And the servants of Hezekiah came to Isaiah.
+\v 6 And Isaiah said to them: Thus will you say to your lord: Thus says the Lord — do not be afraid of the words which you heard with which the servants of the king of the Assyrians blasphemed me.
+\v 7 Look — I will send a breath upon him and he will hear a report and return to his land — and I will cause him to fall by the sword in his land.
+\p
+\v 8 And Rabshakeh returned and found the king of the Assyrians fighting against Libnah — for he heard that he departed from Lachish.
+\v 9 And he heard about Tirhakah king of Ethiopia: He came out to fight against you. And when he heard he sent messengers to Hezekiah saying:
+\v 10 Do not let your God on whom you trust deceive you saying: Jerusalem will not be given into the hand of the king of the Assyrians.
+\v 11 Look — you heard what the kings of the Assyrians did to all the land — how they utterly destroyed them — and will you be saved?
+\v 12 Did the gods of the nations save them — those whom my fathers destroyed — Gozan and Haran and Rezeph and the sons of Eden who are in Thelassar?
+\v 13 Where is the king of Hamath and the king of Arpad and the king of the city of Sepharvaim — Hena and Ivvah?
+\p
+\v 14 And Hezekiah received the letter from the hand of the messengers and read it and went up to the house of the Lord and opened it before the Lord.
+\v 15 And Hezekiah prayed to the Lord saying:
+\v 16 O Lord Almighty God of Israel who sits upon the cherubim — you alone are God of every kingdom of the inhabited world — you made heaven and earth.
+\v 17 Incline your ear O Lord and hear — open your eyes O Lord and see — and hear all the words of Sennacherib which he sent to reproach the living God.
+\v 18 For in truth O Lord the kings of the Assyrians laid waste all the nations and their land —
+\v 19 and cast their gods into fire — for they were not gods but the works of hands of men — wood and stone — and they destroyed them.
+\v 20 And now O Lord our God save us from his hand so that all the kingdoms of the earth will know that you alone are God.
+\p
+\v 21 And Isaiah the son of Amoz was sent to Hezekiah and said: Thus says the Lord the God of Israel — I heard what you prayed to me concerning Sennacherib king of the Assyrians.
+\v 22 This is the word that God spoke concerning him: The virgin daughter of Zion despised you and mocked you — the daughter of Jerusalem shook her head at you.
+\v 23 Whom did you reproach and provoke — and against whom did you lift up your voice and raise your eyes to the height — against the Holy One of Israel?
+\v 24 For you sent your servants to reproach the Lord and you said: With the multitude of my chariots I went up to the height of the mountains to the top of Lebanon — and I cut down the height of its cedars and the beauty of its cypresses — and I entered into the height of the forest.
+\v 25 And I dug and drank foreign water — and I dried up with the foot of my army all the rivers enclosed.
+\v 26 Did you not hear? From long ago I did these things — from ancient days I appointed them — now I brought them to pass — and it happened to make fortified cities into desolate heaps —
+\v 27 and those who dwell in them had no strength — they were troubled and put to shame — they became as grass of a field or as green herb — as grass on the housetops or as grain scorched before it stands up.
+\v 28 But I know your dwelling and your going out and your coming in — and your wrath against me.
+\v 29 Because you raged against me and your arrogance went up into my ears — I will put my hook in your nose and my bridle on your lips — and I will turn you back on the road on which you came.
+\p
+\v 30 And this will be a sign for you — eat this year what grows of itself and in the second year what springs from that — but in the third year sow and reap and plant vineyards and eat their fruit.
+\v 31 And those who are left of the house of Judah will again take root below and produce fruit above.
+\v 32 For a remnant will go out from Jerusalem and those who are saved from mount Zion — the zeal of the Lord Almighty will do this.
+\p
+\v 33 Therefore thus says the Lord concerning the king of the Assyrians: He will not enter this city nor shoot an arrow into it nor come before it with a shield nor cast a siege-mound against it.
+\v 34 On the road on which he came on that road he will return — and into this city he will not enter — says the Lord.
+\v 35 And I will shield this city to save it for my sake and for the sake of David my servant.
+\p
+\v 36 And the angel of the Lord went out and struck from the camp of the Assyrians a hundred and eighty-five thousand — and they rose in the morning and look — they were all dead bodies.
+\v 37 And Sennacherib king of the Assyrians departed and went and returned and dwelt in Nineveh.
+\v 38 And it came to pass as he was worshipping in the house of Nisroch his god — Adrammelech and Sharezer his sons struck him with the sword — and they escaped to the land of Ararat — and Esarhaddon his son reigned in his place.
+
+\c 38
+\p
+\v 1 And it came to pass in those days that Hezekiah was sick to death — and Isaiah the son of Amoz the prophet came to him and said to him: Thus says the Lord: Give orders to your household — for you are dying and will not live.
+\v 2 And Hezekiah turned his face to the wall and prayed to the Lord saying:
+\v 3 Remember O Lord how I walked before you in truth and with a whole heart — and I did what was pleasing before you — and Hezekiah wept with a great weeping.
+\v 4 And the word of the Lord came to Isaiah saying:
+\v 5 Go and say to Hezekiah: Thus says the Lord the God of David your father — I heard your prayer and saw your tears — look I will add to your days fifteen years.
+\v 6 And I will rescue you and this city from the hand of the king of the Assyrians — and I will shield this city.
+\v 7 And this will be a sign for you from the Lord that the Lord will do this word —
+\v 8 look I will turn back the shadow of the steps which came down on the steps of the house of your father — the ten steps of the sun. And the sun turned back ten steps.
+\p
+\v 9 The prayer of Hezekiah king of Judah when he was sick and recovered from his sickness:
+\v 10 I said: In the calm of my days I will go to the gates of Hades — I will leave behind the remaining years of my life.
+\v 11 I said: I will no longer see the salvation of God in the land of the living — I will no longer see a man of Israel.
+\v 12 My life was removed and went away from me as a shepherd's tent — my life was cut off as a weaver cuts the thread — on that day I was given up from morning till evening.
+\v 13 I gave myself up until morning — as a lion so he broke all my bones — for from morning till evening I was given up.
+\v 14 As a swallow so I will cry and as a dove so I will meditate — for my eyes grew faint from looking to the height of heaven to the Lord who rescued me and took my grief from me.
+\v 15 What shall I declare or what shall he answer me — when he himself did it? I will remember all my years in the bitterness of my soul.
+\v 16 O Lord — these things were declared to you and you revived my breath and I was comforted — and you recovered me and made me live.
+\v 17 For you chose my soul so that it would not perish — and you cast all my sins behind me.
+\v 18 For those who are in Hades will not praise you nor will the dead bless you nor will those who are in Hades hope in your mercy.
+\v 19 The living will bless you as I also do today — for a father will make known to the children your righteousness.
+\v 20 O Lord of my salvation — and I will not cease blessing you with harp all the days of my life before the house of God.
+\p
+\v 21 And Isaiah said: Take a cake of figs and apply it to his boil and he will recover.
+\v 22 And Hezekiah said: What is the sign that I will go up to the house of God?
+
+\c 39
+\p
+\v 1 At that time Merodach-Baladan son of Baladan the king of Babylon sent letters and gifts to Hezekiah — for he heard that he was sick and recovered.
+\v 2 And Hezekiah was glad over them and showed them the house of his spices — silver and gold — spices and ointments — and the whole house of his vessels and all that was found in his treasuries — and there was nothing in his house or in all his domain that Hezekiah did not show them.
+\v 3 And Isaiah the prophet came to king Hezekiah and said to him: What did these men say and from where did they come to you? And Hezekiah said: They came to me from a far land — from Babylon.
+\v 4 And Isaiah said: What did they see in your house? And Hezekiah said: They saw everything in my house — and there is nothing in my treasuries that I did not show them.
+\v 5 And Isaiah said to Hezekiah: Hear the word of the Lord Almighty —
+\v 6 look days are coming when everything in your house and everything which your fathers gathered until this day will be taken to Babylon — and nothing will be left says the Lord.
+\v 7 And your sons whom you will produce — they will take them away and they will be eunuchs in the house of the king of Babylon.
+\v 8 And Hezekiah said to Isaiah: The word of the Lord which you spoke is good — and he said: Let peace and righteousness be in my days.
+
