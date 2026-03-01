@@ -1,3 +1,5 @@
+```
+
 \id PRO
 \h Proverbs
 \toc1 Proverbs
@@ -2883,7 +2885,7 @@
 \q2 for it is a God-fearing woman who is praised.
 \q1 Give her from the fruits of her lips —
 \q2 and let her husband be praised in the gates.
-
+```
 ______
 
 # PROVERBS — GLE v2.1 Notes
