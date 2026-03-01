@@ -1670,5 +1670,298 @@ Journey itinerary from Egypt, land boundaries, Levite cities, **cities of refuge
 \v 12 To men from the families of the sons of Manasseh the son of Joseph they were wives — and their inheritance remained in the tribe of the family of their father.
 \v 13 These are the commandments and the judgments which the Lord commanded through Moses to the sons of Israel in the plains of Moab by the Jordan at Jericho.
 
+# NUMBERS — GLE v2.1 Consolidated Notes
+
+**Text base:** Rahlfs-Hanhart LXX Greek  
+**Engine:** Thayer (1889) primary anchor | LSJ Septuagintal depth layer | Vulgate friction witness  
+**CAE contamination block:** Active throughout  
+**Methodology:** v2.1 — Greek scores, Vulgate challenges, LSJ deepens
+
+---
+
+## STRUCTURAL OVERVIEW
+
+Numbers is the wilderness book — the account of Israel's forty-year journey between the Sinai covenant and the Moab threshold. The LXX title *Arithmoi* = Numbers — from the two census counts that frame the book (chapters 1 and 26). The MT title *Bəmidbar* = In the Desolate-Place — which is the more theologically precise title: the entire book takes place in the desolate-place, the liminal zone between Egypt and the land, between slavery and inheritance.
+
+The book operates on a structural irony: the generation that received the Sinai covenant dies in the desolate-place because of unbelief. A second generation is numbered, receives new legislation, and stands poised to enter. The two censuses bracket the death of the first generation and the emergence of the second.
+
+**Five major sections:**
+
+1. **Preparation at Sinai** (1–10) — census, camp arrangement, Levite assignments, Nazirite law, Aaronic blessing, tribal offerings, departure
+2. **Wilderness complaints and Kadesh crisis** (11–14) — murmuring, spies, catastrophic unbelief, forty-year sentence
+3. **Wilderness legislation and crises** (15–21) — supplementary laws, Korah rebellion, Aaron's rod, red heifer, Meribah, bronze serpent, conquest of Transjordan
+4. **Balaam cycle** (22–24) — Balak's commission, donkey oracle, four oracles including the Star prophecy
+5. **Moab threshold** (25–36) — Baal-Peor apostasy, second census, Zelophehad daughters, feast calendar, vow law, Midian war, Transjordan allocation, journey itinerary, land boundaries, cities of refuge, female inheritance close
+
+---
+
+## CAE CONTAMINATION NODES
+
+### 6:24–26 — *eulogēsai* / *epiphānai* / *eirēnē* — Aaronic Blessing
+
+The Aaronic blessing is the most frequently recited liturgical text from Numbers in both Jewish and Christian worship. The LXX renders:
+
+*Eulogēsai se kyrios kai phylaxai se* = May the Lord bless you and keep you.  
+*Epiphānai kyrios to prosōpon autou epi se kai eleēsai se* = May the Lord make his face shine upon you and be gracious to you.  
+*Epārai kyrios to prosōpon autou epi se kai doiē soi eirēnēn* = May the Lord lift up his face upon you and give you peace.
+
+Key vocabulary:
+
+***eulogēsai*** = may he bless — *eulogeō* = to speak well of, to bless, to invoke blessing upon. Thayer: to bless, to praise, to call down divine favor. The blessing opens the entire Levitical liturgical formula.
+
+***epiphānai* / *epārai* — *prosōpon*** = face — the two face-formulas form the structural center of the blessing. The shining face (*epiphānai* = to shine upon, to appear upon — from *epi* + *phainō* = to shine) and the lifted face (*epārai* = to lift up — from *epairō*). The Lord's face toward Israel is the source of both grace (*eleēsai* = be gracious) and peace (*eirēnē*). The face-vocabulary connects to Moses' face-to-face speech (Exodus 33:11) and to the priestly blessing as the authorized mediation of the divine face-presence to the congregation.
+
+***eirēnē*** = peace — from *eirō* = to join, to connect — the condition of wholeness, connection, and well-being that flows from the divine face being toward rather than against. The final word of the blessing is *eirēnēn* = peace — the comprehensive well-being that is the goal of the entire covenant relationship. John 14:27 — "my peace I give to you" — and Ephesians 2:14 — "he himself is our peace" — both fire on this terminal *eirēnē* of the Aaronic blessing.
+
+**6:27** — "And they will put my name upon the sons of Israel — and I will bless them." The blessing is a name-placing act — the divine name is placed upon the people through the priestly words. The blessing is not merely a wish but an effective speech-act that deposits the divine name.
+
+The engine rendered the three-fold blessing at full liturgical precision — preserving the face-vocabulary, the grace/peace terminal structure, and the name-placing close.
+
+### 11:17 — *apo tou pneumatos* / from the breath-of-life — the Seventy Elders
+
+"I will take from the breath-of-life that is upon you and put it upon them" — *apo tou pneumatos tou ep' soi* = from the breath-of-life that is upon you — the divine breath-of-life distributed from Moses to the seventy elders. This is the first explicit account of the divine *pneuma* being distributed from one person to a plurality for governance/prophetic function.
+
+Joel 2:28 LXX — "I will pour out from my breath-of-life upon all flesh" — *ekcheō apo tou pneumatos mou epi pasan sarka* — fires on this Numbers 11 language directly. The Joel promise is a eschatological generalization of the Numbers 11 partial distribution: what was taken from one (Moses) and given to seventy will be poured out from God himself upon all flesh. Acts 2:17 quotes Joel 2:28 at Pentecost — the chain runs Numbers 11 → Joel 2:28 → Acts 2. The engine preserved "breath-of-life" for *pneuma* throughout chapter 11.
+
+### 12:7–8 — *en holō tō oikō mou pistos estin* / faithful in all my house — Moses unique status
+
+"Not so my servant Moses — in all my house he is faithful. Mouth to mouth I speak with him — and in plain sight and not in riddles — and the form of the Lord he sees."
+
+***pistos*** = faithful, trustworthy — from *pisteuō* = to trust, to believe. LSJ: trustworthy, reliable, faithful. Hebrews 3:2 and 3:5 quote this verse directly: "faithful to the one who made him — as also Moses was faithful in all his house" — and then compares Moses as faithful servant in the house to Christ as faithful son over the house. The *pistos en tō oikō* vocabulary of Numbers 12:7 is the precise ground of the Hebrews 3 Moses/Christ typology. The engine preserved "faithful in all my house."
+
+***stoma kata stoma*** = mouth to mouth — the Hebrew *peh el peh* rendered face-to-face-verbal in the LXX. The *stoma kata stoma* of Moses' prophetic uniqueness is the basis of the Deuteronomy 34:10 declaration: "And there arose no more a prophet in Israel like Moses whom the Lord knew face to face." The engine rendered "mouth to mouth."
+
+### 14:18 — *kyrios makrothymos kai polyeleos* / the Lord patient and very merciful
+
+Moses appeals to the divine character-name proclaimed at Sinai (Exodus 34:6–7) as the ground of his intercession:
+
+"The Lord is patient and very merciful — taking away lawless deeds and unrighteous acts — and not acquitting the guilty — visiting the sins of fathers upon children to the third and fourth generation."
+
+The appeal to the divine character-name as the basis of intercession — *kata to plēthos tou eleous sou* = according to the greatness of your mercy (14:19) — is the paradigm for all subsequent prophetic intercession in the OT. Daniel 9:4–19, Nehemiah 9, and the Psalter's penitential psalms all operate on this Numbers 14 intercession model: appeal to the Lord's own self-declared character as the ground for mercy. The engine preserved the exact vocabulary of the Exodus 34:6–7 name-formula in the Numbers 14 citation.
+
+### 21:8–9 — *ophioun chalkoun* / bronze serpent — John 3:14 anchor
+
+"And the Lord said to Moses: Make for yourself a fiery serpent and put it on a pole — and it will come to pass that everyone who is bitten — when he looks at it he will live. And Moses made a bronze serpent and put it on the pole — and it came to pass that if a serpent bit a man — and he looked at the bronze serpent — he lived."
+
+***ophioun chalkoun*** = bronze serpent — *ophis* = serpent + *chalkous* = bronze/copper. The bronze serpent on the pole is the most explicit OT type of the crucifixion in the Torah. John 3:14–15: "And as Moses lifted up the serpent in the desolate-place — thus must the Son of Man be lifted up — so that everyone who believes in him may have eternal life."
+
+The typological structure: (1) the people sinned — divine judgment came in the form of fiery serpents (2) Moses made a serpent image and lifted it up (3) looking at the lifted serpent brought healing/life — not the serpent itself but the act of looking in trust. The type inverts: Christ on the cross takes the form of the cursed thing (Galatians 3:13 — "a curse for us" — "cursed is everyone who hangs on a tree") and those who look to him in trust live.
+
+The verb *hypsōthēnai* = to be lifted up in John 3:14 and throughout John's gospel (8:28, 12:32, 12:34) is the crucifixion-elevation term — lifted up on the cross as the serpent was lifted up on the pole. The engine rendered *ophioun chalkoun* as "bronze serpent" and "pole" for *sēmeion* (the standard/sign-pole) — tracking the John 3:14 vocabulary.
+
+### 24:17 — *anatelei astron ex Iakōb* / a star will rise from Jacob — Messianic oracle
+
+"I see him — but not now — I behold him — but not near. A star will go out from Jacob — and a scepter will rise from Israel — and will crush the corners of Moab — and break down all the sons of tumult."
+
+***astron*** = star — *aster* = star, a single star. *anatelei* = will rise/go out — from *anatellō* = to rise, to spring up, to come forth (of the sun and stars). Thayer: to cause to rise, to spring up. This is the Star prophecy — the most explicitly royal-messianic oracle in Numbers. The star from Jacob and the scepter from Israel are parallel images of the coming king.
+
+Revelation 22:16 — "I am the root and the offspring of David — the bright morning star" — *ho astēr ho lampros ho prōinos* — fires directly on this Numbers 24:17 vocabulary. Matthew 2:2 — "we saw his star in the east" — the Magi's star-following is a narrative embodiment of the Balaam oracle. 2 Peter 1:19 — "the morning star rises in your hearts" — operates in the same vocabulary field.
+
+The Dead Sea Scrolls (CD 7:18–20 and 1QM 11:6) cite Numbers 24:17 as a key messianic proof-text — the star as the priestly messiah and the scepter as the royal messiah, or in other readings as a single figure combining both. The engine rendered "a star will go out from Jacob" — preserving *anatelei* as the rising/going-out verb.
+
+---
+
+## BLOCK 1 — CHAPTERS 1–8
+
+### 1:2 — *arithmēsate* / number — the census vocabulary
+
+The LXX title *Arithmoi* comes from the *arithmeō* = to number, to count, to take account of — the verb of the two census commands. *Arithmos* = number — LSJ: a fixed number, an exact count. The census is not merely demographic record-keeping — it is the numbering of the fighting force for the conquest. "Everyone who goes out to battle in Israel" — *pas ho ekporeuomenos en tē dynamei* = everyone going out with the force — the census is a military levy.
+
+The Levites are explicitly excluded (1:47–53) from the military census — their counting is separate (chapter 3) because their service is the tabernacle, not the battlefield. The structural distinction between the fighting census and the Levite census establishes the separation of military and cultic service.
+
+### 3:12–13 — *eilēpha tous Leuitas anti pantōn prōtotokōn* / I have taken the Levites instead of every firstborn
+
+"Look — I have taken the Levites from among the sons of Israel instead of every firstborn who opens the womb from the sons of Israel — and the Levites will be mine. For every firstborn is mine."
+
+The Levite-for-firstborn substitution is the theological ground of the Levitical priesthood. The firstborn-redemption principle runs from the Passover (every firstborn of Egypt dies, every firstborn of Israel is sanctified to the Lord) through the firstborn-redemption laws of Exodus 13 into the Levite-substitution of Numbers 3. The Levites serve as the institutional embodiment of Israel's firstborn status — set apart to the Lord as a people.
+
+Hebrews 12:23 — *ekklēsia prōtotokōn* = gathering of firstborns — applies the firstborn vocabulary to the new covenant congregation. The engine preserved "firstborn" for *prōtotokos* throughout — tracking the substitution chain.
+
+### 6:2 — *aparchesthai* / to set apart — Nazirite vow
+
+The Nazirite (*nazoraios* in LXX — from *nazar* = to consecrate, to separate) is the lay equivalent of the priestly consecration — a voluntary intensification of holiness for a set period. Three abstentions define the Nazirite: no wine or grape products, no razor on the head, no contact with the dead. These are the three heightened prohibitions — the wine prohibition matches the priestly prohibition of 10:9, the uncut hair is the visible sign, and the death-avoidance matches the high priest's restriction (21:11).
+
+Samson (Judges 13–16) and Samuel (1 Samuel 1:11) are lifetime Nazirites. John the Baptist's description in Luke 1:15 — "he will drink no wine or strong drink" — places him in the Nazirite category. The Nazirite legislation establishes that holiness is not exclusively institutional but can be voluntarily intensified by any Israelite. The engine rendered "set apart" for the Nazirite consecration vocabulary and preserved "Nazirite" as the proper title.
+
+### 7:89 — *ēkousen tēn phōnēn kyriou laloumenou* / he heard the voice of the Lord speaking
+
+"And when Moses entered the tent of meeting to speak with him — he heard the voice speaking to him from above the mercy-seat which was upon the ark of the testimony — from between the two cherubim — and he spoke to him."
+
+This verse closes the twelve-tribe offering sequence and before it the Levite consecration — and serves as the narrative anchor confirming that the voice of the Lord continues to speak to Moses from the mercy-seat. The *hilastērion* = mercy-seat is the communication point — the place between the cherubim from which the Lord speaks (established at Exodus 25:22). The engine preserved "mercy-seat" and "between the two cherubim" — maintaining the Exodus 25:22 vocabulary.
+
+---
+
+## BLOCK 2 — CHAPTERS 9–16
+
+### 9:15–23 — *nephele* / *pyr* — cloud and fire as divine guidance
+
+The cloud-and-fire pillar from Exodus 13:21–22 now rests upon the completed tabernacle (40:34–38) and governs Israel's movement through the desolate-place. The vocabulary of divine guidance:
+
+***kataskēnoō*** = to settle, to tabernacle upon — the cloud *kataskēnoi* = settles upon the tabernacle. The same verb as John 1:14 *eskēnōsen* = tabernacled among us.
+
+***epairō*** = to lift up — when the cloud was *eparthē* = lifted up — Israel set out. The cloud-lifting is the departure signal.
+
+The cloud-and-fire guidance is absolute and continuous — "by the word of the Lord they camped and by the word of the Lord they set out" (9:23). Human initiative plays no role in the timing of movement. The engine preserved the full guidance vocabulary — *kataskēnoō* / *epairō* / *dia phōnēs kyriou* (by the word of the Lord) — as a coherent system.
+
+### 11:29 — *pantes prophētai* / all would be prophets — Moses' wish
+
+"Are you jealous for my sake? And who will give all the people of the Lord to be prophets — when the Lord gives his breath-of-life upon them?" Moses' wish — *kai tis doiē pantas ton laon kyriou prophētas* = and who would give all the people of the Lord to be prophets — is the precise anticipation of Joel 2:28 and Acts 2. Moses longed for what Pentecost accomplished: the universal distribution of the prophetic *pneuma*. The engine preserved "who will give" (optative of wish) — not the weakened "I wish" — to preserve the unfulfilled-wish register.
+
+### 13–14 — Kadesh crisis vocabulary
+
+**13:33 — *Nephilim*** — "We saw there the Nephilim — the sons of the giant from among the Nephilim — and we were in our own eyes as locusts." The LXX uses *Nephilim* as a transcription and *gigantes* = giants as an interpretation. The same *gigantes* vocabulary as Genesis 6:4. The spy report's inflation of the opposition — "we were as locusts in our own eyes" — is the unbelief-confession that triggers the forty-year sentence. The engine preserved "Nephilim" as the proper designation.
+
+**14:9 — *hē skepē autōn* / their protection departed** — "Their protection has departed from them and the Lord is with us" — *hē skepē* = the covering, the protective shadow — from *skepazō* = to cover, to shelter. The Caleb-Joshua appeal uses the protection/covering vocabulary — the inhabitants of the land have lost their divine covering and Israel has the Lord's covering instead. The engine rendered "protection" for *skepē*.
+
+**14:24 — *pneuma heteron* / another breath-of-life** — "My servant Caleb — because there was another breath-of-life in him" — *pneuma heteron* = a different/other breath-of-life. The *pneuma heteron* in Caleb distinguishes him from the ten fearful spies — he has a different animating disposition. The engine preserved "another breath-of-life" — not "a different spirit" — to maintain the *pneuma* vocabulary chain.
+
+### 16:22 — *theos tōn pneumatōn kai pasēs sarkos* / God of the breath-of-life of all flesh
+
+"O God — the God of the breath-of-life of all flesh" — *theos tōn pneumatōn kai pasēs sarkos* = God of the breath-of-life-ones and of all flesh. This address fires again at 27:16 when Moses asks for a successor. The formula *theos tōn pneumatōn* = God of the breath-of-life — LSJ: of all souls/spirits — identifies the Lord as the sovereign over every *pneuma* / *psychē* in every creature. Hebrews 12:9 — "the Father of breath-of-life-ones" — *patri tōn pneumatōn* — draws on this Numbers formula. The engine rendered "God of the breath-of-life of all flesh" preserving the full formula.
+
+### 16:46–48 — *anamesō tōn tethehnēkotōn kai tōn zōntōn* / between the dead and the living
+
+Aaron running with the censer through the plague — "he stood between the dead and the living — and the plague was stopped" — is one of the most vivid priestly intercession images in the Torah. The atonement smoke of the incense halts the divine judgment mid-plague. The priestly mediator literally stands in the gap between death and life. This is a narrative embodiment of Leviticus 16 atonement theology — the priest's intercession creating a boundary between the consuming divine holiness and the people. The engine preserved "between the dead and the living" at full narrative weight.
+
+---
+
+## BLOCK 3 — CHAPTERS 17–24
+
+### 17:8 — *exeblastēsen* / budded — Aaron's rod
+
+"The staff of Aaron for the house of Levi had budded and put forth buds and blossomed blossoms and ripened almonds" — four stages of growth in one night: *exeblastēsen* (budded) → *anthos* (put forth blossoms) → *exēnthēsen* (blossomed) → *ekarpoforēsen* (bore fruit/ripened almonds). The fourfold botanical sequence in one overnight period is the sign of divine choice — natural processes compressed into a single night-sign.
+
+Hebrews 9:4 references "Aaron's rod that budded" as one of the three ark-contents (with the manna jar and the stone tablets) — the three covenant-sign objects kept in the most holy place. The engine preserved all four Greek botanical verbs at their full resolution.
+
+### 19:2 — *damalis pyrra* / red heifer — purification from death
+
+The red heifer (*damalis pyrra amomos* = an unblemished red heifer) is the *statute of the law* — *touto to dikaīōma tou nomou* = this is the statute of the law — a regulation whose rationale is not given, only commanded. The heifer is burned completely outside the camp — its ashes mixed with running water produce the *hydōr rhantismou* = water of sprinkling/purification — used to cleanse those defiled by contact with the dead.
+
+Hebrews 9:13–14 cites this directly: "if the blood of bulls and goats and the ashes of a heifer sprinkling the defiled sanctifies for the cleanliness of the flesh — how much more will the blood of Christ... cleanse our conscience from dead works." The red heifer ashes are the specific type Hebrews uses for Christ's blood in the conscience-cleansing argument. The engine rendered "water of purification" for *hydōr rhantismou* and preserved the outside-the-camp burning — tracking the Hebrews 13:11–12 ("outside the camp") connection.
+
+### 20:10–12 — *apistia* / unbelief at Meribah — Moses' exclusion
+
+"Because you did not believe me — to sanctify me before the eyes of the sons of Israel — therefore you will not bring this gathering into the land which I give to them."
+
+The judgment on Moses is *ouk episteusate* = you did not believe/trust — the same *pisteuō* vocabulary as the Kadesh crisis of chapter 14 (the generation that "did not believe" — 14:11). The specific act — striking the rock twice and saying "will *we* bring out water" rather than speaking to it as commanded — is the unbelief: appropriating to themselves what belongs to the Lord's word alone, and failing to sanctify (*hagiasai*) the Lord before the people. The engine preserved the *apistia* vocabulary as the ground of the judgment — not merely impulsive behavior but a failure of the *pistis* that Moses uniquely exemplified.
+
+### 20:26 — *ekdysai* / strip the garments — Aaron's death
+
+"Strip Aaron of his garments and put them on Eleazar his son" — *ekdyō* = to strip off, to undress — the transfer of the priestly garments from Aaron to Eleazar is the formal succession act. The garments carry the office — putting them on Eleazar *invests* him with the priesthood. The engine rendered "strip" for *ekdyō* — preserving the investiture-by-divestiture structure.
+
+### 23:19 — *ouch hōs anthrōpos ho theos* / God is not a man — second oracle
+
+"God is not a man that he should lie — nor a son of man that he should repent. Did he say — and will he not do? Or speak — and will he not fulfill?"
+
+***ouch hōs anthrōpos ho theos*** = not as a man is God — the divine immutability statement in the Balaam oracles. *Pseudasasthai* = to lie, to speak falsely. *Metanooō* = to change mind/repent. God's word-and-deed correspondence is absolute — unlike human speech which can fail its promises. 1 Samuel 15:29 repeats this formula. The NT application: Hebrews 6:18 — "it is impossible for God to lie" — *adynaton pseudasasthai ton theon* — grounds in this Numbers 23:19 declaration. The engine rendered "God is not a man that he should lie" at full precision.
+
+---
+
+## BLOCK 4 — CHAPTERS 25–32
+
+### 25:11–13 — *zēlōsas ton zēlon mou* / zealous with my zeal — Phinehas covenant
+
+"Phinehas the son of Eleazar the son of Aaron the priest has turned back my wrath from the sons of Israel — in being zealous with my zeal among them."
+
+***zēlos*** = zeal, burning devotion — *zēloō* = to be zealous, to burn with devotion. The Lord's zeal (*ton zēlon mou* = my zeal) is the divine attribute that Phinehas embodied — the jealous/zealous commitment to covenant exclusivity. Psalm 106:30–31 celebrates Phinehas — "Phinehas stood and interceded — and the plague was stopped — and it was reckoned to him as righteousness." The *ellogizomai eis dikaiosynēn* = reckoned as righteousness formula of Psalm 106:31 parallels Genesis 15:6 (Abraham) and Romans 4 — zeal for covenant fidelity reckoned as righteousness. The engine preserved "zealous with my zeal" — the double *zēlos* formula — not the weakened "showed zeal."
+
+### 27:16–17 — *theos tōn pneumatōn* / shepherd leadership request
+
+Moses' successor request uses both the *theos tōn pneumatōn* formula (16:22 echo) and the shepherd imagery: "so that the gathering of the Lord will not be as sheep that have no shepherd." *Hōsei probata hois ouk estin poimēn* = as sheep for whom there is no shepherd — the precise phrase repeated in Matthew 9:36 when Jesus sees the crowds and has compassion: "as sheep having no shepherd." The engine preserved the shepherd-less-sheep formula — tracking the Matthew 9:36 citation.
+
+### 27:18 — *pneuma estin en autō* / breath-of-life is in him — Joshua commissioned
+
+"Take Joshua the son of Nun — a man in whom is breath-of-life — and lay your hand upon him." *Anthrōpon hos echei pneuma en heautō* = a man who has breath-of-life in himself — the same *pneuma* criterion used for Bezalel (Exodus 31:3) and the seventy elders (Numbers 11:17). Leadership requires the divine *pneuma*. The engine rendered "a man in whom is breath-of-life" — not "a man of spirit" — preserving the *pneuma* chain.
+
+---
+
+## BLOCK 5 — CHAPTERS 33–36
+
+### 35:11–29 — *polis tēs katalyseōs* / city of refuge — *apolytrōsis* architecture
+
+The cities of refuge (*poleis tēs katalyseōs* = cities of settlement/refuge — *katalysis* = a lodging-place, a place to stop) are the legal embodiment of the *lytrōō* = ransom-release vocabulary. The manslayer who kills unintentionally flees to the city of refuge — there he is safe from the blood-avenger (*agchisteus tou haimatos* = nearest-of-blood avenger) until the death of the high priest.
+
+The high priest's death releases the manslayer — the death of the chief mediator-intercessor creates a general amnesty. The typological reading in Hebrews applies this directly: Christ as high priest whose death releases all who have fled to him for refuge. Hebrews 6:18 — "we who fled for refuge to lay hold of the hope set before us" — *kataphygontes kratēsai tēs prokeimenēs elpidos* — uses the city-of-refuge *kataphygē* = flight-for-refuge vocabulary. The engine rendered "city of refuge" for *polis katalyseōs* and "blood-avenger" for *agchisteus tou haimatos* — preserving the redemption-right vocabulary.
+
+**35:33 — *ouk exilasthēsetai hē gē* / the land cannot be atoned** — "Blood defiles the land — and the land cannot be atoned for the blood shed in it except by the blood of the one who shed it." The land-blood-atonement formula is the theological ground of capital justice. *Exilaskomai* = to make atonement fires in a non-cultic context — the atonement for blood-guilt is not sacrificial but retributive. The engine rendered "the land cannot be atoned" — preserving the *exilaskomai* atonement vocabulary in the criminal-justice context.
+
+---
+
+## INSTITUTIONAL VOCABULARY — NUMBERS FREQUENCY ANALYSIS
+
+### *Pneuma* — breath-of-life — 18 occurrences
+
+Numbers has the highest concentration of *pneuma* in leadership and governance contexts in the Torah. The chain: the Spirit upon Moses (11:17) → the seventy elders (11:25) → Caleb's *pneuma heteron* (14:24) → Moses' successor criterion (27:18) → the *theos tōn pneumatōn* formula (16:22, 27:16). The engine rendered *pneuma* as "breath-of-life" throughout — tracking the Joel 2:28 → Acts 2 chain.
+
+### *Lytrōō* / *apolytrōsis* — ransom-release — 8 occurrences
+
+The ransom-release vocabulary fires in: firstborn redemption (3:46–51), the five-shekel head redemption (18:15–16), and the cities-of-refuge release structure (chapter 35). The engine rendered *lytrōō* as "ransom-release" throughout.
+
+### *Prophētēs* — prophet — 7 occurrences
+
+Numbers establishes the prophetic typology vocabulary: Moses as the unique prophet (12:6–8), the seventy elders prophesying (11:25–26), Eldad and Medad prophesying in the camp (11:26–29), Moses' wish for all-Israel prophecy (11:29), Balaam as a non-Israelite prophetic voice (22–24). The engine rendered *prophētēs* as "prophet" throughout — noting the Moses-as-unique-prophet distinction at 12:7–8.
+
+### *Dikaīōma* — statute/ordinance — 24 occurrences
+
+Numbers uses *dikaīōma* = statute, righteous requirement — more than any other Torah book. The red heifer is explicitly called *touto to dikaīōma tou nomou* = this is the statute of the law (19:2) — the statute whose rationale is not given. The engine rendered *dikaīōma* as "statute" in legal contexts — not "righteous act" or "decree" — preserving the legislative register.
+
+---
+
+## BALAAM ORACLE VOCABULARY — CHAPTERS 22–24
+
+The four Balaam oracles are among the most poetically elevated passages in the LXX Pentateuch. Key vocabulary decisions:
+
+**Oracle 1 (23:7–10)** — *epikatarasasthai* = to curse — the reverse of *eulogeō* = to bless. Balak's commission is to *kataraomai* = curse Israel but Balaam can only *eulogeō* = bless. The blessing/cursing vocabulary runs from Genesis 12:3 (I will bless those who bless you and curse those who curse you) through Numbers 23–24 into Galatians 3:8–9 (scripture blessing Abraham and in him all nations).
+
+**Oracle 2 (23:18–24)** — *ouch hōs anthrōpos ho theos* = God is not a man (see CAE section above). The immutability declaration is the theological center of the second oracle.
+
+**Oracle 3 (24:3–9)** — *tōn idontōn* = of those who see — the seeing oracle. Balaam as one who sees (*blepōn* = seeing one) what others cannot. *Pneuma theion* = divine breath-of-life comes upon him (24:2) — the same *pneuma theou* as Genesis 1:2 and Exodus 31:3. The engine rendered "breath-of-life of God came upon him."
+
+**Oracle 4 (24:15–24)** — the Star oracle. *Anatelei astron ex Iakōb* = a star will rise from Jacob. See CAE section above for full treatment.
+
+**24:9 — Abrahamic formula echo** — "Blessed is everyone who blesses you — and cursed is everyone who curses you" — exact echo of Genesis 12:3 applied to Israel as a nation. The Abrahamic blessing-cursing formula now governs how the nations relate to Israel. The engine tracked the Genesis 12:3 verbal echo.
+
+---
+
+## DIVINE NAME ARCHITECTURE — NUMBERS
+
+Numbers continues the *egō kyrios* = I am the Lord formula from Leviticus but adds the distinctive *zō egō* = as I live formula at 14:21 and 14:28 — the divine oath-formula where the Lord swears by his own existence. *Zō egō* = as I live — the Lord's life as the ground of his oath, since there is nothing greater by which he can swear (Hebrews 6:13 — "since he had no one greater by whom to swear he swore by himself"). The engine preserved "as I live — says the Lord" at both occurrences — not the weakened "I solemnly declare."
+
+The *kyrios* formula also appears in the Aaronic blessing (6:24–26) as the triple-invocation of the divine name — each of the three blessing lines begins with *kyrios*. The three-fold *kyrios* is not merely repetition but progressive intensification: blessing-and-keeping → face-shining-and-grace → face-lifting-and-peace. The engine rendered all three invocations at full weight.
+
+---
+
+## HEBREWS AND NT TYPOLOGY CHAIN — NUMBERS
+
+**Num 12:7** — Moses faithful in all his house → **Hebrews 3:2, 3:5** (Moses/Christ faithfulness comparison)  
+**Num 14:18** — Great Name intercession appeal → **Hebrews 6:18** (immutability of divine character)  
+**Num 17:8** — Aaron's budding rod → **Hebrews 9:4** (ark contents)  
+**Num 19:2–9** — Red heifer ashes → **Hebrews 9:13–14** (conscience cleansing type)  
+**Num 21:8–9** — Bronze serpent lifted up → **John 3:14–15** (Son of Man lifted up)  
+**Num 24:17** — Star from Jacob → **Rev 22:16**, **Matt 2:2** (messianic star)  
+**Num 27:17** — Sheep without shepherd → **Matt 9:36** (Jesus sees crowds)  
+**Num 35:25** — Manslayer in city of refuge until high priest dies → **Hebrews 6:18** (flee for refuge to the hope set before us)  
+**Num 6:24–26** — Aaronic blessing → **2 Cor 13:14** (apostolic blessing), **Heb 7:7** (lesser blessed by greater)
+
+---
+
+## DRIFT ELIMINATION SUMMARY — NUMBERS
+
+**"Spirit" for *pneuma* in governance/leadership contexts** — Numbers 11 (seventy elders), 14:24 (Caleb), 27:18 (Joshua) all face pressure toward "Spirit of God" with Trinitarian capitalization. The engine preserved "breath-of-life" throughout — maintaining the *pneuma* as the animating divine power whose distribution and withdrawal governs prophetic and leadership capacity.
+
+**"Repent" for *metanoeō* at 23:19** — "God is not a man that he should repent" faces pressure toward "change his mind" (NIV, ESV mg.) or "relent" — both of which understate the *metanoeō* vocabulary. The engine rendered "repent" — preserving the exact term whose negation establishes divine immutability.
+
+**"Spirit" for *pneuma heteron* at 14:24** — "Another spirit was in him" flattens the *heteron* = different/other into a generic spiritual descriptor. The engine rendered "another breath-of-life" — preserving the contrast with the ten fearful spies who lacked the *pneuma* that drove Caleb.
+
+**"Scapegoat" retroinjection** — Numbers 5 (bitter water ordeal) and Numbers 19 (red heifer) both face retroinjection of Leviticus 16 scapegoat vocabulary. The engine maintained each ritual's own vocabulary without harmonizing.
+
+**"Prophet" weakening at 12:6–8** — The contrast between the *prophētēs* who receives visions and dreams and Moses who speaks mouth-to-mouth faces pressure toward equalizing the distinction. The engine preserved the full *ouch hōs allois prophētais* = not as with other prophets contrast at 12:7.
+
+**"Curse" softening for *kataraomai*** — Balak's commission to Balaam faces pressure toward "denounce" or "call down harm on" — both weaker than *kataraomai* = to curse, to invoke the divine curse formula against. The engine rendered "curse" throughout — preserving the blessing/cursing polarity at full weight.
+
+---
+
+*GLE v2.1 | Rahlfs-Hanhart LXX base | Numbers complete*  
+*Notes document produced as single consolidated pass per protocol*
 
 
