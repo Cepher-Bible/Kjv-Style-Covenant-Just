@@ -1014,3 +1014,284 @@
 \v 7 And your sons whom you will produce — they will take them away and they will be eunuchs in the house of the king of Babylon.
 \v 8 And Hezekiah said to Isaiah: The word of the Lord which you spoke is good — and he said: Let peace and righteousness be in my days.
 
+\c 40
+\p
+\v 1 Comfort comfort my people says God.
+\v 2 Speak O priests to the heart of Jerusalem — comfort her — because her humiliation is filled up — her sin is released — for she received from the hand of the Lord double for her sins.
+\p
+\v 3 A voice crying in the desolate-place: Prepare the road of the Lord — make straight the paths of our God.
+\v 4 Every ravine will be filled and every mountain and hill will be made low — and all the crooked places will become straight and the rough places smooth plains.
+\v 5 And the glory of the Lord will be revealed and all flesh will see the salvation of God — for the Lord has spoken.
+\p
+\v 6 A voice saying: Cry out. And I said: What shall I cry out? All flesh is grass and all the glory of man as the flower of grass.
+\v 7 The grass withered and the flower fell — but the word of our God remains into the age.
+\v 8 Go up upon a high mountain you who bring good-news to Zion — lift up your voice with strength you who bring good-news to Jerusalem — lift it up do not fear — say to the cities of Judah: Look — your God.
+\v 9 Look — the Lord God comes with strength and his arm with lordship — look — his wages are with him and his work before him.
+\v 10 As a shepherd he will feed his flock and with his arm he will gather the lambs and will carry them in his bosom and will gently lead those who are with young.
+\p
+\v 11 Who measured the water in his hand and the heaven with a span and all the earth with a fist — who weighed the mountains in scales and the forests in a balance?
+\v 12 Who knew the mind of the Lord — and who became his counselor who will instruct him?
+\v 13 Or with whom did he take counsel and who instructed him — or who showed him the way of judgment — or who taught him knowledge and showed him the way of understanding?
+\p
+\v 14 Because all the nations are as a drop from a bucket and as the turning of a scale they were counted — and as spittle they will be counted.
+\v 15 And Lebanon is not sufficient for burning and all the four-footed animals not sufficient for a whole-burnt offering —
+\v 16 and all the nations are as nothing and counted as nothing.
+\p
+\v 17 To whom did you liken the Lord and to what likeness did you compare him?
+\v 18 Did a craftsman make a carved image — or a goldsmith who cast gold and overlaid it with silver — a silversmith?
+\v 19 For one who is poor for such an offering selects incorruptible wood — a wise craftsman seeks for himself to prepare a carved image that will not be shaken.
+\p
+\v 20 Do you not know — did you not hear — was it not announced to you from the beginning — did you not know the foundations of the earth?
+\v 21 It is he who holds the circle of the earth and those dwelling in it are as grasshoppers — he who stretched out the heaven as a vault and spread it as a tent to dwell in.
+\v 22 He who appoints rulers to rule as nothing — and made the earth as nothing.
+\v 23 For they will not plant nor will they sow — nor will their root take in the earth — he blew upon them and they withered and a whirlwind will take them as stubble.
+\p
+\v 24 And now to whom did you liken me and I will be exalted? says the Holy One.
+\v 25 Lift up your eyes on high and see — who displayed all these things? He who brings out their host by number and calls them all by name — from great glory and in the power of his strength — nothing escaped you.
+\p
+\v 26 For why did you say O Jacob and why did you speak O Israel: My way is hidden from God and my God removed my judgment and departed?
+\v 27 And now did you not know — did you not hear — the eternal God the God who formed the ends of the earth will not hunger nor be weary nor is there any searching of his understanding.
+\v 28 He gives strength to the hungry and grief to those who do not suffer.
+\v 29 For young men will hunger and be weary and chosen men will be powerless —
+\v 30 but those who wait upon God will renew their strength — they will grow wings as eagles — they will run and not be weary — they will walk and not hunger.
+
+\c 41
+\p
+\v 1 Be renewed before me O islands — for the rulers will renew their strength — let them draw near and speak together — then let them declare judgment.
+\v 2 Who raised up righteousness from the east — called it to his feet — and it will go before him — and he will set kings before him and will lead rulers as clay and as a potter treading clay?
+\v 3 He will pursue them and pass through in peace — he will not go on a path with his feet.
+\v 4 Who worked and did these things — calling generations from the beginning? I God — the first and into the things coming — I am.
+\p
+\v 5 The islands saw and feared — the ends of the earth drew near and came together —
+\v 6 each judging his neighbor and his brother saying: Be strong.
+\v 7 The craftsman encouraged the goldsmith and the one who smooths with the hammer encouraged the one who beats on the anvil saying: The joint is good — and they fastened them with nails — they will not be shaken.
+\p
+\v 8 But you Israel my servant — Jacob whom I chose — the seed of Abraham whom I loved —
+\v 9 whom I seized from the ends of the earth and from its high places I called you and said to you: You are my servant — I chose you and did not abandon you.
+\v 10 Do not fear — for I am with you — do not wander — for I am your God who strengthened you and helped you and established you with my righteous right hand.
+\v 11 Look — all who are opposed to you will be put to shame and disgraced — and those who contend with you will be as nothing and will perish.
+\v 12 You will seek them and not find them — those who fight you — they will be as nothing and those who wage war against you will be as nothing.
+\v 13 For I am your God who takes hold of your right hand — who says to you: Do not fear — I helped you.
+\v 14 Do not fear O Jacob little worm — and O Israel — I helped you says the Lord who redeems you — the Holy One of Israel.
+\v 15 Look — I made you as wheels of a new threshing-sledge with double-edged teeth — and you will thresh the mountains and crush them and make the hills as chaff.
+\v 16 And you will winnow them and the wind will take them away and a whirlwind will scatter them — but you will rejoice in the holy ones of Israel and be glad.
+\p
+\v 17 And the poor and the needy will rejoice — for they will seek water and there is none — their tongue was dried up from thirst. I the Lord God will hear them — I the God of Israel will not abandon them.
+\v 18 But I will open rivers upon the mountains and springs in the midst of plains — I will make the desolate-place into pools of water and the thirsty land into water-channels.
+\v 19 I will plant in the waterless land cedar and box-tree and myrtle and cypress and white poplar.
+\v 20 So that they may see and know and consider and understand together that the hand of the Lord did these things and the Holy One of Israel displayed them.
+\p
+\v 21 Your judgment draws near says the Lord God — your counsels draw near says the king of Jacob.
+\v 22 Let them draw near and tell you what things will happen — or tell us what was before — and we will set our heart and we will know what are the last things and tell us the things coming.
+\v 23 Tell us the coming things toward the end — and we will know that you are gods — do good and do evil and we will wonder and see together.
+\v 24 For you are from where — and your work from the earth — an abomination chose you.
+\p
+\v 25 But I stirred up from the north and he will come — from the rising of the sun those who call upon my name — and they will come as potters and as a potter treading clay.
+\v 26 For who declared from the beginning so that we might know — and from before so that we might say: He is righteous? There is none who declares nor who hears your words.
+\v 27 I will give the leading-rule to Zion and I will comfort Jerusalem on the road.
+\v 28 For from the nations — who is there — and from their idols who will answer? And no one announced nor did anyone hear your words.
+
+\c 42
+\p
+\v 1 Jacob is my servant — I will help him — Israel my chosen one — my soul received him — I gave my breath-of-life upon him — he will bring forth judgment to the nations.
+\v 2 He will not cry out nor lift up — his voice will not be heard outside.
+\v 3 A bruised reed he will not break and a smoking flax he will not quench — but he will bring forth judgment in truth.
+\v 4 He will shine out and not be crushed until he sets judgment upon the earth — and in his name nations will hope.
+\p
+\v 5 Thus says the Lord God who made the heaven and fastened it — who established the earth and the things in it and gives breath to the people upon it and breath-of-life to those who walk upon it:
+\v 6 I the Lord God called you in righteousness and will hold your hand and strengthen you — and I gave you as a covenant of a race as a light of nations —
+\v 7 to open the eyes of the blind — to bring out prisoners from bonds and those who sit in darkness from a prison-house.
+\v 8 I am the Lord God — this is my name — my glory I will not give to another nor my virtues to carved-images.
+\v 9 The things from the beginning — look they came to pass and new things I am announcing to you — before they spring up I will make them known to you.
+\p
+\v 10 Sing to the Lord a new song — you who rule and his praise from the end of the earth — those who go down into the sea and sail it — the islands and those who dwell in them.
+\v 11 Be glad O desolate-place and its villages — the settlements and those who dwell in Kedar — those who dwell in the rocks will rejoice — from the tops of mountains they will cry aloud.
+\v 12 They will give glory to God and in the islands they will declare his virtues.
+\v 13 The Lord God of hosts will go out and crush the war — he will stir up jealousy and will shout against his enemies with strength.
+\p
+\v 14 I was silent — shall I always be silent and endure? I endured as a woman in labor — I will be amazed and dry up and devour together.
+\v 15 I will make desolate mountains and hills and all their grass I will dry up — and I will make rivers into islands and dry up the pools.
+\v 16 And I will lead the blind on a road which they did not know — and paths which they did not know I will cause them to walk — I will make darkness into light before them and crooked things into straight — these things I will do and I will not abandon them.
+\v 17 But they turned back — be put to shame with shame — those who trust in carved-images — who say to molten-castings: You are our gods.
+\p
+\v 18 Hear you deaf and look you blind to see.
+\v 19 And who is blind except my servants and deaf except those who rule over them — and the servants of God were made blind.
+\v 20 You have often seen and not kept — your ears were opened and you did not hear.
+\v 21 The Lord God was pleased for his righteousness' sake and will magnify his praise.
+\v 22 And I saw — and the people were plundered and scattered and a snare in the storehouses everywhere — and in the houses of captivity they were led captive — there was no one to rescue — and they were plundered — and there was no one who said: Give back.
+\p
+\v 23 Who among you will give ear to these things — and will hear and give heed for the coming things?
+\v 24 Who gave Jacob for plundering and Israel to those who despoiled him — was it not God against whom they sinned — and they were not willing to walk in his ways and did not hear his law?
+\v 25 And he brought upon them the wrath of his anger — and the war crushed them on every side — and those who set them on fire round about did not know — and it was kindled against them but they did not understand with their heart.
+
+\c 43
+\p
+\v 1 And now thus says the Lord God who made you O Jacob and who formed you O Israel: Do not fear — for I ransomed-released you — I called you by your name — you are mine.
+\v 2 And if you pass through water I am with you — and the rivers will not overflow you — and if you go through fire you will not be burned — and the flame will not consume you.
+\v 3 For I am the Lord your God — the Holy One of Israel — the one who saves you — I gave Egypt as your ransom-release and Ethiopia and Soene in your place.
+\v 4 Since you became precious before me you were glorified and I loved you — and I will give men in your place and rulers in exchange for your life.
+\v 5 Do not fear — for I am with you — I will bring your seed from the east and I will gather you from the west.
+\v 6 I will say to the north: Bring — and to the south: Do not prevent — bring my sons from far off and my daughters from the ends of the earth —
+\v 7 all who are called by my name — for in my glory I prepared him and formed him and made him.
+\p
+\v 8 And I brought out the blind people and they have eyes and deaf ones and they have ears.
+\v 9 All the nations were gathered together and rulers will be gathered from them — who will announce these things among them — and who will announce to you things from the beginning? Let them bring their witnesses and be declared-righteous — and let them hear and say: These things are true.
+\v 10 Be my witnesses and I also am a witness says the Lord God — and my servant whom I chose — so that you may know and trust and understand that I am. Before me there was no other God and after me there will be none.
+\v 11 I am God and there is no savior except me.
+\v 12 I announced and saved and reproached and there was no alien god among you — you are my witnesses and I am the Lord God.
+\v 13 And from the beginning I am — and there is no one who takes out of my hands — I will work and who will turn it back?
+\p
+\v 14 Thus says the Lord God who ransomed-released you the Holy One of Israel: For your sake I sent to Babylon and I will rouse up all who are fleeing — and the Chaldeans will be bound on ships.
+\v 15 I am the Lord your God the Holy One of Israel who made Babylon a prisoner for you.
+\v 16 Thus says the Lord who made a road in the sea and a path in strong water —
+\v 17 who brought out chariots and horses and a great force — and they lay down and did not rise — they were extinguished as flax quenched.
+\v 18 Do not remember the former things and do not consider the ancient things.
+\v 19 Look — I am doing new things which will now spring up — and you will know them — I will make a road in the desolate-place and rivers in the waterless land.
+\v 20 The wild-animals of the open-field will bless me — sirens and daughters of ostriches — because I gave water in the desolate-place and rivers in the waterless land to give drink to my chosen race —
+\v 21 my people whom I acquired to declare my virtues.
+\p
+\v 22 And you did not call upon me O Jacob — but you were weary of me O Israel.
+\v 23 You did not bring me the sheep of your whole-burnt offerings — and with your sacrifices you did not glorify me — I did not make you serve with gift-offerings nor did I weary you with frankincense.
+\v 24 You did not buy me sweet calamus with silver — and the fat of your sacrifices you did not desire — but you set me to serve in your sins and to be weary in your lawless deeds.
+\v 25 I am I — the one who wipes out your lawless deeds for my own sake — and your sins I will not remember.
+\v 26 But you — remind me and let us be judged together — declare your lawless deeds first so that you may be declared-righteous.
+\v 27 Your fathers first sinned and your rulers acted lawlessly against me —
+\v 28 and the rulers defiled my holy things — and I gave Jacob into destruction and Israel into reviling.
+
+\c 44
+\p
+\v 1 But now hear O Jacob my servant and O Israel whom I chose —
+\v 2 thus says the Lord God who made you and who formed you from the womb — you will still be helped. Do not fear O Jacob my servant and O beloved Israel whom I chose.
+\v 3 For I will give water to the thirsty who walk in a waterless land — I will put my breath-of-life upon your seed and my blessings upon your children —
+\v 4 and they will spring up as grass in the midst of water and as willows beside running water.
+\v 5 This one will say: I am God's — and another will call upon the name of Jacob — and another will write with his hand: I am God's — and will be named with the name of Israel.
+\p
+\v 6 Thus says God the king of Israel and the God who ransomed-released him — the Lord Almighty: I am first and I am after these things — and besides me there is no God.
+\v 7 Who is like me? Let him stand and call and declare and prepare for me — since I appointed the ancient people — and the things coming let them tell before they come.
+\v 8 Do not be hidden and do not go astray — have you not heard from the beginning and I declared to you — you are my witnesses — whether there is a God besides me — but there was not then and there will not be.
+\p
+\v 9 All who fashion idols are empty — and those who desire them are useless — those who bear witness for them neither see nor know — so that they will be put to shame.
+\v 10 Who fashioned a god or cast a carved-image which is unprofitable for nothing?
+\v 11 Look — all the partakers will be put to shame — for the craftsmen are men from men — and let them all stand together and fear and be put to shame.
+\v 12 For the craftsman sharpened iron and worked it with an axe and bored it with a drill — he worked it with the strength of his arm and hungered and had no strength — and he drank no water and was wearied.
+\v 13 The craftsman chose wood and measured it with a rule and fashioned it with glue and made it as the form of a man and as the beauty of a man to set it up in a house.
+\v 14 He cut wood from the forest which the Lord planted — a pine-tree and the rain made it great —
+\v 15 so that it becomes for men for burning — and taking from it they were warmed — and burning it they baked bread upon it — and from the remainder they made gods and bowed down to them.
+\v 16 Half of it he burned in fire — and upon the half of it he cooked flesh and ate — and was satisfied — and having been warmed he said: I am warm — I saw fire.
+\v 17 And from the remainder he made a carved god — and bows down to it and prays saying: Rescue me — for you are my god.
+\v 18 They did not know to think — for they were covered over so as not to see with their eyes and to understand with their heart.
+\v 19 And he did not consider in his mind — for he had not the strength of knowledge to think: Half of it I burned in fire and I baked bread upon its coals and cooked flesh and ate — and from the remainder of it shall I make an abomination — shall I bow down to a dry piece of wood?
+\v 20 Know that their heart is ashes and they are led astray and no one is able to rescue his soul — see — you will not say: There is a lie in my right hand.
+\p
+\v 21 Remember these things O Jacob and O Israel — for you are my servant — I formed you to be my servant — and O Israel do not forget me.
+\v 22 For look — I removed your lawless deeds as a cloud and your sins as darkness — return to me and I will ransom-release you.
+\v 23 Be glad O heavens — for God had mercy on Israel — sound trumpets O foundations of the earth — cry out O mountains with gladness — the hills and all the trees in them — for God ransomed-released Jacob and Israel will be glorified.
+\p
+\v 24 Thus says the Lord who ransomed-released you and who formed you from the womb: I am the Lord who completes all things — I stretched out the heaven alone and established the earth — who is with me?
+\v 25 Scattering the signs of those who speak from the belly and the divinations of the heart — turning the wise backward and making their counsel foolishness —
+\v 26 and establishing the word of his servant and confirming the counsel of his messengers — who says to Jerusalem: You will be inhabited — and to the cities of Judah: You will be built — and her desolate places I will raise up.
+\v 27 Who says to the deep: Be made desolate — and I will dry up your rivers.
+\v 28 Who says to Cyrus: Be prudent — and he will fulfill all my will — who says to Jerusalem: You will be built — and I will lay the foundation of my holy house.
+
+\c 45
+\p
+\v 1 Thus says the Lord God to my anointed Cyrus — whose right hand I held so that nations might hear before him — and I will break the strength of kings — I will open doors before him and cities will not be closed:
+\v 2 I will go before you and I will level mountains — I will shatter bronze doors and break iron bars.
+\v 3 And I will give you dark treasures hidden invisible — so that you may know that I am the Lord God who calls your name — the God of Israel.
+\v 4 For the sake of my servant Jacob and Israel my chosen — I will call you by your name and receive you — but you did not know me.
+\v 5 For I am the Lord God and there is no other God besides me — I girded you and you did not know me —
+\v 6 so that those from the rising of the sun and those from the west may know that there is no God except me — I am the Lord God and there is no other.
+\v 7 I am the one who prepared light and made darkness — who makes peace and creates evils — I am the Lord God who does all these things.
+\p
+\v 8 Let the heaven above rejoice and let the clouds rain righteousness — let the earth spring up and blossom with mercy — and let righteousness spring up together — I the Lord created them.
+\p
+\v 9 What excellence — a man who contends with his maker — a potsherd from the potsherds of the earth. Shall the clay say to the potter: What are you making — or your work has no hands?
+\v 10 Who answered in such a way to his father: What will you beget? And to his mother: What are you giving birth to?
+\v 11 For thus says the Lord God — the Holy One of Israel — who made the things coming: Ask me concerning my sons and concerning the works of my hands give orders to me.
+\v 12 I made the earth and man upon it — I with my hand established the heaven — I gave orders to all the stars.
+\v 13 I raised him up with righteousness as a king and all his roads are straight — he will build my city and will turn back the captivity of my people — not for ransoms nor for gifts says the Lord Almighty.
+\p
+\v 14 Thus says the Lord Almighty: Egypt labored for you and the trading of Ethiopia and the tall men of Sabaeans will cross over to you and will be your servants — and they will walk behind you bound in chains — and they will bow down to you and will pray to you: Because God is in you — and there is no God except you.
+\v 15 For you are God and we did not know it — the God of Israel the savior.
+\v 16 All who oppose him will be ashamed and disgraced — and they will walk in disgrace — those who fashion carved-images.
+\p
+\v 17 Israel is saved by the Lord with an everlasting salvation — they will not be put to shame nor disgraced into all the ages.
+\p
+\v 18 Thus says the Lord who made the heaven — this God who displayed the earth and made it — he himself divided it — he did not make it in vain but formed it to be inhabited: I am and there is no other.
+\v 19 I did not speak in secret nor in a dark place of the earth — I did not say to the seed of Jacob: Seek what is empty — I am the Lord who speaks righteousness and declares truth.
+\p
+\v 20 Gather and come — take counsel together you who are being saved from the nations — those who carry wood carved-images did not know and those who pray to gods that do not save.
+\v 21 If they declare let them draw near so that they may know together who made these things heard from the beginning — then it was declared to you — is there a God besides me? There is no other righteous and saving god except me.
+\p
+\v 22 Turn to me and you will be saved you from the ends of the earth — I am God and there is no other.
+\v 23 By myself I swear — righteousness will certainly go out from my mouth — my words will not be turned back — because to me every knee will bow and every tongue will acknowledge God —
+\v 24 saying: Righteousness and glory will come to him — and all who separate themselves will be put to shame.
+\v 25 From the Lord they will be declared-righteous and in God will all the seed of the sons of Israel be glorified.
+
+\c 46
+\p
+\v 1 Bel fell — Nebo was crushed — their carved-images became wild-animals and cattle — you take them loaded as a burden for a weary man —
+\v 2 they were hungry and weary at the same time — unable to be saved from war — but they themselves were led away captive.
+\p
+\v 3 Hear me O house of Jacob and all the remnant of Israel — who are being carried from the womb and being taught from youth —
+\v 4 until old age I am the same and until you grow old I am the one who bears you — I made and I will carry and I will take up and I will save you.
+\v 5 To whom did you liken me and make me equal — and compare me so that I am like you?
+\v 6 Some have gold from a purse and silver on a scale — and they will weigh it and hire a goldsmith and making carved-images they bow down and pray to them.
+\v 7 They carry it upon the shoulder and travel — and if they set it down in its place it remains — it will not move at all — and whoever cries out to it will not hear — he will not save him from evil.
+\p
+\v 8 Remember these things and groan — repent you who have gone astray — return in your heart —
+\v 9 and remember the former things that were from the beginning — for I am God and there is no other beside me —
+\v 10 announcing from the beginning the last things and from before the things that have not yet happened — and I say: My counsel will stand and I will do all my will —
+\v 11 calling a bird from the east and from a far land the things at which I counseled — I spoke and I will bring it — I formed and I will do it.
+\v 12 Hear me you who have lost heart and who are far from righteousness.
+\v 13 I brought near my righteousness and I will not be far off — and my salvation — I will not be slow. I have given salvation in Zion to Israel for glory.
+
+\c 47
+\p
+\v 1 Come down sit upon the ground O virgin daughter of Babylon — sit upon the ground O daughter of the Chaldeans — for you will no longer be called tender and delicate.
+\v 2 Take a millstone and grind flour — uncover your veil — bare your grey hair — bare your legs — cross the rivers.
+\v 3 Your shame will be uncovered and your disgrace will appear — I will take justice from you and I will no longer give you over to men.
+\v 4 The one who ransomed-released us — the Lord Almighty is his name — the Holy One of Israel.
+\p
+\v 5 Sit down grieved — go into darkness O daughter of the Chaldeans — for you will no longer be called the strength of a kingdom.
+\v 6 I was angered against my people — you defiled my inheritance — I gave them into your hand but you did not show them mercy — of the elder you made your yoke very heavy.
+\v 7 And you said: Into the age I will be a ruler — you did not take these things to your heart nor remember the last things.
+\p
+\v 8 And now hear these things O delicate one who sits and trusts saying in her heart: I am and there is no other — I will not sit as a widow nor will I know bereavement.
+\v 9 And now these two things will come upon you suddenly in one day — bereavement and widowhood will come upon you suddenly in your sorcery and in the strength of your charms greatly.
+\v 10 For you trusted in your evil and said: I am and there is no other. Know that the understanding of it and your harlotry will be your shame — and you said in your heart: I am and there is no other.
+\v 11 And destruction will come upon you and you will not know the pit — and a well will fall upon you and you will not be able to be purified — and destruction will come upon you suddenly which you do not know.
+\v 12 Stand now with your charms and with your many sorceries in which you labored from your youth — if you can be helped.
+\v 13 You grew weary in your counsels — let them stand and save you — those who observe the heaven — those who see the stars — tell you what is about to come upon you.
+\v 14 Look — they all became as sticks of wood — fire will burn them — and they will not save their soul from the flame — for you have burning coals of fire — sit upon them.
+\v 15 These will be your help — you grew weary in your trading from your youth — each wandered to his own way — there will be no salvation for you.
+
+\c 48
+\p
+\v 1 Hear these things O house of Jacob those who are called by the name of Israel — and who came out of Judah — who swear by the name of the Lord God of Israel — calling to mind not in truth nor in righteousness —
+\v 2 and who call themselves from the holy city and rely upon the God of Israel — the Lord Almighty is his name.
+\v 3 The former things I declared to you from the beginning — and they went forth from my mouth and they became audible — I did them suddenly and they came to pass.
+\v 4 I know that you are hard and your neck is an iron sinew and your forehead bronze.
+\v 5 And I declared to you from long ago the things before they came — I made them audible to you — lest you say: My idols did them and my carved-images and my molten-castings commanded them.
+\v 6 You heard all these things and you did not know them — but I made audible to you new things from now which are about to come — and you did not say:
+\v 7 They are coming now and not from long ago — and not in the former days — and you did not hear nor know them — and I did not make your ears open before the time.
+\v 8 For I knew that you were acting faithlessly and I called you lawless from the womb.
+\p
+\v 9 For my name's sake I will show you my wrath and I will bring upon you my glorious deeds so that I do not cut you off.
+\v 10 Look — I sold you not for silver and I took you out of the furnace of poverty.
+\v 11 For my sake I will do this — for my name is profaned and I will not give my glory to another.
+\p
+\v 12 Hear me O Jacob and O Israel whom I call — I am the first and I am into the age.
+\v 13 My hand also laid the foundation of the earth and my right hand measured the heaven — I will call them and they will stand together.
+\v 14 And all will be gathered and will hear — who declared these things among them? Loving you Lord did what he purposed against Babylon — to take away the seed of the Chaldeans.
+\v 15 I spoke — I called him — I brought him and prospered his way.
+\v 16 Draw near to me and hear these things — I did not speak in secret from the beginning — when it came to be I was there — and now the Lord God sent me and his breath-of-life.
+\p
+\v 17 Thus says the Lord God who ransomed-released you — the Holy One of Israel: I am the Lord your God who taught you to find what is useful — who showed you the road on which you will walk.
+\v 18 And if you had heard my commandments your peace would have been as a river and your righteousness as a wave of the sea.
+\v 19 And your seed would have been as the sand and the offspring of your belly as its dust — and your name would not have been cut off nor destroyed before me.
+\p
+\v 20 Go out from Babylon you who flee from the Chaldeans — declare with a voice of gladness and let this be made known — declare it as far as the end of the earth — say: The Lord ransomed-released his servant Jacob.
+\v 21 And if they thirst in the desolate-place he will lead them through — and water from a rock he will bring forth for them — the rock will be split and water will flow and my people will drink.
+\v 22 There is no rejoicing for the impious says the Lord.
+
