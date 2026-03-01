@@ -1496,6 +1496,8 @@ Joshua commissioned, **Song of Moses**, **Blessing of Moses**, Moses sees the la
 \v 10 And there arose no more a prophet in Israel like Moses — whom the Lord knew face to face —
 \v 11 in all the signs and the wonders which the Lord sent him to do in the land of Egypt — to Pharaoh and to all his servants and to all his land —
 \v 12 and in all the strong hand and in all the great and fearful things which Moses did before the eyes of all Israel.
+```
+
 
 # DEUTERONOMY — GLE v2.1 Consolidated Notes
 
