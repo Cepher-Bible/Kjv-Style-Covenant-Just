@@ -1455,4 +1455,548 @@
 \v 12 For with gladness you will go out and with joy you will be taught — for the mountains and the hills will leap receiving you with joy — and all the trees of the open-field will applaud with their branches.
 \v 13 And instead of the bramble-bush a cypress will come up and instead of the nettle a myrtle will come up — and the Lord will be for a name and for an everlasting sign and will not fail.
 
+\c 56
+\p
+\v 1 Thus says the Lord: Keep judgment and do righteousness — for my salvation draws near to come and my mercy to be revealed.
+\v 2 Blessed is the man who does these things and the man who holds fast to them — who keeps the sabbath so as not to profane it and guards his hands so as to do no evil.
+\p
+\v 3 Let not the foreigner who joins himself to the Lord say: The Lord will surely separate me from his people — and let not the eunuch say: I am a dry tree.
+\v 4 For thus says the Lord to the eunuchs — as many as keep my sabbaths and choose the things I will and hold fast to my covenant —
+\v 5 I will give to them in my house and within my walls a named place better than sons and daughters — an everlasting name I will give to them and it will not fail.
+\v 6 And the foreigners who join themselves to the Lord to serve him and to love the name of the Lord — to be his servants — every one who keeps the sabbath so as not to profane it and those who hold fast to my covenant —
+\v 7 I will lead them to my holy mountain and I will make them glad in my house of prayer — their whole-burnt offerings and their sacrifices will be acceptable upon my altar — for my house will be called a house of prayer for all nations.
+\v 8 Thus says the Lord who gathers the scattered ones of Israel: I will gather to him a gathering.
+\p
+\v 9 All the wild-animals of the open-field come — eat — all the wild-animals of the forest.
+\v 10 See how they are all blinded — they did not know — they are mute dogs not able to bark — dreaming of rest loving to slumber.
+\v 11 And the dogs are shameless in soul — not knowing satisfaction — and they are evil knowing no understanding — all followed their own ways each according to his own will.
+\p
+\v 12 Come let us take wine and be filled with strong drink — and tomorrow will be as today — great abundant exceedingly.
+
+\c 57
+\p
+\v 1 See how the righteous man perished and no man takes it to heart — and righteous men are taken away and no man understands — for the righteous man was taken away from the face of unrighteous things.
+\v 2 His burial will be in peace — he was taken away from the midst.
+\p
+\v 3 But you draw near here — you sons of a lawless woman — seed of adulterers and prostitutes.
+\v 4 In what did you delight and against whom did you open your mouth wide and against whom did you put out your tongue — are you not children of destruction — a seed of lawlessness —
+\v 5 who call upon idols under the leafy trees slaughtering children in the ravines among the crags of the rocks?
+\v 6 That is your portion — that is your lot — and to them you poured out drink-offerings and offered ascending-offerings. Shall I not be angry at these things?
+\v 7 Upon a high and lofty mountain there you set your bed — and there you brought up your ascending-offerings.
+\v 8 And behind the doorpost you placed your remembrances — did you think that if you turned away from me you would gain more? You loved those who slept with you —
+\v 9 and you multiplied your harlotry with them — and you made many those who are far from you and sent ambassadors beyond your boundaries and turned back to the depths.
+\v 10 In your many ways you grew weary — and you did not say: I will cease — for you found a renewal of your strength — therefore you did not grow faint.
+\p
+\v 11 Fearing whom were you afraid and lied to me and did not remember me nor take me to heart? And I seeing will overlook you — and you do not fear me.
+\v 12 And I will declare your righteousness and your evils — and they will not profit you.
+\v 13 When you cry out let your gathered ones rescue you — but all of them the wind will take away and the breath will take them — but those who hold fast to me will inherit the land and will inherit my holy mountain.
+\p
+\v 14 And they will say: Clear — clear — prepare the roads — remove the stumbling-blocks from the road of my people.
+\v 15 Thus says the Most High who dwells on high into the age — Holy in the holy ones is his name — the Most High resting in the holy ones and giving endurance to the faint-hearted and giving life to the broken-hearted.
+\v 16 I will not take vengeance on you forever nor will I always be angry with you — for a breath will go out from me and every breath I made.
+\v 17 Because of sin for a little I grieved him and struck him — and I turned away my face from him and he was grieved and went his own way.
+\v 18 His ways I saw and healed him and comforted him and gave him true comfort —
+\v 19 peace upon peace to those who are far and to those who are near says the Lord — and I will heal them.
+\v 20 But the lawless ones are so tossed as waves and will not be able to rest.
+\v 21 There is no rejoicing for the impious says the Lord God.
+
+\c 58
+\p
+\v 1 Cry aloud and do not spare — lift up your voice as a trumpet — and declare to my people their sins and to the house of Jacob their lawless deeds.
+\v 2 They seek me day after day and desire to know my ways as a people that did righteousness and did not abandon the judgment of their God — they ask me now for righteous judgment and desire to draw near to God —
+\v 3 saying: Why did we fast and you did not see — why did we humble our souls and you did not know? Because in the days of your fasting you find your own will and all who are under you you goad.
+\v 4 If you fast for quarrels and fights and you strike the lowly one with your fists — why do you fast to me as today so that your voice may be heard on high?
+\v 5 I did not choose such a fast — nor such a day for a man to humble his soul — not even if you bend your neck as a ring and spread sackcloth and ashes under you — not even then will you call it an acceptable fast.
+\v 6 Is this not the fast I chose — loose every bond of unrighteousness — dissolve the knots of violent dealings — send away the shattered ones in release and tear up every unjust contract?
+\v 7 Break your bread for the hungry and lead the homeless poor into your house — if you see the naked clothe him and you will not overlook those of your own seed.
+\v 8 Then your light will break out early as the dawn and your healings will spring up quickly — and your righteousness will go before you and the glory of God will surround you.
+\v 9 Then you will cry out and God will hear you — and while you are still speaking he will say: Look I am here. If you remove from you the bond and the stretching out of hands and the word of murmuring —
+\v 10 and if you give bread from your soul to the hungry and if you satisfy the humbled soul — then your light will rise up in darkness and your darkness will be as midday.
+\v 11 And your God will be with you continually and you will be satisfied according to your soul's desire — and your bones will be made fat — and you will be as a watered garden and as a spring whose water will not fail.
+\v 12 And your ancient desolate places will be built and your foundations from generation to generation will be raised up — and you will be called a builder of fences — and you will make your roads rest in the midst.
+\p
+\v 13 If you turn your foot away from the sabbath so as not to do your own will on the holy day — and call the sabbath delightful and holy to God — and if you glorify it not following your own ways and your own will is not found and no word spoken in anger —
+\v 14 then you will trust upon the Lord and he will lead you up upon the good things of the land and he will feed you with the inheritance of Jacob your father — for the mouth of the Lord spoke these things.
+
+\c 59
+\p
+\v 1 Is the hand of the Lord not strong to save — or has he made his ear heavy so as not to hear?
+\v 2 But your sins separate between you and God — and because of your sins he turned his face away from you so as not to have mercy on you.
+\v 3 For your hands were defiled with blood and your fingers with sins — your lips spoke lawlessness and your tongue meditates unrighteousness.
+\v 4 No one speaks just things nor is there true judgment — they trust in empty things and speak empty things — because they conceive toil and give birth to lawlessness.
+\v 5 They hatched viper eggs and wove a spider's web — and the one who is about to eat of their eggs having crushed them found also inside a basilisk.
+\v 6 Their web will not become a garment nor will they clothe themselves with their works — for their works are works of lawlessness.
+\v 7 And their feet run to evil and are swift to shed blood — and their counsels are counsels of lawlessness — destruction and wretchedness in their roads.
+\v 8 And they did not know the road of peace and there is no judgment in their roads — for their paths were crooked which they travel — and they do not know peace.
+\p
+\v 9 Therefore judgment departed from them and righteousness will not overtake them — waiting for light and there was darkness — waiting for brightness and they walked in thick-darkness.
+\v 10 They will feel the wall as blind men and as those without eyes they will feel — and they will fall at midday as at midnight — they will groan as dying men.
+\v 11 They will groan together as a bear and as a dove together they will go — we waited for judgment and there is no salvation — it departed far from us.
+\v 12 For our lawless deeds are many before you and our sins stood against us — our lawless deeds are in us and we knew our unrighteous deeds.
+\v 13 We were impious and lied and turned away from our God — we spoke unrighteous things and were disobedient — we conceived and meditated unrighteous words from the heart.
+\v 14 And we turned back judgment and righteousness stood far off — for truth was consumed in their open-ways and they were not able to enter in a straight way.
+\v 15 And truth was taken away and they changed their mind from understanding. And the Lord saw and it did not please him that there was no judgment.
+\p
+\v 16 And he looked and there was no man — and he considered and there was no one to help — and he defended them with his arm and established them with his mercy.
+\v 17 And he put on righteousness as a breastplate and placed a helmet of salvation upon his head — and clothed himself with a garment of vengeance and with his cloak.
+\v 18 As one about to render recompense — as a reproach to his adversaries.
+\v 19 And those from the west will fear the name of the Lord and those rising from the rising of the sun his glorious name — for the wrath of the Lord will come as a rushing river — it comes with wrath.
+\v 20 And the ransomer-releaser will come for the sake of Zion and will turn away impiety from Jacob says the Lord.
+\v 21 And this is my covenant with them says the Lord: My breath-of-life which is upon you and the words which I put in your mouth will not depart from your mouth and from the mouth of your seed from now and into the age says the Lord.
+
+\c 60
+\p
+\v 1 Be enlightened be enlightened O Jerusalem — for your light has come and the glory of the Lord has risen upon you.
+\v 2 For look — darkness will cover the earth and thick-darkness the nations — but upon you the Lord will appear and his glory will be seen upon you.
+\v 3 And kings will walk in your light and nations in your brightness.
+\v 4 Lift up your eyes round about and see — they were all gathered and came to you — your sons will come from far off and your daughters will be carried on shoulders.
+\v 5 Then you will see and be glad and your heart will be amazed and enlarged — because the abundance of the sea will be turned to you and the wealth of nations and peoples will come to you.
+\v 6 A multitude of camels will cover you and camels of Midian and Ephah — all from Sheba will come bringing gold and frankincense and they will declare the salvation of the Lord.
+\v 7 And all the flocks of Kedar will be gathered to you and the rams of Nabaioth will come — and acceptable offerings will be brought upon my altar and my house of prayer will be glorified.
+\v 8 Who are these who fly as clouds and as doves with their young ones to me?
+\v 9 The islands waited for me and ships of Tarshish from the beginning — to bring your sons from far off and their silver and their gold with them because of the name of the Lord the Holy One of Israel — for he glorified you.
+\v 10 And foreigners will build your walls and their kings will stand beside you — for through my wrath I struck you and through my mercy I loved you.
+\v 11 And your gates will be opened continually — by day and by night they will not be shut — to bring in to you the strength of nations and their kings led in.
+\v 12 For the nations and the kings that will not serve you will perish — and those nations will be utterly desolated.
+\v 13 And the glory of Lebanon will come to you with cypress and pine and cedar together — to glorify my holy place and I will glorify the place of my feet.
+\v 14 And the sons of those who humbled you and of those who provoked you will come to you in fear — and you will be called the city of the Lord Zion of the Holy One of Israel.
+\v 15 Because you became abandoned and hated and there was no helper — I will make you an everlasting joy — a gladness from generation to generation.
+\v 16 And you will drink the milk of nations and you will eat the wealth of kings — and you will know that I am the Lord who saves you and who ransoms-releases you the God of Israel.
+\v 17 And instead of bronze I will bring you gold and instead of iron I will bring you silver and instead of wood I will bring you bronze and instead of stones iron — and I will make your rulers peace and your overseers righteousness.
+\v 18 And unrighteous deeds will no longer be heard in your land nor destruction and wretchedness in your boundaries — but salvation will be called your walls and praise your gates.
+\v 19 And you will no longer have the sun as a light by day nor will the rising of the moon give you light at night — but the Lord will be your everlasting light and God your glory.
+\v 20 For the sun will no longer set and the moon will not be eclipsed — for the Lord will be your everlasting light and the days of your mourning will be completed.
+\v 21 And your people will all be righteous and will inherit the land into the age — keeping the planted things — the works of his hands for glory.
+\v 22 The small one will become thousands and the least a great nation — I the Lord will gather them in time.
+
+\c 61
+\p
+\v 1 The breath-of-life of the Lord is upon me — because of which he anointed me — to bring good-news to the poor he sent me — to heal the broken-hearted — to proclaim release to the captives and recovery of sight to the blind —
+\v 2 to call an acceptable year of the Lord and a day of recompense — to comfort all those who mourn —
+\v 3 to give to those who mourn in Zion — glory instead of ashes — oil of gladness to those who mourn — a garment of glory instead of a breath-of-life of despondency — and they will be called generations of righteousness — a planting of the Lord for glory.
+\v 4 And they will build the ancient desolate places — they will raise up the former ones that were made desolate — and they will renew the desolate cities — those that were desolate from generation to generation.
+\v 5 And strangers will come and feed your flocks and foreigners will be your plowmen and vine-dressers.
+\v 6 But you will be called priests of the Lord — servants of God will be said of you — you will eat the strength of nations and in their wealth you will be marveled at.
+\v 7 Thus they will inherit the land twice over — and everlasting joy will be upon their head.
+\v 8 For I am the Lord who loves righteousness and who hates plunder of unrighteous deeds — and I will give their labor to the righteous and will make an everlasting covenant with them.
+\v 9 And their seed will be known among the nations and their offspring in the midst of peoples — all who see them will recognize them — for they are a seed blessed by God.
+\p
+\v 10 Let my soul rejoice in the Lord — for he clothed me with a garment of salvation and put a robe of gladness around me — as a bridegroom he put a crown around me and as a bride adorned me with ornaments.
+\v 11 And as the earth bringing out its flower and as a garden its seeds sprouts up — so the Lord will sprout up righteousness and gladness before all the nations.
+
+\c 62
+\p
+\v 1 For the sake of Zion I will not be silent and for the sake of Jerusalem I will not rest — until her righteousness goes out as light and her salvation is kindled as a torch.
+\v 2 And nations will see your righteousness and kings your glory — and one will call you by a new name which the Lord will name for you.
+\v 3 And you will be a crown of beauty in the hand of the Lord and a royal diadem in the hand of your God.
+\v 4 And you will no longer be called Abandoned and your land will no longer be called Desolate — for you will be called My-Desire and your land Inhabited — for the Lord desired you and your land will be inhabited.
+\v 5 And as a young man dwells with a virgin so your sons will dwell in you — and it will be as the bridegroom rejoices over the bride so the Lord will rejoice over you.
+\p
+\v 6 And upon your walls O Jerusalem I appointed watchmen — all the day and all the night into the age they will not be silent — you who remind the Lord do not be silent —
+\v 7 and do not give him silence until he establishes and until he makes Jerusalem a praise on the earth.
+\p
+\v 8 The Lord swore by his glory and by the strength of his arm: I will no longer give your grain and your provisions to your enemies — and foreigners will not drink your wine for which you labored.
+\v 9 But those who gathered it will eat it and will praise the Lord — and those who gathered the vintage will drink it in my holy courts.
+\p
+\v 10 Go through my gates and make a road for my people — and the stones throw out of the road — lift up a signal for the nations.
+\v 11 For the Lord made it heard to the end of the earth: Say to the daughter of Zion — look your savior has come to you having his own wage and his work before his face.
+\v 12 And he will call them a holy people ransomed-released by the Lord — and you will be called a city sought after and not abandoned.
+
+\c 63
+\p
+\v 1 Who is this who comes from Edom — with red garments from Bozrah — this one beautiful in his robe — forcefully in the greatness of his strength? I speak righteousness and judgment of salvation.
+\v 2 Why are your garments red and your vestments as from a trodden wine-press?
+\v 3 I am full of trodden grape — and of the nations there is no man with me — and I trod them in my wrath and crushed them as earth — and I brought down their blood to the ground.
+\v 4 For the day of recompense came upon them and the year of ransom-release is here.
+\v 5 And I looked and there was no helper — and I considered and no one was coming to my aid — and my arm rescued them and my wrath stood to help them.
+\v 6 And I trod them down in my wrath and brought down their blood to the ground.
+\p
+\v 7 I remembered the mercy of the Lord — the virtues of the Lord in all things in which he repays us — the Lord is a good judge to the house of Israel — he deals with us according to his mercy and according to the multitude of his righteousness.
+\v 8 And he said: Are they not my people — sons who will not act falsely? And he became to them a savior
+\v 9 from all their affliction — not an ambassador nor a messenger but he himself saved them because he loved them and spared them — he himself ransomed-released them and took them up and lifted them up all the days of the age.
+\v 10 But they disobeyed and provoked his holy breath-of-life — and he was turned to them as an enemy and he himself fought against them.
+\v 11 And he remembered the ancient days of Moses his people — where is the one who brought up from the sea the shepherd of the sheep? Where is the one who put his holy breath-of-life among them —
+\v 12 who led Moses by his right hand — the arm of his glory — who divided the water before him to make himself an everlasting name —
+\v 13 who led them through the deep as a horse through the desolate-place and they did not grow weary —
+\v 14 and as cattle through a plain the breath-of-life of the Lord led them — so you led your people to make yourself a glorious name.
+\p
+\v 15 Turn from heaven and see from your holy house and from your glory — where is your zeal and your strength — where is the multitude of your mercy and your compassions — for you endured us.
+\v 16 For you are our father — for Abraham did not know us and Israel did not recognize us — but you O Lord our father ransomed-released us — your name was from the beginning.
+\v 17 Why did you lead us astray O Lord from your road and hardened our hearts so as not to fear you? Return for the sake of your servants — for the sake of the tribes of your inheritance —
+\v 18 so that we might inherit a little of your holy mountain — our adversaries trampled your sanctuary.
+\v 19 We became as from the beginning when you did not rule over us and your name was not called upon us.
+
+\c 64
+\p
+\v 1 If you would open the heaven — trembling will take the mountains from before you —
+\v 2 and they will melt as wax melts before fire — and fire will burn the adversaries and your name will be visible among the adversaries — from before you nations will be troubled.
+\v 3 When you do wonderful things the mountains will tremble before you —
+\v 4 for from the beginning we did not hear nor did our eyes see a God besides you and your works which you will do to those who wait for mercy.
+\v 5 For these things will overtake the one who does righteousness and those who will remember your ways — look — you were angry and we sinned — therefore we went astray —
+\v 6 and we all became as unclean and all our righteousness as a rag of one menstruating — and we fell like leaves because of our lawless deeds — and a wind will take us away.
+\v 7 And there is no one who calls upon your name and who remembers to take hold of you — for you turned your face from us and gave us over because of our sins.
+\v 8 And now O Lord you are our father and we are clay — all of us are the works of your hands.
+\v 9 Do not be very angry with us O Lord and do not remember our sins into the age — but now look upon us — for we are all your people.
+\v 10 The city of your holiness became desolate — Zion became a desolation — Jerusalem a curse.
+\v 11 The house our holy one and our glory — which our fathers blessed — became a fire — and all our glorious things fell together with it.
+\v 12 And at all these things you endured O Lord and were silent and humbled us greatly.
+
+\c 65
+\p
+\v 1 I became visible to those who did not seek me — I was found by those who did not ask for me — I said: Look I am here — to a nation that did not call upon my name.
+\v 2 I stretched out my hands all day long to a disobedient and contradicting people — to those who walked not in a true road but after their sins.
+\v 3 This people who provoke me to my face continually — they sacrifice in gardens and burn incense upon bricks —
+\v 4 and who sit in tombs and sleep in caves — who eat the flesh of pigs and the broth of their sacrifices —
+\v 5 who say: Keep away from me — do not come near me — for I am pure. This is smoke of my wrath — a fire burns in it all the days.
+\v 6 Look — it is written before me — I will not be silent until I repay into their bosom —
+\v 7 their sins and the sins of their fathers together says the Lord — who burned incense upon the mountains and reproached me upon the hills — I will repay their works into their bosom.
+\p
+\v 8 Thus says the Lord: As a grape will be found in the cluster and they will say: Do not destroy it for a blessing is in it — so I will do for the sake of the one who serves me — I will not destroy everyone.
+\v 9 And I will bring out from Jacob a seed and from Judah and he will inherit my holy mountain — and my chosen ones will inherit it and my servants will dwell there.
+\v 10 And the plain of Sharon will be a flock-pasture and the valley of Achor will be a resting-place of cattle for my people who sought me.
+\p
+\v 11 But you who abandoned me and who forget my holy mountain and who prepare a table for the demon and who fill a mixed drink for Fortune —
+\v 12 I will hand you over to the sword — you will all fall by slaughter — because I called you and you did not hear — I spoke and you turned aside — and you did evil before me and what I did not will you chose.
+\p
+\v 13 Therefore thus says the Lord: Look — those who serve me will eat but you will hunger — look — those who serve me will drink but you will thirst — look — those who serve me will rejoice but you will be put to shame —
+\v 14 look — those who serve me will exult in gladness of heart but you will cry out in the grief of your heart and in the breaking of your breath-of-life you will howl.
+\v 15 And you will leave your name as a satiation for my chosen ones — and the Lord will slay you — but those who serve him will be called by a new name —
+\v 16 which will be blessed upon the earth — for they will bless the true God — and those who swear upon the earth will swear by the true God — for they will forget the former affliction and it will not go up upon their heart.
+\p
+\v 17 For there will be a new heaven and a new earth — and they will by no means remember the former things nor will they come up upon the heart.
+\v 18 But they will find gladness and exultation in it — for look — I am making Jerusalem an exultation and my people a gladness.
+\v 19 And I will exult in Jerusalem and be glad in my people — and there will no longer be heard in her a voice of weeping nor a voice of crying.
+\v 20 Nor will there be there any longer a person of few days nor an elder who will not fill up his time — for the young man will be a hundred years old and the sinner dying at a hundred years will be under a curse.
+\v 21 And they will build houses and dwell in them — and they will plant vineyards and eat their fruit.
+\v 22 They will not build and another dwell — they will not plant and another eat — for as the days of the tree of life will be the days of my people — the works of their labors will be old.
+\v 23 My chosen ones will not grow weary in vain nor will they give birth for a curse — for they are a seed of the blessed of God and their offspring will be with them.
+\v 24 And it will be — before they cry out I will hear them — while they are still speaking I will say: Look I am here.
+\v 25 Then the wolf and the lamb will feed together and the lion will eat straw as the ox — and the serpent earth as bread — they will not harm nor destroy on my holy mountain says the Lord.
+
+\c 66
+\p
+\v 1 Thus says the Lord: Heaven is my throne and the earth a footstool of my feet — what kind of house will you build me and what kind of place for my rest?
+\v 2 For all these things my hand made and all these things are mine says the Lord — and upon whom will I look except upon the gentle and quiet one and who trembles at my words?
+\p
+\v 3 But the lawless one who sacrifices a calf is as one who kills a dog — and the one who offers a gift to me is as one who offers pig's blood — the one who gives frankincense as a memorial is as one who blesses an idol. Even they chose their own ways and in their abominations their soul desired —
+\v 4 so I also will choose their mockeries and I will repay to them their sins — because I called them and they did not hear me — I spoke and they did not listen — and they did evil before me and what I did not will they chose.
+\p
+\v 5 Hear the word of the Lord you who tremble at his word — speak O your brothers who hate you and who cast you out on account of my name — let the Lord be glorified and let us see your gladness — but they will be put to shame.
+\p
+\v 6 A voice of a cry from the city — a voice from the temple — a voice of the Lord rendering recompense to his adversaries.
+\p
+\v 7 Before she labored she gave birth — before the pain of labor came to her she escaped and bore a male.
+\v 8 Who heard such a thing and who saw thus? Did the earth give birth in one day and was a nation born at once — because Zion labored and bore her children?
+\v 9 But I gave this expectation — did you not also give birth? says the Lord — and I gave birth but I also checked says your God.
+\p
+\v 10 Rejoice O Jerusalem and gather in her all you who love her — rejoice with gladness with her all who mourn over her —
+\v 11 so that you may nurse and be filled from the breast of her comfort — so that you may drink deeply and delight in the abundance of her glory.
+\v 12 For thus says the Lord: Look — I will turn toward them as a river of peace and as a rushing stream the glory of nations — their children will be carried on shoulders and comforted upon knees.
+\v 13 As one whom his own mother comforts so I also will comfort you — and you will be comforted in Jerusalem.
+\v 14 And you will see and your heart will rejoice and your bones will spring up as grass — and the hand of the Lord will be made known to those who fear him and he will rebuke those who are disobedient.
+\p
+\v 15 For look — the Lord will come as fire and his chariots as a whirlwind — to render his wrath in fury and his rebuke in a flame of fire.
+\v 16 For with fire the Lord will judge and with his sword all flesh — and many will be slain by the Lord.
+\p
+\v 17 Those who consecrate themselves and purify themselves to the gardens and those who eat the flesh of the pig and the abominations and the mouse will be consumed together says the Lord.
+\p
+\v 18 And I know their works and their counsel — I come to gather all nations and tongues — and they will come and see my glory.
+\v 19 And I will leave a sign upon them and I will send out from them those who have been saved to the nations — to Tarshish and Phud and Lud and Mosoch and Tubal and to Greece and to the islands far off — those who have not heard my name and have not seen my glory — and they will declare my glory among the nations.
+\v 20 And they will bring your brothers from all the nations as a gift to the Lord with horses and chariots in litters and mules and with shade-covered carriages to my holy mountain Jerusalem says the Lord — as when the sons of Israel bring their gifts to me with psalms into the house of the Lord.
+\v 21 And from them I will take priests and Levites says the Lord.
+\p
+\v 22 For as the new heaven and the new earth which I make remain before me says the Lord — so your seed and your name will stand.
+\v 23 And it will be from month to month and from sabbath to sabbath — all flesh will come to bow down before me in Jerusalem says the Lord.
+\v 24 And they will go out and see the corpses of the men who transgressed against me — for their worm will not die and their fire will not be quenched — and they will be a spectacle to all flesh.
+
+# ISAIAH — GLE v2.1 Consolidated Notes
+
+**Text base:** Rahlfs-Hanhart LXX Greek  
+**Engine:** Thayer (1889) primary anchor | LSJ Septuagintal depth layer | Vulgate friction witness  
+**CAE contamination block:** Active throughout  
+**Methodology:** v2.1 — Greek scores, Vulgate challenges, LSJ deepens
+
+---
+
+## CAE CONTAMINATION NODES
+
+### 7:14 — Tier 1 Hard Block: *almah / parthenos*
+
+Vulgate suspended at this verse. Jerome renders *virgo* — which is the Latin equivalent of *parthenos* and confirms the LXX reading. However the contamination risk here runs in the opposite direction from most Tier 1 nodes: the LXX *parthenos* = virgin, the specific Greek word for a woman who has not known a man, is actually the stronger reading against the MT *almah* = young woman of marriageable age (which does not require virginity). The LXX translators made a deliberate interpretive choice selecting *parthenos* over a more neutral Greek equivalent.
+
+Rendered: **"the virgin will conceive in the womb and will bear a son and you will call his name Emmanuel"**
+
+Matthew 1:23 quotes this verse directly from the LXX using *parthenos*. The apostolic frequency reads the LXX. Vulgate *virgo* confirms rather than contaminates — Jerome preserved what the LXX said. Node flagged but render clean.
+
+### 53:11 — Tier 1 Hard Block: Resurrection light
+
+Vulgate suspended. Jerome's *videbit et saturabitur* = "he will see and be satisfied" — drops *phōs* entirely. Rahlfs-Hanhart LXX preserves *phōs* = light.
+
+Rendered: **"the Lord desires to take away from the toil of his soul — to show him light and to form him with understanding"**
+
+The *phōs* in 53:11 is the resurrection pivot. The Servant who went down into death is shown light — the same light/life register as John 1:4 ("in him was life and the life was the light of men") and the Hosea 13:14 ransom-release from Hades. Jerome's omission is the single most significant contamination event in the Latin transmission of Isaiah. The Greek holds it. Rendered from LXX base.
+
+---
+
+## BLOCK 1 — CHAPTERS 1–12
+
+### 1:2 — *huioi* / sons with full lineage weight
+
+"I reared sons and lifted them up" — *eteknotrophēsa* = I child-reared, I brought up as a father brings up children. The Lord's charge against Israel opens with parental language — not merely that they disobeyed a command but that they rejected the one who formed and raised them. The covenant lawsuit begins in the register of family abandonment, not merely legal infraction.
+
+### 5:14 — Hades enlarging its soul
+
+*eplатyne ho hadēs tēn psychēn autou* — Thayer: *platynō* = to broaden, to widen, to enlarge; *hadēs* = the realm of the dead; *psychē* = soul, the animating life-force, here used of Hades as if the underworld itself has appetite and desire. LSJ: *platynō* = to make wide, to extend. Hades is not a passive container — it is an active devourer with its own appetite that enlarges to receive the glorious, the great, the rich. The image anticipates the Hosea 13:14 and Isaiah 53 ransom-release vocabulary: Hades has appetite, and something stronger than Hades is required to extract what it has swallowed.
+
+### 6:3 — *hagios hagios hagios* / the Trisagion
+
+The triple *hagios* is not grammatical emphasis alone — it is the fullest declaration the angelic beings can make. Thayer: *hagios* = set apart, consecrated, wholly other — the quality of being categorically distinct from created things. LSJ: pure, holy, inviolable. The seraphim do not say "very holy" — they exhaust the declaration by repeating it three times. "The whole earth is full of his glory" — *doxa* = the visible weight of his presence — answers the triple holiness with geographic totality. The throne-room and the whole earth are named in one breath as equally filled.
+
+### 6:9–10 — *pachynthē* / made fat — the judicial hardening
+
+"The heart of this people was made fat" — *epachynthē* = was made thick, was fattened, was made dense so as to be impenetrable. LSJ: to thicken, to make gross, to render impervious. This is not merely a description of voluntary stubbornness — it is a passive verb. The people were made fat. The judicial hardening is something done to them in consequence of prior rejection. Mark 4:12, Matthew 13:14–15, John 12:40, Acts 28:26–27, Romans 11:8 — all six major NT texts that quote this passage treat it as an active divine act with salvific purpose: that they would not see and be converted prematurely, reserving the full turning for the appointed time. The engine rendered the passive correctly throughout.
+
+### 7:14 — See CAE Contamination Node above.
+
+### 9:6 — *Megalēs Boulēs Aggelos* / Messenger of Great Counsel
+
+"His name is called Messenger of Great Counsel" — Thayer: *aggelos* = messenger, one sent with a commission — the divine messenger class; *boulē* = counsel, the deliberate purpose of the will, the plan laid before action. LSJ: *aggelos* = an envoy, a messenger from a superior; *megalēs boulēs* = of the great counsel, of the vast deliberated purpose.
+
+The LXX renders the Messianic child's name as *Megalēs Boulēs Aggelos* — Messenger of Great Counsel — rather than the MT's compound names (Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace). The LXX and MT diverge significantly here. The LXX names are not wrong — they draw on a different transmission of the same prophetic text. The LXX render is translated from its Greek base as specified: "Messenger of Great Counsel." The MT-based compound names are noted as the alternative tradition.
+
+### 11:2 — Sevenfold *pneuma* / breath-of-life
+
+"The breath-of-life of God will rest upon him — the breath-of-life of wisdom and understanding — the breath-of-life of counsel and strength — the breath-of-life of knowledge and godliness — the breath-of-life of the fear of God will fill him."
+
+Thayer: *pneuma* = the animating breath, the life-force, the wind of God. LSJ: breath, wind, the vital principle. The sevenfold *pneuma* in the LXX is the fullest deployment of the breath-of-life vocabulary in the prophetic corpus. Each pair names a dimension of the anointing: wisdom/understanding (cognitive), counsel/strength (executive), knowledge/godliness (relational), fear (foundational). The root is *anapauō* = to give rest to, to cause to rest upon — the breath-of-life does not merely visit but settles and remains. Rendered "breath-of-life" throughout to preserve the connection to the Genesis 2:7 *pnoē zōēs* and the Romans 8 *pneuma* chain.
+
+---
+
+## BLOCK 2 — CHAPTERS 13–27
+
+### 14:12 — *heōsphoros* / the morning-star
+
+"How has the morning-star that rises early fallen from heaven" — *heōsphoros* = dawn-bearer, the morning star, the star that carries the dawn — from *heōs* (dawn) + *phoros* (bearing, carrying). LSJ: the morning star, Venus as it appears before sunrise. This is the LXX word for the figure who aspired to ascend above the stars and be like the Most High. The Latin *Lucifer* = light-bearer is Jerome's direct translation of *heōsphoros*. The LXX and Vulgate are in exact agreement on the astronomical image. Rendered as "morning-star" to preserve the dawn-bearing weight without importing the post-biblical theological loading of the Latin name.
+
+### 14:13–15 — The five *anabēsomai* / I will go up assertions
+
+The fallen morning-star makes five ascending claims: I will go up to heaven — I will set my throne above the stars — I will sit upon the high mountain — I will go up above the clouds — I will be like the Most High. Each uses the future *anabēsomai* = I will ascend, I will go up. The five ascents are answered by one descent: *eis hadou katabēsē* = you will go down to Hades and to the foundations of the earth. The structural symmetry is exact — five claimed ascents, one enforced descent. The LXX preserves this architecture cleanly.
+
+### 19:24–25 — Egypt and Assyria as covenant peoples
+
+"Israel will be third with the Egyptians and with the Assyrians — blessed in the land which the Lord Almighty blessed saying: Blessed is my people in Egypt and in the Assyrians and Israel my inheritance."
+
+This is one of the most remarkable universal-covenant passages in the entire prophetic corpus. Egypt and Assyria — the two great empire-powers that defined Israel's captivity — are named as "my people" alongside Israel. The LXX renders this without softening. The covenant-membership vocabulary (*laos mou* = my people, *klēronomia mou* = my inheritance) applied to Egypt and Assyria is the same vocabulary used for Israel throughout Isaiah. The three-nation blessing structure anticipates the Joel 3:1 "all flesh" and Zechariah 8:23 "ten men from all nations" movements.
+
+### 24–27 — The Isaiah Apocalypse
+
+Chapters 24–27 function as a discrete apocalyptic unit — the cosmic dismantling of the present order, the defeat of Hades, the resurrection of the dead, and the final feast on the mountain. Key notes:
+
+**25:8** — *katepien ho thanatos ischysas* = "Death prevailed and swallowed" — the aorist of *katapinō* = to swallow down completely, to engulf. LSJ: to gulp down, to swallow whole. Paul quotes this verse in 1 Corinthians 15:54 — "Death was swallowed in victory." The LXX has *death swallowed* in the past tense as a statement of its power — Paul quotes it in the passive as the reversal: *death was swallowed by victory*. Both readings are built into the same Greek vocabulary. The resurrection event is the inversion of 25:8's statement.
+
+**26:19** — *anastēsontai hoi nekroi* = "The dead will rise" — Thayer: *anistēmi* = to stand up, to rise from a lying or sitting position — used consistently for resurrection throughout the NT. LSJ: to make to stand up, to raise. "And those in the tombs will be raised and those in the earth will rejoice — for the dew from you is their healing." The *drosos* = dew of healing is the resurrection agent. The same verse names three locations: tombs, earth, and those who will rejoice — the resurrection is not merely individual resuscitation but a comprehensive raising of the dead from all their resting places.
+
+---
+
+## BLOCK 3 — CHAPTERS 28–39
+
+### 28:16 — *ho pisteuōn ou mē kataischynthē* / the one who trusts will not be put to shame
+
+"The one who trusts in him will not be put to shame" — Thayer: *pisteuō* = to entrust oneself to, to place confident reliance upon — the full weight of the faith-trust verb; *kataischynō* = to shame completely, to bring to disgrace, to put to confusion. LSJ: *kataischynō* = to dishonor, to bring shame upon. Paul quotes this verse in Romans 9:33 and 10:11 as the foundation of universal salvation by trust — "everyone who trusts in him will not be put to shame." The LXX *ho pisteuōn* = the one who trusts is universalized: no ethnic or national qualifier. Romans 10:11 is explicit — "for there is no distinction between Jew and Greek."
+
+### 35:5–6 — The healing signs
+
+"Then the eyes of the blind will be opened and the ears of the deaf will hear — then the lame will leap as a deer and the tongue of the dumb will be clear."
+
+Matthew 11:5 / Luke 7:22 — Jesus quotes this exact sign-list to John's disciples as evidence of his identity. The LXX *alalos* = dumb, unable to speak; *tryphaō* = to be clear, to speak freely. The four signs are: blind-see, deaf-hear, lame-leap, dumb-speak. Isaiah 35 is the diagnostic text for recognizing the Servant's arrival. The engine preserved the full sign-list without compression.
+
+### 40:3 — *boas en tē erēmō* / voice crying in the desolate-place
+
+All four gospels quote this verse as fulfilled in John the Baptist. The critical structural point: in the LXX the phrase divides as "a voice crying in the desolate-place: Prepare the road of the Lord." In the MT the division is "a voice crying: In the desolate-place prepare the road." The LXX places the crying in the desolate-place; the MT places the road-preparation in the desolate-place. Mark 1:3 follows the LXX structure — John is the voice crying in the desolate-place. The geography of the prophetic call is preserved in the LXX word order.
+
+### 40:6–8 — *pasa sarx chortos* / all flesh is grass
+
+"All flesh is grass and all the glory of man as the flower of grass — the grass withered and the flower fell — but the word of our God remains into the age."
+
+1 Peter 1:24–25 quotes this passage as the contrast between the perishable and the living word. Thayer: *chortos* = grass, vegetation that grows and withers seasonally; *to rhēma tou theou* = the word of God — the spoken utterance, the declared thing. The engine rendered *rhēma* as "word" throughout — the *logos/rhēma* distinction is not pressed in this passage since the LXX uses *rhēma* here where the theological weight is on the enduring character of the declared word rather than the incarnate Word of John 1.
+
+---
+
+## BLOCK 4 — CHAPTERS 40–48
+
+### 40:28–31 — *hoi de hypomenонtes ton theon* / those who wait upon God
+
+"But those who wait upon the Lord will renew their strength — they will grow wings as eagles — they will run and not be weary — they will walk and not hunger."
+
+Thayer: *hypomenō* = to remain under, to endure steadfastly, to wait with persistent expectation — not passive waiting but active bearing-up while waiting; *allagēsontai tēn ischyn* = they will exchange/renew strength — the verb *allassō* = to change, to exchange, to transform. LSJ: *allassō* = to make other, to alter, to exchange one thing for another. The image is not merely that strength is replenished — it is exchanged. The spent strength is given over and new strength received in its place. The eagle-wings, running, walking sequence moves from most dramatic to most ordinary — the daily sustained walking is the final and perhaps most significant image.
+
+### 42:1–4 — First Servant Song
+
+"Jacob is my servant — I will help him — Israel my chosen one — my soul received him — I gave my breath-of-life upon him — he will bring forth judgment to the nations."
+
+Matthew 12:17–21 quotes this passage as fulfilled in Jesus. The LXX names Jacob/Israel explicitly in v.1 — the corporate-to-individual typological movement is the same as Hosea 11:1 and Matthew 2:15. The Servant is first Israel-as-corporate-entity, then concentrated in the one true Servant. The engine preserved the Jacob/Israel naming from the LXX rather than harmonizing to the MT which has "my servant" without the name.
+
+**Key terms:**
+- *krinō* rendered as "bring forth judgment" — not merely "proclaim justice" — the Servant brings the full judicial verdict to the nations
+- *ou kraugazei* = he will not cry out — *kraugazō* = to shout, to make a public proclamation in a loud voice. The Servant's work is not through public demonstration
+- *kalamon tethlasmenon* = a bruised reed — *thlaō* = to crush, to shatter. The reed is already damaged, on the edge of breaking. He will not finish what is already nearly broken
+- *linon typhomenon* = smoking flax — *typhoō* = to produce smoke without flame, to smolder. He will not extinguish what is barely still burning
+
+### 44:28 / 45:1 — Cyrus named 150 years before his birth
+
+The naming of Cyrus by name in 44:28 and 45:1 is the single most historically specific predictive prophecy in the OT. The LXX preserves the name *Kyros* = Cyrus — the Persian king who issued the decree returning the exiles in 538 BC. Isaiah wrote in the 8th century BC. The engine rendered without comment or qualification — the LXX says what it says.
+
+**45:1** — *tō christō mou Kyrō* = "to my anointed Cyrus" — *christos* = anointed one, the word that becomes "Christ/Messiah" in NT usage applied to the Persian king. This is the only place in the OT where the *christos* title is applied to a non-Israelite. The anointing is functional — Cyrus is anointed for the specific task of releasing the captives — not ontological. The LXX does not soften the term.
+
+### 45:23 — *emoi kampsei pan gony* / to me every knee will bow
+
+"By myself I swear — righteousness will certainly go out from my mouth — my words will not be turned back — because to me every knee will bow and every tongue will acknowledge God."
+
+Paul quotes this verse in Romans 14:11 and Philippians 2:10–11 as the universal eschatological submission. In Philippians 2:10 Paul applies the every-knee-bowing to the name of Jesus — the same typological concentration as the Servant Songs. The LXX *exomologēsetai* = will acknowledge, will confess, will declare openly — the word covers both confession of sin and confession of allegiance. The engine rendered it as "acknowledge" to preserve the breadth.
+
+### 48:16 — *nun kyrios kyrios apesteilen me kai to pneuma autou* / the Lord sent me and his breath-of-life
+
+"Draw near to me and hear these things — I did not speak in secret from the beginning — when it came to be I was there — and now the Lord God sent me and his breath-of-life."
+
+This verse contains one of the most theologically dense Trinitarian intimations in the prophetic corpus. A speaker who has been present "from the beginning" declares that the Lord God sent him together with his breath-of-life. Three distinguishable agents: the Lord God who sends, the one sent, and the breath-of-life sent with him. The engine preserved the three-agent structure without theological commentary in the text — the render lets the LXX speak.
+
+---
+
+## BLOCK 5 — CHAPTERS 49–55 (SERVANT SONGS)
+
+### 49:1–6 — Second Servant Song
+
+"He made my mouth as a sharp sword — under the shadow of his hand he hid me — he made me as a chosen arrow and in his quiver he sheltered me."
+
+The Servant's mouth as sharp sword anticipates Hebrews 4:12 and Revelation 1:16, 19:15. *Stomachos oxeia* = sharp sword from the mouth — the weapon is the word. The sheltering in the quiver is the period of hiddenness before deployment. The quiver keeps the arrow protected until the appointed moment of release.
+
+**49:6** — "It is a great thing for you to be called my servant — to set up the tribes of Jacob and to turn back the scattered ones of Israel — look — I gave you as a covenant of a race — a light of nations — so that you may be for salvation to the end of the earth."
+
+Acts 13:47 — Paul and Barnabas quote this verse directly as the commission for Gentile mission. The *phōs ethnōn* = light of nations and *eis sōtērian heōs eschatou tēs gēs* = for salvation to the end of the earth become the apostolic charter for the universal scope of the mission. The LXX *eschatou* = last, uttermost — the end of the earth in the fullest geographical sense.
+
+### 50:4–9 — Third Servant Song / The Obedient Servant
+
+"My back I gave to floggings and my cheeks to blows — and my face I did not turn away from the shame of spitting."
+
+The most explicit suffering-servant passage before chapter 53. The three physical specifics — flogging, blows on the cheeks, spitting — correspond directly to the passion narrative accounts. Matthew 26:67, 27:26, 27:30 cover all three in sequence. The LXX vocabulary is:
+- *mastixin* = floggings, scourging — *mastigoō* = to flog with a whip
+- *rhapismata* = blows, strikes — *rhapizō* = to strike with a rod or open hand
+- *emptysmos* = spitting, the act of spitting upon — *emptyo* = to spit in someone's face
+
+The Servant's non-resistance is not passive — he sets his face "as a solid rock" (*hōs stereān petran*). The steadfastness is active endurance, not collapse.
+
+### 52:13–15 — Introduction to the Fourth Servant Song
+
+"Look — my servant will understand and be lifted up and glorified exceedingly — as many were astonished at you — so your appearance will be without glory from men — so many nations will marvel at him and kings will shut their mouth."
+
+*Hypsōthēsetai kai doxasthēsetai sphodra* = will be lifted up and glorified exceedingly — the same verbs used for divine exaltation in Isaiah 6:1 (the throne high and lifted up). The Servant's exaltation is described with throne-room vocabulary. The sequence is: humiliation that astonishes → exaltation that silences kings. John 12:32–33 connects *hypsōthō* = when I am lifted up directly to the crucifixion — the lifting up of the cross and the lifting up of divine exaltation collapse into a single event.
+
+**52:15** — "Those to whom it was not told about him will see and those who have not heard will understand." Romans 15:21 — Paul quotes this as his missionary charter for going where Christ has not been named.
+
+### 53:1–12 — Fourth Servant Song — Full Notes
+
+This is the highest-stakes GLE run in the entire OT. Every word carries maximum theological load. Notes verse by verse on critical terms:
+
+**v.1** — *tini anangelthai* = to whom was it revealed — the *anangellō* verb = to announce, to bring a message back from, to report from a source. The rhetorical question frames the entire chapter as a disclosure problem: the arm of the Lord is revealed but almost no one receives the revelation.
+
+**v.2** — *anebē hōs paidion enantion autou* = he came up before him as a child — the emergence verb *anabainō* = to come up, to rise, to ascend. The Servant's appearance is described as emergence from below — a root rising in thirsty ground. *Riza en gē dipsōsē* = a root in a thirsty land — the root-in-dry-ground image connects to the Branch (*Anatole*) of Zechariah 3:8 and 6:12 and the rod-from-Jesse's-root of Isaiah 11:1.
+
+**v.3** — *allа to eidos autou аtimон kai ekleipон para tous huious tōn anthrōpōn* = his form was without honor and falling short beyond the sons of men — *ekleipō* = to fall short, to fail, to be lacking in comparison. The Servant's appearance is not merely humble — it is categorically less than what one would expect. The word translated "falling short" is the same word used for an eclipse — a light that goes dark.
+
+**v.4** — *houtos tas hamartias hēmōn pherei kai peri hēmōn odynātai* = this one bears our sins and suffers pain for us — *pherō* = to carry, to bear as a load; *odynaomai* = to be in pain, to suffer distress — the same word used in Luke 16:24–25 (the rich man in Hades suffering pain). The bearing is physical load-carrying, not merely sympathetic suffering.
+
+**v.5** — *etraumatisthē dia tas anomias hēmōn kai memaläkistai dia tas hamartias hēmōn* = he was wounded because of our lawless deeds and he was made weak because of our sins — *traumatizō* = to wound, to inflict a wound upon; *malakizō* = to make soft, to weaken, to reduce to weakness. Two verbs for two types of damage: the external wound and the internal weakening. *Paideia eirēnēs hēmōn ep autōn* = the correction of our peace was upon him — *paideia* = disciplinary instruction, corrective training through suffering. The peace is achieved through his disciplinary suffering.
+
+**v.6** — *kyrios paredōken auton tais hamartiais hēmōn* = the Lord gave him over to our sins — *paradidōmi* = to hand over, to deliver into the power of another, to give over for a specific purpose. The same verb used in Romans 4:25 ("given over for our trespasses") and throughout the passion narrative for the betrayal and handing-over of Jesus. The Lord is the active agent in the giving-over.
+
+**v.7** — *hōs probaton epi sphagēn ēchthē* = as a sheep he was led to slaughter — *sphagē* = slaughter, the killing of an animal for sacrifice or food. Acts 8:32–33 — the Ethiopian eunuch is reading this exact passage and Philip explains it as fulfilled in Jesus.
+
+**v.8** — *en tē tapeinōsei autou hē krisis autou ērthē* = in his humiliation his judgment was taken away — *tapeinōsis* = humiliation, the state of being brought low; *krisis* = judgment, the legal verdict, the judicial decision. His legal standing was stripped in the moment of his humiliation — not merely ignored but actively removed. *Tēn genean autou tis diēgēsetai* = who will declare his generation — the generation-declaration question has been read as: who will be able to count his descendants (posterity), and who will explain what happened in his time (generation/era). The LXX *genea* carries both senses simultaneously.
+
+**v.9** — *kai dōsō tous ponērous anti tēs taphēs autou kai tous plousious anti tou thanatou autou* = I will give the evil ones instead of his burial and the rich instead of his death — the burial and the rich man: Matthew 27:57–60 — a rich man (Joseph of Arimathea) provides the tomb. The LXX has the evil ones and the rich as parallel — the engine rendered both without harmonizing to the MT which has "with the wicked / with the rich."
+
+**v.10** — *ean dōte peri hamartias tēn psychēn humōn* = if you give for sin your soul — the conditional *ean* = if, the *dōte* = you give as a second person plural. Who is addressed? The shift from third person (the Servant) to second person (you) is abrupt and unresolved. The engine preserved the ambiguity — the LXX syntax is addressed to the community who witnesses the Servant's death, making them participants in the transaction.
+
+**v.11 — CAE TIER 1 HARD BLOCK** — *deixai autō phōs* = to show him light
+
+Jerome drops *phōs* entirely. The LXX Rahlfs-Hanhart has *apo tou ponou tēs psychēs autou... deizai autō phōs* = to take away from the toil of his soul — to show him light. The light is the resurrection disclosure — the Servant who went down into death is shown light. The *deizai* = to show, to cause to see — an active disclosure of light to one who had been in darkness/death. Rendered: "the Lord desires to take away from the toil of his soul — to show him light and to form him with understanding."
+
+**v.12** — *dia touto autos klēronomisei pollous* = therefore he will inherit many — *klēronomeō* = to receive as an inheritance, to take possession by covenant right. The Servant's inheritance is the *pollous* = many — not a small remnant but a great multitude. *Kai tōn ischyrōn merisei skyla* = and he will divide the spoils of the strong — the victor's division of plunder after battle. The Servant is simultaneously the one who suffered and the one who triumphed and divides the spoils.
+
+---
+
+## BLOCK 6 — CHAPTERS 56–66
+
+### 56:7 — *oikos proseuches pasin tois ethnesin* / house of prayer for all nations
+
+"For my house will be called a house of prayer for all nations." Mark 11:17 / Matthew 21:13 / Luke 19:46 — Jesus quotes this verse in the Temple cleansing. The *pasin tois ethnesin* = for all nations is the load-bearing phrase. The Temple's original charter was universal — the restriction of Gentile access to the outer court was a later deviation from the founding purpose. Jesus's Temple action is a restoration of the original universal-access design, not an innovation.
+
+### 59:17 — *enedysato dikaiosynēn hōs thōraka* / righteousness as breastplate
+
+"He put on righteousness as a breastplate and placed a helmet of salvation upon his head — and clothed himself with a garment of vengeance and with his cloak."
+
+Ephesians 6:14–17 — Paul's armor of God passage draws directly from this verse. The LXX sequence: breastplate of righteousness, helmet of salvation, garment of vengeance. Paul's expansion adds belt of truth, shoes of peace, shield of faith, sword of the Spirit. The Isaiah source shows the armor originally belongs to the Lord himself — the believer is clothed in the Lord's own armor.
+
+### 61:1–2 — *pneuma kyriou ep eme* / the breath-of-life of the Lord is upon me
+
+Luke 4:18–19 — Jesus reads this passage in the Nazareth synagogue and declares it fulfilled in their hearing. The LXX *kecharismenon* = acceptable year — from *charis* = grace, favor; *eniauton kyriou dekton* = an acceptable year of the Lord — the Jubilee vocabulary. The year of release, the release of captives, recovery of sight to the blind (*anablepsin typhlois*) — the healing sign-list of Isaiah 35 is here commissioned as the Servant's specific mandate.
+
+**Critical:** The engine rendered *anablepsin typhlois* = recovery of sight to the blind — Thayer: *anablepō* = to look up, to recover sight after blindness. This is the specific word used for the healing of the blind throughout the gospels. Luke 4:18 quotes it directly. The commissioning and the fulfillment use identical vocabulary.
+
+### 65:17 / 66:22 — *kainos ouranos kai gē kainē* / new heaven and new earth
+
+The double occurrence of the new-creation declaration — first as promise (65:17) and second as the covenant-permanence guarantee (66:22) — frames the entire closing section. Thayer: *kainos* = new in kind, new in quality — not merely recent (*neos* = new in time) but a new order of thing. LSJ: *kainos* = fresh, novel, of a new and different kind. Revelation 21:1 quotes *kainos ouranos kai gē kainē* directly from this source. The new creation is not renovation of the old but emergence of a categorically new order — consistent with the *kainos* vocabulary throughout.
+
+### 66:24 — *ho skolēx autōn ou teleutēsei kai to pyr autōn ou sbesthēsetai* / their worm will not die and their fire will not be quenched
+
+Mark 9:44, 46, 48 — Jesus quotes this verse three times in the Gehenna sayings. The LXX *skolēx* = worm, the consuming creature that works on dead matter; *sbennymi* = to quench, to extinguish fire. The image at the close of Isaiah is the corpses of those who transgressed being visible to all flesh — not a private judgment but a *spectacle* (*horasis*). The final word of the canonical prophets in the LXX order is this vision of permanent judgment visible to the living.
+
+---
+
+## CROSS-BOOK ARCHITECTURAL NOTES
+
+### The *lēmma* sequence
+
+Isaiah opens with *horasis* = vision (1:1) rather than *lēmma* = burden/received weight. The burden-language appears at 13:1 (burden of Babylon) and throughout the oracle-against-nations section (chapters 13–23). Isaiah's architecture is: *horasis* (visionary disclosure) containing multiple *lēmma* (weighted oracles against specific nations). Nahum, Habakkuk, and Malachi open with single *lēmma* = the whole book is a received weight. Isaiah is the comprehensive visionary disclosure within which multiple burden-oracles are embedded.
+
+### The Servant Song progression
+
+The four Servant Songs (42:1–4, 49:1–6, 50:4–9, 52:13–53:12) form a progression:
+
+1. **Song 1 (42)** — The Servant commissioned for justice to the nations, identified as Jacob/Israel
+2. **Song 2 (49)** — The Servant's pre-birth calling, frustrated labor, recommissioned for universal scope
+3. **Song 3 (50)** — The Servant's obedience in the face of suffering, steadfast endurance
+4. **Song 4 (52–53)** — The Servant's full humiliation, vicarious suffering, death, resurrection-light, and inheritance
+
+The corporate-to-individual movement is structural: Songs 1–2 identify the Servant as Israel, Songs 3–4 show an individual who cannot be guilty Israel because he bears Israel's guilt. The LXX preserves the Jacob/Israel naming in Song 1 and the individual *we/him* alternation in Song 4 without harmonizing them. The engine rendered both without theological resolution in the text.
+
+### The *sōzō / lytrōō / rhyomai* cluster
+
+Isaiah deploys three distinct salvation-rescue verbs throughout:
+- *sōzō* = to save, to preserve from destruction — the comprehensive salvation verb
+- *lytrōō* = to ransom-release, to free by payment of price — the transaction verb  
+- *rhyomai* = to rescue by pulling out, to drag from danger — the physical extraction verb
+
+All three appear in Isaiah and each carries a different aspect of the rescue. The engine rendered them as distinct verbs throughout rather than flattening to "save/deliver." The cluster in 43:1–3 is particularly dense: "I ransomed-released you / I called you by your name / you are mine."
+
+---
+
+## DRIFT ELIMINATION SUMMARY — ISAIAH
+
+**Highest-frequency drift sources across all six blocks:**
+
+**KJV/pew register pressure** — Phrases like "his visage was marred," "he is despised and rejected," "a man of sorrows," "by his stripes we are healed," "he was wounded for our transgressions" — all KJV-shaped renders that carry centuries of liturgical loading. Every instance was caught by Check 1 and rendered from the Greek with *Thayer/LSJ* anchoring rather than from English Bible memory.
+
+**The *pneuma* smoothing tendency** — Consistent pressure to render *pneuma* as "Spirit" (capitalized, third-person divine reference) rather than "breath-of-life." Isaiah 11:2 (sevenfold *pneuma*), 42:1, 44:3, 48:16, 59:21, 61:1, 63:10–14 — all required Check 1 intervention to maintain "breath-of-life" vocabulary and its connection to Genesis 2:7 and the NT *pneuma* chain.
+
+**53:11 *phōs* recovery** — The single most significant drift-elimination event in the entire Isaiah run. Jerome's omission of *phōs* has shaped the Western Christian reading of 53:11 for 1,600 years. The Greek holds it. Check 2 (CAE block) fired at this verse and Vulgate was suspended.
+
+**Judgment/justice softening** — *Krisis* and *krima* consistently pressure-rendered toward "justice" in the devotional sense rather than "judgment" in the legal-verdict sense. The forensic register was restored throughout — Isaiah is a legal document, not a devotional meditation.
+
+**Messianic name compression at 9:6** — The LXX *Megalēs Boulēs Aggelos* vs MT compound names — strong pressure from MT-based English tradition to import "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace." LXX base held. MT alternative tradition noted in these notes only.
+
+---
+
+*GLE v2.1 | Rahlfs-Hanhart LXX base | Isaiah complete*  
+*Notes document produced as single consolidated pass per protocol*
 
