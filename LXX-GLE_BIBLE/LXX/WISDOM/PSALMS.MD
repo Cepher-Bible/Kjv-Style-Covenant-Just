@@ -7713,8 +7713,882 @@
 \v 18 His enemies I will clothe with shame —
 \q2 but upon him my holiness will flourish.
 
+\c 131
+\d A song of ascents.
+\q1
+\v 1 O Lord my heart was not exalted —
+\q2 nor were my eyes lifted up —
+\q1 nor did I walk in great things —
+\q2 nor in wonders beyond me.
+\q1
+\v 2 If I was not humble-minded —
+\q2 but exalted my soul —
+\q1 as a weaned child upon his mother —
+\q2 so will you recompense my soul.
+\q1
+\v 3 Let Israel hope in the Lord —
+\q2 from now and to the age.
 
+\c 132
+\d A song of ascents.
+\q1
+\v 1 Look — how good and how pleasant —
+\q2 for brothers to dwell together.
+\q1
+\v 2 As oil upon the head —
+\q2 that comes down upon the beard —
+\q1 the beard of Aaron —
+\q2 that comes down upon the collar of his garment —
+\q1
+\v 3 as the dew of Hermon —
+\q2 that comes down upon the mountains of Zion.
+\q1 For there the Lord commanded the blessing —
+\q2 life to the age.
 
+\c 133
+\d A song of ascents.
+\q1
+\v 1 Look — bless the Lord —
+\q2 all you servants of the Lord —
+\q1 who stand in the house of the Lord —
+\q2 in the courts of the house of our God.
+\q1
+\v 2 Lift up your hands to the holy places —
+\q2 and bless the Lord.
+\q1
+\v 3 May the Lord bless you from Zion —
+\q2 the one who made heaven and earth.
+
+\c 134
+\d Hallelujah.
+\q1
+\v 1 Praise the name of the Lord —
+\q2 praise O servants of the Lord —
+\q1
+\v 2 you who stand in the house of the Lord —
+\q2 in the courts of the house of our God.
+\q1
+\v 3 Praise the Lord — for the Lord is good —
+\q2 sing a psalm to his name — for it is pleasant.
+\q1
+\v 4 For the Lord chose Jacob for himself —
+\q2 Israel for his prized possession.
+\q1
+\v 5 For I know that the Lord is great —
+\q2 and our Lord is above all gods.
+\q1
+\v 6 All things whatever the Lord willed he did —
+\q2 in heaven and on earth —
+\q1 in the seas and in all the depths.
+\q1
+\v 7 He brings up clouds from the ends of the earth —
+\q2 lightnings for rain he made —
+\q1 who brings out wind from his treasuries.
+\q1
+\v 8 Who struck the firstborn of Egypt —
+\q2 from man to animal.
+\q1
+\v 9 He sent signs and wonders into your midst O Egypt —
+\q2 against Pharaoh and against all his servants.
+\q1
+\v 10 Who struck many nations —
+\q2 and killed mighty kings —
+\q1
+\v 11 Sihon king of the Amorites —
+\q2 and Og king of Bashan —
+\q1 and all the kingdoms of Canaan —
+\q2
+\v 12 and gave their land as an inheritance —
+\q1 an inheritance to Israel his people.
+\q1
+\v 13 O Lord your name is to the age —
+\q2 and your memorial to generation and generation.
+\q1
+\v 14 For the Lord will judge his people —
+\q2 and upon his servants he will have compassion.
+\q1
+\v 15 The idols of the nations are silver and gold —
+\q2 works of men's hands.
+\q1
+\v 16 They have a mouth and will not speak —
+\q2 they have eyes and will not see —
+\q1
+\v 17 they have ears and will not hear —
+\q2 for there is no breath in their mouth.
+\q1
+\v 18 Let those who make them become like them —
+\q2 and all who trust in them.
+\q1
+\v 19 House of Israel — bless the Lord —
+\q2 house of Aaron — bless the Lord —
+\q1
+\v 20 house of Levi — bless the Lord —
+\q2 you who fear the Lord — bless the Lord.
+\q1
+\v 21 Blessed is the Lord from Zion —
+\q2 the one who dwells in Jerusalem.
+\p Hallelujah.
+
+\c 135
+\d Hallelujah.
+\q1
+\v 1 Give thanks to the Lord for he is good —
+\q2 for his mercy is to the age.
+\q1
+\v 2 Give thanks to the God of gods —
+\q2 for his mercy is to the age.
+\q1
+\v 3 Give thanks to the Lord of lords —
+\q2 for his mercy is to the age.
+\q1
+\v 4 To him who alone does great wonders —
+\q2 for his mercy is to the age.
+\q1
+\v 5 To him who made the heavens with understanding —
+\q2 for his mercy is to the age.
+\q1
+\v 6 To him who founded the earth upon the waters —
+\q2 for his mercy is to the age.
+\q1
+\v 7 To him who made the great lights —
+\q2 for his mercy is to the age.
+\q1
+\v 8 The sun for authority over the day —
+\q2 for his mercy is to the age.
+\q1
+\v 9 The moon and the stars for authority over the night —
+\q2 for his mercy is to the age.
+\q1
+\v 10 To him who struck Egypt in their firstborn —
+\q2 for his mercy is to the age.
+\q1
+\v 11 And led out Israel from among them —
+\q2 for his mercy is to the age.
+\q1
+\v 12 With a strong hand and a high arm —
+\q2 for his mercy is to the age.
+\q1
+\v 13 To him who divided the Red Sea into portions —
+\q2 for his mercy is to the age.
+\q1
+\v 14 And led Israel through the midst of it —
+\q2 for his mercy is to the age.
+\q1
+\v 15 And shook off Pharaoh and his force into the Red Sea —
+\q2 for his mercy is to the age.
+\q1
+\v 16 To him who led his people through the great desolate-place —
+\q2 for his mercy is to the age.
+\q1
+\v 17 To him who struck great kings —
+\q2 for his mercy is to the age.
+\q1
+\v 18 And killed mighty kings —
+\q2 for his mercy is to the age.
+\q1
+\v 19 Sihon king of the Amorites —
+\q2 for his mercy is to the age.
+\q1
+\v 20 And Og king of Bashan —
+\q2 for his mercy is to the age.
+\q1
+\v 21 And gave their land as an inheritance —
+\q2 for his mercy is to the age.
+\q1
+\v 22 An inheritance to Israel his servant —
+\q2 for his mercy is to the age.
+\q1
+\v 23 For in our humiliation he remembered us —
+\q2 for his mercy is to the age.
+\q1
+\v 24 And ransomed-released us from our enemies —
+\q2 for his mercy is to the age.
+\q1
+\v 25 Who gives food to all flesh —
+\q2 for his mercy is to the age.
+\q1
+\v 26 Give thanks to the God of heaven —
+\q2 for his mercy is to the age.
+
+\c 136
+\d Of David.
+\q1
+\v 1 By the rivers of Babylon —
+\q2 there we sat and wept —
+\q1 when we remembered Zion.
+\q1
+\v 2 Upon the willows in her midst —
+\q2 we hung our harps.
+\q1
+\v 3 For there those who had taken us captive asked us —
+\q2 words of song —
+\q1 and those who had led us away —
+\q2 a hymn:
+\q1 Sing us one of the songs of Zion.
+\q1
+\v 4 How will we sing the song of the Lord —
+\q2 in a foreign land?
+\q1
+\v 5 If I forget you O Jerusalem —
+\q2 let my right hand be forgotten.
+\q1
+\v 6 Let my tongue cleave to my throat —
+\q2 if I do not remember you —
+\q1 if I do not set Jerusalem —
+\q2 as the beginning of my gladness.
+\q1
+\v 7 Remember O Lord the sons of Edom —
+\q2 in the day of Jerusalem —
+\q1 who said: Lay it bare — lay it bare —
+\q2 to its foundations.
+\q1
+\v 8 O daughter of Babylon — wretched one —
+\q2 blessed is the one who will repay you —
+\q1 your recompense with which you repaid us.
+\q1
+\v 9 Blessed is the one who will seize —
+\q2 and dash your little ones against the rock.
+
+\c 137
+\d Of David.
+\q1
+\v 1 I will confess to you O Lord with my whole heart —
+\q2 for you heard the words of my mouth —
+\q1 and before the angels I will make a psalm to you.
+\q1
+\v 2 I will bow down toward your holy temple —
+\q2 and I will confess to your name —
+\q1 for your mercy and your truth —
+\q2 for you magnified your holy name above all.
+\q1
+\v 3 In whatever day I call upon you — hear me —
+\q2 you will multiply strength in my soul.
+\q1
+\v 4 Let all the kings of the earth confess to you O Lord —
+\q2 for they heard all the words of your mouth.
+\q1
+\v 5 And let them sing in the ways of the Lord —
+\q2 for great is the glory of the Lord.
+\q1
+\v 6 For the Lord is high and looks upon the lowly —
+\q2 and the exalted one he knows from afar.
+\q1
+\v 7 If I walk in the midst of affliction you will give me life —
+\q2 against the wrath of my enemies you stretched out your hand —
+\q1 and your right hand saved me.
+\q1
+\v 8 The Lord will complete things on my behalf —
+\q2 O Lord your mercy is to the age —
+\q1 the works of your hands do not disregard.
+
+\c 138
+\d A Psalm of David.
+\q1
+\v 1 O Lord you searched me and knew me —
+\q2
+\v 2 you yourself knew my sitting and my rising.
+\q1 You understood my thoughts from afar —
+\q2
+\v 3 you traced my path and my resting-place —
+\q1 and all my ways you foresaw.
+\q1
+\v 4 For there is no word on my tongue —
+\q2 look — O Lord you know all things.
+\q1
+\v 5 You formed me behind and before —
+\q2 and you laid your hand upon me.
+\q1
+\v 6 The knowledge is too wonderful for me —
+\q2 it was strengthened — I will not be able to reach it.
+\q1
+\v 7 Where will I go from your breath-of-life —
+\q2 and where will I flee from your face?
+\q1
+\v 8 If I go up to heaven — you are there —
+\q2 if I go down to Hades — you are present.
+\q1
+\v 9 If I take up my wings toward the east —
+\q2 and dwell at the furthest parts of the sea —
+\q1
+\v 10 even there your hand will lead me —
+\q2 and your right hand will hold me.
+\q1
+\v 11 And I said: Surely darkness will trample me down —
+\q2 and night will be light in my delight —
+\q1
+\v 12 for darkness will not be dark to you —
+\q2 and night will be illuminated as day —
+\q1 as its darkness — so its light.
+\q1
+\v 13 For you possessed my kidneys —
+\q2 you supported me from my mother's womb.
+\q1
+\v 14 I will confess to you — for fearfully I was made to be wonderful —
+\q2 wonderful are your works —
+\q1 and my soul knows this well.
+\q1
+\v 15 My frame was not hidden from you —
+\q2 which was made in secret —
+\q1 and my substance in the lowest parts of the earth.
+\q1
+\v 16 Your eyes saw my unformed state —
+\q2 and in your book they will all be written —
+\q1 the days that were formed —
+\q2 and not one among them.
+\q1
+\v 17 But to me how greatly your friends were honored O God —
+\q2 how greatly were their beginnings strengthened.
+\q1
+\v 18 I will count them — and beyond sand they will be multiplied —
+\q2 I was roused and I am still with you.
+\q1
+\v 19 If you will kill the sinner O God —
+\q2 O men of blood — depart from me.
+\q1
+\v 20 For you say toward your thought —
+\q2 they will take your cities in vain.
+\q1
+\v 21 Did I not hate those who hate you O Lord —
+\q2 and waste away because of your enemies?
+\q1
+\v 22 With perfect hatred I hated them —
+\q2 they became enemies to me.
+\q1
+\v 23 Search me O God and know my heart —
+\q2 test me and know my paths.
+\q1
+\v 24 And see if there is a way of lawlessness in me —
+\q2 and lead me in the everlasting way.
+
+\c 139
+\d A Psalm of David.
+\q1
+\v 1 Rescue me O Lord from the evil man —
+\q2 from the lawless man deliver me —
+\q1
+\v 2 who devised lawlessness in their heart —
+\q2 all the day they prepared battles.
+\q1
+\v 3 They sharpened their tongue as a serpent's —
+\q2 the poison of asps is under their lips.
+\qs diapsalma\qs*
+\q1
+\v 4 Guard me O Lord from the hand of the sinner —
+\q2 from lawless men deliver me —
+\q1 those who devised to trip up my steps.
+\q1
+\v 5 The proud hid a snare for me —
+\q2 and cords — they spread a net by the way —
+\q1 snares they set for me.
+\qs diapsalma\qs*
+\q1
+\v 6 I said to the Lord: You are my God —
+\q2 hear O Lord the voice of my supplication.
+\q1
+\v 7 O Lord Lord — the strength of my salvation —
+\q2 you overshadowed my head in the day of battle.
+\q1
+\v 8 Do not give me O Lord to the desire of the sinner —
+\q2 they devised against me — do not abandon me —
+\q1 lest they be exalted.
+\qs diapsalma\qs*
+\q1
+\v 9 The head of those surrounding me —
+\q2 the labor of their lips will cover them.
+\q1
+\v 10 Coals of fire will fall upon them —
+\q2 you will cast them down into fire —
+\q1 in miseries — they will not stand.
+\q1
+\v 11 A man of tongue will not be established on the earth —
+\q2 the evil one will hunt the lawless man for destruction.
+\q1
+\v 12 I know that the Lord will accomplish —
+\q2 the judgment of the poor and the vengeance of the needy.
+\q1
+\v 13 Yet the righteous will confess to your name —
+\q2 and the upright will dwell before your face.
+
+\c 140
+\d A Psalm of David.
+\q1
+\v 1 O Lord I cried to you — hear me —
+\q2 give ear to my voice when I cry to you.
+\q1
+\v 2 Let my prayer be set right as incense before you —
+\q2 the lifting up of my hands as an evening sacrifice.
+\q1
+\v 3 Set a guard O Lord over my mouth —
+\q2 and a door of enclosure around my lips.
+\q1
+\v 4 Do not incline my heart to evil words —
+\q2 to make excuses in sins —
+\q1 with men who work lawlessness —
+\q2 and I will not associate with their chosen ones.
+\q1
+\v 5 The righteous one will discipline me in mercy and rebuke me —
+\q2 but the oil of the sinner let it not anoint my head —
+\q1 for still my prayer is against their desires.
+\q1
+\v 6 Their judges were swallowed up beside a rock —
+\q2 they will hear my words — for they were pleasant.
+\q1
+\v 7 As when the earth is split and shattered upon the ground —
+\q2 so their bones were scattered at the mouth of Hades.
+\q1
+\v 8 For my eyes are toward you O Lord Lord —
+\q2 in you I hoped — do not take away my soul.
+\q1
+\v 9 Guard me from the snare they set for me —
+\q2 and from the traps of those who work lawlessness.
+\q1
+\v 10 The sinners will fall in his own net —
+\q2 I am alone until I pass through.
+
+\c 141
+\d Understanding of David — a prayer when he was in the cave.
+\q1
+\v 1 With my voice I cried to the Lord —
+\q2 with my voice to the Lord I made supplication.
+\q1
+\v 2 I poured out before him my petition —
+\q2 my affliction before him I declared.
+\q1
+\v 3 When my breath-of-life fainted within me —
+\q2 you knew my paths.
+\q1 In the way in which I walked —
+\q2 they hid a snare for me.
+\q1
+\v 4 I looked to the right and saw —
+\q2 and there was none who knew me.
+\q1 Flight perished from me —
+\q2 and there was none who sought out my soul.
+\q1
+\v 5 I cried to you O Lord —
+\q2 I said: You are my hope —
+\q1 my portion in the land of the living.
+\q1
+\v 6 Attend to my petition —
+\q2 for I was greatly humbled —
+\q1 rescue me from those who pursue me —
+\q2 for they are stronger than I.
+\q1
+\v 7 Lead out my soul from prison —
+\q2 to confess to your name.
+\q1 The righteous will wait for me —
+\q2 until you repay me.
+
+\c 142
+\d A Psalm of David — when his son pursued him.
+\q1
+\v 1 O Lord hear my prayer —
+\q2 give ear to my supplication in your truth —
+\q1 hear me in your righteousness.
+\q1
+\v 2 And do not enter into judgment with your servant —
+\q2 for every living one will not be justified before you.
+\q1
+\v 3 For the enemy pursued my soul —
+\q2 he humbled my life to the ground —
+\q1 he made me dwell in dark places —
+\q2 as those who are dead to the age.
+\q1
+\v 4 And my breath-of-life was despondent within me —
+\q2 within me my heart was troubled.
+\q1
+\v 5 I remembered the days of old —
+\q2 I meditated on all your works —
+\q1 in the works of your hands I exercised myself.
+\q1
+\v 6 I stretched out my hands to you —
+\q2 my soul is as a waterless land before you.
+\qs diapsalma\qs*
+\q1
+\v 7 Hear me quickly O Lord —
+\q2 my breath-of-life failed —
+\q1 do not turn away your face from me —
+\q2 and I will be like those going down to the pit.
+\q1
+\v 8 Make me hear your mercy in the morning —
+\q2 for in you I hoped —
+\q1 make known to me the way in which I should walk —
+\q2 for to you I lifted up my soul.
+\q1
+\v 9 Rescue me from my enemies O Lord —
+\q2 for to you I fled for refuge.
+\q1
+\v 10 Teach me to do your will —
+\q2 for you are my God —
+\q1 your good breath-of-life will lead me —
+\q2 in a straight land.
+\q1
+\v 11 For the sake of your name O Lord you will give me life —
+\q2 in your righteousness you will lead my soul out of affliction.
+\q1
+\v 12 And in your mercy you will destroy my enemies —
+\q2 and you will destroy all those who oppress my soul —
+\q1 for I am your servant.
+
+\c 143
+\d A Psalm of David — against Goliath.
+\q1
+\v 1 Blessed is the Lord my God —
+\q2 who trains my hands for battle —
+\q1 and my fingers for war.
+\q1
+\v 2 My mercy and my refuge —
+\q2 my supporter and my deliverer —
+\q1 my protector and in him I hoped —
+\q2 who subjects peoples under me.
+\q1
+\v 3 O Lord what is man that you were made known to him —
+\q2 or the son of man that you reckon him?
+\q1
+\v 4 Man was made like vanity —
+\q2 his days pass as a shadow.
+\q1
+\v 5 O Lord bow down your heavens and come down —
+\q2 touch the mountains and they will smoke.
+\q1
+\v 6 Lighten lightning and you will scatter them —
+\q2 send out your arrows and you will trouble them.
+\q1
+\v 7 Send your hand from on high —
+\q2 rescue me and deliver me from many waters —
+\q1 from the hand of sons of strangers —
+\q2
+\v 8 whose mouth spoke vanity —
+\q1 and their right hand is a right hand of lawlessness.
+\q1
+\v 9 O God a new song I will sing to you —
+\q2 on a ten-stringed psaltery I will make a psalm to you.
+\q1
+\v 10 Who gives salvation to kings —
+\q2 who ransomed-released David his servant from the evil sword.
+\q1
+\v 11 Rescue me and deliver me from the hand of sons of strangers —
+\q2 whose mouth spoke vanity —
+\q1 and their right hand is a right hand of lawlessness —
+\q2
+\v 12 whose sons are as new plants growing in their youth —
+\q1 their daughters adorned — decked out as the likeness of a temple —
+\q2
+\v 13 their storehouses full — pouring out from this into that —
+\q1 their sheep fruitful — multiplying in their streets —
+\q2
+\v 14 their oxen fat —
+\q1 no breaking of fence — nor going out —
+\q2 nor crying in their streets.
+\q1
+\v 15 They called the people who have these things — blessed —
+\q2 but blessed is the people whose God is the Lord.
+
+\c 144
+\d Praise — of David.
+\q1
+\v 1 I will exalt you my God my king —
+\q2 and I will bless your name to the age and beyond.
+\q1
+\v 2 Every day I will bless you —
+\q2 and I will praise your name to the age and beyond.
+\q1
+\v 3 Great is the Lord and greatly to be praised —
+\q2 and his greatness has no end.
+\q1
+\v 4 Generation to generation will praise your works —
+\q2 and will announce your power.
+\q1
+\v 5 The glorious splendor of your holiness they will speak —
+\q2 and your wonders they will recount.
+\q1
+\v 6 And the power of your fearful things they will speak —
+\q2 and your greatness they will recount.
+\q1
+\v 7 The memory of the abundance of your goodness they will pour forth —
+\q2 and in your righteousness they will rejoice.
+\q1
+\v 8 Compassionate and merciful is the Lord —
+\q2 patient and greatly merciful.
+\q1
+\v 9 Good is the Lord to all —
+\q2 and his compassions are upon all his works.
+\q1
+\v 10 Let all your works confess to you O Lord —
+\q2 and your holy ones bless you.
+\q1
+\v 11 The glory of your kingdom they will speak —
+\q2 and your power they will recount —
+\q1
+\v 12 to make known to the sons of men your power —
+\q2 and the glorious splendor of your kingdom.
+\q1
+\v 13 Your kingdom is a kingdom of all the ages —
+\q2 and your rule is in every generation and generation.
+\q1 The Lord is faithful in all his words —
+\q2 and holy in all his works.
+\q1
+\v 14 The Lord supports all who fall —
+\q2 and raises up all who are bowed down.
+\q1
+\v 15 The eyes of all hope in you —
+\q2 and you give them their food in due season.
+\q1
+\v 16 You open your hand —
+\q2 and fill every living thing with good pleasure.
+\q1
+\v 17 Righteous is the Lord in all his ways —
+\q2 and holy in all his works.
+\q1
+\v 18 The Lord is near to all who call upon him —
+\q2 to all who call upon him in truth.
+\q1
+\v 19 The will of those who fear him he will do —
+\q2 and their petition he will hear and save them.
+\q1
+\v 20 The Lord guards all who love him —
+\q2 and all the sinners he will destroy.
+\q1
+\v 21 The praise of the Lord my mouth will speak —
+\q2 and let all flesh bless his holy name —
+\q1 to the age and beyond.
+
+\c 145
+\d Hallelujah.
+\q1
+\v 1 Praise the Lord O my soul —
+\q2
+\v 2 I will praise the Lord in my life —
+\q1 I will make a psalm to my God while I exist.
+\q1
+\v 3 Do not trust in rulers —
+\q2 nor in the sons of men —
+\q1 in whom there is no salvation.
+\q1
+\v 4 His breath-of-life will go out and he will return to his earth —
+\q2 in that day all his thoughts will perish.
+\q1
+\v 5 Blessed is the one whose helper is the God of Jacob —
+\q2 whose hope is upon the Lord his God —
+\q1
+\v 6 who made heaven and earth —
+\q2 the sea and all that is in them —
+\q1 who keeps truth to the age —
+\q2
+\v 7 who executes judgment for those who are wronged —
+\q1 who gives food to the hungry.
+\q1 The Lord loosens those in bonds —
+\q2
+\v 8 the Lord gives wisdom to the blind —
+\q1 the Lord raises up those who are bowed down —
+\q2 the Lord loves the righteous —
+\q1
+\v 9 the Lord guards the sojourners —
+\q2 orphan and widow he will take up —
+\q1 and the way of sinners he will destroy.
+\q1
+\v 10 The Lord will reign to the age —
+\q2 your God O Zion to generation and generation.
+\p Hallelujah.
+
+\c 146
+\d Hallelujah.
+\q1
+\v 1 Praise the Lord —
+\q2 for a psalm is good —
+\q1 to our God — pleasant is praise.
+\q1
+\v 2 The Lord builds up Jerusalem —
+\q2 and will gather the scattered ones of Israel.
+\q1
+\v 3 Who heals the broken of heart —
+\q2 and binds up their wounds.
+\q1
+\v 4 Who counts the multitude of stars —
+\q2 and calls them all by name.
+\q1
+\v 5 Great is our Lord and great is his power —
+\q2 and of his understanding there is no number.
+\q1
+\v 6 The Lord takes up the gentle —
+\q2 but humbles sinners to the ground.
+\q1
+\v 7 Begin to the Lord with confession —
+\q2 make a psalm to our God on the harp.
+\q1
+\v 8 Who covers the heaven with clouds —
+\q2 who prepares rain for the earth —
+\q1 who makes grass spring up on the mountains —
+\q2 and green herb for the service of men.
+\q1
+\v 9 Who gives to the cattle their food —
+\q2 and to the young of ravens who call upon him.
+\q1
+\v 10 He will not take pleasure in the strength of a horse —
+\q2 nor in the legs of a man will he take pleasure.
+\q1
+\v 11 The Lord takes pleasure in those who fear him —
+\q2 and in those who hope in his mercy.
+\p Hallelujah.
+
+\c 147
+\d Hallelujah.
+\q1
+\v 1 Praise the Lord O Jerusalem —
+\q2 praise your God O Zion.
+\q1
+\v 2 For he strengthened the bars of your gates —
+\q2 he blessed your sons within you.
+\q1
+\v 3 Who sets peace on your borders —
+\q2 and fills you with the fat of wheat.
+\q1
+\v 4 Who sends his word to the earth —
+\q2 his word runs quickly.
+\q1
+\v 5 Who gives snow as wool —
+\q2 he scatters mist as ashes.
+\q1
+\v 6 Who casts his ice as bread-crumbs —
+\q2 before his cold — who will stand?
+\q1
+\v 7 He will send his word and melt them —
+\q2 his breath-of-life will blow and waters will flow.
+\q1
+\v 8 Who announces his word to Jacob —
+\q2 his ordinances and his judgments to Israel.
+\q1
+\v 9 He did not do so to every nation —
+\q2 and his judgments he did not make known to them.
+\p Hallelujah.
+
+\c 148
+\d Hallelujah.
+\q1
+\v 1 Praise the Lord from the heavens —
+\q2 praise him in the heights.
+\q1
+\v 2 Praise him all his angels —
+\q2 praise him all his hosts.
+\q1
+\v 3 Praise him sun and moon —
+\q2 praise him all the stars and light.
+\q1
+\v 4 Praise him the heaven of heavens —
+\q2 and the water above the heavens.
+\q1
+\v 5 Let them praise the name of the Lord —
+\q2 for he himself spoke and they came to be —
+\q1 he himself commanded and they were created.
+\q1
+\v 6 He established them to the age and to the age of ages —
+\q2 he set an ordinance and it will not pass away.
+\q1
+\v 7 Praise the Lord from the earth —
+\q2 dragons and all the depths —
+\q1
+\v 8 fire — hail — snow — ice —
+\q2 breath-of-life of the storm —
+\q1 which does his word —
+\q2
+\v 9 mountains and all the hills —
+\q1 fruit trees and all the cedars —
+\q2
+\v 10 wild animals and all the cattle —
+\q1 creeping things and winged birds —
+\q2
+\v 11 kings of the earth and all peoples —
+\q1 rulers and all judges of the earth —
+\q2
+\v 12 young men and virgins —
+\q1 old men with youths —
+\q2
+\v 13 let them praise the name of the Lord —
+\q1 for his name alone is exalted.
+\q1 His acknowledgment is over earth and heaven —
+\q2
+\v 14 and he will exalt the horn of his people.
+\q1 A hymn for all his holy ones —
+\q2 for the sons of Israel — a people drawing near to him.
+\p Hallelujah.
+
+\c 149
+\d Hallelujah.
+\q1
+\v 1 Sing to the Lord a new song —
+\q2 his praise in the gathering of holy ones.
+\q1
+\v 2 Let Israel be glad in the one who made him —
+\q2 and let the sons of Zion rejoice in their king.
+\q1
+\v 3 Let them praise his name in a dance —
+\q2 on timbrel and harp let them make a psalm to him.
+\q1
+\v 4 For the Lord takes pleasure in his people —
+\q2 and will exalt the gentle with salvation.
+\q1
+\v 5 The holy ones will boast in glory —
+\q2 and will rejoice upon their beds.
+\q1
+\v 6 The high praises of God in their throat —
+\q2 and two-edged swords in their hand —
+\q1
+\v 7 to execute vengeance among the nations —
+\q2 rebukes among the peoples —
+\q1
+\v 8 to bind their kings in fetters —
+\q2 and their honored ones in iron manacles —
+\q1
+\v 9 to execute in them the written judgment —
+\q2 this is glory for all his holy ones.
+\p Hallelujah.
+
+\c 150
+\d Hallelujah.
+\q1
+\v 1 Praise God in his holy ones —
+\q2 praise him in the firmament of his power.
+\q1
+\v 2 Praise him for his mighty acts —
+\q2 praise him according to the multitude of his greatness.
+\q1
+\v 3 Praise him with the sound of a trumpet —
+\q2 praise him with psaltery and harp.
+\q1
+\v 4 Praise him with timbrel and dance —
+\q2 praise him with strings and flute.
+\q1
+\v 5 Praise him with melodious cymbals —
+\q2 praise him with cymbals of shouting.
+\q1
+\v 6 Let every breath-of-life praise the Lord.
+\p Hallelujah.
+
+\c 151
+\d This psalm is a genuine one of David — though outside the number — when he fought in single combat with Goliath.
+\q1
+\v 1 I was small among my brothers —
+\q2 and the youngest in my father's house —
+\q1 I tended my father's sheep.
+\q1
+\v 2 My hands made a musical instrument —
+\q2 and my fingers tuned a psaltery.
+\q1
+\v 3 And who will announce to my Lord?
+\q2 The Lord himself — he himself hears.
+\q1
+\v 4 He himself sent his messenger —
+\q2 and took me from my father's sheep —
+\q1 and anointed me with the oil of his anointing.
+\q1
+\v 5 My brothers were fair and tall —
+\q2 but the Lord did not take pleasure in them.
+\q1
+\v 6 I went out to meet the Philistine —
+\q2 and he cursed me by his idols.
+\q1
+\v 7 But I drew his own sword from him —
+\q2 and beheaded him —
+\q1 and took away reproach from the sons of Israel.
 
 ---
 
