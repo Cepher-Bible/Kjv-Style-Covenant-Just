@@ -916,6 +916,194 @@ Joshua commissioned, **Song of Moses**, **Blessing of Moses**, Moses sees the la
 \v 18 And the Lord has declared you today to be a people for his own possession — as he spoke to you — and to keep all his commandments —
 \v 19 and to set you high above all nations which he made — in praise and in name and in honor — and for you to be a holy people to the Lord your God — as he spoke.
 
+\c 27
+\p
+\v 1 And Moses and the elders of Israel commanded the people saying: Keep all the commandment which I command you today.
+\v 2 And it will come to pass on the day you cross the Jordan to the land which the Lord your God gives to you — you will set up for yourself large stones and plaster them with plaster.
+\v 3 And you will write on them all the words of this law when you cross over — so that you may enter the land which the Lord your God gives to you — a land flowing with milk and honey — as the Lord the God of your fathers spoke to you.
+\v 4 And it will come to pass when you cross the Jordan — you will set up these stones on Mount Ebal as I command you today — and you will plaster them with plaster.
+\v 5 And you will build there an altar to the Lord your God — an altar of stones. You will not lift iron upon them.
+\v 6 Of whole stones you will build the altar of the Lord your God — and you will offer on it whole-burnt offerings to the Lord your God.
+\v 7 And you will sacrifice peace-offerings and eat there — and you will rejoice before the Lord your God.
+\v 8 And you will write on the stones all the words of this law — plainly and clearly.
+\p
+\v 9 And Moses and the Levitical priests spoke to all Israel saying: Be silent and hear O Israel — today you have become the people of the Lord your God.
+\v 10 And you will hear the voice of the Lord your God and do his commandments and his statutes which I command you today.
+\p
+\v 11 And Moses commanded the people on that day saying:
+\v 12 These will stand on Mount Gerizim to bless the people when you cross the Jordan — Simeon and Levi and Judah and Issachar and Joseph and Benjamin.
+\v 13 And these will stand on Mount Ebal for the curse — Reuben — Gad and Asher and Zebulun — Dan and Naphtali.
+\p
+\v 14 And the Levites will answer and say to all the men of Israel with a loud voice:
+\p
+\v 15 Cursed is the man who makes a carved or molten image — an abomination to the Lord — the work of the hands of a craftsman — and sets it up in secret. And all the people will answer and say: Amen.
+\p
+\v 16 Cursed is the one who dishonors his father or his mother. And all the people will say: Amen.
+\p
+\v 17 Cursed is the one who removes his neighbor's landmark. And all the people will say: Amen.
+\p
+\v 18 Cursed is the one who leads the blind astray on the road. And all the people will say: Amen.
+\p
+\v 19 Cursed is the one who perverts the justice of the sojourner — the fatherless and the widow. And all the people will say: Amen.
+\p
+\v 20 Cursed is the one who lies with the wife of his father — because he uncovered his father's garment. And all the people will say: Amen.
+\p
+\v 21 Cursed is the one who lies with any animal. And all the people will say: Amen.
+\p
+\v 22 Cursed is the one who lies with his sister — the daughter of his father or the daughter of his mother. And all the people will say: Amen.
+\p
+\v 23 Cursed is the one who lies with his mother-in-law. And all the people will say: Amen.
+\p
+\v 24 Cursed is the one who strikes his neighbor in secret. And all the people will say: Amen.
+\p
+\v 25 Cursed is the one who takes a bribe to strike down an innocent soul. And all the people will say: Amen.
+\p
+\v 26 Cursed is the one who does not establish the words of this law to do them. And all the people will say: Amen.
+
+\c 28
+\p
+\v 1 And it will come to pass if you carefully hear the voice of the Lord your God — to keep and to do all his commandments which I command you today — the Lord your God will set you high above all the nations of the earth.
+\v 2 And all these blessings will come upon you and overtake you — if you hear the voice of the Lord your God.
+\p
+\v 3 Blessed will you be in the city and blessed will you be in the field.
+\v 4 Blessed will be the fruit of your womb and the fruit of your ground and the fruit of your livestock — the offspring of your cattle and the young of your flock.
+\v 5 Blessed will be your basket and your kneading-bowl.
+\v 6 Blessed will you be when you come in and blessed will you be when you go out.
+\p
+\v 7 The Lord will cause your enemies who rise against you to be struck down before you — they will come out against you one way and flee before you seven ways.
+\v 8 The Lord will command the blessing upon you in your storehouses and in all that you put your hand to — and he will bless you in the land which the Lord your God gives you.
+\v 9 The Lord will establish you as a holy people to himself — as he swore to you — if you keep the commandments of the Lord your God and walk in his ways.
+\v 10 And all the peoples of the earth will see that the name of the Lord is called over you — and they will fear you.
+\v 11 And the Lord will make you abound in prosperity — in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground — on the land which the Lord swore to your fathers to give to you.
+\v 12 The Lord will open for you his good treasury — the heavens — to give the rain of your land in its season and to bless all the work of your hand. And you will lend to many nations but you will not borrow.
+\v 13 And the Lord will make you the head and not the tail — and you will be only above and not below — if you hear the commandments of the Lord your God which I command you today to keep and to do.
+\v 14 And you will not turn aside from any of the words which I command you today — to the right or to the left — to go after other gods to serve them.
+\p
+\v 15 But it will come to pass if you do not hear the voice of the Lord your God — to keep and to do all his commandments and his statutes which I command you today — all these curses will come upon you and overtake you.
+\p
+\v 16 Cursed will you be in the city and cursed will you be in the field.
+\v 17 Cursed will be your basket and your kneading-bowl.
+\v 18 Cursed will be the fruit of your womb and the fruit of your ground — the offspring of your cattle and the young of your flock.
+\v 19 Cursed will you be when you come in and cursed will you be when you go out.
+\p
+\v 20 The Lord will send upon you curse and confusion and rebuke in all that you put your hand to do — until you are destroyed and until you perish quickly — on account of the evil of your deeds because you have forsaken me.
+\v 21 The Lord will make the pestilence cling to you until he has consumed you from the land into which you are entering to possess it.
+\v 22 The Lord will strike you with wasting disease and with fever and with inflammation and with fiery heat and with drought and with blight and with mildew — and they will pursue you until you perish.
+\v 23 And your heaven which is over your head will be bronze — and the earth that is under you will be iron.
+\v 24 The Lord will make the rain of your land powder and dust — from heaven it will come down upon you until you are destroyed.
+\p
+\v 25 The Lord will cause you to be struck down before your enemies — you will go out against them one way and flee before them seven ways — and you will be a horror to all the kingdoms of the earth.
+\v 26 And your carcass will be food for every bird of the heaven and for the animals of the earth — and there will be no one to frighten them away.
+\v 27 The Lord will strike you with the boils of Egypt and with tumors and with the scab and with the itch — from which you cannot be healed.
+\v 28 The Lord will strike you with madness and with blindness and with confusion of heart.
+\v 29 And you will grope at midday as the blind gropes in the darkness — and you will not prosper in your ways — and you will be only oppressed and robbed all the days — and there will be no one to save you.
+\v 30 You will betroth a wife but another man will lie with her — you will build a house but you will not dwell in it — you will plant a vineyard but you will not use its fruit.
+\v 31 Your ox will be slaughtered before your eyes but you will not eat from it — your donkey will be seized before your face and will not be returned to you — your flock will be given to your enemies and there will be no one to save you.
+\v 32 Your sons and your daughters will be given to another people — and your eyes will look and fail for them all day long — and there will be no power in your hand.
+\v 33 The fruit of your ground and all your labor a nation which you did not know will eat — and you will be only oppressed and crushed all the days.
+\v 34 And you will be driven mad by the sight of your eyes which you see.
+\v 35 The Lord will strike you with evil boils on the knees and on the legs — from which you cannot be healed — from the sole of your foot to the top of your head.
+\p
+\v 36 The Lord will bring you and your king whom you set over you to a nation which you have not known — you nor your fathers — and you will serve there other gods — wood and stone.
+\v 37 And you will become a horror — a proverb and a byword — among all the peoples to whom the Lord will drive you.
+\p
+\v 38 You will carry much seed out to the field but you will gather in little — for the locust will devour it.
+\v 39 You will plant vineyards and labor — but you will not drink the wine and will not gather — for the worm will eat it.
+\v 40 You will have olive trees throughout all your territory but you will not anoint yourself with oil — for your olive tree will drop its fruit.
+\v 41 You will father sons and daughters but they will not be yours — for they will go into captivity.
+\v 42 All your trees and the fruit of your ground the locust will possess.
+\v 43 The sojourner who is among you will rise higher and higher above you — and you will come down lower and lower.
+\v 44 He will lend to you but you will not lend to him — he will be the head and you will be the tail.
+\p
+\v 45 And all these curses will come upon you and pursue you and overtake you until you are destroyed — because you did not hear the voice of the Lord your God — to keep his commandments and his statutes which he commanded you.
+\v 46 And they will be upon you as a sign and as a wonder — and upon your seed — forever.
+\v 47 Because you did not serve the Lord your God with joyfulness and with gladness of heart — because of the abundance of all things —
+\v 48 you will serve your enemies whom the Lord will send against you — in hunger and in thirst and in nakedness and in lack of all things. And he will put an iron yoke on your neck until he has destroyed you.
+\p
+\v 49 The Lord will raise against you a nation from far away — from the end of the earth — as swift as the eagle swoops — a nation whose language you will not understand —
+\v 50 a nation of fierce countenance who will not regard the face of the old and will not show favor to the young.
+\v 51 And it will eat the fruit of your livestock and the fruit of your ground until you are destroyed — which will not leave you grain — wine or oil — the offspring of your cattle or the young of your flock — until it has destroyed you.
+\v 52 And it will besiege you in all your gates until your high and fortified walls come down — in which you trusted — throughout all your land. And it will besiege you in all your gates throughout all your land which the Lord your God gave you.
+\v 53 And you will eat the fruit of your womb — the flesh of your sons and daughters whom the Lord your God gave you — in the siege and in the distress with which your enemy will distress you.
+\v 54 The man among you who is tender and very delicate — his eye will be evil against his brother and against the wife of his bosom and against the rest of his children whom he has remaining —
+\v 55 so as not to give to any of them from the flesh of his children which he is eating — because nothing is left to him — in the siege and in the distress with which your enemy will distress you in all your gates.
+\v 56 The tender and delicate woman among you — who would not venture to set the sole of her foot on the ground because of her delicateness and tenderness — her eye will be evil against the husband of her bosom and against her son and against her daughter —
+\v 57 and against her afterbirth that comes out from between her feet and against her children whom she bears — for she will eat them secretly in the lack of all things — in the siege and in the distress with which your enemy will distress you in your gates.
+\p
+\v 58 If you are not careful to do all the words of this law which are written in this scroll — to fear this glorious and fearful name — the Lord your God —
+\v 59 then the Lord will make extraordinary your plagues — and the plagues of your seed — great plagues and lasting — and evil and lasting sicknesses.
+\v 60 And he will bring back upon you all the diseases of Egypt of which you were afraid — and they will cling to you.
+\v 61 Also every sickness and every plague which is not written in the scroll of this law — the Lord will bring them upon you until you are destroyed.
+\v 62 And you will be left few in number — whereas you were as the stars of heaven in multitude — because you did not hear the voice of the Lord your God.
+\v 63 And it will come to pass that as the Lord rejoiced over you to do good to you and to multiply you — so the Lord will rejoice over you to destroy you and to ruin you. And you will be torn from the land into which you are entering to possess it.
+\v 64 And the Lord will scatter you among all peoples — from one end of the earth to the other end of the earth — and there you will serve other gods which you have not known — you nor your fathers — wood and stone.
+\v 65 And among those nations you will find no ease — and there will be no rest for the sole of your foot. And the Lord will give you there a trembling heart and failing eyes and a languishing soul.
+\v 66 And your life will be hanging before you — and you will be afraid night and day — and you will have no assurance of your life.
+\v 67 In the morning you will say: Who will give that it were evening — and in the evening you will say: Who will give that it were morning — because of the dread of your heart which you dread and because of the sight of your eyes which you see.
+\v 68 And the Lord will bring you back to Egypt in ships — by the way of which I said to you: You will not see it again. And you will offer yourselves there for sale to your enemies as male-servants and female-servants — and there will be no buyer.
+
+\c 29
+\p
+\v 1 These are the words of the covenant which the Lord commanded Moses to make with the sons of Israel in the land of Moab — besides the covenant which he made with them at Horeb.
+\p
+\v 2 And Moses called all Israel and said to them: You have seen all that the Lord did before your eyes in the land of Egypt — to Pharaoh and to all his servants and to all his land —
+\v 3 the great trials which your eyes saw — the signs and those great wonders.
+\v 4 But the Lord has not given you a heart to know and eyes to see and ears to hear — to this day.
+\v 5 And I led you forty years in the desolate-place — your garments did not wear out on you and your sandal did not wear out on your foot.
+\v 6 Bread you did not eat and wine and strong drink you did not drink — so that you might know that I am the Lord your God.
+\v 7 And you came to this place — and Sihon king of Heshbon and Og king of Bashan came out to meet us for battle — and we struck them.
+\v 8 And we took their land and gave it as an inheritance to the Reubenites and to the Gadites and to the half-tribe of Manasseh.
+\v 9 And you will keep the words of this covenant and do them — so that you may act wisely in all that you do.
+\p
+\v 10 You are standing today — all of you — before the Lord your God — your heads — your tribes — your elders and your officers — every man of Israel —
+\v 11 your little ones — your wives — and your sojourner who is in the midst of your camp — from the one who chops your wood to the one who draws your water —
+\v 12 to enter into the covenant of the Lord your God — and into his oath — which the Lord your God makes with you today —
+\v 13 so that he may establish you today as a people for himself — and that he may be your God — as he spoke to you and as he swore to your fathers — to Abraham to Isaac and to Jacob.
+\v 14 But not with you alone am I making this covenant and this oath —
+\v 15 but with whoever is standing here with us today before the Lord our God — and with whoever is not here with us today.
+\p
+\v 16 For you know how we dwelt in the land of Egypt and how we passed through the midst of the nations through which you passed.
+\v 17 And you saw their abominations and their idols — wood and stone — silver and gold — which were among them.
+\v 18 Lest there be among you a man or woman or family or tribe whose heart turns today from the Lord our God — to go and serve the gods of those nations. Lest there be among you a root bearing poisonous and bitter fruit —
+\v 19 and it comes to pass when he hears the words of this oath — and he blesses himself in his heart saying: I will have peace though I walk in the stubbornness of my heart — so that the watered is swept away with the thirsty.
+\v 20 The Lord will not be willing to forgive him — but then the wrath of the Lord and his jealousy will smoke against that man — and all the curse written in this scroll will settle on him — and the Lord will blot out his name from under heaven.
+\v 21 And the Lord will single him out for evil from all the tribes of Israel — according to all the curses of the covenant written in this scroll of the law.
+\p
+\v 22 And the generation to come — your sons who rise up after you — and the foreigner who comes from a distant land — will see the plagues of that land and the sicknesses which the Lord laid on it —
+\v 23 all its soil burned out with sulfur and salt — not sown and not sprouting and no vegetation rising on it — like the overthrow of Sodom and Gomorrah — Admah and Zeboiim — which the Lord overthrew in his anger and in his wrath.
+\v 24 And all the nations will say: Why did the Lord do thus to this land? What is the heat of this great wrath?
+\v 25 And they will say: Because they forsook the covenant of the Lord the God of their fathers — which he made with them when he led them out from the land of Egypt —
+\v 26 and they went and served other gods and bowed down to them — gods which they did not know and which he did not allot to them.
+\v 27 And the wrath of the Lord burned against that land — to bring upon it all the curse written in this scroll.
+\v 28 And the Lord uprooted them from their land in anger and in wrath and in great fury — and cast them into another land as at this day.
+\p
+\v 29 The hidden things belong to the Lord our God — but the revealed things belong to us and to our sons forever — to do all the words of this law.
+
+\c 30
+\p
+\v 1 And it will come to pass when all these things come upon you — the blessing and the curse which I set before you — and you take them to your heart among all the nations where the Lord your God has driven you —
+\v 2 and you return to the Lord your God and hear his voice according to all that I command you today — you and your sons — with all your heart and with all your soul —
+\v 3 then the Lord your God will restore your fortunes and have compassion on you — and he will gather you again from all the peoples where the Lord your God scattered you.
+\v 4 If your outcasts are at the ends of heaven — from there the Lord your God will gather you and from there he will take you.
+\v 5 And the Lord your God will bring you into the land which your fathers possessed and you will possess it — and he will do good to you and multiply you more than your fathers.
+\v 6 And the Lord your God will circumcise your heart and the heart of your seed — to love the Lord your God with all your heart and with all your soul — so that you may live.
+\v 7 And the Lord your God will put all these curses upon your enemies and upon those who hate you — who pursued you.
+\v 8 And you will return and hear the voice of the Lord — and do all his commandments which I command you today.
+\v 9 And the Lord your God will make you abundantly prosperous in all the work of your hand — in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground — for good. For the Lord will again rejoice over you for good — as he rejoiced over your fathers —
+\v 10 when you hear the voice of the Lord your God — to keep his commandments and his statutes which are written in this scroll of the law — when you return to the Lord your God with all your heart and with all your soul.
+\p
+\v 11 For this commandment which I command you today — it is not too wonderful for you and it is not far off.
+\v 12 It is not in heaven — that you should say: Who will go up for us to heaven and take it for us and make us hear it so that we may do it?
+\v 13 And it is not beyond the sea — that you should say: Who will cross over the sea for us and take it for us and make us hear it so that we may do it?
+\v 14 But the word is very near to you — in your mouth and in your heart — to do it.
+\p
+\v 15 See — I set before you today life and good — and death and evil.
+\v 16 In that I command you today to love the Lord your God — to walk in his ways and to keep his commandments and his statutes and his judgments — so that you may live and multiply — and the Lord your God will bless you in the land into which you are entering to possess it.
+\v 17 But if your heart turns away and you do not hear — and you are drawn away and bow down to other gods and serve them —
+\v 18 I declare to you today that you will certainly perish. You will not lengthen your days on the land which you are crossing the Jordan to enter and possess.
+\v 19 I call heaven and earth to witness against you today — life and death I set before you — the blessing and the curse. And you will choose life — so that you may live — you and your seed —
+\v 20 to love the Lord your God — to hear his voice and to hold fast to him — for he is your life and the length of your days — to dwell on the land which the Lord swore to your fathers — to Abraham to Isaac and to Jacob — to give to them.
+
 \c 31
 \p
 \v 1 And Moses went and spoke these words to all Israel.
