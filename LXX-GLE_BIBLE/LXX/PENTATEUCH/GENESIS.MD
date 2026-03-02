@@ -108,7 +108,7 @@ CAE flags active for Genesis:
 \p
 \v 14 And the Lord God said to the serpent: Because you did this you are cursed from all the cattle and from all the wild-animals of the earth — upon your breast and belly you will go and you will eat earth all the days of your life.
 \v 15 And I will put enmity between you and between the woman — and between your seed and between her seed — he will watch against your head and you will watch against his heel.
-\v 16 And to the woman he said: Multiplying I will multiply your pains and your groaning — in pains you will bear children — and your turning will be toward your husband and he will rule over you.
+\v 16 And to the woman he said: Multiplying I will multiply your pains and your groaning — in pains you will bear sons — and your turning will be toward your husband and he will rule over you.
 \v 17 And to Adam he said: Because you heard the voice of your wife and ate from the tree from which I commanded you alone not to eat — cursed is the ground in your works — in pains you will eat from it all the days of your life.
 \v 18 Thorns and thistles it will bring forth to you — and you will eat the grass of the open-field.
 \v 19 In the sweat of your face you will eat your bread until you return to the ground from which you were taken — because earth you are and into earth you will go away.
@@ -118,7 +118,7 @@ CAE flags active for Genesis:
 \p
 \v 22 And God said: Look — Adam has become as one of us — knowing good and evil — and now lest he stretch out his hand and take also from the tree of life and eat and live into the age —
 \v 23 and the Lord God sent him out from the garden of delight to work the ground from which he was taken.
-\v 24 And he cast out Adam — and caused him to dwell opposite the garden of delight — and he stationed the cherubim and the flaming sword that turns itself to guard the road of the tree of life.
+\v 24 And he cast out Adam — and caused him to dwell opposite the garden of delight — and he stationed the cherubim and the flaming sword that turns itself to guard the way of the tree of life.
 
 \c 4
 \p
@@ -128,7 +128,7 @@ CAE flags active for Genesis:
 \v 4 And Abel brought also from the firstborn of his sheep and from their fat portions. And God looked upon Abel and upon his gifts —
 \v 5 but upon Cain and upon his gifts he did not look. And Cain was deeply grieved and his face fell.
 \v 6 And the Lord God said to Cain: Why did you become deeply grieved and why did your face fall?
-\v 7 Did you not sin if you offered correctly but did not divide correctly? Be still — to you is its turning and you will rule over it.
+\v 7 Did you not sin if you offered correctly but did not divide correctly? Be still — to you is her turning and you will rule over her.
 \v 8 And Cain said to Abel his brother: Let us go out into the open-field. And it came to pass when they were in the open-field that Cain rose up against Abel his brother and killed him.
 \p
 \v 9 And the Lord God said to Cain: Where is Abel your brother? And he said: I do not know — am I my brother's guardian?
