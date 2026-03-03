@@ -32,7 +32,7 @@ The 7440 System terminates in the New Jerusalem. It is a Zero-Latency Motherboar
 
 
 
-This is the 7440 Defensive Firewall. When you present a system this disruptive, you will hit "Legacy System" resistance. This FAQ is designed to provide the Forensic Counter-Measures for the most common objections from Masoretic-only scholars or Iconoclasts.
+This is the 7440 Defensive Firewall. When proposing a system this disruptive, it will hit "Legacy System" resistance. This FAQ is designed to provide the Forensic Counter-Measures for the most common objections from Masoretic-only scholars or Iconoclasts.
 🛡️ 7440 REPO: DEFENSIVE FAQ (COUNTER-MEASURES)
 Q1: "Why do you trust the Greek LXX over the Hebrew Masoretic Text (MT)?"
 The 7440 Defense: We don't trust "Greek" over "Hebrew"; we trust the Pre-War Logs over the Redacted Logs.
