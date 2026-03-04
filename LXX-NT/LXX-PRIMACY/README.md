@@ -29,7 +29,7 @@ No single "original" text.
 ```
 
 **Where DSS + LXX + NT align against MT:** Apostolic witness validates LXX.
-
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/LXX_vs_MT/MASORETIC_POLLUTION.MD
 ---
 
 ## 🔥 The Flagship Cases
