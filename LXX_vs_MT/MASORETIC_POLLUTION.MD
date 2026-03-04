@@ -183,6 +183,7 @@ When you look at the genealogies in Genesis 5 and 11 (the "begats"), the Masoret
 The Forensic Breakdown: Where did the years go?
 The difference isn't random. It follows a mathematical pattern. In almost every case, the LXX records that the patriarch (Adam, Seth, etc.) was 100 years older when his son was born than the MT records.
 Genesis 5 (Pre-Flood)
+```
 | Patriarch | Age at Son's Birth (MT) | Age at Son's Birth (LXX) | Difference |
 |---|---|---|---|
 | Adam | 130 | 230 | +100 years |
@@ -196,6 +197,8 @@ Genesis 5 (Pre-Flood)
 | Lamech | 182 | 188 | +6 years |
 | Total Added |  |  | ~600 Years |
 Genesis 11 (Post-Flood)
+```
+
 The pattern continues after Noah. In the MT, the world is repopulated incredibly fast. In the LXX, it takes much longer. The LXX even includes an extra patriarch—Cainan—whom the MT completely deleted (but who appears in the New Testament in Luke 3:36!).
 Why the "Screw Up"? (The Motive)
 This isn't a typo. You don't accidentally add or subtract 100 years eight different times. This was premeditated.
