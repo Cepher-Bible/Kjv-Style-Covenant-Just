@@ -1,3 +1,5 @@
+```
+
 \id JDG
 \h Judges
 \toc1 Judges
@@ -894,7 +896,7 @@
 \p
 \v 25 In those days there was no king in Israel — every man did what was right in his own eyes.
 
-
+```
 
 
 
