@@ -1,3 +1,5 @@
+```
+
 \id RUT
 \h Ruth
 \toc1 Ruth
@@ -109,7 +111,7 @@
 \v 21 Salmon fathered Boaz — Boaz fathered Obed —
 \v 22 Obed fathered Jesse — and Jesse fathered David.
 
-
+```
 
 
 ___________
