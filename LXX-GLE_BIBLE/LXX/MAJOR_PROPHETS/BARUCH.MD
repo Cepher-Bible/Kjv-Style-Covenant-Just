@@ -1,3 +1,5 @@
+```
+
 \id BAR
 \h Baruch
 \toc1 Baruch
@@ -449,7 +451,7 @@
 \v 72 By the purple and linen that rot upon them you will know that they are not gods — and they will finally themselves be consumed and be a reproach in the land.
 \v 73 Better therefore is the one who is upright and has no idols — for such a person will be far above reproach.
 
-
+```
 
 ________
 
