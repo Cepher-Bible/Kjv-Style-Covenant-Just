@@ -8,7 +8,7 @@
 \c 1
 \p
 \v 1 God having spoken long ago in many portions and in many ways to the fathers through the prophets —
-\v 2 in these last days has spoken to us through a Son (*en huiō*) — whom he appointed heir of all things — through whom also he made the ages (*tous aiōnas*).
+\v 2 in these last days has spoken to us through a Son (*en huiō*) — whom he appointed heir of all things (*klēronomon pantōn*) — through whom also he made the ages (*tous aiōnas*).
 \v 3 Who being the radiance of his glory (*apaugasma tēs doxēs*) and the exact representation of his being (*charaktēr tēs hypostaseōs autou*) — and upholding all things by the word of his power (*tō rhēmati tēs dynameōs autou*) — when he had made purification of sins sat down at the right hand of the Majesty on high —
 \v 4 having become as much better than the angels as the name he has inherited is more excellent than theirs.
 \p
@@ -32,17 +32,17 @@
 \v 4 God also testifying with them both by signs and wonders and by various miracles and by gifts of the Holy Breath-of-life (*pneumatos hagiou*) according to his own will.
 \p
 \v 5 For it was not to angels that he subjected the coming inhabited world (*tēn oikoumenēn tēn mellousan*) about which we are speaking.
-\v 6 But one has testified somewhere saying: What is man that you remember him — or the son of man that you care for him?
+\v 6 But one has testified somewhere saying: What is man that you remember him — or the son of man (*huios anthrōpou*) that you care for him?
 \v 7 You made him for a little while lower than the angels — you crowned him with glory and honor — and set him over the works of your hands —
 \v 8 you put all things in subjection under his feet. For in subjecting all things to him he left nothing that is not subject to him. But now we do not yet see all things subjected to him.
 \v 9 But we see Jesus — who was made for a little while lower than the angels — because of the suffering of death crowned with glory and honor — so that by the grace of God he might taste death for everyone.
 \p
 \v 10 For it was fitting for him — for whom are all things and through whom are all things — in bringing many sons to glory (*pollous huious eis doxan agagonta*) — to perfect the pioneer of their salvation (*ton archēgon tēs sōtērias autōn*) through sufferings.
 \v 11 For both the one who sanctifies and those who are being sanctified are all from one — for which reason he is not ashamed to call them brothers —
-\v 12 saying: I will proclaim your name to my brothers — in the midst of the assembly (*ekklēsia*) I will sing your praise.
+\v 12 saying: I will proclaim your name to my brothers — in the midst of the called-out assembly (*ekklēsias*) I will sing your praise.
 \v 13 And again: I will put my trust in him. And again: Here am I and the children God has given me.
 \p
-\v 14 Since therefore the children share in flesh (*sarkos*) and blood (*haimatos*) — he himself likewise partook of the same — so that through death he might destroy the one who has the power of death — that is the devil (*diabolon*) —
+\v 14 Since therefore the children share in flesh (*sarkos*) and blood — he himself likewise partook of the same — so that through death he might destroy the one who has the power of death — that is the slanderer (*diabolon*) —
 \v 15 and deliver all those who through fear of death were subject to lifelong slavery.
 \v 16 For surely it is not angels he helps but he helps the seed of Abraham (*spermatos Abraam*).
 \v 17 Therefore he had to be made like his brothers in every respect — so that he might become a merciful and faithful high priest (*archiereus*) in the things pertaining to God — to make atonement (*hilaskesthai*) for the sins of the people.
@@ -58,7 +58,7 @@
 \v 6 but Christ is faithful over his house as a Son (*huios*). And we are his house if indeed we hold fast our confidence and the boasting of our hope firm to the end.
 \p
 \v 7 Therefore as the Holy Breath-of-life (*pneuma to hagion*) says: Today if you hear his voice —
-\v 8 do not harden your hearts as in the provocation — on the day of testing in the wilderness —
+\v 8 do not harden your hearts (*kardias*) as in the provocation — on the day of testing in the wilderness —
 \v 9 where your fathers tested and tried me and saw my works for forty years.
 \v 10 Therefore I was provoked with that generation and said: They always go astray in their heart (*kardia*) — and they have not known my ways —
 \v 11 as I swore in my wrath: They shall not enter my rest (*katapausin*).
@@ -66,6 +66,9 @@
 \v 12 Take care brothers lest there be in any of you an evil unbelieving heart (*kardia*) — leading you to fall away from the living God.
 \v 13 But exhort one another every day as long as it is called today — that none of you may be hardened by the deceitfulness of sin.
 \v 14 For we have come to share in Christ if indeed we hold our original confidence firm to the end.
+\v 15 As it is said: Today if you hear his voice do not harden your hearts (*kardias*) as in the provocation.
+\v 16 For who were those who heard and yet provoked? Was it not all those who left Egypt led by Moses?
+\v 17 And with whom was he provoked for forty years? Was it not with those who sinned — whose bodies fell in the wilderness?
 \v 18 And to whom did he swear that they would not enter his rest (*katapausin*) but to those who were disobedient?
 \v 19 So we see that they were unable to enter because of unbelief.
 
@@ -75,8 +78,10 @@
 \v 2 For good news came to us just as to them — but the message they heard did not benefit them because they were not united by faith with those who listened.
 \v 3 For we who have believed enter that rest (*katapausin*) — as he has said: As I swore in my wrath — they shall not enter my rest — although his works were finished from the foundation of the world.
 \v 4 For he has somewhere spoken of the seventh day in this way: And God rested on the seventh day from all his works.
-\v 7 Again he appoints a certain day — Today — saying through David so long afterward in the words already quoted: Today if you hear his voice do not harden your hearts (*kardias*).
-\v 8 For if Joshua (*Iēsous*) had given them rest (*katepausen*) God would not have spoken of another day later on.
+\v 5 And again in this passage: They shall not enter my rest.
+\v 6 Since therefore it remains for some to enter it — and those who formerly received the good news failed to enter because of disobedience —
+\v 7 again he appoints a certain day — Today — saying through David so long afterward in the words already quoted: Today if you hear his voice do not harden your hearts (*kardias*).
+\v 8 For if Joshua (*Iēsous*) had given them rest (*katepausen*) — God would not have spoken of another day later on.
 \v 9 So then there remains a Sabbath rest (*sabbatismos*) for the people of God —
 \v 10 for whoever has entered God's rest has also rested from his works as God did from his.
 \v 11 Let us therefore strive to enter that rest (*katapausin*) so that no one may fall by the same sort of disobedience.
@@ -86,12 +91,13 @@
 \p
 \v 14 Since then we have a great high priest (*archiereus*) who has passed through the heavens — Jesus the Son of God — let us hold fast our confession.
 \v 15 For we do not have a high priest who is unable to sympathize with our weaknesses — but one who in every respect has been tempted as we are yet without sin.
-\v 16 Let us therefore draw near with confidence to the throne of grace (*throno tēs charitos*) — so that we may receive mercy (*eleos*) and find grace to help in time of need.
+\v 16 Let us therefore draw near with confidence to the throne of grace (*throno tēs charitos*) — so that we may receive steadfast love (*eleos*) and find grace to help in time of need.
 
 \c 5
 \p
 \v 1 For every high priest (*archiereus*) taken from among men is appointed on behalf of men in things pertaining to God — in order to offer both gifts and sacrifices for sins —
 \v 2 being able to deal gently with the ignorant and wayward since he himself is also beset with weakness.
+\v 3 Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people.
 \v 4 And no one takes this honor for himself but only when called by God just as Aaron was.
 \v 5 So also Christ did not exalt himself to be made high priest — but was appointed by him who said to him: You are my Son — today I have begotten you —
 \v 6 as he says also in another place: You are a priest forever after the order of Melchizedek (*kata tēn taxin Melchisedek*).
@@ -100,12 +106,34 @@
 \v 8 Although he was a Son (*huios*) — he learned obedience through what he suffered —
 \v 9 and being made perfect he became the source of eternal salvation (*aiōniou sōtērias*) to all who obey him —
 \v 10 being designated by God a high priest after the order of Melchizedek.
+\p
+\v 11 About this we have much to say — and it is hard to explain since you have become dull of hearing.
+\v 12 For though by this time you ought to be teachers — you need someone to teach you again the basic principles of the oracles of God. You need milk — not solid food —
+\v 13 for everyone who lives on milk is unskilled in the word of righteousness (*dikaiosynēs*) since he is a child.
+\v 14 But solid food is for the mature — for those who have their powers of discernment trained by constant practice to distinguish good from evil.
 
 \c 6
 \p
-\v 13 For when God made a promise to Abraham — since he had no one greater by whom to swear he swore by himself —
+\v 1 Therefore let us leave the elementary doctrine of the Anointed and go on to maturity — not laying again a foundation of repentance from dead works and of faith toward God —
+\v 2 and of instruction about washings — the laying on of hands — the resurrection of the dead — and eternal judgment.
+\v 3 And this we will do if God permits.
+\p
+\v 4 For it is impossible — in the case of those who have once been enlightened — who have tasted the heavenly gift — and have shared in the Holy Breath-of-life (*pneumatos hagiou*) —
+\v 5 and have tasted the goodness of the word of God and the powers of the age to come —
+\v 6 and then have fallen away — to restore them again to repentance — since they are crucifying once again the Son of God to their own harm and holding him up to contempt.
+\v 7 For land that has drunk the rain that often falls on it and produces a crop useful to those for whose sake it is cultivated receives a blessing from God —
+\v 8 but if it bears thorns and thistles it is worthless and near to being cursed — and its end is to be burned.
+\p
+\v 9 Though we speak in this way yet in your case beloved we feel sure of better things — things that belong to salvation (*sōtērias*).
+\v 10 For God is not unjust so as to overlook your work and the love (*agapēs*) that you have shown for his name in serving the holy ones as you still do.
+\v 11 And we desire each one of you to show the same earnestness to have the full assurance of hope until the end —
+\v 12 so that you may not be sluggish but imitators of those who through faith and patience inherit the promises (*klēronomountōn*).
+\p
+\v 13 For when God made a promise to Abraham — since he had no one greater by whom to swear — he swore by himself —
 \v 14 saying: Surely blessing I will bless you and multiplying I will multiply you.
-\v 17 So when God desired to show more convincingly to the heirs of the promise the unchangeable character of his purpose — he guaranteed it with an oath —
+\v 15 And thus Abraham having patiently waited obtained the promise.
+\v 16 For people swear by something greater than themselves — and in all their disputes an oath is final for confirmation.
+\v 17 So when God desired to show more convincingly to the heirs of the promise (*klēronomois*) the unchangeable character of his purpose — he guaranteed it with an oath —
 \v 18 so that by two unchangeable things — in which it is impossible for God to lie — we who have fled for refuge might have strong encouragement to hold fast to the hope set before us.
 \v 19 We have this hope as an anchor for the soul (*psychēs*) — a hope both sure and steadfast — and one that enters into the inner place behind the curtain —
 \v 20 where Jesus has gone as a forerunner on our behalf — having become a high priest forever after the order of Melchizedek.
@@ -113,18 +141,31 @@
 \c 7
 \p
 \v 1 For this Melchizedek — king of Salem — priest of the Most High God (*hiereus tou theou tou hypsistou*) — who met Abraham returning from the slaughter of the kings and blessed him —
-\v 2 to whom Abraham apportioned a tenth part of all — he is first by translation of his name king of righteousness and then also king of Salem that is king of peace —
+\v 2 to whom Abraham apportioned a tenth part of all — he is first by translation of his name king of righteousness (*basileus dikaiosynēs*) and then also king of Salem — that is king of peace —
 \v 3 without father — without mother — without genealogy — having neither beginning of days nor end of life — but resembling the Son of God (*aphomoiōmenos tō huiō tou theou*) — he remains a priest forever.
+\p
+\v 4 See how great this man was to whom Abraham the patriarch gave a tenth of the spoils.
+\v 5 And those descendants of Levi who receive the priestly office have a commandment in the Law to take tithes from the people — that is from their brothers — though these also are descended from Abraham.
+\v 6 But this man who does not have his descent from them received tithes from Abraham and blessed him who had the promises.
+\v 7 It is beyond dispute that the inferior is blessed by the superior.
+\v 8 In the one case tithes are received by mortal men — but in the other case by one of whom it is testified that he lives.
+\v 9 One might even say that Levi himself who receives tithes paid tithes through Abraham —
+\v 10 for he was still in the loins of his ancestor when Melchizedek met him.
 \p
 \v 11 Now if perfection had been attainable through the Levitical priesthood — for under it the people received the Law — what further need would there have been for another priest to arise after the order of Melchizedek rather than one named after the order of Aaron?
 \v 12 For when there is a change in the priesthood there is necessarily a change in the Law as well.
+\v 13 For the one of whom these things are spoken belonged to another tribe — from which no one has ever served at the altar.
+\v 14 For it is evident that our Lord was descended from Judah — and in connection with that tribe Moses said nothing about priests.
 \v 15 This becomes even more evident when another priest arises in the likeness of Melchizedek —
 \v 16 who has become a priest not on the basis of a legal requirement concerning bodily descent but by the power of an indestructible life (*zōēs akatalytos*).
 \v 17 For it is witnessed of him: You are a priest forever after the order of Melchizedek.
 \p
 \v 18 For on the one hand a former commandment is set aside because of its weakness and uselessness —
 \v 19 for the Law made nothing perfect — but on the other hand a better hope (*kreittonos elpidos*) is introduced through which we draw near to God.
+\v 20 And it was not without an oath.
+\v 21 For those who formerly became priests were made such without an oath — but this one was made a priest with an oath by the one who said to him: The Lord has sworn and will not change his mind — you are a priest forever.
 \v 22 This makes Jesus the guarantor (*engyos*) of a better covenant (*kreittonos diathēkēs*).
+\v 23 The former priests were many in number because they were prevented by death from continuing in office —
 \v 24 but he holds his priesthood permanently because he continues forever.
 \v 25 Consequently he is able to save to the uttermost (*eis to panteles sōzein*) those who draw near to God through him — since he always lives to make intercession for them.
 \v 26 For it was indeed fitting that we should have such a high priest — holy innocent unstained separated from sinners and exalted above the heavens.
@@ -135,12 +176,14 @@
 \p
 \v 1 Now the main point in what is being said is this — we have such a high priest — who sat down at the right hand of the throne of the Majesty in the heavens —
 \v 2 a minister in the holy places and in the true tabernacle (*tēs skēnēs tēs alēthinēs*) which the Lord set up and not man.
+\v 3 For every high priest is appointed to offer gifts and sacrifices — thus it is necessary for this priest also to have something to offer.
+\v 4 Now if he were on earth he would not be a priest at all — since there are priests who offer gifts according to the Law.
 \v 5 They serve a copy and shadow of the heavenly things — just as Moses was warned when he was about to erect the tabernacle (*skēnēn*): See that you make everything according to the pattern that was shown you on the mountain.
-\v 6 But as it is Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better and is enacted on better promises.
+\v 6 But as it is Christ has obtained a ministry that is as much more excellent than the old as the covenant (*diathēkēs*) he mediates is better and is enacted on better promises.
 \p
 \v 7 For if that first covenant had been faultless there would have been no occasion to look for a second.
 \v 8 For he finds fault with them when he says: Behold the days are coming — declares the Lord — when I will establish a new covenant (*diathēkēn kainēn*) with the house of Israel and with the house of Judah —
-\v 9 not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant and I showed no concern for them — declares the Lord.
+\v 9 not like the covenant (*diathēkē*) that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant (*diathēkē*) and I showed no concern for them — declares the Lord.
 \v 10 For this is the covenant (*diathēkē*) that I will make with the house of Israel after those days — declares the Lord: I will put my laws into their minds and write them on their hearts (*kardias*) — and I will be their God and they shall be my people.
 \v 11 And they shall not teach each one his neighbor and each one his brother saying: Know the Lord — for they shall all know me from the least of them to the greatest.
 \v 12 For I will be merciful toward their iniquities and I will remember their sins no more.
@@ -149,78 +192,127 @@
 \c 9
 \p
 \v 1 Now even the first covenant had regulations for worship and an earthly holy place (*to hagion kosmikon*).
-\v 2 For a tabernacle (*skēnē*) was prepared — the first section in which were the lampstand and the table and the bread of the Presence. This is called the Holy Place.
-\v 3 Behind the second curtain was a tabernacle called the Most Holy Place —
+\v 2 For a tabernacle (*skēnē*) was prepared — the first section in which were the lampstand (*lychnia*) and the table and the bread of the Presence. This is called the Holy Place.
+\v 3 Behind the second curtain was a tabernacle (*skēnē*) called the Most Holy Place —
 \v 4 having the golden altar of incense and the ark of the covenant (*kibōton tēs diathēkēs*) covered on all sides with gold — in which was a golden urn holding the manna and Aaron's staff that budded and the tablets of the covenant (*hai plakes tēs diathēkēs*).
 \v 5 Above it were the cherubim of glory overshadowing the mercy seat (*hilastērion*). Of these things we cannot now speak in detail.
 \p
+\v 6 These preparations having thus been made — the priests go regularly into the first section performing their ritual duties —
 \v 7 but into the second only the high priest goes and he but once a year — and not without blood which he offers for himself and for the unintentional sins of the people.
-\v 8 By this the Holy Breath-of-life (*pneuma to hagion*) indicates that the way into the holy places is not yet opened as long as the first section is still standing.
-\v 9 This is symbolic for the present age.
+\v 8 By this the Holy Breath-of-life (*pneuma to hagion*) indicates that the way into the holy places is not yet opened as long as the first section is still standing —
+\v 9 which is symbolic for the present age. According to this arrangement gifts and sacrifices are offered that cannot perfect the conscience of the worshipper —
+\v 10 but deal only with food and drink and various washings — regulations for the body imposed until the time of reformation.
 \p
 \v 11 But when Christ appeared as a high priest of the good things that have come — through the greater and more perfect tabernacle (*skēnēs*) not made with hands — that is not of this creation —
 \v 12 he entered once for all (*ephapax*) into the holy places — not by means of the blood of goats and calves but by means of his own blood — thus securing an eternal redemption (*aiōnian lytrōsin*).
 \v 13 For if the blood of goats and bulls and the sprinkling of defiled persons with the ashes of a heifer sanctify for the purification of the flesh (*sarkos*) —
 \v 14 how much more will the blood of Christ — who through the eternal breath-of-life (*pneumatos aiōniou*) offered himself without blemish to God — purify our conscience from dead works to serve the living God.
 \p
-\v 15 Therefore he is the mediator of a new covenant (*diathēkēs kainēs*) — so that those who are called may receive the promised eternal inheritance (*klēronomias*) — since a death has occurred that redeems them from the transgressions committed under the first covenant.
+\v 15 Therefore he is the mediator of a new covenant (*diathēkēs kainēs*) — so that those who are called may receive the promised eternal inheritance (*aiōniou klēronomias*) — since a death has occurred that redeems them from the transgressions committed under the first covenant.
+\v 16 For where a covenant (*diathēkē*) is — the death of the one who made it must be established.
+\v 17 For a covenant (*diathēkē*) is confirmed where death has occurred — since it is not in force as long as the one who made it is alive.
+\v 18 Therefore not even the first covenant was inaugurated without blood.
+\v 19 For when every commandment of the Law had been declared by Moses to all the people — he took the blood of calves and goats with water and scarlet wool and hyssop and sprinkled both the scroll and all the people —
+\v 20 saying: This is the blood of the covenant (*diathēkēs*) that God commanded for you.
+\v 21 And in the same way he sprinkled with the blood both the tabernacle (*skēnēn*) and all the vessels used in worship.
+\v 22 Indeed under the Law almost everything is purified with blood — and without the shedding of blood there is no forgiveness of sins.
 \p
-\v 22 Indeed under the Law almost everything is purified with blood and without the shedding of blood there is no forgiveness of sins.
+\v 23 Thus it was necessary for the copies of the heavenly things to be purified with these rites — but the heavenly things themselves with better sacrifices than these.
 \v 24 For Christ has entered not into holy places made with hands — which are copies of the true things — but into heaven itself now to appear in the presence of God on our behalf.
+\v 25 Nor was it to offer himself repeatedly — as the high priest enters the holy places every year with blood not his own —
 \v 26 for then he would have had to suffer repeatedly since the foundation of the world. But as it is he has appeared once for all (*hapax*) at the end of the ages to put away sin by the sacrifice of himself.
 \v 27 And just as it is appointed for man to die once and after that comes judgment —
-\v 28 so Christ having been offered once to bear the sins of many will appear a second time — not to deal with sin but to save those who are eagerly waiting for him.
+\v 28 so Christ having been offered once (*hapax*) to bear the sins of many will appear a second time — not to deal with sin but to save those who are eagerly waiting for him.
 
 \c 10
 \p
-\v 1 For the Law has but a shadow of the good things to come instead of the true form of these realities — it can never by the same sacrifices that are continually offered every year make perfect those who draw near.
-\p
+\v 1 For the Law has but a shadow (*skian*) of the good things to come instead of the true form of these realities — it can never by the same sacrifices that are continually offered every year make perfect those who draw near.
+\v 2 Otherwise would they not have ceased to be offered — since the worshippers having once been cleansed would no longer have any consciousness of sins?
+\v 3 But in these sacrifices there is a reminder of sins every year.
 \v 4 For it is impossible for the blood of bulls and goats to take away sins.
 \v 5 Consequently when Christ came into the world he said: Sacrifice and offering you did not desire but a body you prepared for me —
 \v 6 in burnt offerings and sin offerings you have taken no pleasure.
 \v 7 Then I said: Behold I have come — in the scroll of the book it is written of me — to do your will O God.
-\p
+\v 8 When he said above: You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings — these are offered according to the Law —
+\v 9 then he added: Behold I have come to do your will. He does away with the first in order to establish the second.
 \v 10 And by that will we have been sanctified through the offering of the body of Jesus Christ once for all (*ephapax*).
+\p
 \v 11 And every priest stands daily at his service offering repeatedly the same sacrifices which can never take away sins.
 \v 12 But when Christ had offered for all time a single sacrifice for sins he sat down at the right hand of God —
-\v 14 for by a single offering he has perfected for all time those who are being sanctified.
+\v 13 waiting from that time until his enemies should be made a footstool for his feet.
+\v 14 For by a single offering he has perfected for all time those who are being sanctified.
 \p
 \v 15 And the Holy Breath-of-life (*pneuma to hagion*) also bears witness to us — for after saying:
 \v 16 This is the covenant (*diathēkē*) that I will make with them after those days — declares the Lord: I will put my laws on their hearts (*kardias*) and write them on their minds —
 \v 17 then he adds: I will remember their sins and their lawless deeds no more.
+\v 18 Where there is forgiveness of these — there is no longer any offering for sin.
+\p
 \v 19 Therefore brothers since we have confidence to enter the holy places by the blood of Jesus —
 \v 20 by the new and living way (*hodō prosphaton kai zōsan*) that he opened for us through the curtain — that is through his flesh (*sarkos*) —
 \v 21 and since we have a great priest over the house of God —
 \v 22 let us draw near with a true heart (*kardia*) in full assurance of faith — with our hearts (*kardias*) sprinkled clean from an evil conscience and our bodies washed with pure water.
 \v 23 Let us hold fast the confession of our hope without wavering — for he who promised is faithful.
-\v 24 And let us consider how to stir up one another to love and good works —
+\v 24 And let us consider how to stir up one another to love (*agapēs*) and good works —
 \v 25 not neglecting to meet together as is the habit of some but encouraging one another and all the more as you see the Day drawing near.
+\p
+\v 26 For if we go on sinning deliberately after receiving the knowledge of the truth (*alētheias*) — there no longer remains a sacrifice for sins —
+\v 27 but a fearful expectation of judgment and a fury of fire that will consume the adversaries.
+\v 28 Anyone who has set aside the Law of Moses dies without mercy (*chōris oiktirmōn*) on the evidence of two or three witnesses.
+\v 29 How much worse punishment do you think will be deserved by the one who has trampled underfoot the Son of God — and has profaned the blood of the covenant (*diathēkēs*) by which he was sanctified — and has outraged the breath-of-life of grace (*pneuma tēs charitos*)?
+\v 30 For we know him who said: Vengeance is mine — I will repay. And again: The Lord will judge his people.
+\v 31 It is a fearful thing to fall into the hands of the living God.
+\p
+\v 32 But recall the former days when after you were enlightened you endured a hard struggle with sufferings —
+\v 33 sometimes being publicly exposed to reproach and affliction — and sometimes being partners with those so treated.
+\v 34 For you had compassion on those in prison and you joyfully accepted the plundering of your property — since you knew that you yourselves had a better possession (*hyparxin*) and an abiding one.
+\v 35 Therefore do not throw away your confidence which has a great reward.
+\v 36 For you have need of endurance — so that when you have done the will of God you may receive what is promised.
+\v 37 For yet a little while and the coming one will come and will not delay —
+\v 38 but my righteous one (*ho de dikaios mou*) shall live by faith — and if he shrinks back my soul (*psychē*) has no pleasure in him.
+\v 39 But we are not of those who shrink back and are destroyed — but of those who have faith and preserve the soul (*psychēn*).
 
 \c 11
 \p
 \v 1 Now faith is the reality of things hoped for (*hypostasis pragmatōn elpizomenōn*) — the proof of things not seen (*elenchos pragmatōn ou blepomenōn*).
 \v 2 For by it the people of old received their commendation.
-\v 3 By faith we understand that the ages (*aiōnas*) were prepared by the word of God (*rhēmati theou*) — so that what is seen was not made from things that are visible (*ouk ek phainomenōn to blepomenon gegonos*).
+\v 3 By faith we understand that the ages (*aiōnas*) were prepared by the word of God (*rhēmati theou*) — so that what is seen was not made from things that are visible (*eis to mē ek phainomenōn to blepomenon gegonos*).
 \p
 \v 4 By faith Abel offered to God a more acceptable sacrifice than Cain — through which he was commended as righteous (*dikaios*) — God commending him by accepting his gifts. And through his faith though he died he still speaks.
 \v 5 By faith Enoch was taken up so that he should not see death — and he was not found because God had taken him. Now before he was taken he was commended as having pleased God.
 \v 6 And without faith it is impossible to please him — for whoever would draw near to God must believe that he exists and that he rewards those who seek him.
 \v 7 By faith Noah being warned by God concerning events as yet unseen — in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness (*dikaiosynēs*) that comes by faith.
 \v 8 By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance (*klēronomian*). And he went out not knowing where he was going.
-\v 9 By faith he went to live in the land of promise as in a foreign land — living in tents with Isaac and Jacob — heirs with him of the same promise.
+\v 9 By faith he went to live in the land of promise as in a foreign land — living in tents with Isaac and Jacob — heirs with him of the same promise (*sygklēronomoi*).
 \v 10 For he was looking forward to the city that has foundations whose designer and builder is God.
+\v 11 By faith Sarah herself received power to conceive even when she was past the age — since she considered him faithful who had promised.
+\v 12 Therefore from one man — and him as good as dead — were born descendants as many as the stars of heaven and as many as the innumerable grains of sand by the seashore.
+\p
+\v 13 These all died in faith not having received the things promised — but having seen them and greeted them from afar — and having acknowledged that they were strangers and exiles on the earth.
+\v 14 For people who speak thus make it clear that they are seeking a homeland.
+\v 15 If they had been thinking of that land from which they had gone out they would have had opportunity to return.
+\v 16 But as it is they desire a better country — that is a heavenly one. Therefore God is not ashamed to be called their God — for he has prepared for them a city.
 \p
 \v 17 By faith Abraham when he was tested offered up Isaac — and he who had received the promises was in the act of offering up his only-begotten (*monogenē*).
+\v 18 Of whom it was said: Through Isaac shall your offspring be named.
 \v 19 He considered that God was able even to raise him from the dead (*ek nekrōn egeirein*) — from which figuratively speaking he did receive him back.
+\v 20 By faith Isaac invoked future blessings on Jacob and Esau.
+\v 21 By faith Jacob when dying blessed each of the sons of Joseph — bowing in worship over the head of his staff.
+\v 22 By faith Joseph at the end of his life made mention of the exodus of the Israelites and gave directions concerning his bones.
 \p
+\v 23 By faith Moses when he was born was hidden for three months by his parents — because they saw that the child was beautiful — and they were not afraid of the king's edict.
 \v 24 By faith Moses when he was grown up refused to be called the son of Pharaoh's daughter —
 \v 25 choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin.
 \v 26 He considered the reproach of the Anointed (*onomasian tou Christou*) greater wealth than the treasures of Egypt — for he was looking to the reward.
+\v 27 By faith he left Egypt not being afraid of the anger of the king — for he endured as seeing him who is invisible.
+\v 28 By faith he kept the Passover and sprinkled the blood — so that the destroyer of the firstborn might not touch them.
+\v 29 By faith the people crossed the Red Sea as on dry land — but the Egyptians when they attempted to do the same were drowned.
+\v 30 By faith the walls of Jericho fell down after they had been encircled for seven days.
+\v 31 By faith Rahab the prostitute did not perish with those who were disobedient — because she had given a friendly welcome to the spies.
 \p
 \v 32 And what more shall I say? For time would fail me to tell of Gideon — Barak — Samson — Jephthah — of David and Samuel and the prophets —
 \v 33 who through faith conquered kingdoms — enforced justice — obtained promises — stopped the mouths of lions —
 \v 34 quenched the power of fire — escaped the edge of the sword — were made strong out of weakness — became mighty in war — put foreign armies to flight.
-\v 35 Women received back their dead by resurrection. Some were tortured refusing to accept release so that they might rise again to a better life (*kreittonos anastaseōs*).
+\v 35 Women received back their dead by resurrection. Some were tortured refusing to accept release so that they might rise again to a better resurrection (*kreittonos anastaseōs*).
 \v 36 Others suffered mocking and flogging and even chains and imprisonment.
 \v 37 They were stoned — they were sawn in two — they were killed with the sword. They went about in skins of sheep and goats — destitute afflicted mistreated —
 \v 38 of whom the world was not worthy — wandering about in deserts and mountains and in dens and caves of the earth.
@@ -231,36 +323,71 @@
 \p
 \v 1 Therefore since we are surrounded by so great a cloud of witnesses (*nephos martyrōn*) — let us also lay aside every weight and sin which clings so closely — and let us run with endurance the race that is set before us —
 \v 2 looking to Jesus the pioneer and perfecter of faith (*archēgon kai teleiōtēn tēs pisteōs*) — who for the joy that was set before him endured the cross — despising the shame — and has sat down at the right hand of the throne of God.
+\v 3 Consider him who endured from sinners such hostility against himself — so that you may not grow weary or fainthearted.
+\v 4 In your struggle against sin you have not yet resisted to the point of shedding your blood.
 \p
 \v 5 And have you forgotten the exhortation that addresses you as sons: My son do not regard lightly the discipline (*paideias*) of the Lord — nor be weary when reproved by him —
 \v 6 for the Lord disciplines (*paideuei*) the one he loves and chastises every son whom he receives.
 \v 7 It is for discipline (*paideian*) that you have to endure. God is treating you as sons — for what son is there whom his father does not discipline?
+\v 8 If you are left without discipline in which all have participated — then you are illegitimate children and not sons.
 \v 9 Besides this we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of breaths-of-life (*Patri tōn pneumatōn*) and live?
 \v 10 For they disciplined us for a short time as it seemed best to them — but he disciplines us for our good that we may share his holiness.
 \v 11 For the moment all discipline seems painful rather than pleasant — but later it yields the peaceful fruit of righteousness (*karpon eirēnikon dikaiosynēs*) to those who have been trained by it.
 \p
+\v 12 Therefore lift your drooping hands and strengthen your weak knees —
+\v 13 and make straight paths for your feet — so that what is lame may not be put out of joint but rather be healed.
 \v 14 Strive for peace with everyone and for the holiness without which no one will see the Lord.
+\v 15 See to it that no one fails to obtain the grace of God — that no root of bitterness springs up and causes trouble and by it many become defiled —
+\v 16 that no one is sexually immoral or unholy like Esau who sold his birthright (*prōtotokia*) for a single meal.
+\v 17 For you know that afterward when he desired to inherit the blessing he was rejected — for he found no chance to repent though he sought it with tears.
+\p
 \v 18 For you have not come to what may be touched — a blazing fire and darkness and gloom and a tempest —
-\v 22 but you have come to Mount Zion and to the city of the living God — the heavenly Jerusalem (*Ierousalēm epouraniō*) — and to innumerable angels in festal gathering —
-\v 23 and to the assembly (*ekklēsia*) of the firstborn who are enrolled in heaven — and to God the judge of all — and to the breaths-of-life (*pneumasin*) of the righteous made perfect —
+\v 19 and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.
+\v 20 For they could not endure the order that was given: If even a beast touches the mountain it shall be stoned.
+\v 21 Indeed so terrifying was the sight that Moses said: I tremble with fear.
+\v 22 But you have come to Mount Zion and to the city of the living God — the heavenly Jerusalem (*Ierousalēm epouraniō*) — and to innumerable angels in festal gathering —
+\v 23 and to the called-out assembly (*ekklēsia*) of the firstborn who are enrolled in heaven — and to God the judge of all — and to the breaths-of-life (*pneumasin*) of the righteous made perfect —
 \v 24 and to Jesus the mediator of a new covenant (*diathēkēs neas*) — and to the sprinkled blood that speaks a better word than the blood of Abel.
+\v 25 See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth — much less will we escape if we reject him who warns from heaven.
+\v 26 At that time his voice shook the earth — but now he has promised: Yet once more I will shake not only the earth but also the heavens.
+\v 27 This phrase yet once more indicates the removal of things that are shaken — that is things that have been made — in order that the things that cannot be shaken may remain.
 \v 28 Therefore let us be grateful for receiving a kingdom that cannot be shaken — and thus let us offer to God acceptable worship with reverence and awe —
 \v 29 for our God is a consuming fire.
 
 \c 13
 \p
+\v 1 Let brotherly love (*philadelphia*) continue.
 \v 2 Do not neglect to show hospitality to strangers — for thereby some have entertained angels unawares.
+\v 3 Remember those who are in prison as though in prison with them — and those who are mistreated since you also are in the body.
+\v 4 Let marriage be held in honor among all and let the marriage bed be undefiled — for God will judge the sexually immoral and adulterous.
 \v 5 Keep your life free from love of money and be content with what you have — for he has said: I will never leave you nor forsake you.
 \v 6 So we can confidently say: The Lord is my helper — I will not fear. What can man do to me?
 \p
+\v 7 Remember your leaders — those who spoke to you the word of God. Consider the outcome of their way of life and imitate their faith.
 \v 8 Jesus the Anointed (*Iēsous Christos*) is the same yesterday and today and forever (*autos chthes kai sēmeron ho autos kai eis tous aiōnas*).
+\v 9 Do not be led away by diverse and strange teachings — for it is good for the heart (*kardia*) to be strengthened by grace — not by foods which have not benefited those devoted to them.
 \p
+\v 10 We have an altar from which those who serve the tabernacle (*skēnē*) have no right to eat.
+\v 11 For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp.
 \v 12 So Jesus also suffered outside the gate in order to sanctify the people through his own blood.
 \v 13 Therefore let us go to him outside the camp and bear the reproach he endured.
 \v 14 For here we have no lasting city — but we seek the city that is to come (*tēn mellousan*).
+\v 15 Through him then let us continually offer up a sacrifice of praise to God — that is the fruit of lips that acknowledge his name.
+\v 16 Do not neglect to do good and to share what you have — for such sacrifices are pleasing to God.
+\p
+\v 17 Obey your leaders and submit to them — for they are keeping watch over your souls (*psychōn*) as those who will have to give an account. Let them do this with joy and not with groaning — for that would be of no advantage to you.
+\p
+\v 18 Pray for us — for we are sure that we have a clear conscience — desiring to act honorably in all things.
+\v 19 I urge you the more earnestly to do this in order that I may be restored to you the sooner.
 \p
 \v 20 Now may the God of peace (*ho theos tēs eirēnēs*) — who brought again from the dead our Lord Jesus — the great shepherd of the sheep (*ton poimena ton probatōn ton megan*) — by the blood of the eternal covenant (*haimati diathēkēs aiōniou*) —
-\v 21 equip you with everything good that you may do his will — working in us that which is pleasing in his sight — through Jesus the Anointed — to whom be glory forever and ever. Amen.
+\v 21 equip you with everything good that you may do his will — working in us that which is pleasing in his sight — through Jesus the Anointed — to whom be glory forever and ever (*eis tous aiōnas tōn aiōnōn*). Amen.
+\p
+\v 22 I appeal to you brothers — bear with my word of exhortation — for I have written to you briefly.
+\v 23 You should know that our brother Timothy has been released — with whom I shall see you if he comes soon.
+\v 24 Greet all your leaders and all the holy ones. Those who come from Italy send you greetings.
+\v 25 Grace be with all of you.
+
 
 ```
 
