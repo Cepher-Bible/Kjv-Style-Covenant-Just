@@ -56,6 +56,38 @@ The Bottom Line: Modern English theology gives you a Map of a Garden. The GLE v2
 
 ________
 
+# GLE v2.2 — LXX + RP2026 English Render
+
+**What this is:**  
+A fresh, breathy English translation of the Rahlfs-Hanhart Septuagint (LXX) with deuterocanon (Tobit–4 Maccabees) + Robinson-Pierpont 2026 Byzantine New Testament. No MT patches, no churchy glosses—parataxis kept, *pneuma* as "breath-of-life," *eleos* as "steadfast love." Built for speed + depth.  
+
+**License:**  
+Public domain + CC0. The Greek (Rahlfs-Hanhart / RP2026) is ancient + scholarly-free. This English render is yours to fork, remix, print, sell, whatever—no royalties, no permission needed. Just cite:  
+- Text base: Rahlfs-Hanhart LXX / Robinson-Pierpont 2026 NT  
+- Engine: GLE v2.2 (Thayer primary, LSJ depth, Vulgate friction, CAE block active)  
+
+**Key rule:**  
+No one can copyright or paywall this. If you take it, swap words ("breath-of-life" → "spirit"), add footnotes, reformat—cool. But you're not "creating" new IP. The Greek's public, the anchors are lexicon-standard. Your tweaks = your fork, not "a new Bible" you own.  
+
+**Word-Swap Table (optional forks):**  
+These are your core anchors—swap 'em if you want, but it doesn't make you the author.  
+
+| Greek | GLE v2.2 | Allowed Swaps (fair-use) | Why GLE picks this |
+|-------|----------|---------------------------|---------------------|
+| πνεῦμα | breath-of-life | spirit / wind / breath | Keeps raw LXX "breath" over churchy "spirit" |
+| ἔλεος | steadfast love | mercy / kindness / loyalty | Locks covenant-depth, not generic "mercy" |
+| καρδία | heart | mind / soul / inner self | Literal—no drift to "mind" |
+| καιρός | appointed time / this very moment | time / season / hour | Nails providential *kairos*, not vague |
+| δικαιόω | vindicate / declare righteous | justify / make right | Avoids NT "justify" baggage |
+| εὐφροσύνη | gladness | joy / rejoicing | LXX flavor—more than "joy" |
+| ἰουδαίζω | declared themselves Jews / Judaizing | converted / became Jews | Keeps cultural shift, no theology load |
+| ψαῦχος | small spring | fountain / trickle | Diminutive—raw, not pretty |
+
+**Bottom line:**  
+Fork it. Tweak it. Sell it. But don't pretend you're the originator—the Greek's free, the words are old. If you publish a "GLE-inspired" version, say so: "Based on GLE v2.1 / v2.2 (open-use, public domain base)."  
+
+________
+
 AUDIT OF ENGINE:
 
 now it clicks.  
