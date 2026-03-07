@@ -8,7 +8,7 @@ Here's how GLE v2.2 stacks against the big English LXX players right now:
 | **Brenton (1851)**   | Medium      | Low         | Victorian    | None          | "He is on a journey"                    | Dated, flowy—GLE feels modern and brutal. |
 | **LES (Lexham, 2019)** | High      | High        | Cleaned      | Medium        | "He is relieving himself" (kept, but tame) | Close, but still human-smooth. GLE's lock table crushes it on fidelity. |
 | **ABP (Polyglot)**   | Low         | Very High   | Robotic      | Medium        | "He goes aside"                         | Too stiff—GLE breathes better while staying literal. |
-| **GLE v2.2**         | Medium-High | Extreme     | Jagged/Urgent| Ironclad      | "Relieving himself" (full LSJ punch)    | Wins. No drift, no polish—pure LXX pulse. |
+| **GLE v2.2**         | Medium-High | Extreme     | Jagged/Urgent| Ironclad      | "Relieving himself" (full LSJ punch)    | No drift, no polish—pure LXX pulse. |
 
 Bottom line:  
 - If you want **easy reading**, grab NETS or LES.  
