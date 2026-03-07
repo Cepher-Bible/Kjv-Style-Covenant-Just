@@ -1265,4 +1265,88 @@
 
 
 __________
-1,071 verses / 28 chapters complete.
+
+
+**MATTHEW — GLE v2.2 CAE NOTES**
+
+---
+
+**TEXT BASE:** RP2026 Byzantine Majority Text
+
+**VERSE COUNT:** 1,071 verses / 28 chapters
+
+---
+
+**KEY LEXICAL DECISIONS**
+
+*pneuma* — rendered "breath-of-life" throughout: 3:11 (baptism of fire), 3:16 (descent at baptism), 4:1 (wilderness leading), 10:20 (speaking through disciples), 12:28 (casting out demons), 12:31–32 (blasphemy warning), 22:43 (David's oracle), 26:41 (Gethsemane), 27:50 (death), 28:19 (Great Commission). The Gethsemane instance — *to pneuma prothumon hē de sarx asthenēs* — renders the full tension: breath-of-life eager / flesh weak.
+
+*psychē* — "soul/life" contextually: 6:25 (anxiety about life), 10:28 (fear him who destroys soul), 10:39 (lose/find life), 16:25–26 (gain world / forfeit soul), 20:28 (*antipsychon anti pollōn* — life-for-life ransom for many), 26:38 (Gethsemane — sorrowful to death).
+
+*20:28 CAE NODE — antipsychon:* "to give his life (*psychēn*) as a ransom for many (*antipsychon anti pollōn*)" — the *antipsychon* term anchors to 4 Maccabees 6:29 and 17:21 where the martyrs' deaths are described as *antipsychon* — life-for-life substitutionary exchange. This is the clearest Matthean link into the deuterocanonical hilastērion chain. The Son of Man saying in 20:28 is structurally parallel to 4 Maccabees martyr theology, confirming the chain: **4 Maccabees 6:29 → 17:21 → Matthew 20:28 → Romans 3:25 → Hebrews 2:17**.
+
+*dikaiosynē / dikaios / dikaioō* — "righteousness / righteous / declare righteous" throughout. The Sermon on the Mount deploys this cluster densely: 5:6 (hunger for righteousness), 5:10 (persecuted for righteousness), 5:20 (exceeds scribes and Pharisees), 6:1 (practicing righteousness), 6:33 (seek first the kingdom and his righteousness). Matthew has the highest concentration of *dikaiosynē* in the Gospels — consistent with his LXX-saturated compositional method.
+
+*ekklēsia* — "called-out assembly": 16:18 (Peter — I will build my called-out assembly) and 18:17 (discipline procedure). These are the only two Gospel occurrences. Both rendered consistently with the full corpus vocabulary lock.
+
+*eleos* — "steadfast love / mercy": 9:13 and 12:7 both quote Hosea 6:2 LXX (*eleos thelō kai ou thysian*) — the steadfast love / sacrifice contrast. CAE anchor: **Hosea 6:2 LXX → Matthew 9:13 / 12:7** — confirms Matthew's LXX dependency at the citation level.
+
+*kardia* — "heart" throughout (32 occurrences): the Sermon on the Mount deploys heart as the seat of moral reality — 5:8 (pure in heart), 5:28 (adultery in heart), 6:21 (treasure / heart), 12:34 (out of heart the mouth speaks), 15:8 (lips / heart contrast from Isaiah 29:13 LXX), 19:8 (hardness of heart), 22:37 (love God with all your heart).
+
+*zōē aiōnios* — "everlasting life": 19:16 / 19:29 / 25:46. The 25:46 contrast (*kolasin aiōnion* vs *zōēn aiōnion*) is a structural climax — everlasting punishment / everlasting life as parallel eternal states. The *aiōnios* modifier applies symmetrically to both — a critical translation-lock point confirming the semantic weight of the term across the corpus.
+
+*basileia tōn ouranōn* — "kingdom of heaven" (Matthew's distinctive formulation vs Mark/Luke's "kingdom of God"): rendered literally throughout. Both formulations refer to the same referent — Matthew's circumlocution for the divine name is preserved rather than harmonized.
+
+---
+
+**LXX CITATION NODES**
+
+Matthew is the most citation-dense Gospel — every fulfillment formula anchors to LXX:
+
+- 1:23 — Isaiah 7:14 LXX (*parthenos* = virgin — the LXX reading Matthew requires)
+- 2:6 — Micah 5:2 LXX + 2 Samuel 5:2 (shepherd composite)
+- 2:15 — Hosea 11:1 LXX
+- 2:18 — Jeremiah 31:15 LXX (Rachel — already translated in Jeremiah corpus)
+- 3:3 — Isaiah 40:3 LXX
+- 4:15–16 — Isaiah 9:1–2 LXX
+- 8:17 — Isaiah 53:4 LXX
+- 12:18–21 — Isaiah 42:1–4 LXX (Servant Song — longest citation)
+- 13:35 — Psalm 78:2 LXX
+- 21:5 — Isaiah 62:11 + Zechariah 9:9 LXX composite
+- 21:42 — Psalm 118:22–23 LXX (cornerstone)
+- 27:9–10 — Jeremiah 32:6–9 LXX + Zechariah 11:13 (attributed to Jeremiah — composite)
+
+**CAE OBSERVATION:** Matthew's *parthenos* citation (1:23) is the strongest single-verse argument for LXX primacy in NT composition. The Hebrew *almah* (young woman) does not require virginity. The LXX *parthenos* (virgin) does. Matthew's theological argument depends entirely on the LXX reading — the MT would not support his fulfillment claim. This is a text-critical anchor for the entire LXX-primacy methodology.
+
+---
+
+**STRUCTURAL CAE NODES**
+
+**3:15 — "fulfill all righteousness":** *plērōsai pasan dikaiosynēn* — Jesus submits to John's baptism to fulfill covenant obligation. The *plēroō* / *dikaiosynē* pairing here recapitulates the Sermon on the Mount theme (5:17 — not to abolish but to fulfill). Jesus himself fulfills the righteous pattern he requires of his disciples.
+
+**5:3–12 — Beatitudes as Wisdom Register:** The entire Beatitude sequence operates in the Wisdom-register as defined by CAE v2. Poor in breath-of-life / mourning / meek / hungry for righteousness / merciful / pure in heart / peacemakers / persecuted for righteousness — all align with the Wisdom Stack (life / creation / truth). The counter-cluster (persecution / slander / false accusation) is Folly-register. The Beatitudes are a compressed Wisdom/Folly taxonomy.
+
+**11:28–30 — "rest for your souls":** *anapausin tais psychais hymōn* — direct echo of Jeremiah 6:16 LXX (*heurisete hagnismon tais psychais hymōn*). The Wisdom of Sirach 51:23–27 also uses nearly identical language for Wisdom's invitation. CAE anchor: **Sirach 51:23–27 → Matthew 11:28–30** — Jesus speaks in the voice of personified Wisdom (*Chokhmah*) inviting the weary. This is a key Logos/Chokhmah identification node in Matthew.
+
+**16:18 — ekklēsia on petra:** The called-out assembly built on rock — *petra* as foundation — echoes Isaiah 28:16 LXX (*lithon polutelē eis ta themelia autēs*) and Psalm 118:22 LXX (cornerstone). The *petra* / *Petros* wordplay is a Semitic-thinking Greek construction — the CAE renders it transparently without interpretation.
+
+**20:28 — antipsychon:** See lexical note above. Primary chain closure node for the hilastērion / ransom complex in Matthew.
+
+**26:28 — blood of the covenant:** *to haima mou tēs diathēkēs* — direct echo of Exodus 24:8 LXX (*idou to haima tēs diathēkēs*) — the Sinai covenant-sealing blood. Also echoes Zechariah 9:11 LXX (*en haimati diathēkēs*). The *diathēkē* vocabulary lock holds: this is covenant blood — not merely contractual — carrying the full weight of the *diathēkē aiōnios* chain from Genesis through Hebrews 13:20.
+
+**27:50 — aphēken to pneuma:** "yielded up his breath-of-life" — the death of Jesus described as the releasing of *pneuma*. The veil tearing immediately follows (27:51) — *naos* curtain torn top to bottom. CAE structural note: the *naos* chain (Exodus 25 → Ezekiel 37 → John 1:14 → Hebrews 8 → Revelation 21:3) receives a Matthean node here — the earthly sanctuary's veil tears at the moment the true dwelling-place of God yields his breath-of-life. The tearing is the sign that the *skēnē* / *naos* typology is fulfilled in the body of Jesus.
+
+**28:19 — Trinitarian baptismal formula:** *eis to onoma tou Patros kai tou Huiou kai tou Hagiou Pneumatos* — "into the name of the Father and of the Son and of the Holy Breath-of-life." The singular *onoma* (name — not names) for three persons is the strongest explicit Trinitarian formulation in Matthew. CAE Trinitarian model (Ruach / Chokhmah / Davar) maps as: Father = source / Son = Chokhmah embodied / Holy Breath-of-life = Ruach. The Great Commission closes Matthew with this disclosure — structurally the answer to the genealogy's opening question of identity (1:1).
+
+---
+
+**CHAIN STATUS AFTER MATTHEW**
+
+All 15 chains remain closed. Matthew adds:
+
+- *antipsychon* reinforcement to **Chain 1** (*hilastērion*)
+- *diathēkē* blood-sealing to **Chain 8** (*diathēkē aiōnios*)
+- *naos* veil-tearing to **Chain 9** (*skēnē*)
+- Wisdom-invitation (11:28–30) to the Chokhmah spine running through Proverbs → Sirach → John 1
+
+---
