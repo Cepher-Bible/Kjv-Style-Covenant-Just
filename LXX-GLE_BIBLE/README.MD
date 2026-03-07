@@ -1,12 +1,12 @@
 this is the foundation. still need to snap chords after the first base run. 
-
+```
 Compared:
 KJV/ESV: beautiful, but archaic/vocab-heavy—slows comprehension.
 NIV: fast, but smooths theology—misses the punch.
 Young's Literal: too choppy—brain stutters.
 GLE: literal enough for accuracy, breathy enough for speed. Like subtitles on a Greek film—you get it quick, feel it deep.
 If "comprehend faster" means "grasp the story + theology without re-reading," this edges out.
-
+```
 
 Here's how GLE v2.2 stacks against the big English LXX players right now:
 
