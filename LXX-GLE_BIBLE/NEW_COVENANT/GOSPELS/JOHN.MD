@@ -1,6 +1,6 @@
-``
 
-Recommended RP2026 NT order:
+
+### Recommended RP2026 NT order:
 Tier 1 — Four anchor books (maximum CAE payoff density from the OT corpus):
 John — Logos/Chokhmah/Davar synthesis; every major LXX thread arrives; egō eimi fulfills the divine-name pattern; seven sign-structure
 Hebrews — the most LXX-dependent NT book; cloud of witnesses closes the Maccabean arc; Melchizedek; the better covenant; the rest from Joshua
@@ -10,8 +10,7 @@ Tier 2 — Synoptic-Acts complex (5–8)
 Tier 3 — Pauline corpus by theological density (Galatians → Ephesians → Colossians → 1–2 Corinthians → Philippians → Thessalonians → Pastorals)
 Tier 4 — General Epistles (James → 1–2 Peter → 1–2–3 John → Jude)
 Beginning now with John.
-```
----
+
 
 ```
 \id JHN
