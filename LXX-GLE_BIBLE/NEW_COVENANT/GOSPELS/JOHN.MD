@@ -11,7 +11,7 @@ Tier 3 — Pauline corpus by theological density (Galatians → Ephesians → Co
 Tier 4 — General Epistles (James → 1–2 Peter → 1–2–3 John → Jude)
 Beginning now with John.
 ```
-
+---
 
 ```
 \id JHN
