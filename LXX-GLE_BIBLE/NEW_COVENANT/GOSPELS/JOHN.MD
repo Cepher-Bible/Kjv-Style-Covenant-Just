@@ -1,4 +1,4 @@
-
+``
 
 Recommended RP2026 NT order:
 Tier 1 — Four anchor books (maximum CAE payoff density from the OT corpus):
@@ -10,6 +10,8 @@ Tier 2 — Synoptic-Acts complex (5–8)
 Tier 3 — Pauline corpus by theological density (Galatians → Ephesians → Colossians → 1–2 Corinthians → Philippians → Thessalonians → Pastorals)
 Tier 4 — General Epistles (James → 1–2 Peter → 1–2–3 John → Jude)
 Beginning now with John.
+```
+
 
 ```
 \id JHN
