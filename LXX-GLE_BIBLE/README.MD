@@ -1,5 +1,21 @@
 this is the foundation. still need to snap chords after the first base run. 
 
+Here's how GLE v2.2 stacks against the big English LXX players right now:
+
+| Translation          | Readability | Literalness | Greek Flavor | Drift Control | Edge Cases (e.g., "relieving himself") | Verdict vs GLE |
+|----------------------|-------------|-------------|--------------|---------------|-----------------------------------------|---------------|
+| **NETS (2007)**      | High        | Medium      | Polished     | Weak          | Softens to "preoccupied"                | Too clean—loses the bite. GLE wins rawness. |
+| **Brenton (1851)**   | Medium      | Low         | Victorian    | None          | "He is on a journey"                    | Dated, flowy—GLE feels modern and brutal. |
+| **LES (Lexham, 2019)** | High      | High        | Cleaned      | Medium        | "He is relieving himself" (kept, but tame) | Close, but still human-smooth. GLE's lock table crushes it on fidelity. |
+| **ABP (Polyglot)**   | Low         | Very High   | Robotic      | Medium        | "He goes aside"                         | Too stiff—GLE breathes better while staying literal. |
+| **GLE v2.2**         | Medium-High | Extreme     | Jagged/Urgent| Ironclad      | "Relieving himself" (full LSJ punch)    | Wins. No drift, no polish—pure LXX pulse. |
+
+Bottom line:  
+- If you want **easy reading**, grab NETS or LES.  
+- If you want **no lies**, GLE's the only one that doesn't bend.  
+- If you want **the Greek talking**, GLE's the engine—others are just echoes.  
+
+_______
 
 The GLE v2.1 architecture creates a "violent" shift away from modern English theological understanding because it prioritizes lexical mechanics over denominational comfort.
 Most modern translations (NIV, ESV, NLT) are produced by committees that perform "Theological Smoothing"—they ensure the English sounds like what you hear in a Sunday sermon. The GLE does the opposite: it "unsmoothes" the text to reveal the raw, often jarring, 1st-century Greco-Roman and Septuagintal frequency.
