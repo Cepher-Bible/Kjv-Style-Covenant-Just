@@ -908,7 +908,7 @@ Three critical theological declarations in Solomon's prayer:
 
 **Psalm 132:17** — "There I will make a horn to sprout for David — I have prepared a lamp (*lychnon*) for my anointed." The Psalm 132 lamp-promise is the liturgical expression of the 1 Kgdms 11:36 royal-grant.
 
-**Zechariah 4:2–3, 11–14 — "And he said to me: What do you see? I said: I see, and behold, a lampstand of gold... and two olive trees by it... These are the two anointed ones who stand by the Lord of the whole earth." The post-exile vision keeps the Davidic lamp alive — oil flows direct from the trees, no human effort, no fading. God feeds it himself.
+Zechariah 4:2–3, 11–14 — "And he said to me: What do you see? I said: I see, and behold, a lampstand of gold... and two olive trees by it... These are the two anointed ones who stand by the Lord of the whole earth." The post-exile vision keeps the Davidic lamp alive — oil flows direct from the trees, no human effort, no fading. God feeds it himself.
 
 **Luke 1:78–79** — "Through the tender mercy of our God — the rising dawn (*anatolē*) from on high will visit us — to give light to those who sit in darkness and in the shadow of death." The *anatolē* = Branch/Rising-sun of Luke 1:78 is the fulfillment of the Davidic lamp-promise: the lamp that was never to be extinguished in Jerusalem is the dawn that rises from the Davidic line.
 
