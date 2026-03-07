@@ -1,0 +1,622 @@
+```
+\id REV
+\h Revelation
+\toc1 The Revelation to John
+\mt The Revelation of Jesus the Anointed
+
+\c 1
+\p
+\v 1 The revelation (*apokalypsis*) of Jesus the Anointed — which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John —
+\v 2 who bore witness to the word of God (*logon tou theou*) and to the testimony of Jesus the Anointed — even to all that he saw.
+\v 3 Blessed is the one who reads aloud the words of this prophecy — and blessed are those who hear — and who keep what is written in it — for the time is near.
+\p
+\v 4 John to the seven called-out assemblies (*ekklēsiais*) that are in Asia: Grace to you and peace from him who is and who was and who is to come — and from the seven breaths-of-life (*pneumatōn*) who are before his throne —
+\v 5 and from Jesus the Anointed the faithful witness — the firstborn of the dead (*prōtotokos tōn nekrōn*) — and the ruler of the kings of the earth. To him who loves us and has released us (*lysanti*) from our sins by his blood —
+\v 6 and made us a kingdom — priests to his God and Father — to him be glory and dominion forever and ever. Amen.
+\v 7 Behold he is coming with the clouds — and every eye will see him — even those who pierced him — and all tribes of the earth will wail on account of him. Even so. Amen.
+\v 8 I am the Alpha and the Omega — says the Lord God — who is and who was and who is to come — the Almighty (*ho pantokratōr*).
+\p
+\v 9 I John — your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus — was on the island called Patmos on account of the word of God (*logon tou theou*) and the testimony of Jesus.
+\v 10 I was in the breath-of-life (*pneumati*) on the Lord's day — and I heard behind me a loud voice like a trumpet
+\v 11 saying: Write what you see in a book and send it to the seven called-out assemblies (*ekklēsiais*) — to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.
+\p
+\v 12 Then I turned to see the voice that was speaking to me — and on turning I saw seven golden lampstands —
+\v 13 and in the midst of the lampstands one like a son of man (*huion anthrōpou*) — clothed with a long robe and with a golden sash around his chest.
+\v 14 The hairs of his head were white — like white wool — like snow. His eyes were like a flame of fire —
+\v 15 his feet were like burnished bronze — refined in a furnace — and his voice was like the roar of many waters.
+\v 16 In his right hand he held seven stars — from his mouth came a sharp two-edged sword — and his face was like the sun shining in full strength.
+\v 17 When I saw him I fell at his feet as though dead. But he laid his right hand on me saying: Fear not — I am the first and the last (*egō eimi ho prōtos kai ho eschatos*) —
+\v 18 and the living one. I died — and behold I am alive forevermore (*zōn eimi eis tous aiōnas tōn aiōnōn*) — and I have the keys of Death and of Hades.
+\v 19 Write therefore the things that you have seen — those that are and those that are to take place after this.
+\v 20 As for the mystery of the seven stars that you saw in my right hand — and the seven golden lampstands: the seven stars are the angels of the seven called-out assemblies — and the seven lampstands are the seven called-out assemblies.
+
+\c 2
+\p
+\v 1 To the angel of the called-out assembly (*ekklēsias*) in Ephesus write: The words of him who holds the seven stars in his right hand — who walks among the seven golden lampstands.
+\v 2 I know your works — your toil and your patient endurance — and how you cannot bear with those who are evil — but have tested those who call themselves apostles and are not and found them to be false.
+\v 3 I know you are enduring patiently and bearing up for my name's sake — and you have not grown weary.
+\v 4 But I have this against you — that you have abandoned the love (*agapēn*) you had at first.
+\v 5 Remember therefore from where you have fallen — repent — and do the works you did at first. If not I will come to you and remove your lampstand from its place — unless you repent.
+\v 6 Yet this you have: you hate the works of the Nicolaitans — which I also hate.
+\v 7 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies (*ekklēsiais*). To the one who conquers I will grant to eat of the tree of life — which is in the paradise of God.
+\p
+\v 8 And to the angel of the called-out assembly (*ekklēsias*) in Smyrna write: The words of the first and the last — who died and came to life.
+\v 9 I know your tribulation and your poverty — but you are rich — and the slander of those who say that they are Jews and are not — but are a synagogue of Satan.
+\v 10 Do not fear what you are about to suffer. Behold the devil is about to throw some of you into prison that you may be tested — and for ten days you will have tribulation. Be faithful unto death and I will give you the crown of life (*ton stephanon tēs zōēs*).
+\v 11 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies. The one who conquers will not be hurt by the second death.
+\p
+\v 12 And to the angel of the called-out assembly (*ekklēsias*) in Pergamum write: The words of him who has the sharp two-edged sword.
+\v 13 I know where you dwell — where Satan's throne is. Yet you hold fast my name and you did not deny my faith even in the days of Antipas my faithful witness — who was killed among you — where Satan dwells.
+\v 14 But I have a few things against you: you have some there who hold the teaching of Balaam — who taught Balak to put a stumbling block before the sons of Israel — so that they might eat food sacrificed to idols and practice sexual immorality.
+\v 15 So also you have some who hold the teaching of the Nicolaitans.
+\v 16 Therefore repent. If not I will come to you soon and war against them with the sword of my mouth.
+\v 17 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies. To the one who conquers I will give some of the hidden manna — and I will give him a white stone — with a new name written on the stone that no one knows except the one who receives it.
+\p
+\v 18 And to the angel of the called-out assembly (*ekklēsias*) in Thyatira write: The words of the Son of God — who has eyes like a flame of fire and whose feet are like burnished bronze.
+\v 19 I know your works — your love (*agapēn*) and faith and service and patient endurance — and that your latter works exceed the first.
+\v 20 But I have this against you — that you tolerate that woman Jezebel — who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols.
+\v 21 I gave her time to repent — but she refuses to repent of her sexual immorality.
+\v 22 Behold I will throw her onto a sickbed — and those who commit adultery with her I will throw into great tribulation — unless they repent of her works —
+\v 23 and I will strike her children dead. And all the called-out assemblies (*ekklēsiai*) will know that I am he who searches mind and heart (*kardias*) — and I will give to each of you according to your works.
+\v 24 But to the rest of you in Thyatira who do not hold this teaching — who have not learned what some call the deep things of Satan — to you I say: I do not lay on you any other burden.
+\v 25 Only hold fast what you have until I come.
+\v 26 The one who conquers and who keeps my works until the end — to him I will give authority over the nations —
+\v 27 and he will rule them with a rod of iron — as when earthen pots are broken in pieces — even as I myself have received authority from my Father.
+\v 28 And I will give him the morning star.
+\v 29 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies.
+
+\c 3
+\p
+\v 1 And to the angel of the called-out assembly (*ekklēsias*) in Sardis write: The words of him who has the seven breaths-of-life (*pneumata*) of God and the seven stars. I know your works. You have the reputation of being alive — but you are dead.
+\v 2 Wake up — and strengthen what remains and is about to die — for I have not found your works complete in the sight of my God.
+\v 3 Remember then what you received and heard. Keep it and repent. If you will not wake up I will come like a thief — and you will not know at what hour I will come against you.
+\v 4 Yet you have still a few names in Sardis — people who have not soiled their garments — and they will walk with me in white — for they are worthy.
+\v 5 The one who conquers will be clothed thus in white garments — and I will never blot his name out of the book of life (*ek tēs biblou tēs zōēs*) — and I will confess his name before my Father and before his angels.
+\v 6 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies.
+\p
+\v 7 And to the angel of the called-out assembly (*ekklēsias*) in Philadelphia write: The words of the holy one — the true one — who has the key of David — who opens and no one will shut — who shuts and no one opens.
+\v 8 I know your works. Behold I have set before you an open door — which no one is able to shut. I know that you have but little power — and yet you have kept my word and have not denied my name.
+\v 9 Behold I will make those of the synagogue of Satan who say that they are Jews and are not but lie — behold I will make them come and bow down before your feet and they will learn that I have loved (*ēgapēsa*) you.
+\v 10 Because you have kept my word about patient endurance — I will keep you from the hour of trial that is coming on the whole inhabited world (*oikoumenēn holēn*) — to try those who dwell on the earth.
+\v 11 I am coming soon. Hold fast what you have — so that no one may seize your crown.
+\v 12 The one who conquers — I will make him a pillar in the sanctuary (*naō*) of my God. Never shall he go out of it — and I will write on him the name of my God — and the name of the city of my God — the new Jerusalem (*Ierousalēm kainēs*) which comes down from my God out of heaven — and my own new name.
+\v 13 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies.
+\p
+\v 14 And to the angel of the called-out assembly (*ekklēsias*) in Laodicea write: The words of the Amen — the faithful and true witness — the beginning of God's creation (*archē tēs ktiseōs tou theou*).
+\v 15 I know your works: you are neither cold nor hot. Would that you were either cold or hot!
+\v 16 So because you are lukewarm — and neither hot nor cold — I will spit you out of my mouth.
+\v 17 For you say: I am rich — I have prospered — and I need nothing — not realizing that you are wretched — pitiable — poor — blind — and naked.
+\v 18 I counsel you to buy from me gold refined by fire so that you may be rich — and white garments so that you may clothe yourself and the shame of your nakedness may not be seen — and salve to anoint your eyes so that you may see.
+\v 19 Those whom I love (*phileō*) I reprove and discipline (*paideuō*) — so be zealous and repent.
+\v 20 Behold I stand at the door and knock. If anyone hears my voice and opens the door I will come in to him and eat with him and he with me.
+\v 21 The one who conquers — I will grant him to sit with me on my throne — as I also conquered and sat down with my Father on his throne.
+\v 22 He who has an ear let him hear what the breath-of-life (*pneuma*) says to the called-out assemblies.
+
+\c 4
+\p
+\v 1 After this I looked and behold a door standing open in heaven! And the first voice — which I had heard speaking to me like a trumpet — said: Come up here and I will show you what must take place after this.
+\v 2 At once I was in the breath-of-life (*pneumati*) — and behold a throne stood in heaven — with one seated on the throne.
+\v 3 And he who sat there had the appearance of jasper and carnelian — and around the throne was a rainbow that had the appearance of an emerald.
+\v 4 Around the throne were twenty-four thrones — and seated on the thrones were twenty-four elders — clothed in white garments with golden crowns on their heads.
+\v 5 From the throne came flashes of lightning and rumblings and peals of thunder — and before the throne were burning seven torches of fire — which are the seven breaths-of-life (*pneumata*) of God —
+\v 6 and before the throne there was as it were a sea of glass like crystal. And around the throne — on each side of the throne — were four living creatures (*zōa*) full of eyes in front and behind:
+\v 7 the first living creature like a lion — the second living creature like an ox — the third living creature with the face of a man — and the fourth living creature like an eagle in flight.
+\v 8 And the four living creatures — each of them with six wings — are full of eyes all around and within — and day and night they never cease to say: Holy — holy — holy is the Lord God Almighty (*kyrios ho theos ho pantokratōr*) — who was and is and is to come!
+\v 9 And whenever the living creatures give glory and honor and thanks to him who is seated on the throne — who lives forever and ever —
+\v 10 the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne saying:
+\v 11 Worthy are you — our Lord and God — to receive glory and honor and power — for you created all things — and by your will they existed and were created.
+
+\c 5
+\p
+\v 1 Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back — sealed with seven seals.
+\v 2 And I saw a mighty angel proclaiming with a loud voice: Who is worthy to open the scroll and break its seals?
+\v 3 And no one in heaven or on earth or under the earth was able to open the scroll or to look into it —
+\v 4 and I began to weep loudly because no one was found worthy to open the scroll or to look into it.
+\v 5 And one of the elders said to me: Weep no more — behold the Lion of the tribe of Judah — the Root of David (*hē rhiza Dauid*) — has conquered so that he can open the scroll and its seven seals.
+\v 6 And between the throne and the four living creatures and among the elders I saw a Lamb (*arnion*) standing — as though it had been slain — with seven horns and with seven eyes — which are the seven breaths-of-life (*pneumata*) of God sent out into all the earth.
+\v 7 And he went and took the scroll from the right hand of him who was seated on the throne.
+\v 8 And when he had taken the scroll — the four living creatures and the twenty-four elders fell down before the Lamb (*arniou*) — each holding a harp and golden bowls full of incense — which are the prayers of the holy ones.
+\v 9 And they sang a new song (*ōdēn kainēn*) saying: Worthy are you to take the scroll and to open its seals — for you were slain and by your blood you ransomed (*ēgorasas*) people for God from every tribe and language and people and nation —
+\v 10 and you have made them a kingdom and priests to our God — and they shall reign on the earth.
+\v 11 Then I looked and I heard around the throne and the living creatures and the elders the voice of many angels — numbering myriads of myriads and thousands of thousands —
+\v 12 saying with a loud voice: Worthy is the Lamb (*arnion*) who was slain — to receive power and wealth and wisdom (*sophian*) and might and honor and glory and blessing!
+\v 13 And I heard every creature in heaven and on earth and under the earth and in the sea — and all that is in them saying: To him who sits on the throne and to the Lamb (*arniō*) be blessing and honor and glory and might forever and ever!
+\v 14 And the four living creatures said: Amen! And the elders fell down and worshipped.
+
+\c 6
+\p
+\v 1 Now I watched when the Lamb (*arnion*) opened one of the seven seals — and I heard one of the four living creatures say with a voice like thunder: Come!
+\v 2 And I looked — and behold a white horse! And its rider had a bow — and a crown was given to him — and he came out conquering and to conquer.
+\v 3 When he opened the second seal I heard the second living creature say: Come!
+\v 4 And out came another horse — bright red. Its rider was permitted to take peace from the earth — so that people should slay one another — and he was given a great sword.
+\v 5 When he opened the third seal I heard the third living creature say: Come! And I looked — and behold a black horse! And its rider had a pair of scales in his hand.
+\v 6 And I heard what seemed to be a voice in the midst of the four living creatures saying: A quart of wheat for a denarius — and three quarts of barley for a denarius — and do not harm the oil and wine!
+\v 7 When he opened the fourth seal I heard the voice of the fourth living creature say: Come!
+\v 8 And I looked — and behold a pale horse! And its rider's name was Death — and Hades followed him. And they were given authority over a fourth of the earth — to kill with sword and with famine and with pestilence and by wild beasts of the earth.
+\v 9 When he opened the fifth seal I saw under the altar the souls (*psychas*) of those who had been slain for the word of God (*logon tou theou*) and for the witness they had borne.
+\v 10 They cried out with a loud voice: O Sovereign Lord — holy and true (*alēthine*) — how long before you will judge and avenge our blood on those who dwell on the earth?
+\v 11 Then they were each given a white robe and told to rest a little longer — until the number of their fellow servants and their brothers should be complete — who were to be killed as they themselves had been.
+\v 12 When he opened the sixth seal I looked — and behold there was a great earthquake — and the sun became black as sackcloth — the full moon became like blood —
+\v 13 and the stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale.
+\v 14 The sky vanished like a scroll that is being rolled up — and every mountain and island was removed from its place.
+\v 15 Then the kings of the earth and the great ones and the generals and the rich and the powerful — and everyone slave and free — hid themselves in the caves and among the rocks of the mountains —
+\v 16 calling to the mountains and rocks: Fall on us and hide us from the face of him who is seated on the throne and from the wrath of the Lamb (*arniou*) —
+\v 17 for the great day of their wrath has come — and who can stand?
+
+\c 7
+\p
+\v 1 After this I saw four angels standing at the four corners of the earth — holding back the four winds of the earth — that no wind might blow on earth or sea or against any tree.
+\v 2 Then I saw another angel ascending from the rising of the sun (*anatolēs hēliou*) — with the seal of the living God — and he called with a loud voice to the four angels who had been given power to harm earth and sea —
+\v 3 saying: Do not harm the earth or the sea or the trees until we have sealed the servants of our God on their foreheads.
+\v 4 And I heard the number of the sealed — 144,000 — sealed from every tribe of the sons of Israel:
+\v 5 12,000 from the tribe of Judah were sealed — 12,000 from the tribe of Reuben — 12,000 from the tribe of Gad —
+\v 6 12,000 from the tribe of Asher — 12,000 from the tribe of Naphtali — 12,000 from the tribe of Manasseh —
+\v 7 12,000 from the tribe of Simeon — 12,000 from the tribe of Levi — 12,000 from the tribe of Issachar —
+\v 8 12,000 from the tribe of Zebulun — 12,000 from the tribe of Joseph — 12,000 from the tribe of Benjamin were sealed.
+\p
+\v 9 After this I looked — and behold a great multitude that no one could number — from every nation — from all tribes and peoples and languages — standing before the throne and before the Lamb (*arniou*) — clothed in white robes — with palm branches in their hands —
+\v 10 and crying out with a loud voice: Salvation (*sōtēria*) belongs to our God who sits on the throne — and to the Lamb (*arniō*)!
+\v 11 And all the angels were standing around the throne and around the elders and the four living creatures — and they fell on their faces before the throne and worshipped God —
+\v 12 saying: Amen! Blessing and glory and wisdom (*sophia*) and thanksgiving and honor and power and might be to our God forever and ever! Amen.
+\v 13 Then one of the elders addressed me saying: Who are these clothed in white robes and from where have they come?
+\v 14 I said to him: Sir — you know. And he said to me: These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb (*arniou*).
+\v 15 Therefore they are before the throne of God and serve him day and night in his sanctuary (*naō*). And he who sits on the throne will shelter them with his presence.
+\v 16 They shall hunger no more — neither thirst anymore — the sun shall not strike them nor any scorching heat.
+\v 17 For the Lamb (*arnion*) in the midst of the throne will be their shepherd (*poimanei autous*) — and he will guide them to springs of living water (*zōntos hydatos*) — and God will wipe away every tear from their eyes.
+
+\c 8
+\p
+\v 1 When the Lamb (*arnion*) opened the seventh seal there was silence in heaven for about half an hour.
+\v 2 Then I saw the seven angels who stand before God — and seven trumpets were given to them.
+\v 3 And another angel came and stood at the altar with a golden censer — and he was given much incense to offer with the prayers of all the holy ones on the golden altar before the throne —
+\v 4 and the smoke of the incense — with the prayers of the holy ones — rose before God from the hand of the angel.
+\v 5 Then the angel took the censer and filled it with fire from the altar and threw it on the earth — and there were peals of thunder — rumblings — flashes of lightning and an earthquake.
+\p
+\v 6 Now the seven angels who had the seven trumpets prepared to blow them.
+\v 7 The first angel blew his trumpet — and there followed hail and fire mixed with blood — and these were thrown upon the earth. And a third of the earth was burned up — and a third of the trees were burned up — and all green grass was burned up.
+\v 8 The second angel blew his trumpet — and something like a great mountain burning with fire was thrown into the sea — and a third of the sea became blood.
+\v 9 A third of the living creatures in the sea died — and a third of the ships were destroyed.
+\v 10 The third angel blew his trumpet — and a great star fell from heaven blazing like a torch — and it fell on a third of the rivers and on the springs of water (*pēgas tōn hydatōn*).
+\v 11 The name of the star is Wormwood. A third of the waters became wormwood — and many people died from the water because it had been made bitter.
+\v 12 The fourth angel blew his trumpet — and a third of the sun was struck — and a third of the moon — and a third of the stars — so that a third of their light might be darkened — and a third of the day might be kept from shining — and likewise a third of the night.
+\v 13 Then I looked — and I heard an eagle crying with a loud voice as it flew directly overhead: Woe — woe — woe to those who dwell on the earth — at the blasts of the other trumpets that the three angels are about to blow!
+
+\c 9
+\p
+\v 1 And the fifth angel blew his trumpet — and I saw a star fallen from heaven to earth — and he was given the key to the shaft of the bottomless pit.
+\v 2 He opened the shaft of the bottomless pit and from the shaft rose smoke like the smoke of a great furnace — and the sun and the air were darkened with the smoke from the shaft.
+\v 3 Then from the smoke came locusts on the earth — and they were given power like the power of scorpions of the earth.
+\v 4 They were told not to harm the grass of the earth or any green plant or any tree — but only those people who do not have the seal of God on their foreheads.
+\v 5 They were allowed to torment them for five months — but not to kill them — and their torment was like the torment of a scorpion when it stings someone.
+\v 6 And in those days people will seek death and will not find it. They will long to die but death will flee from them.
+\v 7 In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold — their faces were like human faces —
+\v 8 their hair like women's hair — and their teeth like lions' teeth —
+\v 9 they had breastplates like breastplates of iron — and the noise of their wings was like the noise of many chariots with horses rushing into battle.
+\v 10 They have tails and stings like scorpions — and their power to hurt people for five months is in their tails.
+\v 11 They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon — and in Greek he is called Apollyon.
+\v 12 The first woe has passed — behold two woes are still to come.
+\p
+\v 13 Then the sixth angel blew his trumpet — and I heard a voice from the four horns of the golden altar before God —
+\v 14 saying to the sixth angel who had the trumpet: Release the four angels who are bound at the great river Euphrates.
+\v 15 So the four angels — who had been prepared for the hour — the day — the month — and the year — were released to kill a third of mankind.
+\v 16 The number of mounted troops was two hundred million — I heard their number.
+\v 17 And this is how I saw the horses in my vision and those who rode them: they wore breastplates the color of fire and of sapphire and of sulfur — and the heads of the horses were like lions' heads — and fire and smoke and sulfur came out of their mouths.
+\v 18 By these three plagues a third of mankind was killed — by the fire and smoke and sulfur coming out of their mouths.
+\v 19 For the power of the horses is in their mouths and in their tails — for their tails are like serpents with heads — and by means of them they wound.
+\v 20 The rest of mankind who were not killed by these plagues did not repent of the works of their hands nor give up worshipping demons and idols of gold and silver and bronze and stone and wood — which cannot see or hear or walk —
+\v 21 nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+
+\c 10
+\p
+\v 1 Then I saw another mighty angel coming down from heaven — wrapped in a cloud — with a rainbow over his head — and his face was like the sun — and his legs like pillars of fire.
+\v 2 He had a little scroll open in his hand. And he set his right foot on the sea and his left foot on the land —
+\v 3 and called out with a loud voice like a lion roaring. When he called out — the seven thunders sounded.
+\v 4 And when the seven thunders had sounded — I was about to write — but I heard a voice from heaven saying: Seal up what the seven thunders have said — and do not write it down.
+\v 5 And the angel whom I saw standing on the sea and on the land raised his right hand to heaven
+\v 6 and swore by him who lives forever and ever — who created heaven and what is in it — the earth and what is in it — and the sea and what is in it — that there would be no more delay —
+\v 7 but that in the days of the trumpet call to be sounded by the seventh angel — the mystery of God (*mystērion tou theou*) would be fulfilled — just as he announced to his servants the prophets.
+\v 8 Then the voice that I had heard from heaven spoke to me again saying: Go — take the scroll that is open in the hand of the angel who is standing on the sea and on the land.
+\v 9 So I went to the angel and told him to give me the little scroll. And he said to me: Take and eat it — it will make your stomach bitter but in your mouth it will be sweet as honey.
+\v 10 And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth — but when I had eaten it my stomach was made bitter.
+\v 11 And I was told: You must again prophesy about many peoples and nations and languages and kings.
+
+\c 11
+\p
+\v 1 Then I was given a measuring rod like a staff — and I was told: Rise and measure the sanctuary (*naon*) of God and the altar and those who worship there —
+\v 2 but do not measure the court outside the sanctuary (*naou*) — leave that out — for it is given over to the nations — and they will trample the holy city for forty-two months.
+\v 3 And I will grant authority to my two witnesses — and they will prophesy for 1,260 days — clothed in sackcloth.
+\v 4 These are the two olive trees and the two lampstands that stand before the Lord of the earth.
+\v 5 And if anyone would harm them — fire pours from their mouth and consumes their foes. If anyone would harm them — this is how he is doomed to be killed.
+\v 6 They have the power to shut the sky — so that no rain may fall during the days of their prophesying — and they have power over the waters to turn them into blood and to strike the earth with every kind of plague as often as they desire.
+\v 7 And when they have finished their testimony — the beast that rises from the bottomless pit will make war on them and conquer them and kill them —
+\v 8 and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt — where their Lord was crucified.
+\v 9 For three and a half days some from the peoples and tribes and languages and nations will gaze at their dead bodies and refuse to let them be placed in a tomb —
+\v 10 and those who dwell on the earth will rejoice over them and make merry and exchange presents — because these two prophets had been a torment to those who dwell on the earth.
+\v 11 But after the three and a half days a breath-of-life (*pneuma zōēs*) from God entered them — and they stood up on their feet — and great fear fell on those who saw them.
+\v 12 Then they heard a loud voice from heaven saying to them: Come up here! And they went up to heaven in a cloud — and their enemies watched them.
+\v 13 And at that hour there was a great earthquake — and a tenth of the city fell. Seven thousand people were killed in the earthquake — and the rest were terrified and gave glory to the God of heaven.
+\v 14 The second woe has passed — behold the third woe is soon to come.
+\p
+\v 15 Then the seventh angel blew his trumpet — and there were loud voices in heaven saying: The kingdom of the world has become the kingdom of our Lord and of his Anointed (*tou Christou autou*) — and he shall reign forever and ever.
+\v 16 And the twenty-four elders who sit on their thrones before God fell on their faces and worshipped God —
+\v 17 saying: We give thanks to you — Lord God Almighty (*kyrie ho theos ho pantokratōr*) — who is and who was — for you have taken your great power and begun to reign.
+\v 18 The nations raged — but your wrath came — and the time for the dead to be judged — and for rewarding your servants the prophets and holy ones and those who fear your name — both small and great — and for destroying the destroyers of the earth.
+\v 19 Then God's sanctuary (*naos*) in heaven was opened — and the ark of his covenant (*kibōtos tēs diathēkēs*) was seen within his sanctuary. And there were flashes of lightning — rumblings — peals of thunder — an earthquake — and heavy hail.
+
+\c 12
+\p
+\v 1 And a great sign appeared in heaven: a woman clothed with the sun — with the moon under her feet — and on her head a crown of twelve stars.
+\v 2 She was pregnant and was crying out in birth pains and the agony of giving birth.
+\v 3 And another sign appeared in heaven: behold a great red dragon — with seven heads and ten horns — and on his heads seven diadems.
+\v 4 His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth — so that when she bore her child he might devour it.
+\v 5 She gave birth to a male child — one who is to rule all the nations with a rod of iron — but her child was caught up to God and to his throne —
+\v 6 and the woman fled into the wilderness — where she has a place prepared by God — in which she is to be nourished for 1,260 days.
+\p
+\v 7 Now war arose in heaven: Michael and his angels fighting against the dragon. And the dragon and his angels fought back —
+\v 8 but he was defeated and there was no longer any place for them in heaven.
+\v 9 And the great dragon was thrown down — that ancient serpent who is called the devil (*diabolos*) and Satan (*Satanas*) — the deceiver of the whole inhabited world (*oikoumenēs holēs*) — he was thrown down to the earth and his angels were thrown down with him.
+\v 10 And I heard a loud voice in heaven saying: Now the salvation (*sōtēria*) and the power and the kingdom of our God and the authority of his Anointed have come — for the accuser of our brothers has been thrown down — who accuses them day and night before our God.
+\v 11 And they have conquered him by the blood of the Lamb (*arniou*) and by the word of their testimony — for they loved not their soul (*psychēn*) even unto death.
+\v 12 Therefore rejoice O heavens and you who dwell in them! But woe to you O earth and sea — for the devil has come down to you in great wrath — because he knows that his time is short!
+\v 13 And when the dragon saw that he had been thrown down to the earth he pursued the woman who had given birth to the male child.
+\v 14 But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness — to the place where she is to be nourished for a time and times and half a time.
+\v 15 The serpent poured water like a river out of his mouth after the woman to sweep her away with a flood.
+\v 16 But the earth came to the help of the woman — and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
+\v 17 Then the dragon became furious with the woman and went off to make war on the rest of her offspring — on those who keep the commandments of God and hold to the testimony of Jesus.
+
+\c 13
+\p
+\v 1 And I saw a beast rising out of the sea — with ten horns and seven heads — with ten diadems on its horns and blasphemous names on its heads.
+\v 2 And the beast that I saw was like a leopard — its feet were like a bear's and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority.
+\v 3 One of its heads seemed to have a mortal wound but its mortal wound was healed and the whole earth marveled as they followed the beast.
+\v 4 And they worshipped the dragon for he had given his authority to the beast — and they worshipped the beast saying: Who is like the beast and who can fight against it?
+\v 5 And the beast was given a mouth uttering haughty and blasphemous words — and it was allowed to exercise authority for forty-two months.
+\v 6 It opened its mouth to utter blasphemies against God — blaspheming his name and his dwelling — that is those who dwell in heaven.
+\v 7 Also it was allowed to make war on the holy ones and to conquer them. And authority was given it over every tribe and people and language and nation —
+\v 8 and all who dwell on earth will worship it — everyone whose name has not been written before the foundation of the world in the book of life (*en tē biblō tēs zōēs*) of the Lamb (*arniou*) who was slain.
+\v 9 If anyone has an ear let him hear:
+\v 10 If anyone is to be taken captive to captivity he goes. If anyone is to be slain with the sword with the sword must he be slain. Here is a call for the endurance and faith of the holy ones.
+\p
+\v 11 Then I saw another beast rising out of the earth. It had two horns like a lamb (*arniou*) and it spoke like a dragon.
+\v 12 It exercises all the authority of the first beast in its presence and makes the earth and its inhabitants worship the first beast whose mortal wound was healed.
+\v 13 It performs great signs even making fire come down from heaven to earth in front of people —
+\v 14 and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth — telling them to make an image for the beast that was wounded by the sword and yet lived.
+\v 15 And it was allowed to give breath (*pneuma*) to the image of the beast — so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
+\v 16 Also it causes all — both small and great — both rich and poor — both free and slave — to be marked on the right hand or the forehead —
+\v 17 so that no one can buy or sell unless he has the mark — that is the name of the beast or the number of its name.
+\v 18 This calls for wisdom (*sophian*): let the one who has understanding calculate the number of the beast — for it is the number of a man — and his number is 666.
+
+\c 14
+\p
+\v 1 Then I looked — and behold on Mount Zion stood the Lamb (*arnion*) — and with him 144,000 who had his name and his Father's name written on their foreheads.
+\v 2 And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps —
+\v 3 and they were singing a new song (*ōdēn kainēn*) before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed (*ēgorasmenoi*) from the earth.
+\v 4 It is these who have not defiled themselves with women — for they are virgins. It is these who follow the Lamb (*arnion*) wherever he goes. These have been redeemed (*ēgorasthēsan*) from mankind as firstfruits (*aparchē*) for God and for the Lamb —
+\v 5 and in their mouth no lie was found — for they are blameless.
+\p
+\v 6 Then I saw another angel flying directly overhead — with an eternal glad tidings (*euangelion aiōnion*) to proclaim to those who dwell on earth — to every nation and tribe and language and people.
+\v 7 And he said with a loud voice: Fear God and give him glory — because the hour of his judgment has come — and worship him who made heaven and earth and the sea and the springs of water.
+\v 8 Another angel — a second one — followed saying: Fallen — fallen is Babylon the great — she who made all nations drink the wine of the passion of her sexual immorality.
+\v 9 And another angel — a third one — followed them saying with a loud voice: If anyone worships the beast and its image and receives a mark on his forehead or on his hand —
+\v 10 he also will drink the wine of God's wrath — poured full strength into the cup of his anger — and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb (*arniou*).
+\v 11 And the smoke of their torment goes up forever and ever and they have no rest day or night — these worshippers of the beast and its image and whoever receives the mark of its name.
+\v 12 Here is a call for the endurance of the holy ones — those who keep the commandments of God and their faith in Jesus.
+\v 13 And I heard a voice from heaven saying: Write this — Blessed are the dead who die in the Lord from now on. Blessed indeed says the breath-of-life (*pneuma*) — that they may rest from their labors — for their deeds follow them!
+\p
+\v 14 Then I looked — and behold a white cloud — and seated on the cloud one like a son of man (*huion anthrōpou*) — with a golden crown on his head and a sharp sickle in his hand.
+\v 15 And another angel came out of the sanctuary (*naou*) — calling with a loud voice to him who sat on the cloud: Put in your sickle and reap — for the hour to reap has come — for the harvest of the earth is fully ripe.
+\v 16 So he who sat on the cloud swung his sickle across the earth and the earth was reaped.
+\v 17 Then another angel came out of the sanctuary (*naou*) in heaven — and he too had a sharp sickle.
+\v 18 And another angel came out from the altar — the angel who has authority over the fire — and he called with a loud voice to the one who had the sharp sickle: Put in your sickle and gather the clusters from the vine of the earth — for its grapes are ripe.
+\v 19 So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God.
+\v 20 And the winepress was trodden outside the city — and blood flowed from the winepress as high as a horse's bridle for 1,600 stadia.
+
+\c 15
+\p
+\v 1 Then I saw another sign in heaven — great and amazing — seven angels with seven plagues which are the last — for with them the wrath of God is finished.
+\v 2 And I saw what appeared to be a sea of glass mingled with fire — and also those who had conquered the beast and its image and the number of its name — standing beside the sea of glass with harps of God in their hands.
+\v 3 And they sing the song of Moses (*ōdēn Mōyseōs*) — the servant of God — and the song of the Lamb (*ōdēn tou arniou*) saying: Great and amazing are your deeds — Lord God Almighty (*kyrie ho theos ho pantokratōr*)! Just and true (*alēthinai*) are your ways — O King of the nations!
+\v 4 Who will not fear O Lord and glorify your name? For you alone are holy. All nations will come and worship you — for your righteous acts (*dikaiōmata*) have been revealed.
+\p
+\v 5 After this I looked and the sanctuary (*naos*) of the tent of witness in heaven was opened —
+\v 6 and out of the sanctuary came the seven angels with the seven plagues — clothed in pure bright linen — with golden sashes around their chests.
+\v 7 And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever —
+\v 8 and the sanctuary (*naos*) was filled with smoke from the glory of God and from his power — and no one could enter the sanctuary (*naon*) until the seven plagues of the seven angels were finished.
+
+\c 16
+\p
+\v 1 Then I heard a loud voice from the sanctuary (*naou*) telling the seven angels: Go and pour out on the earth the seven bowls of the wrath of God.
+\v 2 So the first angel went and poured out his bowl on the earth — and harmful and painful sores came upon the people who bore the mark of the beast and worshipped its image.
+\v 3 The second angel poured out his bowl into the sea — and it became like the blood of a corpse — and every living thing in the sea died.
+\v 4 The third angel poured out his bowl into the rivers and the springs of water (*pēgas tōn hydatōn*) and they became blood.
+\v 5 And I heard the angel in charge of the waters say: Just are you — O Holy One — who is and who was — for you brought these judgments —
+\v 6 for they have shed the blood of holy ones and prophets and you have given them blood to drink. It is what they deserve!
+\v 7 And I heard the altar saying: Yes — Lord God Almighty (*kyrie ho theos ho pantokratōr*) — true (*alēthinai*) and just are your judgments!
+\v 8 The fourth angel poured out his bowl on the sun — and it was allowed to scorch people with fire.
+\v 9 They were scorched by the fierce heat and they cursed the name of God who had power over these plagues. They did not repent and give him glory.
+\v 10 The fifth angel poured out his bowl on the throne of the beast — and its kingdom was plunged into darkness. People gnawed their tongues in anguish
+\v 11 and cursed the God of heaven for their pain and sores. They did not repent of their deeds.
+\v 12 The sixth angel poured out his bowl on the great river Euphrates — and its water was dried up to prepare the way for the kings from the east (*anatolēs hēliou*).
+\v 13 And I saw coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet three unclean breaths-of-life (*pneumata akatharta*) like frogs.
+\v 14 For they are demonic breaths-of-life (*pneumata*) performing signs — who go abroad to the kings of the whole inhabited world (*oikoumenēs holēs*) to assemble them for battle on the great day of God the Almighty.
+\v 15 Behold I am coming like a thief! Blessed is the one who stays awake — keeping his garments on — that he may not go about naked and be seen exposed!
+\v 16 And they assembled them at the place that in Hebrew is called Armageddon.
+\v 17 The seventh angel poured out his bowl into the air — and a loud voice came out of the sanctuary (*naou*) from the throne saying: It is done!
+\v 18 And there were flashes of lightning — rumblings — peals of thunder — and a great earthquake such as there had never been since man was on the earth — so great was that earthquake.
+\v 19 The great city was split into three parts — and the cities of the nations fell — and God remembered Babylon the great — to make her drain the cup of the wine of the fury of his wrath.
+\v 20 And every island fled away and no mountains were to be found.
+\v 21 And great hailstones about one hundred pounds each fell from heaven on people — and they cursed God for the plague of the hail because the plague was so severe.
+
+\c 17
+\p
+\v 1 Then one of the seven angels who had the seven bowls came and said to me: Come — I will show you the judgment of the great prostitute who is seated on many waters —
+\v 2 with whom the kings of the earth have committed sexual immorality — and with the wine of whose sexual immorality the dwellers on earth have become drunk.
+\v 3 And he carried me away in the breath-of-life (*pneumati*) into a wilderness — and I saw a woman sitting on a scarlet beast that was full of blasphemous names — and it had seven heads and ten horns.
+\v 4 The woman was arrayed in purple and scarlet and adorned with gold and jewels and pearls — holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.
+\v 5 And on her forehead was written a name of mystery: Babylon the great — mother of prostitutes and of earth's abominations.
+\v 6 And I saw the woman drunk with the blood of the holy ones and the blood of the martyrs of Jesus. When I saw her I marveled greatly.
+\v 7 But the angel said to me: Why do you marvel? I will tell you the mystery of the woman and of the beast with seven heads and ten horns that carries her.
+\v 8 The beast that you saw was — and is not — and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life (*en tē biblō tēs zōēs*) from the foundation of the world will marvel to see the beast — because it was and is not and is to come.
+\v 9 This calls for a mind with wisdom (*sophian*). The seven heads are seven mountains on which the woman is seated.
+\v 10 They are also seven kings — five of whom have fallen — one is — the other has not yet come — and when he does come he must remain only a little while.
+\v 11 As for the beast that was and is not — it is an eighth but it belongs to the seven and it goes to destruction.
+\v 12 And the ten horns that you saw are ten kings who have not yet received royal power — but they are to receive authority as kings for one hour together with the beast.
+\v 13 These are of one mind and they hand over their power and authority to the beast.
+\v 14 They will make war on the Lamb (*arniō*) — and the Lamb will conquer them — for he is Lord of lords and King of kings — and those with him are called and chosen and faithful.
+\v 15 And the angel said to me: The waters that you saw — where the prostitute is seated — are peoples and multitudes and nations and languages.
+\v 16 And the ten horns that you saw and the beast will hate the prostitute. They will make her desolate and naked and devour her flesh and burn her up with fire —
+\v 17 for God has put it into their hearts (*kardias*) to carry out his purpose by being of one mind and handing over their royal power to the beast — until the words of God are fulfilled.
+\v 18 And the woman that you saw is the great city that has dominion over the kings of the earth.
+
+\c 18
+\p
+\v 1 After this I saw another angel coming down from heaven — having great authority — and the earth was made bright with his glory.
+\v 2 And he called out with a mighty voice: Fallen — fallen is Babylon the great! She has become a dwelling place for demons — a haunt for every unclean breath-of-life (*pneuma*) — a haunt for every unclean and detestable bird —
+\v 3 for all nations have drunk the wine of the passion of her sexual immorality — and the kings of the earth have committed immorality with her — and the merchants of the earth have grown rich from the power of her luxurious living.
+\p
+\v 4 Then I heard another voice from heaven saying: Come out of her my people — lest you take part in her sins — lest you share in her plagues —
+\v 5 for her sins are heaped high as heaven — and God has remembered her iniquities.
+\v 6 Pay her back as she herself has paid back others — and repay her double for her deeds — mix a double portion for her in the cup she mixed.
+\v 7 As she glorified herself and lived in luxury — so give her a like measure of torment and mourning — since in her heart (*kardia*) she says: I sit as a queen — I am no widow — and mourning I shall never see.
+\v 8 For this reason her plagues will come in a single day — death and mourning and famine — and she will be burned up with fire — for mighty is the Lord God who has judged her.
+\p
+\v 9 And the kings of the earth — who committed sexual immorality and lived in luxury with her — will weep and wail over her when they see the smoke of her burning.
+\v 10 They will stand far off in fear of her torment and say: Alas — alas — you great city — you mighty city Babylon! For in a single hour your judgment has come.
+\v 11 And the merchants of the earth weep and mourn for her — since no one buys their cargo anymore —
+\v 12 cargo of gold — silver — jewels — pearls — fine linen — purple cloth — silk — scarlet cloth — all kinds of scented wood — all kinds of articles of ivory — all kinds of articles of costly wood — bronze — iron — marble —
+\v 13 cinnamon — spice — incense — myrrh — frankincense — wine — oil — fine flour — wheat — cattle and sheep — horses and chariots — and slaves — that is human souls (*psychas anthrōpōn*).
+\v 14 The fruit for which your soul (*psychē*) longed has gone from you — and all your delicacies and your splendors are lost to you — never to be found again!
+\v 15 The merchants of these wares who gained wealth from her will stand far off in fear of her torment — weeping and mourning aloud:
+\v 16 Alas — alas — for the great city that was clothed in fine linen — in purple and scarlet — adorned with gold — with jewels — and with pearls!
+\v 17 For in a single hour all this wealth has been laid waste. And all shipmasters and seafaring men — sailors and all whose trade is on the sea — stood far off
+\v 18 and cried out as they saw the smoke of her burning: What city was like the great city?
+\v 19 And they threw dust on their heads as they wept and mourned crying out: Alas — alas — for the great city where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste.
+\v 20 Rejoice over her O heaven — and you holy ones and apostles and prophets — for God has given judgment for you against her!
+\v 21 Then a mighty angel took up a stone like a great millstone and threw it into the sea saying: So will Babylon the great city be thrown down with violence — and will be found no more.
+\v 22 And the sound of harpists and musicians — of flute players and trumpeters — will be heard in you no more — and a craftsman of any craft will be found in you no more — and the sound of the mill will be heard in you no more —
+\v 23 and the light of a lamp will shine in you no more — and the voice of bridegroom and bride will be heard in you no more — for your merchants were the great ones of the earth — and all nations were deceived by your sorcery.
+\v 24 And in her was found the blood of prophets and of holy ones — and of all who have been slain on earth.
+
+\c 19
+\p
+\v 1 After this I heard what seemed to be the loud voice of a great multitude in heaven crying out: Hallelujah! Salvation (*sōtēria*) and glory and power belong to our God —
+\v 2 for his judgments are true (*alēthinai*) and just — for he has judged the great prostitute who corrupted the earth with her immorality — and has avenged on her the blood of his servants.
+\v 3 Once more they cried out: Hallelujah! The smoke from her goes up forever and ever.
+\v 4 And the twenty-four elders and the four living creatures fell down and worshipped God who was seated on the throne saying: Amen! Hallelujah!
+\v 5 And from the throne came a voice saying: Praise our God all you his servants — you who fear him — small and great.
+\v 6 Then I heard what seemed to be the voice of a great multitude like the roar of many waters and like the sound of mighty peals of thunder crying out: Hallelujah! For the Lord our God the Almighty (*kyrios ho theos ho pantokratōr*) reigns.
+\v 7 Let us rejoice and exult and give him the glory — for the marriage of the Lamb (*arniou*) has come — and his Bride has made herself ready —
+\v 8 it was granted her to clothe herself with fine linen — bright and pure — for the fine linen is the righteous deeds (*dikaiōmata*) of the holy ones.
+\v 9 And the angel said to me: Write this — Blessed are those who are invited to the marriage supper of the Lamb (*arniou*). And he said to me: These are the true (*alēthinoi*) words of God.
+\v 10 Then I fell down at his feet to worship him — but he said to me: You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of Jesus. Worship God. For the testimony of Jesus is the breath-of-life of prophecy (*pneuma tēs prophēteias*).
+\p
+\v 11 Then I saw heaven opened — and behold a white horse! The one sitting on it is called Faithful and True (*Pistos kai Alēthinos*) — and in righteousness (*dikaiosynē*) he judges and makes war.
+\v 12 His eyes are like a flame of fire — and on his head are many diadems — and he has a name written that no one knows but himself.
+\v 13 He is clothed in a robe dipped in blood — and the name by which he is called is The Word of God (*ho Logos tou theou*).
+\v 14 And the armies of heaven — arrayed in fine linen — white and pure — were following him on white horses.
+\v 15 From his mouth comes a sharp sword with which to strike down the nations — and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty (*pantokratoros*).
+\v 16 On his robe and on his thigh he has a name written: King of kings and Lord of lords.
+\v 17 Then I saw an angel standing in the sun — and with a loud voice he called to all the birds that fly directly overhead: Come — gather for the great supper of God —
+\v 18 to eat the flesh of kings — the flesh of captains — the flesh of mighty men — the flesh of horses and their riders — and the flesh of all men — both free and slave — both small and great.
+\v 19 And I saw the beast and the kings of the earth with their armies gathered to make war against him who was sitting on the horse and against his army.
+\v 20 And the beast was captured — and with it the false prophet who in its presence had done the signs by which he deceived those who had received the mark of the beast and those who worshipped its image. These two were thrown alive into the lake of fire that burns with sulfur.
+\v 21 And the rest were slain by the sword that came from the mouth of him who was sitting on the horse — and all the birds were gorged with their flesh.
+
+\c 20
+\p
+\v 1 Then I saw an angel coming down from heaven — holding in his hand the key to the bottomless pit and a great chain.
+\v 2 And he seized the dragon — that ancient serpent who is the devil (*diabolos*) and Satan (*Satanas*) — and bound him for a thousand years —
+\v 3 and threw him into the pit and shut it and sealed it over him — so that he might not deceive the nations any longer until the thousand years were ended. After that he must be released for a little while.
+\p
+\v 4 Then I saw thrones — and seated on them were those to whom the authority to judge was committed. Also I saw the souls (*psychas*) of those who had been beheaded for the testimony of Jesus and for the word of God (*logon tou theou*) — and those who had not worshipped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years.
+\v 5 The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection (*anastasis hē prōtē*).
+\v 6 Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power — but they will be priests of God and of Christ and they will reign with him for a thousand years.
+\p
+\v 7 And when the thousand years are ended Satan will be released from his prison
+\v 8 and will come out to deceive the nations that are at the four corners of the earth — Gog and Magog — to gather them for battle — their number is like the sand of the sea.
+\v 9 And they marched up over the broad plain of the earth and surrounded the camp of the holy ones and the beloved city — but fire came down from heaven and consumed them —
+\v 10 and the devil (*diabolos*) who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were — and they will be tormented day and night forever and ever.
+\p
+\v 11 Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away — and no place was found for them.
+\v 12 And I saw the dead — great and small — standing before the throne — and books were opened. Then another book was opened which is the book of life (*biblion tēs zōēs*). And the dead were judged by what was written in the books — according to what they had done.
+\v 13 And the sea gave up the dead who were in it — Death and Hades gave up the dead who were in them — and they were judged each one of them according to what they had done.
+\v 14 Then Death and Hades were thrown into the lake of fire. This is the second death — the lake of fire.
+\v 15 And if anyone's name was not found written in the book of life (*en tē biblō tēs zōēs*) he was thrown into the lake of fire.
+
+\c 21
+\p
+\v 1 Then I saw a new heaven and a new earth (*ouranon kainon kai gēn kainēn*) — for the first heaven and the first earth had passed away — and the sea was no more.
+\v 2 And I saw the holy city — new Jerusalem (*Ierousalēm kainēn*) — coming down out of heaven from God — prepared as a bride adorned for her husband.
+\v 3 And I heard a loud voice from the throne saying: Behold the tabernacle of God (*hē skēnē tou theou*) is with men. He will dwell (*skēnōsei*) with them and they will be his peoples — and God himself will be with them as their God.
+\v 4 He will wipe away every tear from their eyes — and death shall be no more — neither shall there be mourning nor crying nor pain anymore — for the former things have passed away.
+\v 5 And he who was seated on the throne said: Behold I am making all things new. Also he said: Write this down — for these words are trustworthy and true (*alēthinoi*).
+\v 6 And he said to me: It is done! I am the Alpha and the Omega — the beginning and the end. To the thirsty I will give from the spring of the water of life (*tēs pēgēs tou hydatos tēs zōēs*) without payment.
+\v 7 The one who conquers will have this heritage — and I will be his God and he will be my son (*autos moi estai eis huion*).
+\v 8 But as for the cowardly — the faithless — the detestable — as for murderers — the sexually immoral — sorcerers — idolaters — and all liars — their portion will be in the lake that burns with fire and sulfur — which is the second death.
+\p
+\v 9 Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me saying: Come — I will show you the Bride — the wife of the Lamb (*arniou*).
+\v 10 And he carried me away in the breath-of-life (*pneumati*) to a great high mountain — and showed me the holy city Jerusalem coming down out of heaven from God —
+\v 11 having the glory of God — its radiance like a most rare jewel like a jasper stone clear as crystal.
+\v 12 It had a great high wall with twelve gates — and at the gates twelve angels — and on the gates the names of the twelve tribes of the sons of Israel were inscribed —
+\v 13 on the east (*anatolēs*) three gates — on the north three gates — on the south three gates — and on the west three gates.
+\v 14 And the wall of the city had twelve foundations — and on them were the twelve names of the twelve apostles of the Lamb (*arniou*).
+\v 15 And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls.
+\v 16 The city lies foursquare — its length the same as its width. And he measured the city with his rod — 12,000 stadia. Its length and width and height are equal.
+\v 17 He also measured its wall — 144 cubits by human measurement which is also angel's measurement.
+\v 18 The wall was built of jasper — while the city was pure gold like clear glass.
+\v 19 The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper — the second sapphire — the third agate — the fourth emerald —
+\v 20 the fifth onyx — the sixth carnelian — the seventh chrysolite — the eighth beryl — the ninth topaz — the tenth chrysoprase — the eleventh jacinth — the twelfth amethyst.
+\v 21 And the twelve gates were twelve pearls — each of the gates made of a single pearl — and the street of the city was pure gold like transparent glass.
+\p
+\v 22 And I saw no sanctuary (*naon*) in the city — for its sanctuary is the Lord God Almighty (*kyrios ho theos ho pantokratōr*) and the Lamb (*arnion*).
+\v 23 And the city has no need of sun or moon to shine on it — for the glory of God gives it light — and its lamp is the Lamb (*arnion*).
+\v 24 By its light will the nations walk — and the kings of the earth will bring their glory into it —
+\v 25 and its gates will never be shut by day — and there will be no night there.
+\v 26 They will bring into it the glory and the honor of the nations.
+\v 27 But nothing unclean will ever enter it — nor anyone who does what is detestable or false — but only those who are written in the Lamb's (*arniou*) book of life (*en tē biblō tēs zōēs*).
+
+\c 22
+\p
+\v 1 Then the angel showed me the river of the water of life (*potamon hydatos zōēs*) — bright as crystal — flowing from the throne of God and of the Lamb (*arniou*) —
+\v 2 through the middle of the street of the city — also on either side of the river the tree of life (*xylon zōēs*) with its twelve kinds of fruit — yielding its fruit each month. The leaves of the tree were for the healing of the nations.
+\v 3 No longer will there be anything accursed — but the throne of God and of the Lamb (*arniou*) will be in it — and his servants will worship him.
+\v 4 They will see his face — and his name will be on their foreheads.
+\v 5 And night will be no more. They will need no light of lamp or sun — for the Lord God will be their light — and they will reign forever and ever.
+\p
+\v 6 And he said to me: These words are trustworthy and true (*alēthinoi*). And the Lord — the God of the breaths-of-life (*pneumatōn*) of the prophets — has sent his angel to show his servants what must soon take place.
+\v 7 And behold I am coming soon. Blessed is the one who keeps the words of the prophecy of this book.
+\v 8 I John am the one who heard and saw these things. And when I heard and saw them I fell down to worship at the feet of the angel who showed them to me —
+\v 9 but he said to me: You must not do that! I am a fellow servant with you and your brothers the prophets and with those who keep the words of this book. Worship God.
+\v 10 And he said to me: Do not seal up the words of the prophecy of this book — for the time is near.
+\v 11 Let the evildoer still do evil and the filthy still be filthy and the righteous (*dikaios*) still do right and the holy still be holy.
+\v 12 Behold I am coming soon — bringing my recompense with me — to repay each one for what he has done.
+\v 13 I am the Alpha and the Omega — the first and the last — the beginning and the end.
+\v 14 Blessed are those who wash their robes — so that they may have the right to the tree of life (*xylon tēs zōēs*) and that they may enter the city by the gates.
+\v 15 Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters and everyone who loves and practices falsehood.
+\v 16 I Jesus have sent my angel to testify to you about these things for the called-out assemblies (*ekklēsiais*). I am the root and the descendant of David — the bright morning star.
+\v 17 The breath-of-life (*pneuma*) and the Bride say: Come. And let the one who hears say: Come. And let the one who is thirsty come — let the one who desires take the water of life (*hydōr zōēs*) without price.
+\v 18 I warn everyone who hears the words of the prophecy of this book: if anyone adds to them — God will add to him the plagues described in this book —
+\v 19 and if anyone takes away from the words of the book of this prophecy — God will take away his share in the tree of life (*xylou tēs zōēs*) and in the holy city — which are described in this book.
+\v 20 He who testifies to these things says: Surely I am coming soon. Amen. Come Lord Jesus!
+\v 21 The grace of the Lord Jesus be with all. Amen.
+```
+
+
+
+____________
+
+
+
+
+# Revelation — GLE v2.2 CAE Notes
+**Text base:** RP2026 Byzantine Majority Text
+**Chapters:** 1–22 | **Verses:** 404
+
+---
+
+## CAE NODE 1 — 1:5 / *prōtotokos tōn nekrōn*
+**Firstborn of the dead**
+- Colossians 1:15,18 / Psalm 89:27 LXX / Romans 8:29
+- *prōtotokos* = firstborn as covenant status, not chronological sequence
+- Psalm 89:27 LXX: "I will make him firstborn (*prōtotokon*) — highest of the kings of the earth"
+- Resurrection as enthronement: *prōtotokos* closes the Davidic covenant chain
+- Chain: Psalm 89:27 LXX → Romans 8:29 → Colossians 1:18 → Revelation 1:5
+
+---
+
+## CAE NODE 2 — 5:6 / *arnion* / Lamb standing as slain
+**The Lamb at the throne**
+- John 1:29 (*amnos tou theou*) / Isaiah 53:7 / Exodus 12 / 4 Maccabees 6:29
+- *arnion* = diminutive Lamb — uniquely Johannine register (28x in Revelation)
+- Standing (*hestēkos*) as slain (*esphagmenon*) — resurrection posture with wound-marks retained
+- Seven horns (fullness of power) + seven eyes (seven breaths-of-life sent into all earth)
+- *arnion* as throne-occupant: 5:13 — "to him who sits on the throne AND to the Lamb" — co-enthronement
+- Closes *arnion* chain: Exodus 12 → Isaiah 53:7 → John 1:29,36 → Revelation 5:6
+
+---
+
+## CAE NODE 3 — 7:17 / *poimanei autous* / Shepherd-Lamb
+**The Lamb as shepherd**
+- Psalm 23 LXX / Ezekiel 34:15–16,23 / John 10:11 / Hebrews 13:20
+- *poimanei* = will shepherd — future indicative — Ezekiel 34:23 LXX: "I will raise up one shepherd"
+- *pēgas hydatōn zōntōn* = springs of living waters — Ezekiel 47:1–12 / John 4:14 / John 7:38
+- *exaleipsei pan dakryon* = wipe every tear — Isaiah 25:8 LXX — feast-after-reversal image
+- Closes *poimēn* chain: Psalm 23 → Ezekiel 34:23 → Isaiah 25:8 → John 10:11 → Hebrews 13:20 → Revelation 7:17
+
+---
+
+## CAE NODE 4 — 11:19 / *kibōtos tēs diathēkēs*
+**Ark of the covenant seen in heaven**
+- Exodus 25:10–22 / 1 Kings 8:6 LXX / Jeremiah 3:16 / Hebrews 9:4
+- The earthly ark was *skēnē* furniture — now its heavenly archetype is disclosed
+- Follows seventh trumpet: kingdom announced (11:15) → ark revealed
+- *diathēkē* = covenant — the ark is the covenant's physical anchor
+- Structural: *skēnē* chain moves from Exodus tabernacle → Ezekiel 37:27 → John 1:14 → Hebrews 8:2 → Revelation 11:19 → 21:3
+
+---
+
+## CAE NODE 5 — 19:7–9 / Marriage Supper of the Lamb
+**Feast-after-reversal: eschatological closure**
+- Esther (Purim) / 3 Maccabees 7:16–23 / Tobit 11:17–12:1 / Isaiah 25:6–8
+- *gamos tou arniou* = marriage of the Lamb — Bride = called-out assembly in white linen
+- *dikaiōmata tōn hagiōn* = righteous deeds of the holy ones — the garment is their faithful acts
+- *alēthinoi hoi logoi tou theou* = true words of God (19:9) — *alētheia* spine closure
+- Feast-after-reversal chain complete: Passover feast → Purim (Esther 9) → 3 Maccabees feast → Tobit wedding → Marriage Supper (Rev 19:9)
+
+---
+
+## CAE NODE 6 — 21:3 / *hē skēnē tou theou meta tōn anthrōpōn*
+**The tabernacle of God with men — skēnē chain closure**
+- Exodus 25:8 / Leviticus 26:11–12 / Ezekiel 37:27 / John 1:14 / Hebrews 8:2
+- *skēnōsei met' autōn* = he will tabernacle with them — verb form of *skēnē*
+- Echoes John 1:14: *eskēnōsen en hēmin* — incarnation as anticipatory tabernacling
+- Ezekiel 37:27: "My dwelling (*kataskēnōsis*) will be with them" — now fulfilled without mediation
+- *laoi autou esontai* = "his peoples" — plural — all nations gathered
+- Closes *skēnē* chain: Exodus 25:8 → Leviticus 26:12 → Ezekiel 37:27 → John 1:14 → Hebrews 8:2 → Revelation 21:3
+
+---
+
+## CAE NODE 7 — 22:1–5 / River of life / Tree of life / No sanctuary
+**Eden restored — new creation synthesis**
+- Genesis 2:9–10 / Ezekiel 47:1–12 / Psalm 46:4 LXX / Zechariah 14:8
+- *potamon hydatos zōēs* = river of water of life — Ezekiel 47 river flowing from sanctuary
+- *xylon zōēs* = tree of life — Genesis 2:9 / Genesis 3:22–24 — access now restored
+- *naon ouk eidon* (21:22) = no sanctuary — because God and Lamb ARE the sanctuary
+- *lychnia autēs to arnion* = its lamp is the Lamb — Isaiah 60:19–20 LXX
+- *basileusousin eis tous aiōnas tōn aiōnōn* = they will reign forever — Daniel 7:18,27 LXX
+- Closes creation chain: Genesis 1–3 → Ezekiel 47 → Zechariah 14 → Revelation 22:1–5
+
+---
+
+## CHAIN CLOSURES IN REVELATION
+
+| Chain | Origin | Closure |
+|-------|--------|---------|
+| *skēnē* | Exodus 25:8 | Rev 21:3 — tabernacle of God with men |
+| *poimēn* | Psalm 23 / Ezekiel 34 | Rev 7:17 — Lamb-shepherd / Rev 19:9 |
+| *arnion* | Exodus 12 / Isaiah 53 | Rev 5:6 — slain Lamb enthroned |
+| Feast-after-reversal | Passover / Purim / 3 Macc | Rev 19:9 — Marriage Supper |
+| *alētheia* spine | 1 Esdras 4:41 / John 1:14 | Rev 19:9 — "true words of God" |
+| *prōtotokos* | Psalm 89:27 LXX | Rev 1:5 — firstborn of the dead |
+| Creation-new creation | Genesis 1–3 | Rev 21–22 — all things new |
+| *diathēkē* ark | Exodus 25 | Rev 11:19 — ark seen in heaven |
+
+---
+
+## STRUCTURAL OBSERVATION: REVELATION AS LXX SYNTHESIS
+
+Revelation contains ~400 allusions to the OT with zero direct quotations — entirely allusive. Every major image draws from the LXX corpus completed in this translation:
+
+- Throne vision (ch. 4): Ezekiel 1 / Isaiah 6
+- Sealed scroll (ch. 5): Ezekiel 2:9–3:3
+- Four horsemen (ch. 6): Zechariah 1:8–11 / 6:1–8
+- 144,000 sealed (ch. 7): Ezekiel 9:4–6
+- Two witnesses (ch. 11): Zechariah 4 / Elijah / Moses
+- Woman and dragon (ch. 12): Genesis 3:15 / Isaiah 7:14 / Daniel 7
+- Beast (ch. 13): Daniel 7:3–8
+- Song of Moses and Lamb (ch. 15): Exodus 15 / Deuteronomy 32
+- Babylon (ch. 17–18): Isaiah 13–14 / Jeremiah 50–51 / Ezekiel 26–27
+- New Jerusalem (ch. 21): Ezekiel 40–48 / Isaiah 54,60,65
+- River and tree (ch. 22): Genesis 2–3 / Ezekiel 47
+
+The LXX-primacy argument is structurally proven by Revelation: the book is incomprehensible without the LXX corpus. Every seal, trumpet, and bowl has an OT anchor that is only visible in the Greek textual tradition.
