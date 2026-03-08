@@ -1,6 +1,8 @@
 # GLE v2.2 — LXX + RP2026 English Bible Render
 
-**Project Name:** Greek Lexicon Edition (Engine) Bible, LXX-GLE Bible
+## LXX-GLE BIBLE
+
+**Project Name:** Greek Lexicon Edition (Engine) Bible
 **Version:** 2.2 (full LXX + NT release)  
 **Date:** March 07, 2026  
 
