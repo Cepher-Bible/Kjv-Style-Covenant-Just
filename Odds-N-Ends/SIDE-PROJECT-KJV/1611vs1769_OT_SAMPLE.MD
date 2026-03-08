@@ -141,11 +141,58 @@ Same deal—no cuts, no theology shifts. Just spelling, commas, caps. 1611's den
 **Quick wrap**:  
 Everything lines up—same fire, same hope, same "Come Lord Jesus." 1769 just reads like English today. No hidden cuts, no doctrine tweaks. 
 
- ___________
+____________
 
+
+Let's table the ones that "matter," meaning any change where wording shifts enough to tweak interpretation (even slightly), per sources like Scrivener, Rick Beckman, and Bible-Researcher.  
+
+Short answer: There are a few dozen—mostly minor grammar/pronoun swaps, added words for clarity, or fixes. **No core doctrine flips** (no salvation, Trinity, hell, etc.). KJV-only folks say "only printing," but critics list these as real variants. Here's the concise table of **significant** ones (affecting meaning, not just spelling/punctuation). Pulled from Scrivener's list + online diffs—1611 first, 1769 second.
+
+| Verse | 1611 Reading | 1769 Reading | Why It Matters (If At All) | Doctrinal Hit? |
+|-------|--------------|--------------|----------------------------|----------------|
+| Ezek 24:7 | "powred it vpon the ground" | "poured it not upon the ground" | Adds "not"—changes if blood was poured or left. | Minor—symbolic ritual detail, no big theology. |
+| Jer 31:14 | "with goodnesse" | "with my goodness" | Adds "my"—makes it God's personal goodness. | Slight emphasis on divine source, but same promise. |
+| 1 John 5:12 | "the Sonne, hath" | "the Son of God hath" | Adds "of God"—clarifies who "Son" is. | Helps anti-Arian read, but KJV already clear. |
+| Ezek 24:5 | "let him seethe" | "let them seethe" | "him" → "them"—who cooks? | Ritual shift, no doctrine. |
+| 1 Cor 15:6 | "And that" | "After that" | "And" → "After"—time sequence. | Narrative flow, zero impact. |
+| Mat 12:23 | "this the son" | "not this the son" | Adds "not"—question becomes denial. | Pharisees' doubt—interpretation tweak, no salvation change. |
+| Mark 6:7 | "he calleth" | "he called" | Tense shift—present to past. | Grammar, not meaning. |
+| Rev 12:14 | "flee" | "fly" | Synonym swap. | None. |
+| Rom 3:24 | "Jesus Christ" | "Christ Jesus" | Order swap. | None—same person. |
+| Ruth 3:15 | "he went into the city" | "she went into the city" | Gender (Boaz vs Ruth). | Story detail—some say Masoretic vs Septuagint bias. |
+
+**Bottom line**: These are the "real" ones people fight over—pronouns, added "not"/"my," tense. But?  
+- No verse lost.  
+- No hell/grave swap.  
+- No "faith alone" vs "works" flip.  
+- Scrivener called half "unnecessary"—just editorial polish.  
+
+If you're building a case for "corruption," it's thin. Most are fixes (e.g., typos like "oth­es" → "oath’s"). The Apocrypha drop? Structural, not textual.  
+
+
+_________
 
  Nah, what you've got is already solid—no need to chase more.  
 
 The 1611 raw version gives you that vintage flavor (Apocrypha included, commas everywhere), but it's clunky to read. The 1769 is the "worth it" one—clean, standard, no real losses. Theology's identical, no sneaky cuts. If you're analyzing changes, you're done: it's 99% polish, 1% Apocrypha drop.  
 
 Unless you're building a museum piece or going full Orthodox, stick with 1769. Saves you the headache.
+
+
+_______
+
+
+
+Yeah—plenty of folks online are dissecting this. From forums, blogs, KJV-only debates, and even PDFs, here's the real scoop:  
+
+Most comparisons boil down to **cosmetic stuff**—spelling ("sheepe" → "sheep"), punctuation (extra commas in 1611), italics (1769 adds more for clarity), and printer fixes. No big theological bombs. The "differences" people hype? Often just errors caught early (like "Judas" for "Jesus" in Mat 26:36—fixed by 1613), or minor tweaks like "he" vs "she" in Ruth 3:15 (1611 followed Masoretic "he," 1769 switched to "she" per Vulgate/Syriac—changes who went to town, but not doctrine).  
+
+Key spots folks argue:  
+- **Ezekiel 24:7**: 1611 "powred it vpon the ground" → 1769 "poured it not upon the ground" (adds "not"—shifts if blood was poured or not).  
+- **Jeremiah 31:14**: "with goodnesse" → "with my goodness" (adds "my"—makes it God's personal goodness).  
+- **1 John 5:12**: "the Sonne, hath" → "the Son of God hath" (adds "of God"—clarifies).  
+- **Apocrypha**: 1611 had it; 1769 kept early but later prints cut it—no text change, just removal.  
+
+KJV-only crowd says "only printing/spelling," but sites like Rick Beckman or AV1611 forums list ~400–24,000 changes (depending who counts)—mostly harmless. Scrivener's 1884 book tallies 'em: grammar, tense, word order. No salvation flips.  
+
+Bottom line: If you're proving "corruption," it's weak —English evolved, printers goofed, editors cleaned. Same Greek/Hebrew base. 
