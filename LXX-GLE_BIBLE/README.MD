@@ -3,7 +3,8 @@
 ## LXX-GLE BIBLE
 
 **Project Name:** Greek Lexicon Edition Bible
-**Utilizing the Greek Lexicon Engine 
+
+**Utilizing the Greek Lexicon Engine**
 **Version:** 2.2 (full LXX + NT release)  
 **Date:** March 07, 2026  
 
