@@ -1,0 +1,680 @@
+```
+\id 1CO
+\h 1 Corinthians
+\toc1 The First Letter of Paul to the Corinthians
+\mt The First Letter of Paul to the Corinthians
+
+\c 1
+\p
+\v 1 Paul — called to be an apostle of the Anointed Jesus by the will of God — and Sosthenes our brother —
+\v 2 to the called-out assembly (*ekklēsia*) of God that is in Corinth — to those sanctified in the Anointed Jesus — called to be holy ones — together with all those who in every place call upon the name of our Lord Jesus the Anointed — both their Lord and ours:
+\v 3 Grace to you and peace from God our Father and the Lord Jesus the Anointed.
+\p
+\v 4 I give thanks to my God always for you because of the grace of God that was given you in the Anointed Jesus —
+\v 5 that in every way you were enriched in him in all speech and all knowledge —
+\v 6 even as the testimony about the Anointed was confirmed among you —
+\v 7 so that you are not lacking in any gift as you wait for the revealing of our Lord Jesus the Anointed —
+\v 8 who will sustain you to the end — guiltless in the day of our Lord Jesus the Anointed.
+\v 9 God is faithful — by whom you were called into the fellowship of his Son Jesus the Anointed our Lord.
+\p
+\v 10 I appeal to you brothers by the name of our Lord Jesus the Anointed that all of you agree and that there be no divisions among you but that you be united in the same mind and the same judgment.
+\v 11 For it has been reported to me by Chloe's people that there is quarreling among you brothers.
+\v 12 What I mean is that each one of you says: I follow Paul — or: I follow Apollos — or: I follow Cephas — or: I follow the Anointed.
+\v 13 Is the Anointed divided? Was Paul crucified for you? Or were you baptized in the name of Paul?
+\v 14 I thank God that I baptized none of you except Crispus and Gaius —
+\v 15 so that no one may say that you were baptized in my name.
+\v 16 I did baptize also the household of Stephanas. Beyond that I do not know whether I baptized anyone else.
+\v 17 For the Anointed did not send me to baptize but to proclaim the glad tidings (*euangelizesthai*) — and not with words of eloquent wisdom (*sophias*) lest the cross of the Anointed be emptied of its power.
+\p
+\v 18 For the word (*logos*) of the cross is folly to those who are perishing but to us who are being saved it is the power of God.
+\v 19 For it is written: I will destroy the wisdom (*sophian*) of the wise and the discernment of the discerning I will thwart.
+\v 20 Where is the wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom (*sophian*) of the world?
+\v 21 For since in the wisdom (*sophia*) of God the world did not know God through wisdom (*sophias*) — God was pleased through the folly of what we preach to save those who believe.
+\v 22 For Jews demand signs (*sēmeia*) and Greeks seek wisdom (*sophian*) —
+\v 23 but we preach the Anointed crucified — a stumbling block to Jews and folly to Gentiles —
+\v 24 but to those who are called — both Jews and Greeks — the Anointed the power of God and the wisdom (*sophia*) of God.
+\v 25 For the foolishness of God is wiser than men and the weakness of God is stronger than men.
+\p
+\v 26 For consider your calling brothers: not many of you were wise according to worldly standards — not many were powerful — not many were of noble birth.
+\v 27 But God chose what is foolish in the world to shame the wise — God chose what is weak in the world to shame the strong —
+\v 28 God chose what is low and despised in the world — even things that are not — to bring to nothing things that are —
+\v 29 so that no human being might boast in the presence of God.
+\v 30 And because of him you are in the Anointed Jesus who became to us wisdom (*sophia*) from God — righteousness (*dikaiosynē*) and sanctification and redemption (*apolytrōsis*) —
+\v 31 so that as it is written: Let the one who boasts boast in the Lord.
+
+\c 2
+\p
+\v 1 And I — when I came to you brothers — did not come proclaiming to you the testimony of God with lofty speech or wisdom (*sophian*).
+\v 2 For I decided to know nothing among you except Jesus the Anointed and him crucified.
+\v 3 And I was with you in weakness and in fear and much trembling —
+\v 4 and my speech and my message were not in plausible words of wisdom (*sophias*) but in demonstration of the breath-of-life (*pneumatos*) and of power —
+\v 5 so that your faith might not rest in the wisdom (*sophia*) of men but in the power of God.
+\p
+\v 6 Yet among the mature we do impart wisdom (*sophian*) — although it is not a wisdom (*sophia*) of this age or of the rulers of this age who are doomed to pass away.
+\v 7 But we impart a secret and hidden wisdom (*sophian*) of God — which God decreed before the ages for our glory.
+\v 8 None of the rulers of this age understood this — for if they had they would not have crucified the Lord of glory.
+\v 9 But as it is written: What no eye has seen nor ear heard nor the heart (*kardia*) of man imagined — what God has prepared for those who love him —
+\v 10 these things God has revealed to us through the breath-of-life (*pneumatos*). For the breath-of-life (*pneuma*) searches everything — even the depths of God.
+\v 11 For who knows a person's thoughts except the breath-of-life (*pneuma*) of that person which is in him? So also no one comprehends the thoughts of God except the breath-of-life (*pneuma*) of God.
+\v 12 Now we have received not the breath-of-life (*pneuma*) of the world but the breath-of-life (*pneuma*) that is from God — so that we might understand the things freely given us by God.
+\v 13 And we impart this in words not taught by human wisdom (*sophias*) but taught by the breath-of-life (*pneumatos*) — interpreting spiritual realities (*pneumatika*) to those who are spiritual (*pneumatikois*).
+\v 14 The natural person (*psychikos anthrōpos*) does not accept the things of the breath-of-life (*pneumatos*) of God — for they are folly to him and he is not able to understand them because they are spiritually (*pneumatikōs*) discerned.
+\v 15 The spiritual person (*pneumatikos*) judges all things but is himself to be judged by no one.
+\v 16 For who has known the mind of the Lord so as to instruct him? But we have the mind of the Anointed.
+
+\c 3
+\p
+\v 1 But I brothers could not address you as spiritual (*pneumatikois*) people but as people of the flesh (*sarkinois*) — as infants in the Anointed.
+\v 2 I fed you with milk not solid food — for you were not ready for it. And even now you are not yet ready —
+\v 3 for you are still of the flesh (*sarkikoi*). For while there is jealousy and strife among you are you not of the flesh (*sarkikoi*) and behaving only in a human way?
+\v 4 For when one says: I follow Paul — and another: I follow Apollos — are you not being merely human?
+\p
+\v 5 What then is Apollos? What is Paul? Servants through whom you believed as the Lord assigned to each.
+\v 6 I planted — Apollos watered — but God gave the growth.
+\v 7 So neither he who plants nor he who waters is anything but only God who gives the growth.
+\v 8 He who plants and he who waters are one and each will receive his wages according to his labor.
+\v 9 For we are God's fellow workers. You are God's field — God's building.
+\p
+\v 10 According to the grace of God given to me like a skilled master builder I laid a foundation and someone else is building upon it. Let each one take care how he builds upon it.
+\v 11 For no one can lay a foundation other than that which is laid — which is Jesus the Anointed.
+\v 12 Now if anyone builds on the foundation with gold — silver — precious stones — wood — hay — straw —
+\v 13 each one's work will become manifest — for the Day will disclose it because it will be revealed by fire and the fire will test what sort of work each one has done.
+\v 14 If the work that anyone has built on the foundation survives he will receive a reward.
+\v 15 If anyone's work is burned up he will suffer loss — though he himself will be saved but only as through fire.
+\p
+\v 16 Do you not know that you are God's sanctuary (*naos*) and that the breath-of-life (*pneuma*) of God dwells in you?
+\v 17 If anyone destroys God's sanctuary (*naon*) God will destroy him. For God's sanctuary (*naos*) is holy and you are that sanctuary (*naos*).
+\p
+\v 18 Let no one deceive himself. If anyone among you thinks that he is wise (*sophos*) in this age let him become a fool that he may become wise (*sophos*).
+\v 19 For the wisdom (*sophia*) of this world is folly with God. For it is written: He catches the wise in their craftiness —
+\v 20 and again: The Lord knows the thoughts of the wise that they are futile.
+\v 21 So let no one boast in men. For all things are yours —
+\v 22 whether Paul or Apollos or Cephas or the world or life or death or the present or the future — all are yours —
+\v 23 and you are of the Anointed and the Anointed is of God.
+
+\c 4
+\p
+\v 1 This is how one should regard us — as servants of the Anointed and stewards of the mysteries of God.
+\v 2 Moreover it is required of stewards that they be found faithful.
+\v 3 But with me it is a very small thing that I should be judged by you or by any human court. In fact I do not even judge myself.
+\v 4 For I am not aware of anything against myself but I am not thereby declared righteous (*dedikaiōmai*). It is the Lord who judges me.
+\v 5 Therefore do not pronounce judgment before the time — before the Lord comes — who will bring to light the things now hidden in darkness and will disclose the purposes of the heart (*kardias*). Then each one will receive his commendation from God.
+\p
+\v 6 I have applied all these things to myself and Apollos for your benefit brothers so that you may learn by us not to go beyond what is written — that none of you may be puffed up in favor of one against another.
+\v 7 For who sees anything different in you? What do you have that you did not receive? If then you received it why do you boast as if you did not receive it?
+\v 8 Already you have all you want! Already you have become rich! Without us you have become kings! And would that you did reign so that we might share the rule with you!
+\v 9 For I think that God has exhibited us apostles as last of all — like men sentenced to death — because we have become a spectacle to the world — to angels — and to men.
+\v 10 We are fools for the Anointed's sake but you are wise in the Anointed. We are weak but you are strong. You are held in honor but we in disrepute.
+\v 11 To the present hour we hunger and thirst and are poorly dressed and buffeted and homeless —
+\v 12 and we labor working with our own hands. When reviled we bless — when persecuted we endure —
+\v 13 when slandered we entreat. We have become and are still like the scum of the world — the refuse of all things.
+\p
+\v 14 I do not write these things to make you ashamed but to admonish you as my beloved children.
+\v 15 For though you have countless guides in the Anointed you do not have many fathers. For I became your father in the Anointed Jesus through the glad tidings (*euangeliou*).
+\v 16 I urge you then be imitators of me.
+\v 17 That is why I sent you Timothy my beloved and faithful child in the Lord — to remind you of my ways in the Anointed as I teach them everywhere in every called-out assembly (*ekklēsia*).
+\v 18 Some are arrogant as though I were not coming to you.
+\v 19 But I will come to you soon if the Lord wills and I will find out not the talk of these arrogant people but their power.
+\v 20 For the kingdom of God does not consist in talk but in power.
+\v 21 What do you wish? Shall I come to you with a rod or with love and a breath-of-life (*pneumati*) of gentleness?
+
+\c 5
+\p
+\v 1 It is actually reported that there is sexual immorality among you — and of a kind that is not tolerated even among Gentiles — for a man has his father's wife.
+\v 2 And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you.
+\v 3 For though absent in body I am present in breath-of-life (*pneumati*) and as if present I have already pronounced judgment on the one who did such a thing.
+\v 4 When you are assembled in the name of the Lord Jesus and my breath-of-life (*pneuma*) is present with the power of our Lord Jesus —
+\v 5 you are to deliver this man to Satan for the destruction of the flesh (*sarkos*) so that his breath-of-life (*pneuma*) may be saved in the day of the Lord.
+\v 6 Your boasting is not good. Do you not know that a little leaven leavens the whole lump?
+\v 7 Cleanse out the old leaven that you may be a new lump as you really are unleavened. For the Anointed — our Passover lamb — has been sacrificed.
+\v 8 Let us therefore celebrate the feast — not with the old leaven — the leaven of malice and evil — but with the unleavened bread of sincerity and truth (*alētheias*).
+\p
+\v 9 I wrote to you in my letter not to associate with sexually immoral people —
+\v 10 not at all meaning the sexually immoral of this world or the greedy and swindlers or idolaters since then you would need to go out of the world.
+\v 11 But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed or is an idolater — reviler — drunkard — or swindler — not even to eat with such a one.
+\v 12 For what have I to do with judging outsiders? Is it not those inside the called-out assembly (*ekklēsian*) whom you are to judge?
+\v 13 God judges those outside. Purge the evil person from among you.
+
+\c 6
+\p
+\v 1 When one of you has a grievance against another does he dare go to law before the unrighteous (*adikōn*) instead of before the holy ones?
+\v 2 Or do you not know that the holy ones will judge the world? And if the world is to be judged by you are you incompetent to try trivial cases?
+\v 3 Do you not know that we are to judge angels? How much more then matters pertaining to this life!
+\v 4 So if you have such cases why do you lay them before those who have no standing in the called-out assembly (*ekklēsia*)?
+\v 5 I say this to your shame. Can it be that there is no one among you wise (*sophos*) enough to settle a dispute between the brothers —
+\v 6 but brother goes to law against brother and that before unbelievers?
+\v 7 To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?
+\v 8 But you yourselves wrong and defraud — even your own brothers!
+\p
+\v 9 Or do you not know that the unrighteous (*adikoi*) will not inherit (*klēronomēsousin*) the kingdom of God? Do not be deceived: neither the sexually immoral — nor idolaters — nor adulterers — nor men who practice homosexuality —
+\v 10 nor thieves — nor the greedy — nor drunkards — nor revilers — nor swindlers — will inherit (*klēronomēsousin*) the kingdom of God.
+\v 11 And such were some of you. But you were washed — you were sanctified — you were declared righteous (*edikaiōthēte*) in the name of the Lord Jesus the Anointed and by the breath-of-life (*pneumati*) of our God.
+\p
+\v 12 All things are lawful for me — but not all things are helpful. All things are lawful for me — but I will not be dominated by anything.
+\v 13 Food is meant for the stomach and the stomach for food — and God will destroy both one and the other. The body is not meant for sexual immorality but for the Lord and the Lord for the body.
+\v 14 And God raised the Lord and will also raise us up by his power.
+\v 15 Do you not know that your bodies are members of the Anointed? Shall I then take the members of the Anointed and make them members of a prostitute? Never!
+\v 16 Or do you not know that he who is joined to a prostitute becomes one body with her? For as it is written: The two will become one flesh (*sarx*).
+\v 17 But he who is joined to the Lord becomes one breath-of-life (*pneuma*) with him.
+\v 18 Flee from sexual immorality. Every other sin a person commits is outside the body — but the sexually immoral person sins against his own body.
+\v 19 Or do you not know that your body is a sanctuary (*naos*) of the Holy Breath-of-life (*pneumatos hagiou*) within you — whom you have from God? You are not your own —
+\v 20 for you were bought with a price. So glorify God in your body.
+
+\c 7
+\p
+\v 1 Now concerning the matters about which you wrote: It is good for a man not to have sexual relations with a woman.
+\v 2 But because of the temptation to sexual immorality each man should have his own wife and each woman her own husband.
+\v 3 The husband should give to his wife her conjugal rights and likewise the wife to her husband.
+\v 4 For the wife does not have authority over her own body but the husband does. Likewise the husband does not have authority over his own body but the wife does.
+\v 5 Do not deprive one another except perhaps by agreement for a limited time that you may devote yourselves to prayer — but then come together again so that Satan (*Satanas*) may not tempt you because of your lack of self-control.
+\v 6 Now as a concession not a command I say this.
+\v 7 I wish that all were as I myself am. But each has his own gift from God — one of one kind and one of another.
+\p
+\v 8 To the unmarried and the widows I say that it is good for them to remain single as I am.
+\v 9 But if they cannot exercise self-control they should marry. For it is better to marry than to burn with passion.
+\p
+\v 10 To the married I give this charge — not I but the Lord: the wife should not separate from her husband —
+\v 11 but if she does she should remain unmarried or else be reconciled to her husband — and the husband should not divorce his wife.
+\p
+\v 12 To the rest I say — I not the Lord: if any brother has a wife who is an unbeliever and she consents to live with him he should not divorce her.
+\v 13 If any woman has a husband who is an unbeliever and he consents to live with her she should not divorce him.
+\v 14 For the unbelieving husband is made holy because of his wife and the unbelieving wife is made holy because of her husband. Otherwise your children would be unclean but as it is they are holy.
+\v 15 But if the unbelieving partner separates let it be so. In such cases the brother or sister is not enslaved. God has called you to peace.
+\v 16 For how do you know wife whether you will save your husband? Or how do you know husband whether you will save your wife?
+\p
+\v 17 Only let each person lead the life that the Lord has assigned to him and to which God has called him. This is my rule in all the called-out assemblies (*ekklēsiais*).
+\v 18 Was anyone at the time of his call already circumcised? Let him not seek to remove the marks of circumcision. Was anyone at the time of his call uncircumcised? Let him not seek circumcision.
+\v 19 For circumcision is nothing and uncircumcision is nothing but keeping the commandments of God is everything.
+\v 20 Each one should remain in the condition in which he was called.
+\v 21 Were you a bondservant when called? Do not be concerned about it. But if you can gain your freedom avail yourself of the opportunity.
+\v 22 For he who was called in the Lord as a bondservant is a freedman of the Lord. Likewise he who was free when called is a bondservant of the Anointed.
+\v 23 You were bought with a price — do not become bondservants of men.
+\v 24 So brothers in whatever condition each was called there let him remain with God.
+\p
+\v 25 Now concerning the unmarried: I have no command from the Lord but I give my judgment as one who by the Lord's mercy is trustworthy.
+\v 26 I think that in view of the present distress it is good for a person to remain as he is.
+\v 27 Are you bound to a wife? Do not seek to be free. Are you free from a wife? Do not seek a wife.
+\v 28 But if you do marry you have not sinned and if a betrothed woman marries she has not sinned. Yet those who marry will have worldly troubles and I would spare you that.
+\v 29 This is what I mean brothers: the appointed time has grown very short. From now on let those who have wives live as though they had none —
+\v 30 and those who mourn as though they were not mourning — and those who rejoice as though they were not rejoicing — and those who buy as though they had no goods —
+\v 31 and those who deal with the world as though they had no dealings with it. For the present form of this world is passing away.
+\p
+\v 32 I want you to be free from anxieties. The unmarried man is anxious about the things of the Lord — how to please the Lord.
+\v 33 But the married man is anxious about worldly things — how to please his wife —
+\v 34 and his interests are divided. And the unmarried or betrothed woman is anxious about the things of the Lord how to be holy in body and breath-of-life (*pneumati*). But the married woman is anxious about worldly things — how to please her husband.
+\v 35 I say this for your own benefit — not to lay any restraint upon you but to promote good order and to secure your undivided devotion to the Lord.
+\v 36 If anyone thinks that he is not behaving properly toward his betrothed — if his passions are strong and it has to be — let him do as he wishes: let them marry — it is no sin.
+\v 37 But whoever is firmly established in his heart (*kardia*) — being under no compulsion but having his desire under control and having determined this in his heart (*kardia*) to keep her as his betrothed — he will do well.
+\v 38 So then he who marries his betrothed does well — and he who refrains from marriage will do even better.
+\p
+\v 39 A wife is bound to her husband as long as he lives. But if her husband dies she is free to be married to whom she wishes — only in the Lord.
+\v 40 Yet in my judgment she is happier if she remains as she is. And I think that I too have the breath-of-life (*pneuma*) of God.
+
+\c 8
+\p
+\v 1 Now concerning food offered to idols: we know that all of us possess knowledge. This knowledge puffs up but covenant-love (*agapē*) builds up.
+\v 2 If anyone imagines that he knows something he does not yet know as he ought to know.
+\v 3 But if anyone loves God he is known by God.
+\v 4 Therefore as to the eating of food offered to idols we know that an idol has no real existence and that there is no God but one.
+\v 5 For although there may be so-called gods in heaven or on earth — as indeed there are many gods and many lords —
+\v 6 yet for us there is one God the Father — from whom are all things and for whom we exist — and one Lord Jesus the Anointed — through whom are all things and through whom we exist.
+\v 7 However not all possess this knowledge. But some through former association with idols eat food as really offered to an idol and their conscience being weak is defiled.
+\v 8 Food will not commend us to God. We are no worse off if we do not eat and no better off if we do.
+\v 9 But take care that this right of yours does not somehow become a stumbling block to the weak.
+\v 10 For if anyone sees you who have knowledge eating in an idol's temple will he not be encouraged if his conscience is weak to eat food offered to idols?
+\v 11 And so by your knowledge this weak person is destroyed — the brother for whom the Anointed died.
+\v 12 Thus sinning against your brothers and wounding their conscience when it is weak you sin against the Anointed.
+\v 13 Therefore if food makes my brother stumble I will never eat meat lest I make my brother stumble.
+
+\c 9
+\p
+\v 1 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are not you my workmanship in the Lord?
+\v 2 If to others I am not an apostle at least I am to you — for you are the seal of my apostleship in the Lord.
+\v 3 This is my defense to those who would examine me.
+\v 4 Do we not have the right to eat and drink?
+\v 5 Do we not have the right to take along a believing wife as do the other apostles and the brothers of the Lord and Cephas?
+\v 6 Or is it only Barnabas and I who have no right to refrain from working for a living?
+\v 7 Who serves as a soldier at his own expense? Who plants a vineyard without eating any of its fruit? Who tends a flock without getting some of the milk?
+\v 8 Do I say these things on human authority? Does not the Law say the same?
+\v 9 For it is written in the Law of Moses: You shall not muzzle an ox when it treads out the grain. Is it for oxen that God is concerned?
+\v 10 Does he not certainly speak for our sake? It was written for our sake — because the plowman should plow in hope and the thresher thresh in hope of sharing in the crop.
+\v 11 If we have sown spiritual things (*pneumatika*) among you is it too much if we reap material things from you?
+\v 12 If others share this rightful claim over you do not we even more? Nevertheless we have not made use of this right but we endure anything rather than put an obstacle in the way of the glad tidings (*euangeliou*) of the Anointed.
+\v 13 Do you not know that those who are employed in the sanctuary (*hierō*) service eat what is offered in the sanctuary and those who serve at the altar share in the sacrificial offerings?
+\v 14 In the same way the Lord commanded that those who proclaim the glad tidings (*euangelion*) should get their living by the glad tidings.
+\p
+\v 15 But I have made no use of any of these rights nor am I writing these things to secure any such provision. For I would rather die than have anyone deprive me of my ground for boasting.
+\v 16 For if I preach the glad tidings (*euangelizōmai*) that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the glad tidings!
+\v 17 For if I do this of my own will I have a reward — but if not of my own will I am still entrusted with a stewardship.
+\v 18 What then is my reward? That in my preaching I may present the glad tidings (*euangelion*) free of charge so as not to make full use of my right in the glad tidings.
+\p
+\v 19 For though I am free from all I have made myself a servant to all that I might win more of them.
+\v 20 To the Jews I became as a Jew in order to win Jews. To those under the Law I became as one under the Law — though not being myself under the Law — that I might win those under the Law.
+\v 21 To those outside the Law I became as one outside the Law — not being outside the law of God but under the law of the Anointed — that I might win those outside the Law.
+\v 22 To the weak I became weak that I might win the weak. I have become all things to all people that by all means I might save some.
+\v 23 I do it all for the sake of the glad tidings (*euangeliou*) that I may share with them in its blessings.
+\p
+\v 24 Do you not know that in a race all the runners run but only one receives the prize? So run that you may obtain it.
+\v 25 Every athlete exercises self-control in all things. They do it to receive a perishable wreath but we an imperishable.
+\v 26 So I do not run aimlessly — I do not box as one beating the air.
+\v 27 But I discipline my body and keep it under control lest after preaching to others I myself should be disqualified.
+
+\c 10
+\p
+\v 1 For I do not want you to be unaware brothers that our fathers were all under the cloud and all passed through the sea —
+\v 2 and all were baptized into Moses in the cloud and in the sea —
+\v 3 and all ate the same spiritual (*pneumatikēn*) food —
+\v 4 and all drank the same spiritual (*pneumatikon*) drink. For they drank from the spiritual (*pneumatikēs*) Rock that followed them and the Rock was the Anointed.
+\v 5 Nevertheless with most of them God was not pleased — for they were struck down in the wilderness.
+\v 6 Now these things took place as examples for us that we might not desire evil as they did.
+\v 7 Do not be idolaters as some of them were — as it is written: The people sat down to eat and drink and rose up to play.
+\v 8 We must not indulge in sexual immorality as some of them did and twenty-three thousand fell in a single day.
+\v 9 We must not put the Anointed to the test as some of them did and were destroyed by serpents —
+\v 10 nor grumble as some of them did and were destroyed by the Destroyer.
+\v 11 Now these things happened to them as an example but they were written down for our instruction on whom the end of the ages has come.
+\v 12 Therefore let anyone who thinks that he stands take heed lest he fall.
+\v 13 No temptation has overtaken you that is not common to man. God is faithful and he will not let you be tempted beyond your ability but with the temptation he will also provide the way of escape that you may be able to endure it.
+\p
+\v 14 Therefore my beloved flee from idolatry.
+\v 15 I speak as to sensible people — judge for yourselves what I say.
+\v 16 The cup of blessing that we bless — is it not a participation (*koinōnia*) in the blood of the Anointed? The bread that we break — is it not a participation (*koinōnia*) in the body of the Anointed?
+\v 17 Because there is one bread we who are many are one body — for we all partake of the one bread.
+\v 18 Consider the people of Israel: are not those who eat the sacrifices participants in the altar?
+\v 19 What do I imply then? That food offered to idols is anything or that an idol is anything?
+\v 20 No — I imply that what pagans sacrifice they offer to demons and not to God. I do not want you to be participants with demons.
+\v 21 You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons.
+\v 22 Shall we provoke the Lord to jealousy? Are we stronger than he?
+\p
+\v 23 All things are lawful — but not all things are helpful. All things are lawful — but not all things build up.
+\v 24 Let no one seek his own good but the good of his neighbor.
+\v 25 Eat whatever is sold in the meat market without raising any question on the ground of conscience.
+\v 26 For the earth is the Lord's and the fullness thereof.
+\v 27 If one of the unbelievers invites you to dinner and you are disposed to go — eat whatever is set before you without raising any question on the ground of conscience.
+\v 28 But if someone says to you: This has been offered in sacrifice — then do not eat it for the sake of the one who informed you and for the sake of conscience —
+\v 29 I do not mean your conscience but his. For why should my liberty be determined by someone else's conscience?
+\v 30 If I partake with thankfulness why am I denounced because of that for which I give thanks?
+\v 31 So whether you eat or drink or whatever you do do all to the glory of God.
+\v 32 Give no offense to Jews or to Greeks or to the called-out assembly (*ekklēsia*) of God —
+\v 33 just as I try to please everyone in everything I do — not seeking my own advantage but that of many that they may be saved.
+
+\c 11
+\p
+\v 1 Be imitators of me as I am of the Anointed.
+\p
+\v 2 Now I commend you because you remember me in everything and maintain the traditions even as I delivered them to you.
+\v 3 But I want you to understand that the head of every man is the Anointed — the head of a wife is her husband — and the head of the Anointed is God.
+\v 4 Every man who prays or prophesies with his head covered dishonors his head —
+\v 5 but every wife who prays or prophesies with her head uncovered dishonors her head — since it is the same as if her head were shaven.
+\v 6 For if a wife will not cover her head then she should cut her hair short. But since it is disgraceful for a wife to cut off her hair or shave her head let her cover her head.
+\v 7 For a man ought not to cover his head since he is the image (*eikōn*) and glory of God but woman is the glory of man.
+\v 8 For man was not made from woman but woman from man.
+\v 9 Neither was man created for woman but woman for man.
+\v 10 That is why a wife ought to have a symbol of authority on her head because of the angels.
+\v 11 Nevertheless in the Lord woman is not independent of man nor man of woman —
+\v 12 for as woman was made from man so man is now born of woman. And all things are from God.
+\v 13 Judge for yourselves: is it proper for a wife to pray to God with her head uncovered?
+\v 14 Does not nature itself teach you that if a man wears long hair it is a disgrace for him —
+\v 15 but if a woman has long hair it is her glory? For her hair is given to her for a covering.
+\v 16 If anyone is inclined to be contentious — we have no such practice nor do the called-out assemblies (*ekklēsiai*) of God.
+\p
+\v 17 But in the following instructions I do not commend you because when you come together it is not for the better but for the worse.
+\v 18 For in the first place when you come together as a called-out assembly (*ekklēsia*) I hear that there are divisions among you. And I believe it in part —
+\v 19 for there must be factions among you in order that those who are genuine among you may be recognized.
+\v 20 When you come together it is not the Lord's supper that you eat.
+\v 21 For in eating each one goes ahead with his own meal. One goes hungry and another gets drunk.
+\v 22 What! Do you not have houses to eat and drink in? Or do you despise the called-out assembly (*ekklēsian*) of God and humiliate those who have nothing? What shall I say to you? Shall I commend you in this? No I will not.
+\p
+\v 23 For I received from the Lord what I also delivered to you: that the Lord Jesus on the night when he was betrayed took bread —
+\v 24 and when he had given thanks he broke it and said: This is my body which is for you. Do this in remembrance of me.
+\v 25 In the same way also he took the cup after supper saying: This cup is the new covenant (*diathēkē kainē*) in my blood. Do this as often as you drink it in remembrance of me.
+\v 26 For as often as you eat this bread and drink the cup you proclaim the Lord's death until he comes.
+\v 27 Whoever therefore eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord.
+\v 28 Let a person examine himself then and so eat of the bread and drink of the cup.
+\v 29 For anyone who eats and drinks without discerning the body eats and drinks judgment on himself.
+\v 30 That is why many of you are weak and ill and some have died.
+\v 31 But if we judged ourselves truly (*diekrinomen*) we would not be judged.
+\v 32 But when we are judged by the Lord we are disciplined so that we may not be condemned along with the world.
+\v 33 So then my brothers when you come together to eat wait for one another —
+\v 34 if anyone is hungry let him eat at home — so that when you come together it will not be for judgment. About the other things I will give directions when I come.
+
+\c 12
+\p
+\v 1 Now concerning spiritual gifts (*pneumatikōn*) brothers I do not want you to be uninformed.
+\v 2 You know that when you were pagans you were led astray to mute idols however you were led.
+\v 3 Therefore I want you to understand that no one speaking in the breath-of-life (*pneumati*) of God ever says: Jesus is accursed! and no one can say: Jesus is Lord! except in the Holy Breath-of-life (*pneumati hagiō*).
+\p
+\v 4 Now there are varieties of gifts but the same breath-of-life (*pneuma*) —
+\v 5 and there are varieties of service but the same Lord —
+\v 6 and there are varieties of activities but it is the same God who empowers them all in everyone.
+\v 7 To each is given the manifestation of the breath-of-life (*pneumatos*) for the common good.
+\v 8 For to one is given through the breath-of-life (*pneumatos*) the utterance of wisdom (*sophia*) and to another the utterance of knowledge according to the same breath-of-life (*pneuma*) —
+\v 9 to another faith by the same breath-of-life (*pneuma*) — to another gifts of healing by the one breath-of-life (*pneuma*) —
+\v 10 to another the working of miracles — to another prophecy — to another the ability to distinguish between breaths-of-life (*pneumatōn*) — to another various kinds of tongues — to another the interpretation of tongues.
+\v 11 All these are empowered by one and the same breath-of-life (*pneuma*) who apportions to each one individually as he wills.
+\p
+\v 12 For just as the body is one and has many members and all the members of the body though many are one body — so it is with the Anointed.
+\v 13 For in one breath-of-life (*pneumati*) we were all baptized into one body — Jews or Greeks — slaves or free — and all were made to drink of one breath-of-life (*pneuma*).
+\v 14 For the body does not consist of one member but of many.
+\v 15 If the foot should say: Because I am not a hand I do not belong to the body — that would not make it any less a part of the body.
+\v 16 And if the ear should say: Because I am not an eye I do not belong to the body — that would not make it any less a part of the body.
+\v 17 If the whole body were an eye where would be the sense of hearing? If the whole body were an ear where would be the sense of smell?
+\v 18 But as it is God arranged the members in the body — each one of them — as he chose.
+\v 19 If all were a single member where would the body be?
+\v 20 As it is there are many parts yet one body.
+\v 21 The eye cannot say to the hand: I have no need of you — nor again the head to the feet: I have no need of you.
+\v 22 On the contrary the parts of the body that seem to be weaker are indispensable —
+\v 23 and on those parts of the body that we think less honorable we bestow the greater honor and our unpresentable parts are treated with greater modesty —
+\v 24 which our more presentable parts do not require. But God has so composed the body — giving greater honor to the part that lacked it —
+\v 25 that there may be no division in the body but that the members may have the same care for one another.
+\v 26 If one member suffers all suffer together — if one member is honored all rejoice together.
+\v 27 Now you are the body of the Anointed and individually members of it.
+\v 28 And God has appointed in the called-out assembly (*ekklēsia*) first apostles — second prophets — third teachers — then miracles — then gifts of healing — helping — administrating — and various kinds of tongues.
+\v 29 Are all apostles? Are all prophets? Are all teachers? Do all work miracles?
+\v 30 Do all possess gifts of healing? Do all speak with tongues? Do all interpret?
+\v 31 But earnestly desire the higher gifts. And I will show you a still more excellent way.
+
+\c 13
+\p
+\v 1 If I speak in the tongues of men and of angels but have not covenant-love (*agapēn*) I am a noisy gong or a clanging cymbal.
+\v 2 And if I have prophetic powers and understand all mysteries and all knowledge — and if I have all faith so as to remove mountains but have not covenant-love (*agapēn*) — I am nothing.
+\v 3 If I give away all I have and if I deliver up my body to be burned but have not covenant-love (*agapēn*) — I gain nothing.
+\p
+\v 4 Covenant-love (*agapē*) is patient and kind. Covenant-love (*agapē*) does not envy or boast. It is not arrogant —
+\v 5 or rude. It does not insist on its own way. It is not irritable or resentful —
+\v 6 it does not rejoice at wrongdoing but rejoices with the truth (*alētheia*).
+\v 7 It bears all things — believes all things — hopes all things — endures all things.
+\p
+\v 8 Covenant-love (*agapē*) never ends. As for prophecies they will pass away. As for tongues they will cease. As for knowledge it will pass away.
+\v 9 For we know in part and we prophesy in part —
+\v 10 but when the perfect comes the partial will pass away.
+\v 11 When I was a child I spoke like a child — I thought like a child — I reasoned like a child. When I became a man I gave up childish ways.
+\v 12 For now we see in a mirror dimly but then face to face. Now I know in part — then I shall know fully even as I have been fully known.
+\v 13 So now faith — hope — and covenant-love (*agapē*) abide — these three. But the greatest of these is covenant-love (*agapē*).
+
+\c 14
+\p
+\v 1 Pursue covenant-love (*agapēn*) and earnestly desire the spiritual gifts (*pneumatika*) — especially that you may prophesy.
+\v 2 For one who speaks in a tongue speaks not to men but to God — for no one understands him but he utters mysteries in the breath-of-life (*pneumati*).
+\v 3 On the other hand the one who prophesies speaks to people for their upbuilding and encouragement and consolation.
+\v 4 The one who speaks in a tongue builds up himself but the one who prophesies builds up the called-out assembly (*ekklēsian*).
+\v 5 Now I want you all to speak in tongues but even more to prophesy. The one who prophesies is greater than the one who speaks in tongues unless someone interprets so that the called-out assembly (*ekklēsia*) may be built up.
+\p
+\v 6 Now brothers if I come to you speaking in tongues how will I benefit you unless I bring you some revelation or knowledge or prophecy or teaching?
+\v 7 If even lifeless instruments such as the flute or the harp do not give distinct notes how will anyone know what is played?
+\v 8 And if the bugle gives an indistinct sound who will get ready for battle?
+\v 9 So with yourselves if with your tongue you utter speech that is not intelligible how will anyone know what is said? For you will be speaking into the air.
+\v 10 There are doubtless many different languages in the world and none is without meaning —
+\v 11 but if I do not know the meaning of the language I will be a foreigner to the speaker and the speaker a foreigner to me.
+\v 12 So with yourselves: since you are eager for manifestations of the breath-of-life (*pneumatōn*) strive to excel in building up the called-out assembly (*ekklēsian*).
+\p
+\v 13 Therefore one who speaks in a tongue should pray that he may interpret.
+\v 14 For if I pray in a tongue my breath-of-life (*pneuma*) prays but my mind is unfruitful.
+\v 15 What am I to do? I will pray with my breath-of-life (*pneumati*) but I will pray with my mind also. I will sing praise with my breath-of-life (*pneumati*) but I will sing with my mind also.
+\v 16 Otherwise if you give thanks with your breath-of-life (*pneumati*) how can anyone in the position of an outsider say Amen to your thanksgiving when he does not know what you are saying?
+\v 17 For you may be giving thanks well enough but the other person is not being built up.
+\v 18 I thank God that I speak in tongues more than all of you.
+\v 19 Nevertheless in the called-out assembly (*ekklēsia*) I would rather speak five words with my mind in order to instruct others than ten thousand words in a tongue.
+\p
+\v 20 Brothers do not be children in your thinking. Be infants in evil but in your thinking be mature.
+\v 21 In the Law it is written: By people of strange tongues and by the lips of foreigners will I speak to this people and even then they will not listen to me — says the Lord.
+\v 22 Thus tongues are a sign (*sēmeion*) not for believers but for unbelievers while prophecy is a sign not for unbelievers but for believers.
+\v 23 If therefore the whole called-out assembly (*ekklēsia*) comes together and all speak in tongues and outsiders or unbelievers enter will they not say that you are out of your minds?
+\v 24 But if all prophesy and an unbeliever or outsider enters he is convicted by all — he is called to account by all —
+\v 25 the secrets of his heart (*kardias*) are disclosed and so falling on his face he will worship God and declare that God is really among you.
+\p
+\v 26 What then brothers? When you come together each one has a hymn — a lesson — a revelation — a tongue — or an interpretation. Let all things be done for building up.
+\v 27 If any speak in a tongue let there be only two or at most three and each in turn and let someone interpret.
+\v 28 But if there is no one to interpret let each of them keep silent in the called-out assembly (*ekklēsia*) and speak to himself and to God.
+\v 29 Let two or three prophets speak and let the others weigh what is said.
+\v 30 If a revelation is made to another sitting there let the first be silent.
+\v 31 For you can all prophesy one by one so that all may learn and all be encouraged —
+\v 32 and the breaths-of-life (*pneumata*) of prophets are subject to prophets.
+\v 33 For God is not a God of confusion but of peace. As in all the called-out assemblies (*ekklēsiais*) of the holy ones —
+\v 34 the women should keep silent in the called-out assemblies (*ekklēsiais*). For they are not permitted to speak but should be in submission as the Law also says.
+\v 35 If there is anything they desire to learn let them ask their husbands at home. For it is shameful for a woman to speak in the called-out assembly (*ekklēsia*).
+\v 36 Or was it from you that the word (*logos*) of God came? Or are you the only ones it has reached?
+\v 37 If anyone thinks that he is a prophet or spiritual (*pneumatikos*) he should acknowledge that the things I am writing to you are a command of the Lord.
+\v 38 If anyone does not recognize this he is not recognized.
+\v 39 So my brothers earnestly desire to prophesy and do not forbid speaking in tongues.
+\v 40 But all things should be done decently and in order.
+
+\c 15
+\p
+\v 1 Now I would remind you brothers of the glad tidings (*euangelion*) I preached to you — which you received — in which you stand —
+\v 2 and by which you are being saved — if you hold fast to the word (*logō*) I preached to you — unless you believed in vain.
+\v 3 For I delivered to you as of first importance what I also received: that the Anointed died for our sins in accordance with the Scriptures —
+\v 4 that he was buried — that he was raised on the third day in accordance with the Scriptures —
+\v 5 and that he appeared to Cephas — then to the twelve.
+\v 6 Then he appeared to more than five hundred brothers at one time — most of whom are still alive though some have fallen asleep.
+\v 7 Then he appeared to James — then to all the apostles.
+\v 8 Last of all as to one untimely born he appeared also to me.
+\v 9 For I am the least of the apostles — unworthy to be called an apostle because I persecuted the called-out assembly (*ekklēsian*) of God.
+\v 10 But by the grace of God I am what I am and his grace toward me was not in vain. On the contrary I worked harder than any of them — though it was not I but the grace of God that is with me.
+\v 11 Whether then it was I or they — so we preach and so you believed.
+\p
+\v 12 Now if the Anointed is proclaimed as raised from the dead how can some of you say that there is no resurrection (*anastasis*) of the dead?
+\v 13 But if there is no resurrection (*anastasis*) of the dead then not even the Anointed has been raised.
+\v 14 And if the Anointed has not been raised then our preaching is in vain and your faith is in vain.
+\v 15 We are even found to be misrepresenting God because we testified about God that he raised the Anointed — whom he did not raise if it is true that the dead are not raised.
+\v 16 For if the dead are not raised not even the Anointed has been raised.
+\v 17 And if the Anointed has not been raised your faith is futile and you are still in your sins.
+\v 18 Then those also who have fallen asleep in the Anointed have perished.
+\v 19 If in the Anointed we have hope in this life only we are of all people most to be pitied.
+\p
+\v 20 But in fact the Anointed has been raised from the dead — the firstfruits (*aparchē*) of those who have fallen asleep.
+\v 21 For as by a man came death so by a man has come also the resurrection (*anastasis*) of the dead.
+\v 22 For as in Adam all die so also in the Anointed shall all be made alive.
+\v 23 But each in his own order: the Anointed the firstfruits (*aparchē*) — then at his coming those who belong to the Anointed.
+\v 24 Then comes the end when he delivers the kingdom to God the Father after destroying every rule and every authority and power.
+\v 25 For he must reign until he has put all his enemies under his feet.
+\v 26 The last enemy to be destroyed is death.
+\v 27 For God has put all things in subjection under his feet. But when it says all things are put in subjection it is plain that he is excepted who put all things in subjection under him.
+\v 28 When all things are subjected to him then the Son himself will also be subjected to him who put all things in subjection under him — that God may be all in all.
+\p
+\v 29 Otherwise what do people mean by being baptized on behalf of the dead? If the dead are not raised at all why are people baptized on their behalf?
+\v 30 Why are we in danger every hour?
+\v 31 I protest brothers by my pride in you which I have in the Anointed Jesus our Lord — I die every day!
+\v 32 What do I gain if — humanly speaking — I fought with beasts at Ephesus? If the dead are not raised: Let us eat and drink for tomorrow we die.
+\v 33 Do not be deceived: bad company ruins good morals.
+\v 34 Wake up from your drunken stupor as is right and do not go on sinning. For some have no knowledge of God. I say this to your shame.
+\p
+\v 35 But someone will ask: How are the dead raised? With what kind of body do they come?
+\v 36 You foolish person! What you sow does not come to life unless it dies.
+\v 37 And what you sow is not the body that is to be but a bare kernel perhaps of wheat or of some other grain.
+\v 38 But God gives it a body as he has chosen and to each kind of seed its own body.
+\v 39 For not all flesh (*sarx*) is the same flesh (*sarx*) — but there is one kind for humans — another for animals — another for birds — another for fish.
+\v 40 There are heavenly bodies and earthly bodies but the glory of the heavenly is of one kind and the glory of the earthly is of another.
+\v 41 There is one glory of the sun and another glory of the moon and another glory of the stars — for star differs from star in glory.
+\p
+\v 42 So is it with the resurrection (*anastasis*) of the dead. What is sown is perishable — what is raised is imperishable.
+\v 43 It is sown in dishonor — it is raised in glory. It is sown in weakness — it is raised in power.
+\v 44 It is sown a natural body (*sōma psychikon*) — it is raised a spiritual body (*sōma pneumatikon*). If there is a natural body (*sōma psychikon*) there is also a spiritual body (*sōma pneumatikon*).
+\v 45 Thus it is written: The first man Adam became a living soul (*psychēn zōsan*) — the last Adam became a life-giving breath-of-life (*pneuma zōopoioun*).
+\v 46 But it is not the spiritual (*pneumatikon*) that is first but the natural (*psychikon*) and then the spiritual (*pneumatikon*).
+\v 47 The first man was from the earth — a man of dust. The second man is from heaven.
+\v 48 As was the man of dust so also are those who are of the dust — and as is the man of heaven so also are those who are of heaven.
+\v 49 Just as we have borne the image (*eikona*) of the man of dust we shall also bear the image (*eikona*) of the man of heaven.
+\p
+\v 50 I tell you this brothers: flesh (*sarx*) and blood cannot inherit (*klēronomēsai*) the kingdom of God nor does the perishable inherit the imperishable.
+\v 51 Behold! I tell you a mystery. We shall not all sleep but we shall all be changed —
+\v 52 in a moment — in the twinkling of an eye — at the last trumpet. For the trumpet will sound and the dead will be raised imperishable and we shall be changed.
+\v 53 For this perishable body must put on the imperishable and this mortal body must put on immortality.
+\v 54 When the perishable puts on the imperishable and the mortal puts on immortality then shall come to pass the saying that is written: Death is swallowed up in victory.
+\v 55 O death where is your victory? O death where is your sting?
+\v 56 The sting of death is sin and the power of sin is the Law.
+\v 57 But thanks be to God who gives us the victory through our Lord Jesus the Anointed.
+\v 58 Therefore my beloved brothers be steadfast — immovable — always abounding in the work of the Lord — knowing that in the Lord your labor is not in vain.
+
+\c 16
+\p
+\v 1 Now concerning the collection for the holy ones: as I directed the called-out assemblies (*ekklēsiais*) of Galatia so you also are to do.
+\v 2 On the first day of every week each of you is to put something aside and store it up as he may prosper so that there will be no collecting when I come.
+\v 3 And when I arrive I will send those whom you accredit by letter to carry your gift to Jerusalem.
+\v 4 If it seems advisable that I should go also they will accompany me.
+\p
+\v 5 I will visit you after passing through Macedonia — for I intend to pass through Macedonia —
+\v 6 and perhaps I will stay with you or even spend the winter so that you may help me on my journey wherever I go.
+\v 7 For I do not want to see you now just in passing. I hope to spend some time with you if the Lord permits.
+\v 8 But I will stay in Ephesus until Pentecost —
+\v 9 for a wide door for effective work has opened to me and there are many adversaries.
+\p
+\v 10 When Timothy comes see that you put him at ease among you — for he is doing the work of the Lord as I am.
+\v 11 So let no one despise him. Help him on his way in peace that he may return to me — for I am expecting him with the brothers.
+\p
+\v 12 Now concerning our brother Apollos — I strongly urged him to visit you with the other brothers but it was not at all his will to come now. He will come when he has opportunity.
+\p
+\v 13 Be watchful — stand firm in the faith — act like men — be strong.
+\v 14 Let all that you do be done in covenant-love (*agapē*).
+\p
+\v 15 Now I urge you brothers — you know that the household of Stephanas were the firstfruits (*aparchē*) of Achaia and that they have devoted themselves to serving the holy ones —
+\v 16 be subject to such as these and to every fellow worker and laborer.
+\v 17 I rejoice at the coming of Stephanas and Fortunatus and Achaicus because they have made up for your absence —
+\v 18 for they refreshed my breath-of-life (*pneuma*) as well as yours. Give recognition to such people.
+\p
+\v 19 The called-out assemblies (*ekklēsiai*) of Asia send you greetings. Aquila and Prisca together with the called-out assembly (*ekklēsia*) in their house send you hearty greetings in the Lord.
+\v 20 All the brothers send you greetings. Greet one another with a holy kiss.
+\v 21 I Paul write this greeting with my own hand.
+\v 22 If anyone has no love for the Lord let him be accursed. Our Lord come!
+\v 23 The grace of the Lord Jesus be with you.
+\v 24 My covenant-love (*agapē*) be with you all in the Anointed Jesus. Amen.
+```
+
+
+
+______
+
+
+
+
+**1 CORINTHIANS — GLE v2.2 CAE NOTES**
+
+---
+
+**TEXT BASE:** RP2026 Byzantine Majority Text
+
+**VERSE COUNT:** 437 verses / 16 chapters
+
+---
+
+**1 CORINTHIANS IN THE CORPUS ARCHITECTURE**
+
+1 Corinthians is the most contextually specific and thematically diverse letter in the Pauline corpus — sixteen chapters addressing division, wisdom, sexual ethics, lawsuits, marriage, idol-food, head coverings, the Lord's Supper, spiritual gifts, resurrection, and the collection. Yet the letter has a single organizing theological axis: the cross as the inversion of all human wisdom-systems. Every pastoral problem Paul addresses in Corinth is a manifestation of the same root pathology — the Folly register masquerading as wisdom. The *sophia* / *mōria* (wisdom / folly) polarity established in chapters 1–4 is the hermeneutical key to the entire letter. The CAE function of 1 Corinthians is correspondingly comprehensive: it contains the most developed *pneuma* pneumatology in the corpus outside Romans 8, the foundational *naos* anthropology (body as sanctuary of the Holy Breath-of-life), the institution narrative with *diathēkē kainē*, the most concentrated *agapē* statement in Scripture (chapter 13), and the fullest resurrection theology (chapter 15) — including the definitive *psychikos / pneumatikos* anthropological distinction and the *eikōn*-bearing eschatological statement.
+
+---
+
+**KEY LEXICAL DECISIONS**
+
+*sophia* — "wisdom": highest density of any NT letter. 1:17/19/20/21/22/24/25/30 (cross as foolishness / wisdom of God), 2:1/4/5/6/7/13 (hidden wisdom / wisdom of the breath-of-life), 3:10/18/19 (master builder / world's wisdom is folly), 6:5 (no wise man among you), 8:1 (knowledge puffs up), 12:8 (utterance of wisdom — gift), 13:2 (mysteries and knowledge without *agapē*). The *sophia* vocabulary lock carries its full Wisdom/Folly axis load throughout. The letter's opening salvo (1:17–2:16) is the most sustained Wisdom/Folly register analysis in the NT — the cross is the epistemological crisis that exposes all human wisdom-systems as Folly-register operations.
+
+*1:18 CAE NOTE:* *ho logos gar ho tou staurou tois men apollymenois mōria estin tois de sōzomenois hēmin dynamis theou estin* — "the word of the cross is folly to those who are perishing but to us who are being saved it is the power of God." The binary here is not intellectual vs. non-intellectual but orientation-toward-God vs. orientation-away-from-God — the Wisdom/Folly register division at the level of the cross itself. The cross is the supreme Folly-register event from within the Folly register's own logic — a crucified Messiah is a contradiction in terms — yet it is the supreme Wisdom-register event from within God's economy. CAE Wisdom/Folly axis: the cross is the point where the two registers are maximally inverted relative to each other. The Folly register calls it folly; the Wisdom register recognizes it as the power and wisdom of God (1:24).
+
+*1:30 CAE NOTE:* *Christos Iēsous — hos egenēthē sophia hēmin apo theou — dikaiosynē te kai hagiasmos kai apolytrōsis* — "the Anointed Jesus — who became to us wisdom from God — righteousness and sanctification and redemption." Four vocabulary-lock terms in a single verse: *sophia* / *dikaiosynē* / *hagiasmos* / *apolytrōsis*. The Anointed is not merely the source of these — he *became* them (*egenēthē*) — they are identified with his person. CAE chain reinforcement: Chain 1 (*hilastērion* / *apolytrōsis*) — the ransom-release is not an abstract transaction but the personal identity of the Anointed himself as wisdom-from-God.
+
+*pneuma* — "breath-of-life": highest sustained density in the corpus after Romans 8. Key structural uses: 2:4 (demonstration of the breath-of-life and power), 2:10/11/12/13/14 (the breath-of-life searches the depths of God / we have the breath-of-life from God / spiritual things spiritually discerned), 3:16 (you are God's sanctuary / the breath-of-life dwells in you), 5:3/4/5 (my breath-of-life present / deliver to Satan for destruction of the flesh that the breath-of-life may be saved), 6:17/19 (joined to the Lord = one breath-of-life / body as sanctuary of the Holy Breath-of-life), 7:34/40 (holy in body and breath-of-life / I have the breath-of-life of God), 12:3/4/7/8/9/10/11/13 (gifts distributed by the one breath-of-life), 14:2/14/15/16 (praying in the breath-of-life), 15:44/45/46 (*sōma pneumatikon* / last Adam as *pneuma zōopoioun*).
+
+*2:10–16 CAE NOTE:* The pneumatology of 2:10–16 is the epistemological foundation of the entire letter. *to pneuma panta eraunā kai ta bathē tou theou* — "the breath-of-life searches everything — even the depths of God." The Breath-of-life is not a created capacity for spiritual perception but the divine self-knowledge of God — the faculty by which God knows himself — and believers have received this breath-of-life, not the breath-of-life of the world. Therefore they can know *ta hypo tou theou charisthenta hēmin* — "the things freely given us by God." The *psychikos anthrōpos* — natural/soul-person — cannot receive these things because they are *pneumatikōs anakrinetai* — "spiritually discerned." The epistemological divide between *psychikos* and *pneumatikos* here is the anthropological foundation for the *sōma psychikon / sōma pneumatikon* distinction at 15:44–46.
+
+*naos* — "sanctuary": 3:16/17 (you are God's sanctuary / the breath-of-life dwells in you), 6:19 (your body is a sanctuary of the Holy Breath-of-life). **PRIMARY CHAIN NODE — Chain 9 (*skēnē / naos*):**
+
+*3:16–17* — the community as *naos*: *naos theou este kai to pneuma tou theou en hymin oikei* — "you are God's sanctuary and the breath-of-life of God dwells in you." The plural *este* — "you are" — indicates the community as a whole is the *naos*. The individual-body *naos* comes at 6:19. The two-level *naos* anthropology — community body (3:16) and individual body (6:19) — is unique to 1 Corinthians in the NT.
+
+*6:19* — the individual body as *naos*: *to sōma hymōn naos tou en hymin hagiou pneumatos estin* — "your body is a sanctuary of the Holy Breath-of-life within you." The individual body — not merely the soul or spirit — is the *naos*. The bodily resurrection argument of chapter 15 is grounded here: if the body is a sanctuary of the Holy Breath-of-life it cannot be treated as theologically indifferent. The *ēgorasthēte gar timēs* — "you were bought with a price" — at 6:20 grounds the body-sanctuary theology in the *apolytrōsis* — the ransom-release that makes the body the Lord's possession.
+
+**Full Chain 9 node after 1 Corinthians:** Exodus 25:8 LXX → Leviticus 26:12 LXX → Ezekiel 37:27 LXX → John 1:14 → Mark 14:58 → Acts 7:44 → 1 Corinthians 3:16 (community as *naos*) → 1 Corinthians 6:19 (individual body as *naos*) → Ephesians 2:21–22 → Hebrews 8:2 / 9:11 → Revelation 21:3/22. The chain now has two Corinthian nodes — community and individual body — completing the *naos* anthropology.
+
+*diathēkē kainē* — "new covenant": 11:25 — *touto to potērion hē kainē diathēkē estin en tō emō haimati* — "this cup is the new covenant in my blood." The *diathēkē kainē* citation is the Pauline institution narrative's formulation — parallel to Luke 22:20. The "do this in remembrance of me" (*eis tēn emēn anamnēsin*) framing makes the Lord's Supper the covenantal memorial act — the *anamnēsis* not as mere memory but as covenant-renewal enactment. **Chain 8 (*diathēkē aiōnios*) node:** 1 Corinthians 11:25 is the Pauline institution narrative witness — added to Matthew 26:28 / Mark 14:24 / Luke 22:20. Four independent witnesses to the blood-sealing of the new covenant. **LXX-primacy argument: the *diathēkē kainē* formulation directly cites Jeremiah 31:31 LXX (*diathēkēn kainēn*)** — the new covenant Jeremiah promised is now enacted in the cup. CAE anchor: **Jeremiah 31:31 LXX → Luke 22:20 → 1 Corinthians 11:25 → Hebrews 8:8/13** — the *diathēkē kainē* chain confirmed with four witnesses.
+
+*anastasis* — "resurrection": chapter 15 contains the most sustained *anastasis* argument in the NT — 29 occurrences of the resurrection theme across 58 verses. The argument's structure: (a) the tradition (15:3–11) — the Anointed died / was buried / was raised / appeared; (b) the logical dependency (15:12–19) — if no resurrection of the dead then not even the Anointed was raised and faith is vain; (c) the firstfruits order (15:20–28) — the Anointed as *aparchē* of the resurrection harvest; (d) the resurrection body (15:35–49) — *sōma psychikon / sōma pneumatikon*; (e) the mystery (15:51–57) — we shall all be changed / death swallowed up in victory.
+
+*15:20 CAE NOTE:* *Christos egēgertai ek nekrōn aparchē tōn kekoimēmenōn* — "the Anointed has been raised from the dead — the firstfruits (*aparchē*) of those who have fallen asleep." The *aparchē* terminology is LXX Leviticus 23:10 — the firstfruits offering that consecrates the entire harvest. The Anointed's resurrection is not an isolated event but the first installment of the full resurrection harvest — his rising consecrates and guarantees the rising of all who belong to him. CAE chain: **Leviticus 23:10–11 LXX (*aparchē*) → 1 Corinthians 15:20/23** — the firstfruits offering as the OT type for the resurrection order.
+
+*psychikos / pneumatikos* — "natural/soul / spiritual": 2:14/15 (*psychikos anthrōpos* / *pneumatikos*), 3:1 (*pneumatikois* / *sarkinois*), 12:1 (*pneumatikōn* — spiritual gifts), 14:1/37 (*pneumatika* / *pneumatikos*), 15:44/45/46 (*sōma psychikon / sōma pneumatikon* / last Adam as *pneuma zōopoioun*). The *psychikos / pneumatikos* distinction is Paul's most technically precise anthropological binary. The *psychikos anthrōpos* is not the physical person but the person animated by *psychē* alone — natural life without the Holy Breath-of-life's indwelling. The *pneumatikos* is the person in whom the Holy Breath-of-life dwells and through whom the Breath-of-life discerns the things of God. At 15:44–46 this anthropological binary becomes eschatological — the present body is *sōma psychikon* (animated by *psychē*) and the resurrection body is *sōma pneumatikon* (animated by the *pneuma*).
+
+*15:45 CAE NOTE:* *ho prōtos anthrōpos Adam egeneto eis psychēn zōsan — ho eschatos Adam eis pneuma zōopoioun* — "the first man Adam became a living soul (*psychēn zōsan*) — the last Adam became a life-giving breath-of-life (*pneuma zōopoioun*)." The citation of Genesis 2:7 LXX (*egeneto ho anthrōpos eis psychēn zōsan* — "the man became a living soul") is the OT anchor for the entire argument. Paul adds "last Adam" as the interpretive counterpart — the Anointed as the eschatological Adam who reverses the *psychē*-only condition of the first Adam by becoming *pneuma zōopoioun* — a life-giving breath-of-life. **LXX-primacy argument: the *psychēn zōsan* citation at 15:45 follows LXX Genesis 2:7 exactly — the argument about *psychikon* and *pneumatikon* bodies depends on the LXX Greek formulation of the Adam-creation text.** CAE anchor: **Genesis 2:7 LXX → 1 Corinthians 15:45** — Chain 15 (Eden-to-new-creation) receives its Adam/Last-Adam anthropological node.
+
+*agapē* — "covenant-love": chapter 13 is the most concentrated *agapē* statement in Scripture — eight occurrences in thirteen verses. The hymnic structure: (a) *agapē* without which all gifts are nothing (13:1–3); (b) the character of *agapē* (13:4–7); (c) the permanence of *agapē* (13:8–13). *13:13 CAE NOTE:* *nyn de menei pistis elpis agapē — ta tria tauta — meizōn de toutōn hē agapē* — "so now faith — hope — and covenant-love abide — these three — but the greatest of these is covenant-love." The triad faith/hope/love appears in 1 Thessalonians 1:3 and Colossians 1:4–5 — but only here is *agapē* explicitly declared the greatest. The reason: faith and hope are oriented toward what is not yet fully possessed — but *agapē* is the character of God himself (1 John 4:8/16) and therefore participates in the eternal in a way that faith and hope — as orientations toward the as-yet-unreceived — do not. CAE Wisdom-register: *agapē* is not the highest moral achievement but the covenantal character of God into which believers are being conformed — the eschatological register that outlasts the partial knowledge of this age.
+
+*eikōn* — "image": 11:7 (man as *eikōn* and glory of God), 15:49 (bearing the *eikōn* of the man of dust / the *eikōn* of the man of heaven). The *eikōn*-bearing eschatological statement at 15:49 is the 1 Corinthian node in the image-restoration chain: "just as we have borne the *eikōn* of the man of dust we shall also bear the *eikōn* of the man of heaven." The two image-bearings are sequential — the *eikōn* of the dust-Adam (Genesis 2:7) is the present condition / the *eikōn* of the heaven-Adam (the Anointed as *prōtotokos ek tōn nekrōn*) is the eschatological condition. CAE chain: **Genesis 1:26–27 LXX (*kat' eikona*) → 1 Corinthians 15:49 (*eikōna tou epouraniou*) → Colossians 3:10 (renewed after the *eikōn* of creator) → 2 Corinthians 3:18**. Chain 15 node confirmed.
+
+*apolytrōsis* — "ransom-release": 1:30 (the Anointed became *apolytrōsis* to us), 6:20 (bought with a price — body is sanctuary). The 6:20 *ēgorasthēte gar timēs* — "you were bought with a price" — is the most compressed *apolytrōsis* statement in the letter. The price is the blood of 11:25 — the ransom-release that makes both the community (3:16) and the individual body (6:19) the Lord's possession. Chain 1 reinforced.
+
+*kardia* — "heart": 2:9 (what the heart of man has not imagined), 4:5 (the purposes of the heart disclosed at judgment), 7:37 (firmly established in his heart), 14:25 (secrets of the heart disclosed by prophecy). The *kardia* vocabulary lock functions consistently — the heart is the locus of hidden purposes (4:5), settled determination (7:37), and the target of prophetic disclosure (14:25).
+
+*sarx* — "flesh": 1:26 (not many wise according to the flesh), 1:29 (no human being / *pasa sarx* — boast before God), 3:1/3 (*sarkinois / sarkikoi* — people of the flesh), 5:5 (destruction of the flesh that the breath-of-life may be saved), 6:16 (one flesh — Genesis 2:24), 7:28 (troubles of the flesh in marriage), 10:18 (Israel according to the flesh), 15:39/50 (varieties of flesh / flesh and blood cannot inherit the kingdom). The *sarx* vocabulary lock holds throughout. The *sarx kai haima ou dynastai klēronomēsai* — "flesh and blood cannot inherit the kingdom" — at 15:50 is the negative statement of what 15:44–49 states positively: the resurrection body is *pneumatikon*, not *psychikon* or *sarkikon*.
+
+---
+
+**STRUCTURAL CAE NODES**
+
+**1:18–2:16 — Cross as wisdom-inversion / The Sophia polemic:**
+The most sustained Wisdom/Folly register analysis in the NT. Structure: (a) the word of the cross as folly/power (1:18) → (b) Isaiah 29:14 LXX cited: God destroys the wisdom of the wise (1:19) → (c) the wise / scribe / debater put to nothing (1:20) → (d) the world's failure to know God through wisdom (1:21) → (e) Jews demand signs / Greeks seek wisdom — the Anointed crucified is stumbling block to both (1:22–23) → (f) to the called: the Anointed as God's power and wisdom (1:24) → (g) the election of the weak and foolish exposes the Folly of worldly wisdom (1:26–29) → (h) the Anointed as wisdom from God — righteousness and sanctification and ransom-release (1:30) → (i) Paul's preaching without rhetorical wisdom — demonstration of the Breath-of-life (2:1–5) → (j) the hidden wisdom of God revealed through the Breath-of-life (2:6–16).
+
+**LXX-primacy argument at 1:19:** Cites Isaiah 29:14 LXX — *apolō tēn sophian tōn sophōn kai tēn synesin tōn synetōn krysō* — "I will destroy the wisdom of the wise and the discernment of the discerning I will hide." The LXX reads *krysō* ("I will hide") where MT reads "will be hidden" — Paul's argument about God actively overturning human wisdom-systems depends on the LXX active formulation.
+
+**LXX-primacy argument at 2:9:** *ha ophthalmos ouk eiden kai ous ouk ēkousen kai epi kardian anthrōpou ouk anebē* — this is widely traced to Isaiah 64:4 LXX / 65:16 LXX composite — "what no eye has seen nor ear heard nor the heart of man imagined — what God has prepared for those who love him." The formulation has no exact MT parallel and is LXX-compositional.
+
+**5:7 — Passover / the Anointed as our Passover lamb:**
+*kai gar to pascha hēmōn etythē Christos* — "for the Anointed — our Passover lamb — has been sacrificed." The most explicit Passover-typology statement outside John 19:36. CAE chain — Chain 13 (*arnion* / Passover): **Exodus 12 LXX → Isaiah 53:7 LXX → John 1:29/36 → 1 Corinthians 5:7 → Revelation 5:6** — the Passover lamb chain receives its Pauline node. The context is the leaven-purgation instruction — the old leaven must be purged because the Passover lamb has already been sacrificed. The feast is to be celebrated with *alētheia* (5:8) — the unleavened bread of truth. CAE Wisdom/Folly axis: the old leaven = malice and evil (Folly register) / the unleavened bread = sincerity and truth (Wisdom register).
+
+**6:17 — Joined to the Lord = one pneuma:**
+*ho de kollōmenos tō kyriō hen pneuma estin* — "he who is joined to the Lord becomes one breath-of-life with him." This is the most intimate union-with-God statement in the Pauline corpus — union with the Lord produces a *pneuma*-unity parallel to the *sarx*-unity of sexual union (6:16 / Genesis 2:24). The contrast is structural: *pornē* union = one *sarx* (Folly register) / Lord-union = one *pneuma* (Wisdom register). The two unions are not equivalent — *sarx*-union with a *pornē* defiles the body that is the *naos* of the Holy Breath-of-life; *pneuma*-union with the Lord consecrates the body as the Lord's member. CAE trinitarian anthropology: the believer's body is a member of the Anointed (6:15) and a *naos* of the Holy Breath-of-life (6:19) — the person is located within the Trinitarian life through bodily union with the Lord.
+
+**8:6 — One God / One Lord:**
+*all' hēmin heis theos ho patēr ex hou ta panta kai hēmeis eis auton kai heis kyrios Iēsous Christos di' hou ta panta kai hēmeis di' autou* — "yet for us there is one God the Father — from whom are all things and for whom we exist — and one Lord Jesus the Anointed — through whom are all things and through whom we exist." This is the Pauline expansion of the *Shema* (Deuteronomy 6:4 LXX — *kyrios ho theos hēmōn kyrios heis estin*) — the one God and one Lord of the *Shema* differentiated into Father and the Anointed while maintaining monotheistic structure. **LXX-primacy argument: the *Shema* expansion depends on LXX Deuteronomy 6:4's *kyrios* as the divine name — allowing Paul to apply *kyrios* to both the Father (one God) and the Anointed (one Lord) within a monotheistic framework.** CAE trinitarian map: the cosmological prepositions — *ex hou* (from whom) for the Father / *di' hou* (through whom) for the Anointed — distribute the creation prepositions of Romans 11:36 across the two persons. Chain node: **Deuteronomy 6:4 LXX → 1 Corinthians 8:6** — the *Shema* Christologically expanded.
+
+**11:23–26 — Institution Narrative / diathēkē kainē:**
+The Pauline institution narrative is introduced as received tradition (*parelabon ... paredōka* — "I received ... I delivered") — placing the *diathēkē kainē* cup-word in the category of fixed tradition already operative in Paul's proclamation before the letter. Three CAE nodes in four verses: (a) *diathēkē kainē en tō emō haimati* — Jeremiah 31:31 LXX → Luke 22:20 → 1 Corinthians 11:25 — Chain 8 confirmed with independent Pauline witness; (b) *ton thanaton tou kyriou katangellō* — "you proclaim the Lord's death" — the Lord's Supper as ongoing proclamation-act (*euangelion* enacted in meal form); (c) *achri hou elthē* — "until he comes" — the eschatological horizon of the meal.
+
+**12:4–11 — The one Breath-of-life / varieties of gifts:**
+The gift-distribution passage establishes the pneumatological unity-in-diversity principle: one *pneuma* / one Lord / one God — the same Trinitarian structure as 8:6 now applied to gift-distribution. The *pneuma* apportions gifts *kathōs bouletai* — "as he wills" — establishing the Breath-of-life's personal agency. The *diakrisis pneumatōn* — "ability to distinguish between breaths-of-life" — at 12:10 is directly relevant to the CAE's Wisdom/Folly register discernment function: the gift of distinguishing between breaths-of-life is the charism corresponding to what the CAE does analytically.
+
+**13:1–13 — The agapē hymn:**
+The *agapē* hymn's CAE significance is threefold: (a) it establishes *agapē* as the register that outlasts all partial gifts — prophecy / tongues / knowledge — because it participates in the eternal character of God; (b) *agapē ... chairei de tē alētheia* — "covenant-love rejoices with the truth (*alētheia*)" (13:6) — *agapē* and *alētheia* are aligned in the Wisdom register; (c) the permanent triad faith/hope/*agapē* with *agapē* as greatest (13:13) — the Wisdom register's ultimate orientation.
+
+**15:3–4 — The tradition formula / kata tas graphas:**
+*Christos apethanen hyper tōn hamartiōn hēmōn kata tas graphas — kai hoti etaphē kai hoti egēgertai tē tritē hēmera kata tas graphas* — "the Anointed died for our sins in accordance with the Scriptures — and that he was buried — and that he was raised on the third day in accordance with the Scriptures." The double *kata tas graphas* — "in accordance with the Scriptures" — refers to the LXX. The death-for-sins is Isaiah 53:5–6/10–12 LXX; the third-day rising connects to Hosea 6:2 LXX (*en tē hēmera tē tritē anastēsometha*). **LXX-primacy argument: the foundational Christian creedal formula at 1 Corinthians 15:3–4 grounds both the atoning death and the resurrection in LXX Scripture.** The "Scriptures" in question are the LXX — no Hebrew text was in view for the Greek-speaking Corinthian community.
+
+**15:20–28 — Firstfruits / Adam typology / The End:**
+The *aparchē* argument (15:20/23) structures the resurrection as a harvest sequence: the Anointed as firstfruits → then those who belong to the Anointed at his coming → then the end. The Adam typology (15:21–22): "as by a man came death so by a man has come also the resurrection" — as in Adam all die / in the Anointed all shall be made alive. **Chain 15 (Eden-to-new-creation) node confirmed:** The Adam → Last Adam sequence is the Pauline form of the Eden-to-new-creation movement. The destruction of the last enemy — death — at 15:26 anticipates Revelation 20:14 (death thrown into the lake of fire). The subjection of all things under the Son's feet (15:27 — Psalm 8:6 LXX cited) and the Son's final submission to the Father (15:28) provide the eschatological shape of the *ta panta en pasin* (all in all) — the cosmological endpoint of the entire redemptive movement.
+
+**LXX-primacy argument at 15:27:** Cites Psalm 8:6 LXX — *panta hypetaxas hypokatō tōn podōn autou* — "you put all things in subjection under his feet." The LXX formulation is cited to ground the subjection of all cosmic powers to the Anointed. The *panta* of Psalm 8:6 LXX is the textual warrant for the universal subjection argument. **LXX-primacy argument: Psalm 8:6 LXX → 1 Corinthians 15:27 → Ephesians 1:22 → Hebrews 2:8** — the most-used Psalm 8 LXX citation in the NT, appearing in three independent letters and always following LXX.
+
+**15:44–49 — sōma psychikon / sōma pneumatikon / Last Adam:**
+The *sōma psychikon / sōma pneumatikon* distinction is the eschatological capstone of the *psychikos / pneumatikos* anthropology established at 2:14–15. The present body is *psychikon* — animated by *psychē* alone / subject to corruption and weakness. The resurrection body is *pneumatikon* — animated by the Holy Breath-of-life / imperishable and powerful. The textual ground: Genesis 2:7 LXX (*psychēn zōsan*) → 1 Corinthians 15:45 (*pneuma zōopoioun*). The first Adam received *psychē*; the last Adam *became* life-giving *pneuma* — the eschatological reversal of the anthropological limitation introduced at creation. CAE chain: **Genesis 2:7 LXX → 1 Corinthians 15:45 → Romans 8:11 (the Breath-of-life who raised the Anointed will give life to your mortal bodies)**. Chain 15 confirmed.
+
+**15:54–55 — Death swallowed up in victory / Isaiah 25:8 / Hosea 13:14 LXX:**
+*katepothē ho thanatos eis nikos* — "death is swallowed up in victory" (Isaiah 25:8 LXX). *pou sou thanate to nikos? pou sou thanate to kentron?* — "O death where is your victory? O death where is your sting?" (Hosea 13:14 LXX). Two LXX citations combined at the resurrection argument's climax — both diverge from MT at points crucial to the application. **LXX-primacy argument: (a) Isaiah 25:8 LXX reads *eis nikos* (into victory) where MT reads "forever" (*lanetsach*) — Paul's "victory" language depends on LXX; (b) Hosea 13:14 LXX inverts the MT — MT uses the words as a summons to death / LXX reads them as a taunt against death.** Both arguments require LXX readings. CAE anchor: **Isaiah 25:8 LXX + Hosea 13:14 LXX → 1 Corinthians 15:54–55** — the resurrection victory doxology is compositionally LXX-dependent at two independent points.
+
+---
+
+**LXX-PRIMACY ARGUMENTS IN 1 CORINTHIANS**
+
+Eight independent LXX dependency points:
+
+1. 1:19 — Isaiah 29:14 LXX (*apolō* — active: God destroys wisdom)
+2. 2:9 — Isaiah 64:4 / 65:16 LXX composite (what no eye has seen)
+3. 8:6 — Deuteronomy 6:4 LXX (*Shema* expansion — *kyrios* applied to both Father and the Anointed)
+4. 11:25 — Jeremiah 31:31 LXX (*diathēkē kainē* — new covenant cup-word)
+5. 15:3–4 — Isaiah 53 LXX + Hosea 6:2 LXX (death for sins / third-day rising *kata tas graphas*)
+6. 15:27 — Psalm 8:6 LXX (all things in subjection under his feet)
+7. 15:45 — Genesis 2:7 LXX (*psychēn zōsan* — textual ground for *psychikon/pneumatikon* distinction)
+8. 15:54–55 — Isaiah 25:8 LXX (*eis nikos* — victory) + Hosea 13:14 LXX (taunt against death — inverted from MT)
+
+---
+
+**CHAIN STATUS AFTER 1 CORINTHIANS**
+
+All 15 chains remain closed. 1 Corinthians adds:
+
+- *naos* — community and individual body: **1 Corinthians 3:16 / 6:19** — Chain 9 receives its two-level anthropological node. Community as *naos theou* (3:16) and individual body as *naos tou hagiou pneumatos* (6:19). Chain 9 now has its fullest anthropological development
+- *diathēkē kainē*: **1 Corinthians 11:25** — Chain 8 receives independent Pauline institution narrative witness. Four-witness lock: Matthew 26:28 / Mark 14:24 / Luke 22:20 / 1 Corinthians 11:25
+- Passover lamb: **1 Corinthians 5:7** — Chain 13 (*arnion*) receives its Pauline node: *to pascha hēmōn etythē Christos*. Chain 13 now: Exodus 12 LXX → Isaiah 53:7 LXX → John 1:29/36 → 1 Corinthians 5:7 → Revelation 5:6
+- *prōtotokos* / *aparchē*: **1 Corinthians 15:20/23** — Chain 14 reinforced — the *aparchē* firstfruits as the resurrection-order anchor
+- *eikōn* bearing: **1 Corinthians 15:49** — Chain 15 (Eden-to-new-creation) receives the eschatological *eikōn*-bearing node: bearing the *eikōn* of the man of dust → bearing the *eikōn* of the man of heaven
+- *psychēn zōsan / pneuma zōopoioun*: **1 Corinthians 15:45** — Chain 15 receives the Adam/Last-Adam anthropological node grounded in Genesis 2:7 LXX
+- Death swallowed up: **1 Corinthians 15:54–55** — Chain 15 receives its death-destruction node: Isaiah 25:8 LXX + Hosea 13:14 LXX — two LXX citations at the resurrection argument's climax
+- *agapē* as greatest: **1 Corinthians 13:13** — the covenant-love vocabulary lock at its fullest Pauline expression — *agapē* as the eschatological register outlasting all partial gifts
+
+---
+
+
