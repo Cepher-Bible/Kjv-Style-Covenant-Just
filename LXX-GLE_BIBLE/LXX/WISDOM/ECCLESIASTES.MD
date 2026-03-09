@@ -1,3 +1,310 @@
+
+```
+\id ECC
+\h Ecclesiastes
+\toc1 Ecclesiastes
+\toc2 Qoheleth
+\mt Ecclesiastes
+
+\c 1
+\p
+\v 1 The words of the Assembler (*Qoheleth*) — son of David — king in Jerusalem.
+\p
+\v 2 Vapor of vapors (*mataiotēs mataiotētōn*) — says the Assembler — vapor of vapors — all is vapor (*mataiotēs*).
+\v 3 What profit is there for a man in all his toil at which he toils under the sun?
+\v 4 A generation passes and a generation comes — but the earth stands forever (*eis ton aiōna*).
+\v 5 And the sun rises and the sun sets and it hastens to its place and there it rises.
+\v 6 Going to the south and turning to the north — turning — turning goes the wind and on its turnings the wind returns.
+\v 7 All the rivers run into the sea and the sea is not full — to the place where the rivers go there they go again.
+\v 8 All words are weary — a man cannot speak them — the eye is not satisfied with seeing and the ear is not filled with hearing.
+\v 9 That which was is that which shall be and that which is done is that which shall be done — and there is nothing new under the sun.
+\v 10 Is there a thing of which one says: See this is new? It has already been in the ages that were before us.
+\v 11 There is no remembrance of former things — nor shall there be any remembrance of things that are to come with those who come after.
+\p
+\v 12 I the Assembler was king over Israel in Jerusalem.
+\v 13 And I gave my heart to seek and to search out by wisdom (*sophia*) concerning all that is done under heaven — it is a grievous task that God has given to the sons of man to be afflicted with.
+\v 14 I have seen all the works that are done under the sun — and behold all is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+\v 15 What is crooked cannot be made straight and what is lacking cannot be counted.
+\p
+\v 16 I spoke with my own heart saying: Behold I have magnified and increased wisdom (*sophia*) above all who were before me over Jerusalem — and my heart has seen much of wisdom (*sophia*) and knowledge.
+\v 17 And I gave my heart to know wisdom (*sophia*) and to know madness and folly — I know that this also is a feeding on wind (*proairesis pneumatos*).
+\v 18 For in much wisdom (*sophia*) is much grief — and he who increases knowledge increases sorrow.
+
+\c 2
+\p
+\v 1 I said in my heart: Come now I will test you with pleasure — enjoy yourself. And behold this also was vapor (*mataiotēs*).
+\v 2 Of laughter I said: It is madness — and of pleasure: What does it accomplish?
+\v 3 I searched in my heart how to refresh my flesh with wine — my heart conducting itself with wisdom (*sophia*) — and how to lay hold on folly until I might see what is good for the sons of man to do under heaven during the few days of their life (*zōēs*).
+\p
+\v 4 I made great works — I built houses — I planted vineyards for myself.
+\v 5 I made myself gardens and parks and I planted in them trees of every fruit.
+\v 6 I made myself pools of water to water the forest of growing trees.
+\v 7 I acquired male and female servants and had servants born in my house — I also had great possessions of herds and flocks more than all who were before me in Jerusalem.
+\v 8 I also gathered for myself silver and gold and the treasure of kings and provinces — I got singers — both men and women — and the delights of the sons of man — a wine-steward and wine-stewardesses.
+\v 9 So I became great and surpassed all who were before me in Jerusalem — also my wisdom (*sophia*) stood firm with me.
+\v 10 And whatever my eyes desired I did not keep from them — I did not withhold my heart from any pleasure — for my heart rejoiced in all my toil and this was my portion from all my toil.
+\v 11 Then I turned to all my works that my hands had done and to the toil that I had toiled in doing — and behold all was vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*) and there was no profit under the sun.
+\p
+\v 12 So I turned to consider wisdom (*sophia*) and madness and folly — for what can the man do who comes after the king? Only what has already been done.
+\v 13 And I saw that wisdom (*sophia*) has the advantage over folly as light has the advantage over darkness.
+\v 14 The wise man has his eyes in his head but the fool walks in darkness — and yet I knew that one fate comes to all of them.
+\v 15 And I said in my heart: What happens to the fool will happen to me also — and why have I been so very wise? And I said in my heart that this also is vapor (*mataiotēs*).
+\v 16 For there is no remembrance of the wise man even as there is none of the fool forever (*eis ton aiōna*) — since in the days to come all will have been forgotten. And how can the wise man die together with the fool?
+\v 17 So I hated life (*zōēn*) — because what is done under the sun was grievous to me — for all is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+\p
+\v 18 I hated all my toil in which I toil under the sun — seeing that I must leave it to the man who comes after me.
+\v 19 And who knows whether he will be a wise man or a fool? Yet he will have control over all my toil at which I toiled and used wisdom (*sophia*) under the sun — this also is vapor (*mataiotēs*).
+\v 20 So I turned about and gave my heart up to despair over all the toil at which I had toiled under the sun.
+\v 21 For a man who has toiled with wisdom (*sophia*) and knowledge and skill must leave everything to be enjoyed by a man who did not toil for it — this also is vapor (*mataiotēs*) and a great evil.
+\v 22 For what comes to a man from all his toil and from the striving of his heart at which he toils under the sun?
+\v 23 For all his days are full of sorrow and his work is a vexation — even in the night his heart does not rest — this also is vapor (*mataiotēs*).
+\p
+\v 24 There is nothing better for a man than that he should eat and drink and that his soul (*psychē*) should enjoy good in his toil — this also I saw is from the hand of God.
+\v 25 For who can eat and who can have enjoyment apart from him?
+\v 26 For to the man who pleases him God gives wisdom (*sophia*) and knowledge and joy — but to the sinner he gives the task of gathering and collecting to give to one who pleases God. This also is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+
+\c 3
+\p
+\v 1 For everything there is a season and a time for every matter under heaven —
+\v 2 a time to be born and a time to die — a time to plant and a time to pluck up what is planted —
+\v 3 a time to kill and a time to heal — a time to break down and a time to build up —
+\v 4 a time to weep and a time to laugh — a time to mourn and a time to dance —
+\v 5 a time to cast away stones and a time to gather stones together — a time to embrace and a time to refrain from embracing —
+\v 6 a time to seek and a time to lose — a time to keep and a time to cast away —
+\v 7 a time to tear and a time to sew — a time to keep silence and a time to speak —
+\v 8 a time to love and a time to hate — a time for war and a time for peace.
+\p
+\v 9 What profit has the worker in his toil?
+\v 10 I have seen the task that God has given to the sons of man to be afflicted with.
+\v 11 He has made everything beautiful in its time — he has also put eternity (*ton aiōna*) into man's heart yet so that he cannot find out what God has done from the beginning to the end.
+\v 12 I perceived that there is nothing better for them than to be glad and to do good as long as they live (*zōsin*).
+\v 13 Also that everyone should eat and drink and take pleasure in all his toil — this is God's gift to man.
+\v 14 I perceived that whatever God does endures forever (*eis ton aiōna*) — nothing can be added to it nor anything taken from it — God has done it so that people should fear before him.
+\v 15 That which is has already been — that which is to be has already been — and God seeks out what has been driven away.
+\p
+\v 16 Moreover I saw under the sun that in the place of justice even there was wickedness and in the place of righteousness even there was wickedness.
+\v 17 I said in my heart: God will judge the righteous and the wicked — for there is a time for every matter and for every work.
+\v 18 I said in my heart with regard to the children of man that God is testing them to show them that they are but beasts.
+\v 19 For what happens to the children of man and what happens to the beasts is the same — as one dies so dies the other — they all have the same breath (*pneuma*) and man has no advantage over the beasts — for all is vapor (*mataiotēs*).
+\v 20 All go to one place — all are from the dust and all turn to dust again.
+\v 21 Who knows whether the breath-of-life (*pneuma*) of man goes upward and the breath-of-life (*pneuma*) of the beast goes down into the earth?
+\v 22 So I saw that there is nothing better than that a man should rejoice in his work — for that is his lot — who can bring him to see what will be after him?
+
+\c 4
+\p
+\v 1 Again I saw all the oppressions that are done under the sun — and behold the tears of the oppressed and they had no one to comfort them — on the side of their oppressors there was power and they had no one to comfort them.
+\v 2 And I declared the dead who are already dead more fortunate than the living who are still alive.
+\v 3 But better than both is he who has not yet been and has not seen the evil work that is done under the sun.
+\p
+\v 4 Then I saw that all toil and all skill in work come from a man's envy of his neighbor — this also is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+\v 5 The fool folds his hands and eats his own flesh.
+\v 6 Better is a handful of quietness than two hands full of toil and a feeding on wind (*proairesis pneumatos*).
+\p
+\v 7 Again I saw vapor (*mataiotēs*) under the sun —
+\v 8 one person who has no other — neither son nor brother — yet there is no end to all his toil and his eyes are never satisfied with riches so that he never asks: For whom am I toiling and depriving my soul (*psychēn*) of good? This also is vapor (*mataiotēs*) and an unhappy business.
+\v 9 Two are better than one because they have a good reward for their toil.
+\v 10 For if they fall one will lift up his fellow — but woe to him who is alone when he falls and has not another to lift him up.
+\v 11 Again if two lie together they keep warm — but how can one keep warm alone?
+\v 12 And though a man might prevail against one who is alone — two will withstand him — a threefold cord is not quickly broken.
+\p
+\v 13 Better was a poor and wise youth than an old and foolish king who no longer knew how to take advice.
+\v 14 For he went from prison to reign — even in his own kingdom he had been born poor.
+\v 15 I saw all the living who move about under the sun along with that youth who was to stand in the king's place.
+\v 16 There was no end of all the people — all of whom he led — yet those who come later will not rejoice in him. Surely this also is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+
+\c 5
+\p
+\v 1 Guard your steps when you go to the house of God — to draw near to listen is better than to offer the sacrifice of fools — for they do not know that they are doing evil.
+\v 2 Be not rash with your mouth nor let your heart be hasty to utter a word before God — for God is in heaven and you are on earth — therefore let your words be few.
+\v 3 For a dream comes with much business and a fool's voice with many words.
+\v 4 When you vow a vow to God do not delay paying it — for he has no pleasure in fools — pay what you vow.
+\v 5 It is better that you should not vow than that you should vow and not pay.
+\v 6 Let not your mouth lead you into sin and do not say before the messenger that it was a mistake — why should God be angry at your voice and destroy the work of your hands?
+\v 7 For when dreams increase and words grow many there is vapor (*mataiotēs*) — but fear God.
+\p
+\v 8 If you see in a province the oppression of the poor and the violation of justice and righteousness do not be amazed at the matter — for the high official is watched by a higher and there are yet higher ones over them.
+\v 9 But this is gain for a land in every way: a king committed to cultivated fields.
+\p
+\v 10 He who loves money will not be satisfied with money — nor he who loves wealth with his income — this also is vapor (*mataiotēs*).
+\v 11 When goods increase they increase who eat them and what advantage has their owner but to see them with his eyes?
+\v 12 Sweet is the sleep of a laborer whether he eats little or much — but the full stomach of the rich will not let him sleep.
+\p
+\v 13 There is a grievous evil that I have seen under the sun: riches were kept by their owner to his hurt.
+\v 14 And those riches were lost in a bad venture — and he is father of a son but he has nothing in his hand.
+\v 15 As he came from his mother's womb he shall go again naked as he came and shall take nothing for his toil that he may carry away in his hand.
+\v 16 This also is a grievous evil — just as he came so shall he go — and what profit is there to him who toils for the wind (*pneuma*)?
+\v 17 Moreover all his days he eats in darkness in much vexation and sickness and anger.
+\p
+\v 18 Behold what I have seen to be good and fitting: to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of his life (*zōēs*) that God has given him — for this is his lot.
+\v 19 Everyone also to whom God has given wealth and possessions and power to enjoy them and to accept his lot and rejoice in his toil — this is the gift of God.
+\v 20 For he will not much remember the days of his life (*zōēs*) because God keeps him occupied with joy in his heart.
+
+\c 6
+\p
+\v 1 There is an evil that I have seen under the sun and it lies heavy on mankind —
+\v 2 a man to whom God gives wealth and possessions and honor so that he lacks nothing of all that he desires yet God does not give him power to enjoy them but a stranger enjoys them — this is vapor (*mataiotēs*) and a grievous evil.
+\v 3 If a man fathers a hundred children and lives many years so that the days of his years are many but his soul (*psychē*) is not satisfied with good things and he also has no burial — I say that a stillborn child is better off than he.
+\v 4 For it comes in vapor (*mataiotēs*) and goes in darkness and in darkness its name is covered.
+\v 5 Moreover it has not seen the sun or known anything — yet it finds rest rather than he.
+\v 6 Even though he should live a thousand years twice over yet enjoy no good — do not all go to the one place?
+\p
+\v 7 All the toil of man is for his mouth yet his appetite is not satisfied.
+\v 8 For what advantage has the wise man over the fool? And what does the poor man have who knows how to conduct himself before the living?
+\v 9 Better is the sight of the eyes than the wandering of desire — this also is vapor (*mataiotēs*) and a feeding on wind (*proairesis pneumatos*).
+\p
+\v 10 Whatever has come to be has already been named and it is known what man is — and he is not able to dispute with one stronger than he.
+\v 11 The more words the more vapor (*mataiotēs*) and what is the advantage to man?
+\v 12 For who knows what is good for man while he lives the few days of his vain life (*zōēs mataiotētos autou*) which he passes like a shadow? For who can tell man what will be after him under the sun?
+
+\c 7
+\p
+\v 1 A good name is better than precious ointment and the day of death than the day of birth.
+\v 2 It is better to go to the house of mourning than to go to the house of feasting — for this is the end of all mankind and the living will lay it to heart.
+\v 3 Sorrow is better than laughter — for by sadness of face the heart is made glad.
+\v 4 The heart of the wise is in the house of mourning but the heart of fools is in the house of mirth.
+\v 5 It is better for a man to hear the rebuke of the wise than to hear the song of fools.
+\v 6 For as the crackling of thorns under a pot so is the laughter of the fools — this also is vapor (*mataiotēs*).
+\v 7 Surely oppression drives the wise into madness and a bribe corrupts the heart.
+\v 8 Better is the end of a thing than its beginning and the patient in breath-of-life (*pneuma*) is better than the proud in breath-of-life (*pneuma*).
+\v 9 Be not quick in your breath-of-life (*pneumati*) to become angry — for anger lodges in the heart of fools.
+\v 10 Say not: Why were the former days better than these? — for it is not from wisdom (*sophia*) that you ask this.
+\v 11 Wisdom (*sophia*) is good with an inheritance — an advantage to those who see the sun.
+\v 12 For the protection of wisdom (*sophias*) is like the protection of money and the advantage of knowledge is that wisdom (*sophia*) preserves the life (*zōēn*) of him who has it.
+\v 13 Consider the work of God — for who can make straight what he has made crooked?
+\v 14 In the day of prosperity be joyful and in the day of adversity consider — God has made the one as well as the other so that man may not find out anything that will be after him.
+\p
+\v 15 In my vain life (*mataiotēs*) I have seen everything — there is a righteous man who perishes in his righteousness and there is a wicked man who prolongs his life in his evildoing.
+\v 16 Be not overly righteous and do not make yourself too wise (*sophos*) — why should you destroy yourself?
+\v 17 Be not overly wicked neither be a fool — why should you die before your time?
+\v 18 It is good that you should take hold of this and from that withhold not your hand — for the one who fears God shall come out from both of them.
+\v 19 Wisdom (*sophia*) gives strength to the wise man more than ten rulers who are in a city.
+\v 20 Surely there is not a righteous man on earth who does good and never sins.
+\v 21 Do not take to heart all the things that people say lest you hear your servant cursing you.
+\v 22 Your heart knows that many times you yourself have cursed others.
+\p
+\v 23 All this I have tested by wisdom (*sophia*) — I said: I will be wise (*sophos*) — but it was far from me.
+\v 24 That which has been is far off and deep — very deep — who can find it out?
+\v 25 I turned my heart to know and to search out and to seek wisdom (*sophia*) and the scheme of things and to know the wickedness of folly and the foolishness that is madness.
+\v 26 And I find something more bitter than death — the woman whose heart is snares and nets and whose hands are fetters — he who pleases God escapes her but the sinner is taken by her.
+\v 27 Behold this is what I found says the Assembler adding one thing to another to find the scheme —
+\v 28 which my soul (*psychē*) has sought repeatedly but I have not found — one man among a thousand I found but a woman among all these I have not found.
+\v 29 See this alone I found: that God made man upright but they have sought out many schemes.
+
+\c 8
+\p
+\v 1 Who is like the wise man? And who knows the interpretation of a thing? A man's wisdom (*sophia*) makes his face shine and the hardness of his face is changed.
+\v 2 I say: Keep the king's command because of God's oath to him.
+\v 3 Be not hasty to go from his presence — do not take your stand in an evil cause — for he does whatever he pleases.
+\v 4 For the word of the king is supreme and who may say to him: What are you doing?
+\v 5 Whoever keeps a command will know no evil thing and the heart of the wise man will know the time and the judgment.
+\v 6 For every matter has its time and judgment — for the misery of man is great upon him.
+\v 7 For he does not know what is to be — for who can tell him how it will be?
+\v 8 No man has power to retain the breath-of-life (*pneuma*) or power over the day of death — there is no discharge from war and wickedness will not deliver those who are given to it.
+\v 9 All this I observed while applying my heart to all that is done under the sun when man had power over man to his hurt.
+\p
+\v 10 Then I saw the wicked buried — they used to go in and out of the holy place and were praised in the city where they had done such things — this also is vapor (*mataiotēs*).
+\v 11 Because the sentence against an evil deed is not executed speedily the heart of the children of man is fully set to do evil.
+\v 12 Though a sinner does evil a hundred times and prolongs his life (*zōēn*) yet I know that it will be well with those who fear God because they fear before him.
+\v 13 But it will not be well with the wicked neither will he prolong his days like a shadow because he does not fear before God.
+\p
+\v 14 There is a vapor (*mataiotēs*) that takes place on earth — that there are righteous people to whom it happens according to the deeds of the wicked and there are wicked people to whom it happens according to the deeds of the righteous — I said that this also is vapor (*mataiotēs*).
+\v 15 And I commend enjoyment — for man has nothing better under the sun than to eat and drink and be joyful — for this will go with him in his toil through the days of his life (*zōēs*) that God has given him under the sun.
+\p
+\v 16 When I applied my heart to know wisdom (*sophia*) and to see the business that is done on earth — even though one's eyes see no sleep by day or by night —
+\v 17 then I saw all the work of God that man cannot find out the work that is done under the sun. However much man may toil in seeking he will not find it out — even though a wise man (*sophos*) claims to know he cannot find it out.
+
+\c 9
+\p
+\v 1 But all this I laid to heart examining it all — how the righteous and the wise and their deeds are in the hand of God — whether it is love or hate man does not know — both are before him.
+\v 2 It is the same for all — there is one fate for the righteous and the wicked — for the good and the evil — for the clean and the unclean — for him who sacrifices and him who does not sacrifice — as the good one is so is the sinner and he who swears is as he who shuns an oath.
+\v 3 This is an evil in all that is done under the sun — that one fate comes to all — also the heart of the children of man is full of evil and madness is in their hearts while they live (*zōsin*) and after that they go to the dead.
+\v 4 But he who is joined with all the living has hope — for a living dog is better than a dead lion.
+\v 5 For the living know that they will die but the dead know nothing and they have no more reward — for the memory of them is forgotten.
+\v 6 Their love and their hate and their envy have already perished and forever (*eis ton aiōna*) they have no more share in all that is done under the sun.
+\p
+\v 7 Go — eat your bread with joy and drink your wine with a merry heart — for God has already approved what you do.
+\v 8 Let your garments be always white — let not oil be lacking on your head.
+\v 9 Enjoy life (*zōēn*) with the wife whom you love all the days of your vain life (*zōēs mataiotētos*) that he has given you under the sun — because that is your portion in life (*zōē*) and in your toil at which you toil under the sun.
+\v 10 Whatever your hand finds to do — do it with your might — for there is no work or thought or knowledge or wisdom (*sophia*) in Sheol to which you are going.
+\p
+\v 11 Again I saw that under the sun the race is not to the swift nor the battle to the strong nor bread to the wise (*sophois*) nor riches to the intelligent nor favor to those with knowledge — but time and chance happen to them all.
+\v 12 For man does not know his time — like fish that are taken in an evil net and like birds that are caught in a snare so the children of man are snared at an evil time when it suddenly falls upon them.
+\p
+\v 13 I have also seen this example of wisdom (*sophia*) under the sun and it seemed great to me.
+\v 14 There was a little city with few men in it and a great king came against it and besieged it building great siegeworks against it.
+\v 15 But there was found in it a poor wise man and he by his wisdom (*sophia*) delivered the city — yet no one remembered that poor man.
+\v 16 But I say that wisdom (*sophia*) is better than might though the poor man's wisdom (*sophia*) is despised and his words are not heard.
+\v 17 The words of the wise (*sophōn*) heard in quiet are better than the shouting of a ruler among fools.
+\v 18 Wisdom (*sophia*) is better than weapons of war but one sinner destroys much good.
+
+\c 10
+\p
+\v 1 Dead flies make the perfumer's ointment give off a stench — a little folly outweighs wisdom (*sophian*) and honor.
+\v 2 A wise man's (*sophou*) heart inclines him to the right but a fool's heart to the left.
+\v 3 Even when the fool walks on the road he lacks sense and he says to everyone that he is a fool.
+\v 4 If the anger of the ruler rises against you do not leave your place — for calmness will lay great offenses to rest.
+\p
+\v 5 There is an evil that I have seen under the sun as it were an error proceeding from the ruler —
+\v 6 folly is set in many high places and the rich sit in a low place.
+\v 7 I have seen slaves on horses and princes walking on the ground like slaves.
+\p
+\v 8 He who digs a pit will fall into it and a serpent will bite him who breaks through a wall.
+\v 9 He who quarries stones is hurt by them and he who splits logs is endangered by them.
+\v 10 If the iron is blunt and one does not sharpen the edge he must use more strength but wisdom (*sophia*) helps one to succeed.
+\v 11 If the serpent bites before it is charmed there is no advantage to the charmer.
+\p
+\v 12 The words of a wise man's (*sophou*) mouth win him favor but the lips of a fool consume him.
+\v 13 The beginning of the words of his mouth is foolishness and the end of his talk is evil madness.
+\v 14 A fool multiplies words though no man knows what is to be and who can tell him what will be after him?
+\v 15 The toil of a fool wearies him — for he does not know the way to the city.
+\p
+\v 16 Woe to you O land when your king is a child and your princes feast in the morning.
+\v 17 Happy are you O land when your king is the son of the nobility and your princes feast at the proper time for strength and not for drunkenness.
+\v 18 Through sloth the roof sinks in and through idleness of hands the house leaks.
+\v 19 Bread is made for laughter and wine gladdens life (*zōēn*) and money answers everything.
+\v 20 Even in your thoughts do not curse the king nor in your bedroom curse the rich — for a bird of the air will carry your voice or some winged creature will tell the matter.
+
+\c 11
+\p
+\v 1 Cast your bread upon the waters — for you will find it after many days.
+\v 2 Give a portion to seven or even to eight — for you know not what disaster may happen on earth.
+\v 3 If the clouds are full of rain they empty themselves on the earth — and if a tree falls to the south or to the north in the place where the tree falls there it will lie.
+\v 4 He who watches the wind will not sow and he who looks at the clouds will not reap.
+\v 5 As you do not know the way the breath-of-life (*pneuma*) comes to the bones in the womb of a woman with child so you do not know the work of God who makes everything.
+\v 6 In the morning sow your seed and at evening withhold not your hand — for you do not know which will prosper — this or that — or whether both alike will be good.
+\p
+\v 7 Light is sweet and it is pleasant for the eyes to see the sun.
+\v 8 So if a person lives (*zēsē*) many years let him rejoice in them all — but let him remember that the days of darkness will be many — all that comes is vapor (*mataiotēs*).
+\p
+\v 9 Rejoice O young man in your youth and let your heart cheer you in the days of your youth — walk in the ways of your heart and the sight of your eyes — but know that for all these things God will bring you into judgment.
+\v 10 Remove vexation from your heart and put away pain from your body — for youth and the dawn of life (*zōēs*) are vapor (*mataiotēs*).
+
+\c 12
+\p
+\v 1 Remember also your Creator in the days of your youth before the evil days come and the years approach of which you will say: I have no pleasure in them —
+\v 2 before the sun and the light and the moon and the stars are darkened and the clouds return after the rain —
+\v 3 in the day when the keepers of the house tremble and the strong men are bent and the grinders cease because they are few and those who look through the windows are dimmed —
+\v 4 and the doors on the street are shut when the sound of the grinding is low and one rises up at the voice of a bird and all the daughters of song are brought low —
+\v 5 they are afraid also of what is high and terrors are in the way — the almond tree blossoms — the grasshopper drags itself along and desire fails — because man is going to his eternal (*aiōniou*) home and the mourners go about the streets —
+\v 6 before the silver cord is snapped or the golden bowl is broken or the pitcher is shattered at the fountain or the wheel broken at the cistern —
+\v 7 and the dust returns to the earth as it was and the breath-of-life (*pneuma*) returns to God who gave it.
+\p
+\v 8 Vapor of vapors (*mataiotēs mataiotētōn*) — says the Assembler — all is vapor (*mataiotēs*).
+\p
+\v 9 Besides being wise (*sophos*) the Assembler also taught the people knowledge — weighing and studying and arranging many proverbs with care.
+\v 10 The Assembler sought to find words of delight and to write words of truth (*alētheia*) uprightly.
+\v 11 The words of the wise (*sophōn*) are like goads and like nails firmly fixed are the collected sayings — they are given by one Shepherd (*Poimen*).
+\v 12 My son beware of anything beyond these — of making many books there is no end and much study is a weariness of the flesh.
+\p
+\v 13 The end of the matter when all has been heard — fear God and keep his commandments — for this is the whole of man.
+\v 14 For God will bring every work into judgment with every secret thing whether good or evil.
+```
+
+12 chapters / 222 verses complete. Ready for notes.
+
+
+```
+--------
 ```
 \id ECC
 \h Ecclesiastes
