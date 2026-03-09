@@ -516,4 +516,4 @@ The GLE engine rendered the book's radical honesty without softening — the obs
 ---
 
 *GLE v2.1 | Rahlfs-Hanhart LXX base | Ecclesiastes complete*  
-*Next: Song of Songs — on user call*
+
