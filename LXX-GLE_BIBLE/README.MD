@@ -80,11 +80,13 @@ You are free to:
 - Print, publish, sell, or distribute derivative works  
 - Use commercially or non-commercially  
 
-Attribution is appreciated but not required. If publishing a derivative, the recommended note is:  
-“Based on GLE v2.2 (open-use render of Rahlfs-Hanhart LXX + Robinson-Pierpont 2026 NT).”
+# Attribution: If publishing a derivative, the recommended note is:  
+“Based on LXX-GLE v2.2 (open-use render of Rahlfs-Hanhart LXX + Robinson-Pierpont 2026 NT).”
 
-**Final Note**  
+## **Final Note**  
 This project is a foundation. The first base run is complete. Subsequent work will focus on chord-snapping (refining cross-references, final chain verification, and optional parallel editions). The LXX framework remains the guiding interpretive lens across the entire corpus.
+
+## This translation is free to build on, but you can't just swap words, slap your name on it, and lock it behind a paywall or copyright—keep it open.
 
 GLE v2.2 is now live and open.
 
