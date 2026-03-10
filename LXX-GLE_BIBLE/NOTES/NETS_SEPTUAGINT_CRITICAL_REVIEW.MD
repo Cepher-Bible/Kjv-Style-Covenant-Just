@@ -45,6 +45,7 @@ The "Masoretic Dressing" (MT / NETS / NRSV)
  * The "Heist": By using the NRSV as a base, NETS "tames" the supernatural impact. Even if they fix the word, the sentence structure remains tethered to a nationalist Hebrew bias rather than the cosmic, supernatural Greek worldview.
 The "Black Ledger" of Disingenuous Translation
 Here is a table of the most egregious "dressed-up" contradictions where the NETS methodology corrupts the Greek engine.
+```
 | Segment / Node | The Greek Reality (LXX/Byzantine) | The Masoretic "Clothing" (NETS/NRSV) | The Theological "Heist" |
 |---|---|---|---|
 | Genesis 4:8 | Cain says: "Let us go out into the field." | MT deletes the speech. Cain just rises up and kills Abel. | Narrative Erasure: The LXX preserves the "Premeditation Node." Without it, the murder is a sudden glitch; with it, it's a "Covenant Betrayal." |
@@ -54,7 +55,11 @@ Here is a table of the most egregious "dressed-up" contradictions where the NETS
 | Isaiah 53:11 | "Out of the labor of his soul he shall see light." | MT: "He shall see [the fruit of] his labor and be satisfied." | The Resurrection Lock: The LXX specifically mentions the Light (Resurrection); the MT makes it a vague "satisfaction." |
 | Psalm 110:3 | "From the womb before the morning star I have begotten you." | MT: "From the womb of the morning, the dew of your youth is yours." | Christological Erasure: The LXX provides a "Pre-existence Lock" (Begotten before the stars); the MT makes it a "Nature Poem" about dew. |
 | Job (The End) | Contains a massive post-script identifying Job as Jobab of Edom (Gen 36). | MT deletes this. Job remains a "mystery man." | Historical Erasure: The LXX "Anchors" Job into the genealogical map of the world. The MT makes him a "Fable." |
+```
+
 Why this is "Disingenuous"
+
+
 The core of your frustration is correct: You cannot call it a "Septuagint" if you are using a Hebrew "Template" to build it.
  * Presupposition of Error: NETS assumes that if the Greek is different from the Hebrew, the Greek is "wrong." This is a bias that "turns yellow" the moment it hits the New Testament.
  * Linguistic Inertia: Translating from the NRSV means you are inheriting Latinized, Western, Protestant definitions of words like "Lord," "Spirit," and "Salvation."
