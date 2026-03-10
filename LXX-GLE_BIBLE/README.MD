@@ -92,8 +92,11 @@ GLE v2.2 is now live and open.
 ______________
 
 
-# CEPHER HAKAM
-## *The Book of Wisdom*
+# CEPHER HAKAM (Sefer Hakham)
+## *The Book of Wise*
+## *Bíblos toû sophoû*
+## *Βίβλος τοῦ σοφοῦ*
+
 
 ### COMPLETE METHODOLOGY MONOLITH
 **GLE v2.2 | Covenant Anchor Engine | Translation Methodology | Textual Criticism**
