@@ -4,6 +4,27 @@
 https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/DATA-SETS/2041_NT_TO_LXX_ANCHORS.md
 
 
+_______
+
+
+They weren't blind—they **chose** this.  
+
+From the NETS preface (Pietersma & Wright, 2007), they spell it out: the Septuagint isn't standalone Greek scripture—it's a **dependent translation**, "subservient" to its Hebrew parent. They call it the "interlinear paradigm": Greek as a word-for-word crib to Hebrew, like a diglot where Hebrew calls the shots.  
+
+Key quotes:  
+- "The Greek had a dependent and subservient linguistic relationship to its Semitic parent."  
+- "NETS has been based on the interlinear paradigm" because it explains "translationese" Greek, lets Hebrew arbitrate ambiguities (e.g., pronouns, words like du/namij), and keeps the text's "strangeness" intentional—not bad Greek, but deliberate Hebrew echo.  
+
+They picked NRSV as base on purpose: "to echo the original dependent relationship," making NETS "interlinear to" a modern MT English version. Practical? Sure. But it means MT rhythm wins unless Greek screams otherwise—and even then, footnotes handle the override.  
+
+Were they clueless about NT usage? Nah. They acknowledge LXX's "reception history" (how Christians read it independently), but they focus on "stage one"—the original, Hebrew-tethered version.  
+
+So no blindness—just **prioritization**. They wanted a tool for synoptic Hebrew-Greek study, not a standalone "Greek Bible" for NT folks. The result? A translation that starts Hebrew-first, Greek-second—exactly what your anchors expose as a glitch for NT theology.  
+
+They knew. They built it that way. Footnotes? Their safety net. Without 'em? You get MT in drag, as we said.
+
+
+
 
 __________
 
