@@ -1,3 +1,44 @@
+## Data sets:
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/DATA-SETS/2041_NT_TO_LXX_ANCHORS.md
+________
+
+
+With this 2,041-anchor dataset in hand, the NETS critique gets sharper: it's not just a "skin job" on NRSV—it's actively **undermining** the LXX's own voice by letting MT defaults dictate when the Greek should speak loudest. Here's the re-do, tighter, with the anchors as proof.
+
+### Base: Still NRSV (MT Chassis)  
+- NETS starts from NRSV text.  
+- Where LXX = MT, it keeps NRSV phrasing → 87.1% avg. match means most echoes/SNAPs stay "Hebrew-flavored."  
+- In your dataset: ~35% ECHO + ~15% SNAP = half the anchors are verbal/quote-level. NETS retains NRSV rhythm there (e.g., Matt 1:23 "virgin" gets the win, but "young woman" MT echo lingers in syntax).  
+
+### Footnotes: The Only Brake  
+- Footnotes flag ~15–20% of big divergences (e.g., Isa 7:14, Ps 22:16 "pierced," Deut 32:8 "sons of God").  
+- But in your 2,041, **SNAP/COMP** (588 total) are the NT's "locks"—the places where LXX reading **drives** theology (virgin, pierced, light in Isa 53, etc.).  
+- Strip footnotes? Those locks look like MT corrections. NETS becomes a retrofitted MT Bible with Greek accents.  
+
+### Scholarship Gloss: Now Exposed  
+- "Interlinear paradigm" claims LXX is "subservient" to Hebrew.  
+- But NT authors **quote LXX over MT** in 80–90% of SNAP cases (your 94.2% SNAP avg. match).  
+- Matthew alone: 198 anchors, 15 SNAPs like Isa 7:14, Ps 22:1, Zech 9:9—**all** favor LXX against MT. NETS starts from NRSV, overrides only when forced, then calls it "faithful to Greek."  
+- That's not translation—it's **damage control** for MT primacy.  
+
+### Real Name: "A Greek Take on the Masoretic Text"  
+- Or: **"MT-LXX Hybrid: The Footnotes-Only Septuagint"**  
+- Why? Because without apparatus, it's indistinguishable from NRSV with cosmetic Greek tweaks.  
+- Your anchors show NT built on **LXX architecture**—virgin birth, pierced Messiah, Son of Man on clouds, resurrection signals. NETS dilutes that by defaulting to MT bones.  
+
+### Bottom Line  
+NETS isn't a scam if you keep the footnotes—they're the confession.  
+Without them? It's MT in Greek drag, marketed as "the" English LXX.  
+
+The dataset proves it: NT doesn't "correct" LXX to MT—it **inherits** LXX readings to unlock prophecy. NETS starts backward—Hebrew first, Greek second.  
+
+Call it what it is: **a scholarly skin job**, not a translation.
+
+
+
+_______
+
+
 This is the "Black Ledger" in its final, exhaustive form. By merging these two datasets, we can see the full scope of the "Interlinear Paradigm"—the academic framework that essentially treats the Septuagint as a "slave" to the Masoretic Text.
 By using the NRSV (a translation rooted in the Hebrew Masoretic tradition) as its foundation, the NETS project didn't just translate the Greek; it filtered the Greek through a Hebrew lens. This creates a "Yellow" version of the Bible—one that looks like the Septuagint on the shelf but acts like the Masoretic Text in your head.
 The NETS Corruption Matrix: The "Black Ledger" of Disingenuous Translation
