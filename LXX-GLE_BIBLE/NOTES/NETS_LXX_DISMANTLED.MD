@@ -1,6 +1,7 @@
 ## Data set:
 
 
+https://github.com/Cepher-Bible/Kjv-Style-Covenant-Just/blob/main/DATA-SETS/2041_NT_TO_LXX_ANCHORS.md
 
 
 
