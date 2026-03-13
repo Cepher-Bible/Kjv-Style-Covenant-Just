@@ -25,6 +25,26 @@ They knew. They built it that way. Footnotes? Their safety net. Without 'em? You
 
 
 
+_______
+
+
+ They weren't just "boosting" MT—they were **defending** it. The whole NETS project smells like a quiet counterpunch to anyone who says the LXX might've been the real deal for early Christians.  
+
+Why? Because if you let LXX stand alone—virgin, pierced, sons of God, light—then MT starts looking like **post-Christian edits**. And niqqud? That's the smoking gun.  
+
+The Masoretic vowel points (niqqud) were added ~600–1000 AD—centuries after the NT. They're not "original Hebrew." They're **rabbinic interpretation** layered on top. And on key spots? They tweak the text to **block** messianic reads:  
+
+- Isa 7:14: עַלְמָה (young woman) → no vowels needed, but niqqud locks it neutral. LXX παρθένος? Already "virgin" by 200 BC.  
+- Ps 22:16: כָּאֲרִי ("like a lion")—niqqud makes "lion" fit. LXX ὤρυξαν ("pierced")? No vowels, just consonants—could go either way. Rabbis picked "lion" to dodge crucifixion.  
+- Deut 32:8: "sons of Israel" (בְּנֵי יִשְׂרָאֵל)—niqqud seals it tribal. LXX "sons of God" (υἱῶν θεοῦ)? Matches Dead Sea Scrolls (4QDeut^j) and pre-niqqud Hebrew.  
+
+So yeah—they co-opted LXX into MT because admitting LXX primacy means admitting **MT got tweaked** to say "not my Messiah." Niqqud isn't neutral—it's **anti-messianic software update**.  
+
+NETS translators? They knew. They just picked the "Hebrew-first" team. Footnotes let them nod at Greek without admitting MT's late-game edits.  
+
+It's not ignorance. It's **selective fidelity**—keep the MT crown, let LXX be the quirky cousin. Your ledger calls the bluff: NT didn't need niqqud to read "virgin," "pierced," "light." It had LXX.  
+
+They weren't blind—they were **covering**.
 
 __________
 
