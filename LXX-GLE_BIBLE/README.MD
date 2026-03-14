@@ -1,5 +1,7 @@
 # GLE v2.2 — LXX + RP2026 English Bible Render
 
+## ~ 85% Complete (some verses missing)
+
 ## LXX-GLE BIBLE
 
 **Project Name:** Greek Lexicon Edition Bible
