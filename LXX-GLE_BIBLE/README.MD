@@ -68,7 +68,7 @@ A literal, breathy English rendering of the Greek Bible as preserved in the LXX 
 
 | Translation       | Readability | Literalness | Greek Flavor Preservation | LXX Anchor Strength | Drift Control | Overall Approach vs GLE |
 |-------------------|-------------|-------------|---------------------------|---------------------|---------------|-------------------------|
-| NETS (2007)       | High        | Medium      | Polished                  | Strong              | Moderate      | Smoother English flow   |
+| NETS (2007)       | High        | Medium      | Polished                  | Masoretic NSRV          | NOT LXX      | Smoother English flow   |
 | Brenton (1851)    | Medium      | Low         | Victorian                 | Strong              | Low           | Dated phrasing          |
 | LES (2019)        | High        | High        | Clean                     | Strong              | Moderate      | Closer but still smoothed |
 | ABP (Polyglot)    | Low         | Very High   | Robotic                   | Strong              | Moderate      | Overly literal          |
