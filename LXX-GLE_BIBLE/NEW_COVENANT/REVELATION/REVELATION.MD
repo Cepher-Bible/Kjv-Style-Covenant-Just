@@ -282,7 +282,7 @@
 \v 13 It performs great signs even making fire come down from heaven to earth in front of people —
 \v 14 and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth — telling them to make an image for the beast that was wounded by the sword and yet lived.
 \v 15 And it was allowed to give breath (*pneuma*) to the image of the beast — so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
-\v 16 Also it causes all — both small and great — both rich and poor — both free and slave — to be marked on the right hand or the forehead —
+\v 16 Also it causes all — both small and great — both rich and poor — both free and slave — to be marked in the right hand or in the forehead —
 \v 17 so that no one can buy or sell unless he has the mark — that is the name of the beast or the number of its name.
 \v 18 This calls for wisdom (*sophian*): let the one who has understanding calculate the number of the beast — for it is the number of a man — and his number is 666.
 
